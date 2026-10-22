@@ -5,7 +5,7 @@
  * dus een cache-eerst-aanpak zou hem oude berichten laten zien; andersom is het
  * hooguit een seconde wachten en heb je altijd het nieuwste.
  */
-const VERSIE = 'dedag-1';
+const VERSIE = 'dedag-2';
 const BESTANDEN = ['./', './index.html', './manifest.webmanifest',
                    './icoon-180.png', './icoon-192.png', './icoon-512.png'];
 
