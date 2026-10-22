@@ -423,22 +423,6 @@
      "bron": "Scientias",
      "tijd": "11:02",
      "link": "https://scientias.nl/paddenstoel-is-maar-het-topje-dit-gebeurt-er-onder-de-bosgrond/"
-    },
-    {
-     "titel": "Extractive industries threaten global goal to protect 30% of nature by 2030, report finds",
-     "toelichting": "A new report by Earth Insight finds more than 61.5 million hectares (151.9 million acres) of protected and conserved areas — an area roughly 2.5 times the size of the United Kingdom — overlap with ongoing and planned oil",
-     "bron": "Mongabay (Engels)",
-     "tijd": "21:50",
-     "link": "https://news.mongabay.com/2026/10/extractive-industries-threaten-global-goal-to-protect-30-of-nature-by-2030-report-finds/",
-     "sorteer": "2026-10-21T19:50:55+00:00"
-    },
-    {
-     "titel": "Nature has a new Noah’s Ark moment at the biodiversity summit (commentary)",
-     "toelichting": "Delegates from most of the world’s governments are assembling this week in Yerevan, Armenia for the latest summit of the Convention on Biological Diversity (CBD COP17), whose aim is to prevent the extinction of our fello",
-     "bron": "Mongabay (Engels)",
-     "tijd": "21:21",
-     "link": "https://news.mongabay.com/2026/10/nature-has-a-new-noahs-ark-moment-at-the-biodiversity-summit-commentary/",
-     "sorteer": "2026-10-21T19:21:07+00:00"
     }
    ]
   },
@@ -480,9 +464,9 @@
  ],
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:26",
+  "opgehaald": "10:27",
   "blokken": 6,
-  "berichten": 45,
+  "berichten": 43,
   "problemen": []
  }
 }
