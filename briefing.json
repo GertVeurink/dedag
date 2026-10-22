@@ -285,6 +285,14 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering"
     },
     {
+     "titel": "Het bericht dat bewoners van verzorgingshuis Tamarinde in de kou zitten met dikke luiers en vet haar",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "15-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51570",
+     "sorteer": "2026-10-22T10:08:24.467+02:00"
+    },
+    {
      "titel": "Het bericht 'Migratie is de dominante factor op de woningmarkt' op WNL op 12 oktober 2026",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
@@ -299,14 +307,6 @@
      "tijd": "14-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51262",
      "sorteer": "2026-10-21T12:37:26.017+02:00"
-    },
-    {
-     "titel": "Ambulancezorg in en tussen grensregio’s",
-     "bron": "Kamervraag",
-     "kop": "Kamervragen",
-     "tijd": "21-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D52414",
-     "sorteer": "2026-10-21T12:28:20.06+02:00"
     },
     {
      "titel": "Monitoring Integraal Zorgakkoord (IZA) en Aanvullend Zorg- en Welzijnsakkoord (AZWA): 2-meting en vooruitblik",
@@ -472,7 +472,7 @@
     "station": "Heino",
     "bericht": "Beginnen we vanochtend in het binnenland met zonnige perioden, al snel neemt de bewolking toe en gaat het af en toe regenen. Groot zijn de hoeveelheden niet. Het wordt vandaag tussen 12 en 14 graden.Vanochtend zijn er eerst nog zonnige perioden, maar al snel neemt de bewolking vanuit het zuidwesten toe en volgt opnieuw af en toe regen.",
     "vandaag": "Beginnen we vanochtend in het binnenland met zonnige perioden, al snel neemt de bewolking toe en gaat het af en toe regenen. Het wordt vandaag tussen 12 en 14 graden.",
-    "temperatuur": "De zuidelijke tot zuidwestelijke wind is aan zee af en toe hard, mogelijk even stormachtig met aan de kust zware windstoten en het is tegen de middag tussen 8 en 12 graden.",
+    "temperatuur": "De overal naar zuidwest tot west draaiende wind neemt geleidelijk af en het wordt 12 tot 14 graden.",
     "zwolle": {
      "zin": "Voor Zwolle zelf: motregen, 7 tot 12 graden, 96% kans op neerslag, ruim 3 uur zon, wind uit het zuiden, kracht 5.",
      "max": 12,
@@ -498,7 +498,7 @@
  ],
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:05",
+  "opgehaald": "10:14",
   "blokken": 6,
   "berichten": 47,
   "problemen": []
