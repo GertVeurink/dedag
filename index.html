@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>De Dag — nieuws, Zwolle en het weer</title>
+<meta name="description" content="Een rustige ochtendbriefing: wereld, Nederland, Zwolle, de Tweede Kamer, natuur en het weer.">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2d6b2d">
+<link rel="apple-touch-icon" href="icoon-180.png">
+<style>
+  /* Dezelfde kleurenfamilie als Dagstart, maar een eigen, veel kleinere app:
+     geen tabbladen, geen taken, alleen lezen. En één maat groter dan gewoon —
+     dit wordt op een telefoon gelezen door iemand van in de tachtig. */
+  :root {
+    --bg: #f2ede1;
+    --panel: #fbf9f3;
+    --panel-2: #f6f2e7;
+    --ink: #1a1a1a;
+    --ink-2: #5a5a52;
+    --ink-3: #85857a;
+    --line: #ddd7c6;
+    --accent: #2d6b2d;
+    --accent-zacht: #e6efe2;
+    --radius: 14px;
+    --serif: Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #161a15; --panel: #1e241c; --panel-2: #252b22;
+      --ink: #eef0e8; --ink-2: #b4b8a6; --ink-3: #888b7c;
+      --line: #323a2f; --accent: #7fb069; --accent-zacht: #24301f;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #161a15; --panel: #1e241c; --panel-2: #252b22;
+    --ink: #eef0e8; --ink-2: #b4b8a6; --ink-3: #888b7c;
+    --line: #323a2f; --accent: #7fb069; --accent-zacht: #24301f;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+  header {
+    padding: 22px 16px 14px; border-bottom: 1px solid var(--line);
+    background: var(--panel);
+  }
+  h1 { font: 600 28px/1.2 var(--serif); margin: 0; }
+  .datum { color: var(--ink-2); margin-top: 4px; font-size: 15px; }
+  main { padding: 16px; max-width: 760px; margin: 0 auto; }
+
+  .blok {
+    background: var(--panel); border: 1px solid var(--line);
+    border-left: 5px solid var(--accent);
+    border-radius: var(--radius); margin: 0 0 16px; overflow: hidden;
+  }
+  .blok > h2 {
+    font: 600 21px/1.3 var(--serif); margin: 0; padding: 14px 16px 10px;
+  }
+  .items { border-top: 1px solid var(--line); }
+  .item { padding: 12px 16px; border-bottom: 1px solid var(--line); }
+  .item:last-child { border-bottom: 0; }
+  .item a { color: var(--ink); text-decoration: none; font-weight: 500; }
+  .item a:hover { text-decoration: underline; }
+  .meta { color: var(--ink-3); font-size: 14px; margin-top: 3px; }
+  .toel { color: var(--ink-2); font-size: 15px; margin-top: 6px; }
+
+  /* Kopjes binnen een blok, zoals Stemmingen en Kamervragen. */
+  .kop {
+    background: var(--panel-2); padding: 8px 16px; font-size: 14px;
+    font-weight: 600; color: var(--ink-2); border-bottom: 1px solid var(--line);
+    letter-spacing: .02em;
+  }
+
+  .weer { padding: 14px 16px; }
+  .weer .groot { font: 600 19px/1.4 var(--serif); }
+  .weer p { margin: 8px 0 0; }
+  .weer .hier {
+    margin-top: 10px; padding: 10px 12px; background: var(--accent-zacht);
+    border-radius: 10px; font-weight: 500;
+  }
+
+  footer {
+    padding: 16px; color: var(--ink-3); font-size: 13px; text-align: center;
+  }
+  .storing { color: #a33; }
+  @media (prefers-color-scheme: dark) { .storing { color: #e88; } }
+</style>
+</head>
+<body>
+
+<header>
+  <h1 id="titel">De Dag</h1>
+  <div class="datum" id="datum">bezig met laden…</div>
+</header>
+
+<main id="inhoud"></main>
+<footer id="voet"></footer>
+
+<script>
+/* De gegevens staan naast dit bestand. Dat is het hele verschil met Dagstart:
+   daar staan app en gegevens op twee plekken (Netlify en GitHub), hier op één.
+   Dat kan omdat deze app op GitHub Pages staat, waar publiceren gratis is en
+   niet in credits wordt afgerekend. */
+const BRON = 'briefing.json';
+
+const MAANDEN = ['januari','februari','maart','april','mei','juni','juli',
+                 'augustus','september','oktober','november','december'];
+const DAGEN = ['zondag','maandag','dinsdag','woensdag','donderdag','vrijdag','zaterdag'];
+
+function el(tag, klasse, tekst) {
+  const e = document.createElement(tag);
+  if (klasse) e.className = klasse;
+  if (tekst !== undefined) e.textContent = tekst;
+  return e;
+}
+
+function langeDatum(iso) {
+  const d = new Date(iso + 'T12:00:00');
+  return DAGEN[d.getDay()] + ' ' + d.getDate() + ' ' + MAANDEN[d.getMonth()];
+}
+
+function tekenWeer(blok) {
+  const vak = el('div', 'weer');
+  const w = blok.weer || {};
+  if (w.vandaag || w.bericht) {
+    vak.appendChild(el('div', 'groot', w.vandaag || w.bericht));
+  }
+  if (w.temperatuur) vak.appendChild(el('p', '', w.temperatuur));
+  if (w.zwolle && w.zwolle.zin) vak.appendChild(el('div', 'hier', w.zwolle.zin));
+  if (w.omslag) vak.appendChild(el('p', '', w.omslag));
+  if (w.vooruit) vak.appendChild(el('p', 'toel', w.vooruit));
+  return vak;
+}
+
+function tekenItems(items) {
+  const lijst = el('div', 'items');
+  let vorigeKop = null;
+  for (const i of items) {
+    if (i.kop && i.kop !== vorigeKop) {
+      lijst.appendChild(el('div', 'kop', i.kop));
+      vorigeKop = i.kop;
+    } else if (!i.kop) {
+      vorigeKop = null;
+    }
+    const rij = el('div', 'item');
+    const a = el('a', '', i.titel);
+    a.href = i.link || '#';
+    a.target = '_blank';
+    a.rel = 'noopener';
+    rij.appendChild(a);
+    const stukjes = [i.bron, i.tijd].filter(Boolean);
+    if (stukjes.length) rij.appendChild(el('div', 'meta', stukjes.join(' · ')));
+    if (i.toelichting) rij.appendChild(el('div', 'toel', i.toelichting));
+    lijst.appendChild(rij);
+  }
+  return lijst;
+}
+
+function teken(d) {
+  document.getElementById('titel').textContent = d.naam || 'De Dag';
+  document.getElementById('datum').textContent = langeDatum(d.datum);
+  const doel = document.getElementById('inhoud');
+  doel.textContent = '';
+
+  for (const blok of d.blokken || []) {
+    const kaart = el('div', 'blok');
+    kaart.appendChild(el('h2', '', (blok.emoji ? blok.emoji + ' ' : '') + blok.titel));
+    if (blok.weer) kaart.appendChild(tekenWeer(blok));
+    if ((blok.items || []).length) kaart.appendChild(tekenItems(blok.items));
+    doel.appendChild(kaart);
+  }
+
+  const st = d.status || {};
+  const voet = document.getElementById('voet');
+  voet.textContent = 'Opgehaald om ' + (st.opgehaald || '?') + ' · '
+    + (st.berichten || 0) + ' berichten';
+  if ((st.problemen || []).length) {
+    const p = el('div', 'storing',
+      st.problemen.length + ' bron' + (st.problemen.length > 1 ? 'nen' : '')
+      + ' deden het niet: ' + st.problemen.join('; '));
+    voet.appendChild(p);
+  }
+}
+
+/* Netwerk eerst, en anders wat er bewaard is. Zo lees je hem ook in de trein,
+   en zie je aan de tijd onderaan hoe oud hij is. */
+fetch(BRON, { cache: 'no-store' })
+  .then(a => a.json())
+  .then(d => { teken(d); try { localStorage.setItem('dedag', JSON.stringify(d)); } catch (e) {} })
+  .catch(() => {
+    try {
+      const bewaard = localStorage.getItem('dedag');
+      if (bewaard) { teken(JSON.parse(bewaard)); return; }
+    } catch (e) {}
+    document.getElementById('datum').textContent =
+      'Geen verbinding, en er is nog niets bewaard.';
+  });
+
+if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+}
+</script>
+</body>
+</html>
