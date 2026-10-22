@@ -1,0 +1,506 @@
+{
+ "naam": "Ochtendbriefing",
+ "datum": "2026-10-22",
+ "blokken": [
+  {
+   "id": "internationaal",
+   "titel": "Internationaal",
+   "emoji": "🌍",
+   "items": [
+    {
+     "titel": "Docent over aanslag school VS: 'Voor ik de deur kon sluiten, was hij er al'",
+     "context": "Een lerares die zwaargewond raakte toen een 16-jarige schutter een week geleden het vuur opende op een Amerikaanse basisschool, zegt dat ze totaal geen tijd had om haar leerlingen te redden. \"Ik draaide me nog om om de deur te sluiten, maar hij was er al. Voordat ik iets kon doen, schoot hij me van dichtbij neer.\" De 54-jarige Becky Drury werd meerdere keren geraakt door de schutter. Een 25-jarige",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636183",
+     "bron": "NOS",
+     "tijd": "09:54",
+     "sorteer": "2026-10-22T09:54:01+02:00"
+    },
+    {
+     "titel": "New Mexico spant rechtszaak aan tegen Epsteins advocaat en accountant",
+     "context": "De Amerikaanse staat New Mexico spant een rechtszaak aan tegen de advocaat en accountant van zedendelinquent Jeffrey Epstein. Aanklager Raúl Torrez stelt dat zij het misbruik van meisjes door de zakenman mogelijk moeten hebben gemaakt en daarom niet van zijn erfenis zouden mogen profiteren. \"Jeffrey Epstein opereerde niet alleen en zijn dood mag niet betekenen dat de mensen die zijn misdaden mogel",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636176",
+     "bron": "NOS",
+     "tijd": "08:49",
+     "sorteer": "2026-10-22T08:49:18+02:00"
+    },
+    {
+     "titel": "Toenadering beloofd, maar aanvallen Rusland en Oekraïne gaan gewoon door",
+     "context": "Bij Russische aanvallen op Oekraïne zijn vannacht een dode en meerdere gewonden gevallen. Het geweld blijft dus aanhouden ondanks Russische toezeggingen onderhandelingen te overwegen. In de hoofdstad Kyiv ging het luchtalarm gistermiddag al af terwijl in Moskou nog naar buiten moest komen wat de Amerikaanse gezant Steve Witkoff die dag had besproken met het Kremlin. Ook vannacht gingen de aanvalle",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636170",
+     "bron": "NOS",
+     "tijd": "07:33",
+     "sorteer": "2026-10-22T07:33:28+02:00"
+    },
+    {
+     "titel": "Stemmen uit omsingeld Taiz in Jemen: 'Onze stad hapt naar adem'",
+     "context": "De Jemenitische stad Taiz is volledig omsingeld door Houthi-rebellen. Alle aanvoerwegen zijn afgesloten, mensen en goederen kunnen de stad niet in of uit. De derde stad van het land is door de strategische ligging al jaren een troef voor de strijdende partijen. Ook nu weer is dit een belangrijk front in de recent opgelaaide oorlog tussen de Houthi's en het regeringsleger van Jemen. De Verenigde Na",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636166",
+     "bron": "NOS",
+     "tijd": "06:56",
+     "sorteer": "2026-10-22T06:56:10+02:00"
+    },
+    {
+     "titel": "Wekdienst 22/10: Presentatie parcours Tour de France • Russische diesel naar VS",
+     "context": "Goedemorgen! De eerste lading Russische diesel gaat op weg naar de VS en een hoop Nederlandse clubs spelen vanavond Europees voetbal. Eerst het weer: in de ochtend is er veel bewolking en regen, en waait het flink vanuit het zuidwesten. In de middag gaat de wind liggen en wordt het zonniger. Het wordt 11 tot 14 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamhed",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636165",
+     "bron": "NOS",
+     "tijd": "06:47",
+     "sorteer": "2026-10-22T06:47:20+02:00"
+    },
+    {
+     "titel": "Twee doden na aanval op Saoedisch vliegveld",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/twee-doden-na-aanval-op-saoedisch-vliegveld~b2d71a17/",
+     "bron": "de Volkskrant",
+     "tijd": "09:50",
+     "sorteer": "2026-10-22T07:50:00+00:00"
+    },
+    {
+     "titel": "Nieuwe samenwerking met Navo moet Oekraïne sneller en makkelijker toegang geven tot militair materieel",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/buitenland/nieuwe-samenwerking-met-navo-moet-oekraine-sneller-en-makkelijker-toegang-geven-tot-militair-materieel~bc9888fd/",
+     "bron": "de Volkskrant",
+     "tijd": "08:41",
+     "sorteer": "2026-10-22T06:41:00+00:00"
+    },
+    {
+     "titel": "VS-gezant Witkoff ontmoet woensdag Poetin in Moskou",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-kyiv-bestookt-na-bespreking-witkoff-en-poetin-over-vrede~ba2815bb/",
+     "bron": "Trouw",
+     "tijd": "05:30",
+     "sorteer": "2026-10-22T03:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "nationaal",
+   "titel": "Nederland",
+   "emoji": "🇳🇱",
+   "items": [
+    {
+     "titel": "Politie haalt webshops met gevaarlijke neppillen offline, link met drie doden",
+     "context": "De politie heeft dertig websites offline gehaald waar illegale medicijnen en drugs werden verkocht. Drie verdachten die achter deze sites zouden zitten, zijn deze week opgepakt. De politie houdt hen ook verantwoordelijk voor de webshop Slaappillen.net en koppelt hun sites aan zeker drie sterfgevallen. De politie vermoedt dat de verdachten gewoon doorgingen met de verkoop van bijvoorbeeld kalmering",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636169",
+     "bron": "NOS",
+     "tijd": "07:30",
+     "sorteer": "2026-10-22T07:30:01+02:00"
+    },
+    {
+     "titel": "Wekdienst 22/10: Presentatie parcours Tour de France • Russische diesel naar VS",
+     "context": "Goedemorgen! De eerste lading Russische diesel gaat op weg naar de VS en een hoop Nederlandse clubs spelen vanavond Europees voetbal. Eerst het weer: in de ochtend is er veel bewolking en regen, en waait het flink vanuit het zuidwesten. In de middag gaat de wind liggen en wordt het zonniger. Het wordt 11 tot 14 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamhed",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636165",
+     "bron": "NOS",
+     "tijd": "06:47",
+     "sorteer": "2026-10-22T06:47:20+02:00"
+    },
+    {
+     "titel": "Nog altijd websites niet bereikbaar na lek, ook internationaal nog problemen",
+     "context": "Er zijn nog altijd websites onbereikbaar nadat die uit voorzorg offline zijn gehaald. Dat gebeurde na een lek in de programmeertaal PHP. Zo is de website overheid.nl nog niet bereikbaar, evenals de site van Meld Misdaad Anoniem. De sites van 113 en Centrum Seksueel Geweld waren nog tot laat offline, maar die werden in de loop van de nacht weer bereikbaar. Een woordvoerder van het ministerie van Bi",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636149",
+     "bron": "NOS",
+     "tijd": "22:54",
+     "sorteer": "2026-10-21T22:54:10+02:00"
+    },
+    {
+     "titel": "Iconische Apekop-trein rijdt (nu echt) laatste reizigersdienst",
+     "context": "Jarenlang stond de Mat '64, ook wel Apekop genoemd, symbool voor de trein in Nederland. Vandaag reed de iconische trein voor het laatst een reguliere reizigersdienst. Eigenlijk had de trein in 2016 al afscheid genomen van het spoor. Toen haalde de NS de laatste treinstellen uit de dienstregeling. Vorig jaar keerde de Apekop onverwachts terug op het traject tussen Amersfoort en Ede-Barneveld Zuid. ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636139",
+     "bron": "NOS",
+     "tijd": "22:19",
+     "sorteer": "2026-10-21T22:19:51+02:00"
+    },
+    {
+     "titel": "Vrouw bevalt van kind in rijdende trein in stad Groningen",
+     "context": "In een trein in de stad Groningen is vanmorgen een vrouw van een kind bevallen. Het Dagblad van het Noorden sprak een getuige die rond 08.00 uur op station Groningen Europapark instapte. De trein was nog maar nauwelijks vertrokken of de getuige hoorde een vrouw kermen. \"Toen twee oerschreeuwen en een soort 'klonk', het geluid van een tas met twee flessen die valt\", citeert de krant haar. \"Iemand s",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636126",
+     "bron": "NOS",
+     "tijd": "19:46",
+     "sorteer": "2026-10-21T19:46:58+02:00"
+    },
+    {
+     "titel": "Aantal belangrijke websites nog altijd offline",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/aantal-belangrijke-websites-nog-altijd-offline~b8a449e9/",
+     "bron": "de Volkskrant",
+     "tijd": "06:20",
+     "sorteer": "2026-10-22T04:20:00+00:00"
+    },
+    {
+     "titel": "Student Hussein Issa werd als terrorist neergezet en geschorst: ‘Zijn ze gek geworden? Ik heb niks gedaan’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/student-hussein-issa-werd-als-terrorist-neergezet-en-geschorst-zijn-ze-gek-geworden-ik-heb-niks-gedaan~b762176a/",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "sorteer": "2026-10-22T03:00:00+00:00"
+    },
+    {
+     "titel": "Milieuorganisaties stappen naar rechter om nieuw besluit Schiphol",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/binnenland/milieuorganisaties-stappen-naar-rechter-om-nieuw-besluit-schiphol~b810f77a/",
+     "bron": "Trouw",
+     "tijd": "06:21",
+     "sorteer": "2026-10-22T04:21:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": "lokaal",
+   "titel": "Zwolle en omgeving",
+   "emoji": "📍",
+   "items": [
+    {
+     "titel": "Hangende pop aan lantaarnpaal laat alarmbellen afgaan in Zwolle",
+     "context": "Een opmerkelijk incident in Zwolle woensdagavond. Daar rukte de politie massaal uit naar een rotonde. Daar hing namelijk iets opmerkelijks aan een lantaarnpaal.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/hangende-pop-aan-lantaarnpaal-laat-alarmbellen-afgaan-in-zwolle~ad29c7d6/",
+     "bron": "de Stentor",
+     "tijd": "09:59",
+     "sorteer": "2026-10-22T07:59:22+00:00"
+    },
+    {
+     "titel": "Je kunt dwars over het oude terrein van de IJsselhallen rijden (en daar is niks illegaals aan)",
+     "context": "‘Let op: bouwterrein’, staat op een geel bord. Maar nee, je rijdt niet illegaal door een bouwgebied, maar kunt gewoon rijden over het oude terrein van de IJsselhallen. En dat is best bijzonder, op de plek waar een paar jaar geleden nog de IJsselhallen stonden.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/je-kunt-dwars-over-het-oude-terrein-van-de-ijsselhallen-rijden-en-daar-is-niks-illegaals-aan~a3eb6fef/",
+     "bron": "de Stentor",
+     "tijd": "07:30",
+     "sorteer": "2026-10-22T05:30:50+00:00"
+    },
+    {
+     "titel": "Zwolle vreest een verkeersinfarct en trekt tientallen miljoenen uit: zo verandert de stadsring",
+     "context": "Zwolle investeert de komende jaren tientallen miljoenen euro’s om wegen te verbeteren. De stadsring gaat op meerdere plekken op de schop. Niets doen is geen optie, zegt wethouder Johran Willegers in een interview met de Stentor . Anders loopt het verkeer nog meer vast.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/zwolle-vreest-een-verkeersinfarct-en-trekt-tientallen-miljoenen-uit-zo-verandert-de-stadsring~ae079393/",
+     "bron": "de Stentor",
+     "tijd": "06:00",
+     "sorteer": "2026-10-22T04:00:00+00:00"
+    },
+    {
+     "titel": "Zwaar bewolkt met wat lichte regen in Zwolle in de ochtend",
+     "context": "De bewolking voert de boventoon in Zwolle en als je erop uit gaat, kan een paraplu handig zijn: nu en dan (mot)regent het. De temperatuur ligt rond de 12 graden. De zuidwestelijke wind is matig.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/weer-zwolle~ad68270e/",
+     "bron": "de Stentor",
+     "tijd": "02:04",
+     "sorteer": "2026-10-22T00:04:00+00:00"
+    },
+    {
+     "titel": "Nacht van de Nacht: allerlei activiteiten in het donker verspreid door Overijssel",
+     "context": "In Overijssel gaat zaterdag 24 oktober het licht uit en komt de nacht tot leven. Tijdens de Nacht van de Nacht worden op allerlei plekken in de provincie activiteiten georganiseerd om stil te staan bij het belang van duisternis voor mens en natuur. Een greep uit de activiteiten in de regio.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/deventer/nacht-van-de-nacht-allerlei-activiteiten-in-het-donker-verspreid-door-overijssel~a7a882b3/",
+     "bron": "de Stentor",
+     "tijd": "19:00",
+     "sorteer": "2026-10-21T17:00:00+00:00"
+    },
+    {
+     "titel": "Centrum Zwolle wordt verboden terrein voor showrijders",
+     "context": "Ze zijn horecaondernemers en terrasgangers een doorn in het oog: auto’s die rondjes door het centrum van Zwolle rijden om de blits te maken. Vanaf ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/213308/213308.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "09:27",
+     "sorteer": "2026-10-22T07:27:19+00:00"
+    },
+    {
+     "titel": "Websites gemeenten Zwolle, Kampen en Zwartewaterland weer online na PHP-lek",
+     "context": "Steeds meer websites die woensdag uit voorzorg offline zijn gehaald vanwege kwetsbaarheden in programmeertaal PHP, zijn weer bereikbaar. Eerder waren onder meer de websites van ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Gemeente",
+      "Hattem",
+      "Zwartewaterland",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/213296/websites-gemeenten-zwolle-kampen-en-zwartewaterland-weer-online-na-php-lek.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "22:17",
+     "sorteer": "2026-10-21T20:17:41+00:00"
+    },
+    {
+     "titel": "Staking in streekvervoer gaat donderdag niet door, gesprekken over cao hervat",
+     "context": "De geplande staking in het streekvervoer van donderdag 22 oktober is van de baan. Vakbonden en werkgevers hervatten de gesprekken over een nieuwe cao. FNV ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Hattem",
+      "Kampen",
+      "Stakingen OV",
+      "Zwartewaterland",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/213249/donderdag-22-oktober-opnieuw-stakingen-in-het-openbaar-vervoer.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "15:30",
+     "sorteer": "2026-10-21T13:30:00+00:00"
+    },
+    {
+     "titel": "Hackers kunnen toeslaan: websites gemeenten en provincie uit voorzorg offline",
+     "context": "Meerdere grote Nederlandse websites zijn woensdag tijdelijk offline gehaald vanwege kwetsbaarheden in de veelgebruikte programmeertaal PHP. Door die kwetsbaarheden kunnen hackers websites overnemen of gegevens ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Hackers",
+      "Hattem",
+      "Kampen",
+      "PHP",
+      "Zwartewaterland",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/213258/hackers-kunnen-toeslaan-websites-gemeenten-en-provincie-uit-voorzorg-offline.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "13:59",
+     "sorteer": "2026-10-21T11:59:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "kamer",
+   "titel": "Tweede Kamer",
+   "emoji": "🏛️",
+   "items": [
+    {
+     "kop": "Reces",
+     "titel": "De Kamer vergadert niet — weer aan de slag op maandag 26 oktober",
+     "bron": "geen stemmingen, debatten of verslagen tot die tijd",
+     "tijd": "",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering"
+    },
+    {
+     "titel": "Het bericht 'Migratie is de dominante factor op de woningmarkt' op WNL op 12 oktober 2026",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "15-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51566",
+     "sorteer": "2026-10-21T13:14:58.017+02:00"
+    },
+    {
+     "titel": "De uitspraak 'Starters kunnen gelukkig bij hun ouders wonen'",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "14-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51262",
+     "sorteer": "2026-10-21T12:37:26.017+02:00"
+    },
+    {
+     "titel": "Ambulancezorg in en tussen grensregio’s",
+     "bron": "Kamervraag",
+     "kop": "Kamervragen",
+     "tijd": "21-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D52414",
+     "sorteer": "2026-10-21T12:28:20.06+02:00"
+    },
+    {
+     "titel": "Monitoring Integraal Zorgakkoord (IZA) en Aanvullend Zorg- en Welzijnsakkoord (AZWA): 2-meting en vooruitblik",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "05-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48513",
+     "sorteer": "2026-10-22T10:03:52.34+02:00"
+    },
+    {
+     "titel": "Rijksbrede Risicoanalyse Nationale Veiligheid 2026",
+     "bron": "Brief van de regering",
+     "kop": "Brieven en moties",
+     "tijd": "16-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51864",
+     "sorteer": "2026-10-22T09:41:58.533+02:00"
+    },
+    {
+     "titel": "Energiesysteem",
+     "bron": "Notaoverleg",
+     "kop": "Komende week",
+     "tijd": "maandag 26/10 10:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05143",
+     "sorteer": "2026-10-26T10:00"
+    },
+    {
+     "titel": "Pakket Belastingplan 2027 (eerste termijn Regering plus tweede termijn Kamer en regering)",
+     "bron": "Wetgevingsoverleg",
+     "kop": "Komende week",
+     "tijd": "maandag 26/10 11:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07563",
+     "sorteer": "2026-10-26T11:00"
+    },
+    {
+     "titel": "Petitieaanbieding door Oxfam Novib tot aanbieding petitie 'Belast de klimaatvervuilers!'",
+     "bron": "Petitie",
+     "kop": "Komende week",
+     "tijd": "dinsdag 27/10 13:45",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07520",
+     "sorteer": "2026-10-27T13:45"
+    },
+    {
+     "titel": "De Haagse Scholen, namens Haagse schoolbesturen en SPO Utrecht, aanbieding petitie m.b.t. herijking van de…",
+     "bron": "Petitie",
+     "kop": "Komende week",
+     "tijd": "dinsdag 27/10 13:45",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07656",
+     "sorteer": "2026-10-27T13:45"
+    },
+    {
+     "titel": "Vaststelling van de begrotingsstaat voor Buitenlandse Handel en Ontwikkelingssamenwerking (XVII) voor het jaar 2027",
+     "bron": "Inbreng feitelijke vragen",
+     "kop": "Komende week",
+     "tijd": "dinsdag 27/10 14:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06557",
+     "sorteer": "2026-10-27T14:00"
+    },
+    {
+     "titel": "Begroting Onderwijs, Cultuur en Wetenschap (37020-VIII) 1e TK",
+     "bron": "Plenair debat (wetgeving)",
+     "kop": "Komende week",
+     "tijd": "dinsdag 27/10 16:30",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05413",
+     "sorteer": "2026-10-27T16:30"
+    },
+    {
+     "titel": "Procedurevergadering commissie Klimaat en Groene Groei",
+     "bron": "Procedurevergadering",
+     "kop": "Komende week",
+     "tijd": "dinsdag 27/10 17:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04783",
+     "sorteer": "2026-10-27T17:00"
+    },
+    {
+     "titel": "IT Defensie",
+     "bron": "Commissiedebat",
+     "kop": "Komende week",
+     "tijd": "dinsdag 27/10 17:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05645",
+     "sorteer": "2026-10-27T17:00"
+    },
+    {
+     "titel": "Aandachtspunten bij de ontwerpbegroting 2027 begrotingshoofdstuk XXIII van Klimaat en Groene Groei door de Algemene…",
+     "bron": "Technische briefing",
+     "kop": "Komende week",
+     "tijd": "dinsdag 27/10 18:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07195",
+     "sorteer": "2026-10-27T18:00"
+    },
+    {
+     "titel": "Over het rapport 'Iedere boer telt' door RVO en Caring Farmers",
+     "bron": "Technische briefing",
+     "kop": "Komende week",
+     "tijd": "woensdag 28/10 10:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04335",
+     "sorteer": "2026-10-28T10:00"
+    }
+   ]
+  },
+  {
+   "id": "natuur",
+   "titel": "Natuur",
+   "emoji": "🌿",
+   "items": [
+    {
+     "titel": "Natuurjournaal 22 oktober 2026",
+     "toelichting": "Overal bladrammenas in bloei en zoek de witte paardenhaartaailing op verkleurd eikenblad.",
+     "bron": "Nature Today",
+     "tijd": "06:45",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35958",
+     "sorteer": "2026-10-22T04:45:00+00:00"
+    },
+    {
+     "titel": "10 miljoen euro voor omvangrijke waterbuffer op de Groote Heide",
+     "toelichting": "Met het herstel van het Groot Huisven ontstaat op de Groote Heide bij Heeze in Noord-Brabant een zoetwaterbuffer van circa 300 miljoen liter. In natte tijden zal het herstelde Huisven water opslaan en in droge tijden wor",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35945",
+     "sorteer": "2026-10-21T10:00:00+00:00"
+    },
+    {
+     "titel": "Al een miljoen kinderen hadden koolwitjes in de klas",
+     "toelichting": "In 1987 begon De Vlinderstichting het project ‘Koolwitjes in de klas’. Scholen kunnen pakketjes met eitjes, rupsen en poppen van het groot koolwitje bestellen. In de klas volgen de kinderen dan de bijzondere gedaanteverw",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35969",
+     "sorteer": "2026-10-22T05:00:00+00:00"
+    },
+    {
+     "titel": "Paddenstoel is maar het topje: dit gebeurt er onder de bosgrond",
+     "toelichting": "Wie dit najaar door het bos wandelt, ziet overal paddenstoelen opduiken. Toch zijn die maar een klein deel van de schimmel. Het grootste deel zit onzichtbaar onder de grond, als een netwerk van draden dat dood materiaal ",
+     "bron": "Scientias",
+     "tijd": "11:02",
+     "link": "https://scientias.nl/paddenstoel-is-maar-het-topje-dit-gebeurt-er-onder-de-bosgrond/"
+    },
+    {
+     "titel": "Extractive industries threaten global goal to protect 30% of nature by 2030, report finds",
+     "toelichting": "A new report by Earth Insight finds more than 61.5 million hectares (151.9 million acres) of protected and conserved areas — an area roughly 2.5 times the size of the United Kingdom — overlap with ongoing and planned oil",
+     "bron": "Mongabay (Engels)",
+     "tijd": "21:50",
+     "link": "https://news.mongabay.com/2026/10/extractive-industries-threaten-global-goal-to-protect-30-of-nature-by-2030-report-finds/",
+     "sorteer": "2026-10-21T19:50:55+00:00"
+    },
+    {
+     "titel": "Nature has a new Noah’s Ark moment at the biodiversity summit (commentary)",
+     "toelichting": "Delegates from most of the world’s governments are assembling this week in Yerevan, Armenia for the latest summit of the Convention on Biological Diversity (CBD COP17), whose aim is to prevent the extinction of our fello",
+     "bron": "Mongabay (Engels)",
+     "tijd": "21:21",
+     "link": "https://news.mongabay.com/2026/10/nature-has-a-new-noahs-ark-moment-at-the-biodiversity-summit-commentary/",
+     "sorteer": "2026-10-21T19:21:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "weer",
+   "titel": "Weer in Zwolle",
+   "emoji": "🌤️",
+   "items": [],
+   "weer": {
+    "nu": 8.9,
+    "gevoel": 6.3,
+    "wind": "Z 3",
+    "station": "Heino",
+    "bericht": "Beginnen we vanochtend in het binnenland met zonnige perioden, al snel neemt de bewolking toe en gaat het af en toe regenen. Groot zijn de hoeveelheden niet. Het wordt vandaag tussen 12 en 14 graden.Vanochtend zijn er eerst nog zonnige perioden, maar al snel neemt de bewolking vanuit het zuidwesten toe en volgt opnieuw af en toe regen.",
+    "vandaag": "Beginnen we vanochtend in het binnenland met zonnige perioden, al snel neemt de bewolking toe en gaat het af en toe regenen. Het wordt vandaag tussen 12 en 14 graden.",
+    "temperatuur": "De zuidelijke tot zuidwestelijke wind is aan zee af en toe hard, mogelijk even stormachtig met aan de kust zware windstoten en het is tegen de middag tussen 8 en 12 graden.",
+    "zwolle": {
+     "zin": "Voor Zwolle zelf: motregen, 7 tot 12 graden, 96% kans op neerslag, ruim 3 uur zon, wind uit het zuiden, kracht 5.",
+     "max": 12,
+     "min": 7,
+     "regenkans": 96,
+     "omschrijving": "motregen"
+    },
+    "vooruit": "Herfstweer met in het weekeinde veel wind en regen. Maandag en dinsdag enige tijd regen en aan de zachte kant. Woensdag perioden met zon en op de meeste plaatsen droog.",
+    "omslag": null,
+    "min": null,
+    "max": null,
+    "regenkans": null,
+    "zonkans": null,
+    "omschrijving": null,
+    "morgen": {
+     "omschrijving": "Zwaar bewolkt en regen",
+     "min": "8",
+     "max": "15",
+     "regenkans": 90
+    }
+   }
+  }
+ ],
+ "status": {
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "10:05",
+  "blokken": 6,
+  "berichten": 47,
+  "problemen": []
+ }
+}
