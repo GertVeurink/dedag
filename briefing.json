@@ -1,5 +1,5 @@
 {
- "naam": "Middagbriefing",
+ "naam": "Avondbriefing",
  "datum": "2026-10-22",
  "blokken": [
   {
@@ -7,6 +7,42 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Zwitserse (69) en Oostenrijkse (76) 1,5 jaar na ontvoering in Niger vrijgelaten",
+     "context": "Twee vrouwen die meer dan anderhalf jaar geleden werden ontvoerd in het West-Afrikaanse land Niger, zijn vrijgelaten. De 76-jarige Oostenrijkse Eva Gretzmacher en de 69-jarige Zwitserse Claudia Abbt werden in januari en april vorig jaar gegijzeld in Agadez, een stad in het midden van het land. Zowel de Oostenrijkse als de Zwitserse regering heeft vandaag de vrijlating bevestigd. Nadat beide vrouwe",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636222",
+     "bron": "NOS",
+     "tijd": "17:13",
+     "sorteer": "2026-10-22T17:13:37+02:00"
+    },
+    {
+     "titel": "Zoon mag Aung San Suu Kyi voor het eerst in vijf jaar spreken",
+     "context": "De opgesloten oud-leider van Myanmar Aung San Suu Kyi heeft voor het eerst in vijf jaar haar zoon telefonisch mogen spreken. Kim Aris schrijft op Facebook dat \"woorden niet kunnen uitdrukken hoeveel het betekent om haar stem weer te horen\". Hij mocht haar bellen op de ambassade van Myanmar in Londen, is te zien op foto's die het regime naar buiten heeft gebracht. \"Ik ben diep dankbaar voor iederee",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636207",
+     "bron": "NOS",
+     "tijd": "13:50",
+     "sorteer": "2026-10-22T13:50:50+02:00"
+    },
+    {
+     "titel": "Macron verbiedt alle niet-vakbondsprotesten, haalt uit naar 'extreemlinkse groeperingen'",
+     "context": "Alle protesten die komende zaterdag niet zijn georganiseerd door vakbonden, worden verboden. Dat zei de Franse president Macron na een uren durend spoedberaad met onder meer de Franse inlichtingendiensten. \"Overal waar mensen demonstreren die daar geen recht op hebben, zal worden ingegrepen\", aldus Macron. \"We willen dat de rust terugkeert.\" Ook gaf hij toe dat er \"tekortkomingen\" waren in de voor",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636201",
+     "bron": "NOS",
+     "tijd": "13:40",
+     "sorteer": "2026-10-22T13:40:58+02:00"
+    },
+    {
+     "titel": "Eerste mens besmet met veeziekte shamondavirus, Franse patiënt overleden",
+     "context": "In Frankrijk is voor het eerst een menselijke besmetting met het shamondavirus vastgesteld. Begin deze maand overleed een patiënt die de veeziekte had opgelopen. Er wordt nog onderzocht of dat ook de doodsoorzaak was; de gezondheid van de patiënt was al verzwakt door een andere aandoening. De Franse autoriteiten spreken van een \"uitzonderlijk geval\" bij een patiënt die al een verzwakt immuunsystee",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636199",
+     "bron": "NOS",
+     "tijd": "13:18",
+     "sorteer": "2026-10-22T13:18:23+02:00"
+    },
     {
      "titel": "Duitse WO II-onderzeeër gevonden die door tikfout verdwenen was",
      "context": "82 jaar nadat hij door een tikfout spoorloos was verdwenen, is een Duitse onderzeeër uit de Tweede Wereldoorlog teruggevonden in Het Kanaal. Duikers uit Plymouth vonden de U-672 32 kilometer uit de kust van Devon, op 70 meter diepte. De onderzeeër raakte in juli 1944 beschadigd door een aanval van het Britse oorlogsschip HMS Balfour. D-day had net een maand eerder plaatsgevonden en Het Kanaal werd",
@@ -17,67 +53,31 @@
      "sorteer": "2026-10-22T12:19:32+02:00"
     },
     {
-     "titel": "Belangrijkste EU-mensenrechtenprijs voor Strafhof, dat onder zware druk van VS staat",
-     "context": "Het Europees Parlement heeft het Internationaal Strafhof (ICC) in Den Haag gekozen als de winnaar van de Sacharovprijs van dit jaar. Het hof staat onder zware druk van de Verenigde Staten . President Trump wil met sancties het hof platleggen. De prijs wordt toegekend aan mensen of organisaties die zich inzetten voor mensenrechten of democratie. De eerste prijs werd uitgereikt in 1988. Eerder vanda",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636194",
-     "bron": "NOS",
-     "tijd": "12:15",
-     "sorteer": "2026-10-22T12:15:42+02:00"
-    },
-    {
-     "titel": "Agent Florida vindt dode man en trekt in zijn huis, gepakt na dure verbouwing",
-     "context": "In de Amerikaanse staat Florida is een 35-jarige politieagent opgepakt nadat hij de identiteit van een dode man had aangenomen. In juli 2022 was de agent in de stad Lauderhill op een melding afgegaan om het welzijn van een persoon te controleren. Bij aankomst bleek dat de 71-jarige Dennis West was overleden. De agent maakte hier melding van, de lijkschouwer constateerde vervolgens dat West een nat",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636189",
-     "bron": "NOS",
-     "tijd": "11:49",
-     "sorteer": "2026-10-22T11:49:00+02:00"
-    },
-    {
-     "titel": "'VS en Israël bereiden nieuwe aanvallen op Iran voor'",
-     "context": "De VS en Israël hebben plannen klaarliggen voor een nieuwe aanval op Iran, die de landen willen uitvoeren na de Amerikaanse tussentijdse verkiezingen. Dat schrijft The New York Times onder meer op basis van gesprekken met Amerikaanse functionarissen. De landen zouden afgelopen tijd hun oefeningen hebben opgevoerd, bijvoorbeeld van luchtaanvallen. Dat doen de landen boven Irak, dat tussen Israël en",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636186",
-     "bron": "NOS",
-     "tijd": "11:19",
-     "sorteer": "2026-10-22T11:19:57+02:00"
-    },
-    {
-     "titel": "Docent over aanslag school VS: 'Voor ik de deur kon sluiten, was hij er al'",
-     "context": "Een lerares die zwaargewond raakte toen een 16-jarige schutter een week geleden het vuur opende op een Amerikaanse basisschool, zegt dat ze totaal geen tijd had om haar leerlingen te redden. \"Ik draaide me nog om om de deur te sluiten, maar hij was er al. Voordat ik iets kon doen, schoot hij me van dichtbij neer.\" De 54-jarige Becky Drury werd meerdere keren geraakt door de schutter. Een 25-jarige",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636183",
-     "bron": "NOS",
-     "tijd": "09:54",
-     "sorteer": "2026-10-22T09:54:01+02:00"
-    },
-    {
-     "titel": "Twee doden na aanval op Saoedisch vliegveld",
+     "titel": "Israëlisch vuur doodt drie mensen in Gaza, zeggen medische autoriteiten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/twee-doden-na-aanval-op-saoedisch-vliegveld~b2d71a17/",
+     "link": "https://www.volkskrant.nl/buitenland/israelisch-vuur-doodt-drie-mensen-in-gaza-zeggen-medische-autoriteiten~b2d71a17/",
      "bron": "de Volkskrant",
-     "tijd": "09:50",
-     "sorteer": "2026-10-22T07:50:00+00:00"
+     "tijd": "17:57",
+     "sorteer": "2026-10-22T15:57:00+00:00"
     },
     {
-     "titel": "Nieuwe samenwerking met Navo moet Oekraïne sneller en makkelijker toegang geven tot militair materieel",
+     "titel": "Accepteert Trump een nederlaag? Midterms zijn ‘enorme test voor democratie’ in VS",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/nieuwe-samenwerking-met-navo-moet-oekraine-sneller-en-makkelijker-toegang-geven-tot-militair-materieel~bc9888fd/",
+     "link": "https://www.volkskrant.nl/buitenland/accepteert-trump-een-nederlaag-midterms-zijn-enorme-test-voor-democratie-in-vs~b2f11c8c4/",
      "bron": "de Volkskrant",
-     "tijd": "08:41",
-     "sorteer": "2026-10-22T06:41:00+00:00"
+     "tijd": "17:31",
+     "sorteer": "2026-10-22T15:31:56+00:00"
     },
     {
-     "titel": "Door snelwegblokkades vrachtwagenchauffeurs dreigt in Zuid-Italië de pastaproductie vast te lopen",
+     "titel": "VS roepen ambassadepersoneel op zo snel mogelijk uit Saudi-Arabië te vertrekken",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/door-snelwegblokkades-vrachtwagenchauffeurs-dreigt-in-zuid-italie-de-pastaproductie-vast-te-lopen~b4ea442f/",
+     "link": "https://www.trouw.nl/buitenland/vs-roepen-ambassadepersoneel-op-zo-snel-mogelijk-uit-saudi-arabie-te-vertrekken~b894b5b3/",
      "bron": "Trouw",
-     "tijd": "12:04",
-     "sorteer": "2026-10-22T10:04:01+00:00"
+     "tijd": "17:17",
+     "sorteer": "2026-10-22T15:17:00+00:00"
     }
    ]
   },
@@ -86,6 +86,24 @@
    "titel": "Nederland",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Podcast De Dag: de kwetsbaarheid van PHP, 'de onderbroek' van het internet",
+     "context": "Van DigiD tot de Franse overheid, en van RTL Nieuws tot Schiphol. Sites van allerlei instanties gingen gisteren een paar uur offline. Er zaten lekken in PHP, een taal om sites te programmeren. Doordat die lekken op straat lagen, waren de sites kwetsbaar voor hackers. En dus was het veiliger om websites even uit de lucht te halen. Wat zegt dit lek over de kwetsbaarheid van ons internet? Luister hie",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636214",
+     "bron": "NOS",
+     "tijd": "15:32",
+     "sorteer": "2026-10-22T15:32:23+02:00"
+    },
+    {
+     "titel": "21/10 in Nieuwsuur: Nieuwe aanvallen op Iran • Slachtoffers femicide • ICC-griffier over sancties VS",
+     "context": "Nieuwe aanvallen op Iran De Verenigde Staten en Israël hebben plannen klaarliggen voor een nieuwe aanval op Iran, die de landen willen uitvoeren na de Amerikaanse tussentijdse verkiezingen. Dat schrijft The New York Times onder meer op basis van gesprekken met Amerikaanse functionarissen. Wat weten we over de geplande aanvallen van de VS, en wat zal de tegenreactie van Iran zijn? Slachtoffers femi",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636208",
+     "bron": "NOS",
+     "tijd": "14:32",
+     "sorteer": "2026-10-22T14:32:28+02:00"
+    },
     {
      "titel": "Jongeren berucht gezinshuis Spanje kunnen juridische stappen zetten tegen staat",
      "context": "Jongeren die trauma's opliepen vanwege misstanden in het gezinshuis 'Huize Soria' in Spanje, hebben een goede basis om juridische stappen te zetten tegen de staat. Dat zeggen deskundigen tegen Nieuwsuur . De gezinsouders zouden mogelijk in Nederland vervolgd kunnen worden. Tientallen oud-cliënten hebben tegenover Nieuwsuur verklaard over extreme straffen die in het gezinshuis zijn toegepast . Jong",
@@ -105,49 +123,40 @@
      "sorteer": "2026-10-22T07:30:01+02:00"
     },
     {
-     "titel": "Nog altijd websites niet bereikbaar na lek, ook internationaal nog problemen",
-     "context": "Er zijn nog altijd websites onbereikbaar nadat die uit voorzorg offline zijn gehaald. Dat gebeurde na een lek in de programmeertaal PHP. Zo is de website overheid.nl nog niet bereikbaar, evenals de site van Meld Misdaad Anoniem. De sites van 113 en Centrum Seksueel Geweld waren nog tot laat offline, maar die werden in de loop van de nacht weer bereikbaar. Een woordvoerder van het ministerie van Bi",
+     "titel": "Kabinetsbelofte over begrenzen studierente onder druk: plan blijkt veel te duur",
+     "context": "Het begrenzen van de rente op studieleningen op maximaal 2,5 procent is risicovol en duur. Dat schrijft minister Letschert van Onderwijs (D66) aan de Tweede Kamer. De minister \"baalt ervan\", maar komt tot de conclusie dat het plan vele malen duurder is dan gedacht. De coalitie had er 40 miljoen voor gereserveerd, maar het wordt minstens vier keer zo duur. Dat zou gevolgen hebben voor de rest van d",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2636149",
-     "bron": "NOS",
-     "tijd": "22:54",
-     "sorteer": "2026-10-21T22:54:10+02:00"
+     "link": "https://nos.nl/l/2636221",
+     "bron": "NOS politiek",
+     "tijd": "16:39",
+     "sorteer": "2026-10-22T16:39:22+02:00"
     },
     {
-     "titel": "Iconische Apekop-trein rijdt (nu echt) laatste reizigersdienst",
-     "context": "Jarenlang stond de Mat '64, ook wel Apekop genoemd, symbool voor de trein in Nederland. Vandaag reed de iconische trein voor het laatst een reguliere reizigersdienst. Eigenlijk had de trein in 2016 al afscheid genomen van het spoor. Toen haalde de NS de laatste treinstellen uit de dienstregeling. Vorig jaar keerde de Apekop onverwachts terug op het traject tussen Amersfoort en Ede-Barneveld Zuid. ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636139",
-     "bron": "NOS",
-     "tijd": "22:19",
-     "sorteer": "2026-10-21T22:19:51+02:00"
-    },
-    {
-     "titel": "Eindelijk oplossing voor verdrogend Twents hoogveengebied dat door een Duits slootje leegstroomt",
+     "titel": "Nog geen signalen om uit te gaan van succesvol misbruik van kwetsbaarheden in PHP, zegt NCSC",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/eindelijk-oplossing-voor-verdrogend-twents-hoogveengebied-dat-door-een-duits-slootje-leegstroomt~b644a726/",
+     "link": "https://www.volkskrant.nl/binnenland/nog-geen-signalen-om-uit-te-gaan-van-succesvol-misbruik-van-kwetsbaarheden-in-php-zegt-ncsc~b8a449e9/",
      "bron": "de Volkskrant",
-     "tijd": "12:03",
-     "sorteer": "2026-10-22T10:03:04+00:00"
+     "tijd": "14:37",
+     "sorteer": "2026-10-22T12:37:00+00:00"
     },
     {
-     "titel": "Aantal belangrijke websites nog altijd offline",
+     "titel": "‘Sommige kwetsbare mensen moeten wel vijf jaar wachten op GGZ. Voor hen opkomen motiveert me enorm’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/aantal-belangrijke-websites-nog-altijd-offline~b8a449e9/",
+     "link": "https://www.volkskrant.nl/binnenland/sommige-kwetsbare-mensen-moeten-wel-vijf-jaar-wachten-op-ggz-voor-hen-opkomen-motiveert-me-enorm~b7911496/",
      "bron": "de Volkskrant",
-     "tijd": "06:20",
-     "sorteer": "2026-10-22T04:20:00+00:00"
+     "tijd": "14:18",
+     "sorteer": "2026-10-22T12:18:02+00:00"
     },
     {
-     "titel": "Het – inmiddels gedichte – lek in programmeertaal PHP zal niet het laatste zijn, vreest cybersecurity-expert Rogier Fischer",
+     "titel": "Voormalig marinier staat terecht voor koperdiefstal langs het spoor: ‘Ik was bezig met overleven’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/het-inmiddels-gedichte-lek-in-programmeertaal-php-zal-niet-het-laatste-zijn-vreest-cybersecurity-expert-rogier-fischer~b3365c31/",
+     "link": "https://www.trouw.nl/binnenland/voormalig-marinier-staat-terecht-voor-koperdiefstal-langs-het-spoor-ik-was-bezig-met-overleven~b7f48db2/",
      "bron": "Trouw",
-     "tijd": "12:01",
-     "sorteer": "2026-10-22T10:01:00+00:00"
+     "tijd": "17:16",
+     "sorteer": "2026-10-22T15:16:51+00:00"
     }
    ]
   },
@@ -157,49 +166,76 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Heralth (55) hangt pop op bij rotonde en loopt rond met masker op: ‘Ik ben goed gek, maar niet kwaadaardig’",
+     "titel": "Baasje hoeft geen belasting meer te betalen voor zijn hond: controleren ervan kost meer dan het oplevert",
+     "context": "De eigenaren van Luna, Fikkie en al die andere honden in Zwartewaterland krijgen geen rekening meer van de gemeente voor hun huisdier. De hondenbelasting verdwijnt. Dat scheelt wel 60.000 euro aan inkomsten.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwartewaterland/baasje-hoeft-geen-belasting-meer-te-betalen-voor-zijn-hond-controleren-ervan-kost-meer-dan-het-oplevert~a39b226e/",
+     "bron": "de Stentor",
+     "tijd": "17:00",
+     "sorteer": "2026-10-22T15:00:12+00:00"
+    },
+    {
+     "titel": "Bedreiging bij flat in Zwolle zorgt voor ‘spannende situatie’: speciale politie-eenheid en reddingskussen ingezet",
+     "context": "De hulpdiensten moesten donderdagmiddag alle zeilen bijzetten voor een bedreiging in een flat in Zwolle. Er kwam een speciale politie-eenheid op de melding af, en de brandweer plaatste een reddingskussen op de grond.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/bedreiging-bij-flat-in-zwolle-zorgt-voor-spannende-situatie-speciale-politie-eenheid-en-reddingskussen-ingezet~a7d5f448/",
+     "bron": "de Stentor",
+     "tijd": "16:10",
+     "sorteer": "2026-10-22T14:10:00+00:00"
+    },
+    {
+     "titel": "Melvin (36) geeft zijn ex een karatetrap en breekt haar stuitje, vandaag hoorde hij zijn straf",
+     "context": "Een karatetrap, een kopstoot: in een jaar tijd wordt een vrouw in Zwolle en Meppel meermaals mishandeld. Haar ex-partner Melvin M. kreeg donderdag 60 uur taakstraf opgelegd. De rechtbank vindt veel van wat hem verweten wordt niet bewezen.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/melvin-36-geeft-zijn-ex-een-karatetrap-en-breekt-haar-stuitje-vandaag-hoorde-hij-zijn-straf~aaea4959/",
+     "bron": "de Stentor",
+     "tijd": "16:00",
+     "sorteer": "2026-10-22T14:00:00+00:00"
+    },
+    {
+     "titel": "Gratis optredens, kerstshows, XXXL Platenbeurs en meer: weekendtips in Zwolle (22-25 oktober)",
+     "context": "Nog geen weekendplannen? Van 22 tot en met 25 oktober is er genoeg te doen in Zwolle. We zetten negen activiteiten voor je op een rijtje.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/gratis-optredens-kerstshows-xxxl-platenbeurs-en-meer-weekendtips-in-zwolle-22-25-oktober~a6bebd3a/",
+     "bron": "de Stentor",
+     "tijd": "12:45",
+     "sorteer": "2026-10-22T10:45:45+00:00"
+    },
+    {
+     "titel": "Politie kan niet lachen om stunt in Zwolle, Heralth (55) wordt geboeid en krijgt boete",
      "context": "In een witte overall en met een masker op loopt hij rondjes. Heralth Mud (55) heeft woensdagavond op een rotonde in Zwolle ook nog een schep in zijn hand, nadat hij een pop aan een lantaarnpaal heeft opgehangen. Hij ziet het als een Halloweenstunt, maar de politie is minder blij.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/heralth-55-hangt-pop-op-bij-rotonde-en-loopt-rond-met-masker-op-ik-ben-goed-gek-maar-niet-kwaadaardig~ad34cafb/",
+     "link": "https://www.destentor.nl/zwolle/politie-kan-niet-lachen-om-stunt-in-zwolle-heralth-55-wordt-geboeid-en-krijgt-boete~ad34cafb/",
      "bron": "de Stentor",
      "tijd": "12:25",
-     "sorteer": "2026-10-22T10:25:29+00:00"
+     "sorteer": "2026-10-22T10:25:00+00:00"
     },
     {
-     "titel": "Hangende pop aan lantaarnpaal laat alarmbellen afgaan in Zwolle",
-     "context": "Een opmerkelijk incident in Zwolle woensdagavond. Daar rukte de politie massaal uit naar een rotonde. Daar hing namelijk iets opmerkelijks aan een lantaarnpaal.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/hangende-pop-aan-lantaarnpaal-laat-alarmbellen-afgaan-in-zwolle~ad29c7d6/",
-     "bron": "de Stentor",
-     "tijd": "09:59",
-     "sorteer": "2026-10-22T07:59:00+00:00"
+     "titel": "Onderzoek: Zwollenaren positief over hun stad, maar zorgen over veiligheid nemen toe",
+     "context": "Zwollenaren waarderen hun stad gemiddeld met een 7,7 en de leefbaarheid in hun buurt met een 7,6. Tegelijkertijd voelen inwoners zich vaker onveilig en ervaren ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/213339/onderzoek-zwollenaren-positief-over-hun-stad-maar-zorgen-over-veiligheid-nemen-toe.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "15:49",
+     "sorteer": "2026-10-22T13:49:00+00:00"
     },
     {
-     "titel": "Je kunt dwars over het oude terrein van de IJsselhallen rijden (en daar is niks illegaals aan)",
-     "context": "‘Let op: bouwterrein’, staat op een geel bord. Maar nee, je rijdt niet illegaal door een bouwgebied, maar kunt gewoon rijden over het oude terrein van de IJsselhallen. En dat is best bijzonder, op de plek waar een paar jaar geleden nog de IJsselhallen stonden.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/je-kunt-dwars-over-het-oude-terrein-van-de-ijsselhallen-rijden-en-daar-is-niks-illegaals-aan~a3eb6fef/",
-     "bron": "de Stentor",
-     "tijd": "07:30",
-     "sorteer": "2026-10-22T05:30:50+00:00"
-    },
-    {
-     "titel": "Zwolle vreest een verkeersinfarct en trekt tientallen miljoenen uit: zo verandert de stadsring",
-     "context": "Zwolle investeert de komende jaren tientallen miljoenen euro’s om wegen te verbeteren. De stadsring gaat op meerdere plekken op de schop. Niets doen is geen optie, zegt wethouder Johran Willegers in een interview met de Stentor . Anders loopt het verkeer nog meer vast.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/zwolle-vreest-een-verkeersinfarct-en-trekt-tientallen-miljoenen-uit-zo-verandert-de-stadsring~ae079393/",
-     "bron": "de Stentor",
-     "tijd": "06:00",
-     "sorteer": "2026-10-22T04:00:00+00:00"
-    },
-    {
-     "titel": "Nacht van de Nacht: allerlei activiteiten in het donker verspreid door Overijssel",
-     "context": "In Overijssel gaat zaterdag 24 oktober het licht uit en komt de nacht tot leven. Tijdens de Nacht van de Nacht worden op allerlei plekken in de provincie activiteiten georganiseerd om stil te staan bij het belang van duisternis voor mens en natuur. Een greep uit de activiteiten in de regio.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/deventer/nacht-van-de-nacht-allerlei-activiteiten-in-het-donker-verspreid-door-overijssel~a7a882b3/",
-     "bron": "de Stentor",
-     "tijd": "19:00",
-     "sorteer": "2026-10-21T17:00:00+00:00"
+     "titel": "Politie Zwolle deelt beelden van oplichter",
+     "context": "De jongeman wordt ervan verdacht een 84 jarige vrouw uit Zwolle te hebben opgelicht. Volgens de politie heeft hij gouden sieraden en bijna duizend euro ... Lees meer",
+     "rubrieken": [
+      "112",
+      "Algemeen",
+      "Nieuws",
+      "Politie",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/213324/politie-zwolle-deelt-beelden-van-oplichter.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "13:51",
+     "sorteer": "2026-10-22T11:51:22+00:00"
     },
     {
      "titel": "Wichert aan het Rot wordt raadslid voor Swollwacht",
@@ -227,33 +263,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "10:27",
      "sorteer": "2026-10-22T08:27:59+00:00"
-    },
-    {
-     "titel": "Centrum Zwolle wordt verboden terrein voor showrijders",
-     "context": "Ze zijn horecaondernemers en terrasgangers een doorn in het oog: auto’s die rondjes door het centrum van Zwolle rijden om de blits te maken. Vanaf ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/213308/213308.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "09:27",
-     "sorteer": "2026-10-22T07:27:19+00:00"
-    },
-    {
-     "titel": "Websites gemeenten Zwolle, Kampen en Zwartewaterland weer online na PHP-lek",
-     "context": "Steeds meer websites die woensdag uit voorzorg offline zijn gehaald vanwege kwetsbaarheden in programmeertaal PHP, zijn weer bereikbaar. Eerder waren onder meer de websites van ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Gemeente",
-      "Hattem",
-      "Zwartewaterland",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/213296/websites-gemeenten-zwolle-kampen-en-zwartewaterland-weer-online-na-php-lek.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "22:17",
-     "sorteer": "2026-10-21T20:17:41+00:00"
     }
    ]
   },
@@ -270,52 +279,52 @@
      "link": "https://www.tweedekamer.nl/debat_en_vergadering"
     },
     {
-     "titel": "Een overzicht van nationaal klimaat- en energiebeleid dat verder gaat dan Europese verplichtingen",
+     "titel": "Het bericht dat bijna zeven op de tien zorginstellingen de transitie niet succesvol zal doorstaan",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
-     "tijd": "22-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D52529",
-     "sorteer": "2026-10-22T12:29:37.247+02:00"
+     "tijd": "28-06",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2017D19221",
+     "sorteer": "2026-10-22T16:00:26.497+02:00"
     },
     {
-     "titel": "De inbeslagname van een server door de Amsterdamse politie op verzoek van de Amerikaanse regering",
+     "titel": "Een onderzoek van het Europees Openbaar Ministerie heeft woensdagochtend onderzoek gedaan op het hoofdkantoor van de…",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
-     "tijd": "16-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51787",
-     "sorteer": "2026-10-22T10:58:09.43+02:00"
+     "tijd": "12-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2022D41255",
+     "sorteer": "2026-10-22T15:52:19.407+02:00"
     },
     {
-     "titel": "Veiligheid van bruggen",
+     "titel": "Herindicaties en de continuïteit van medische kindzorg",
      "bron": "Kamervraag",
      "kop": "Kamervragen",
-     "tijd": "16-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51784",
-     "sorteer": "2026-10-22T10:45:42.477+02:00"
+     "tijd": "15-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D51573",
+     "sorteer": "2026-10-22T13:25:04.767+02:00"
     },
     {
-     "titel": "Antwoord op vragen van het lid De Hoop over storingen op het spoor",
-     "bron": "Antwoord op Kamervragen",
-     "kop": "Kamervragen",
-     "tijd": "04-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D41151",
-     "sorteer": "2026-10-22T12:22:26.54+02:00"
-    },
-    {
-     "titel": "Antwoord op vragen van het lid Boon over de gevolgen van verkorte militaire opleidingen voor de veiligheid van militairen naar…",
+     "titel": "Antwoord op vragen van het lid Markuszower over het opnieuw weggeven van Nederlands belastinggeld aan Gaza terwijl Hamas eerdere…",
      "bron": "Antwoord op Kamervragen",
      "kop": "Kamervragen",
      "tijd": "08-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D41578",
-     "sorteer": "2026-10-22T11:19:43.627+02:00"
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D41685",
+     "sorteer": "2026-10-22T17:50:23.47+02:00"
     },
     {
-     "titel": "Standpunt op nieuw Omnibus voorstel veiligheid van voedsel en diervoeder",
+     "titel": "Antwoord op vragen van de leden Heutink en Markuszower over brandveiligheid en de economische houdbaarheid van de…",
+     "bron": "Antwoord op Kamervragen",
+     "kop": "Kamervragen",
+     "tijd": "08-09",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D41660",
+     "sorteer": "2026-10-22T17:33:06.483+02:00"
+    },
+    {
+     "titel": "Toezegging gedaan tijdens het commissiedebat over hoger onderwijs, studiefinanciering en DUO van 8 oktober 2026, inzake…",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "22-09",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D45302",
-     "sorteer": "2026-10-22T12:14:00.613+02:00"
+     "tijd": "22-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D52606",
+     "sorteer": "2026-10-22T16:21:54.74+02:00"
     },
     {
      "titel": "Energiesysteem",
@@ -429,11 +438,11 @@
      "sorteer": "2026-10-22T10:00:00+00:00"
     },
     {
-     "titel": "Paddenstoel is maar het topje: dit gebeurt er onder de bosgrond",
-     "toelichting": "Wie dit najaar door het bos wandelt, ziet overal paddenstoelen opduiken. Toch zijn die maar een klein deel van de schimmel. Het grootste deel zit onzichtbaar onder de grond, als een netwerk van draden dat dood materiaal ",
+     "titel": "Een bijenkast remt ziekteverwekkers, maar hoe goed hangt af van waar hij staat",
+     "toelichting": "Een bijenvolk leeft met tienduizenden zoemende beesten op een kluitje in een warme kast, waar ze hetzelfde voedsel delen en samen larven grootbrengen. Voor bacteriën en schimmels is dat een gunstige plek om zich te versp",
      "bron": "Scientias",
-     "tijd": "11:02",
-     "link": "https://scientias.nl/paddenstoel-is-maar-het-topje-dit-gebeurt-er-onder-de-bosgrond/"
+     "tijd": "15:04",
+     "link": "https://scientias.nl/een-bijenkast-remt-ziekteverwekkers-maar-hoe-goed-hangt-af-van-waar-hij-staat/"
     }
    ]
   },
@@ -443,19 +452,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 9.9,
-    "gevoel": 7.1,
-    "wind": "ZZW 4",
+    "nu": 9.8,
+    "gevoel": 9.1,
+    "wind": "Z 2",
     "station": "Heino",
-    "bericht": "Het is vrij bewolkt met af en toe buien, later vanuit het westen ook opklaringen. Het wordt vandaag tussen 12 en 14 graden. Komende dagen is het geregeld onstuimig en nat weer.Vanmiddag komt vanuit het westen de zon er weer af en toe door.",
-    "vandaag": "Het wordt vandaag tussen 12 en 14 graden. Vanmiddag komt vanuit het westen de zon er weer af en toe door.",
-    "temperatuur": "",
+    "bericht": "Komende dagen krijgen we te maken met twee stormdepressies namelijk Austen en Boelo. Of die eerste aan de Nederlandse kust ook stormkracht bereikt valt nog te bezien, Boelo maakt meer kans. Beide stormdepressies zorgen in ieder geval wel voor zware windstoten waarvoor ook een waarschuwing uitstaat.",
+    "vandaag": "Vanavond kunnen er vooral in de noordelijke helft van het land nog enkele buien vallen, daarnaast komen brede opklaringen voor en wordt het rustiger. Vannacht kan er tijdens opklaringen in het noorden kortstondig mist ontstaan.",
+    "temperatuur": "Morgen is het grotendeels bewolkt en trekken er gebieden met regen over en dat bij 12 tot 15 graden , vooral in de avond kan het flink gaan plenzen.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: motregen, 7 tot 12 graden, 96% kans op neerslag, ruim 2 uur zon, wind uit het zuiden, kracht 4.",
+     "zin": "Voor Zwolle zelf: regen, 7 tot 12 graden, 98% kans op neerslag, weinig zon, wind uit het zuiden, kracht 4.",
      "max": 12,
      "min": 7,
-     "regenkans": 96,
-     "omschrijving": "motregen"
+     "regenkans": 98,
+     "omschrijving": "regen"
     },
     "vooruit": "Herfstweer met in het weekeinde veel wind en regen. Maandag en dinsdag enige tijd regen en aan de zachte kant. Woensdag perioden met zon en op de meeste plaatsen droog.",
     "omslag": null,
@@ -474,10 +483,10 @@
   }
  ],
  "status": {
-  "ronde": "Middagbriefing",
-  "opgehaald": "12:30",
+  "ronde": "Avondbriefing",
+  "opgehaald": "18:00",
   "blokken": 6,
-  "berichten": 45,
+  "berichten": 46,
   "problemen": []
  }
 }
