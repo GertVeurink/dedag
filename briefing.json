@@ -44,15 +44,6 @@
      "sorteer": "2026-10-22T06:56:10+02:00"
     },
     {
-     "titel": "Wekdienst 22/10: Presentatie parcours Tour de France • Russische diesel naar VS",
-     "context": "Goedemorgen! De eerste lading Russische diesel gaat op weg naar de VS en een hoop Nederlandse clubs spelen vanavond Europees voetbal. Eerst het weer: in de ochtend is er veel bewolking en regen, en waait het flink vanuit het zuidwesten. In de middag gaat de wind liggen en wordt het zonniger. Het wordt 11 tot 14 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamhed",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636165",
-     "bron": "NOS",
-     "tijd": "06:47",
-     "sorteer": "2026-10-22T06:47:20+02:00"
-    },
-    {
      "titel": "Twee doden na aanval op Saoedisch vliegveld",
      "context": "",
      "rubrieken": [],
@@ -96,15 +87,6 @@
      "sorteer": "2026-10-22T07:30:01+02:00"
     },
     {
-     "titel": "Wekdienst 22/10: Presentatie parcours Tour de France • Russische diesel naar VS",
-     "context": "Goedemorgen! De eerste lading Russische diesel gaat op weg naar de VS en een hoop Nederlandse clubs spelen vanavond Europees voetbal. Eerst het weer: in de ochtend is er veel bewolking en regen, en waait het flink vanuit het zuidwesten. In de middag gaat de wind liggen en wordt het zonniger. Het wordt 11 tot 14 graden. Ga je vandaag op pad? Hier vind je het overzicht van de files en wegwerkzaamhed",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636165",
-     "bron": "NOS",
-     "tijd": "06:47",
-     "sorteer": "2026-10-22T06:47:20+02:00"
-    },
-    {
      "titel": "Nog altijd websites niet bereikbaar na lek, ook internationaal nog problemen",
      "context": "Er zijn nog altijd websites onbereikbaar nadat die uit voorzorg offline zijn gehaald. Dat gebeurde na een lek in de programmeertaal PHP. Zo is de website overheid.nl nog niet bereikbaar, evenals de site van Meld Misdaad Anoniem. De sites van 113 en Centrum Seksueel Geweld waren nog tot laat offline, maar die werden in de loop van de nacht weer bereikbaar. Een woordvoerder van het ministerie van Bi",
      "rubrieken": [],
@@ -141,10 +123,10 @@
      "sorteer": "2026-10-22T04:20:00+00:00"
     },
     {
-     "titel": "Student Hussein Issa werd als terrorist neergezet en geschorst: ‘Zijn ze gek geworden? Ik heb niks gedaan’",
+     "titel": "Eén woord verkeerd vertaald en hij was een terrorist: ‘Zijn ze gek geworden? Ik heb niks gedaan’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/student-hussein-issa-werd-als-terrorist-neergezet-en-geschorst-zijn-ze-gek-geworden-ik-heb-niks-gedaan~b762176a/",
+     "link": "https://www.volkskrant.nl/binnenland/een-woord-verkeerd-vertaald-en-hij-was-een-terrorist-zijn-ze-gek-geworden-ik-heb-niks-gedaan~b762176a/",
      "bron": "de Volkskrant",
      "tijd": "05:00",
      "sorteer": "2026-10-22T03:00:00+00:00"
@@ -193,15 +175,6 @@
      "sorteer": "2026-10-22T04:00:00+00:00"
     },
     {
-     "titel": "Zwaar bewolkt met wat lichte regen in Zwolle in de ochtend",
-     "context": "De bewolking voert de boventoon in Zwolle en als je erop uit gaat, kan een paraplu handig zijn: nu en dan (mot)regent het. De temperatuur ligt rond de 12 graden. De zuidwestelijke wind is matig.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/weer-zwolle~ad68270e/",
-     "bron": "de Stentor",
-     "tijd": "02:04",
-     "sorteer": "2026-10-22T00:04:00+00:00"
-    },
-    {
      "titel": "Nacht van de Nacht: allerlei activiteiten in het donker verspreid door Overijssel",
      "context": "In Overijssel gaat zaterdag 24 oktober het licht uit en komt de nacht tot leven. Tijdens de Nacht van de Nacht worden op allerlei plekken in de provincie activiteiten georganiseerd om stil te staan bij het belang van duisternis voor mens en natuur. Een greep uit de activiteiten in de regio.",
      "rubrieken": [],
@@ -209,6 +182,15 @@
      "bron": "de Stentor",
      "tijd": "19:00",
      "sorteer": "2026-10-21T17:00:00+00:00"
+    },
+    {
+     "titel": "Toekomst zwembaden in waterrijke gemeente Zwartewaterland zorgelijk: bestuur luidt de noodklok",
+     "context": "Sluiting van zwembaden in een waterrijke gemeente, kan dat? In Zwartewaterland dreigt het werkelijkheid te worden. De baden in Genemuiden, Hasselt en Zwartsluis lopen tegen steeds meer problemen aan.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwartewaterland/toekomst-zwembaden-in-waterrijke-gemeente-zwartewaterland-zorgelijk-bestuur-luidt-de-noodklok~af3e4089/",
+     "bron": "de Stentor",
+     "tijd": "17:00",
+     "sorteer": "2026-10-21T15:00:28+00:00"
     },
     {
      "titel": "Centrum Zwolle wordt verboden terrein voor showrijders",
@@ -314,7 +296,7 @@
      "kop": "Brieven en moties",
      "tijd": "05-10",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026D48513",
-     "sorteer": "2026-10-22T10:14:25.903+02:00"
+     "sorteer": "2026-10-22T10:14:50.99+02:00"
     },
     {
      "titel": "Rijksbrede Risicoanalyse Nationale Veiligheid 2026",
@@ -466,8 +448,8 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.9,
-    "gevoel": 6.3,
+    "nu": 9.0,
+    "gevoel": 6.5,
     "wind": "Z 3",
     "station": "Heino",
     "bericht": "Beginnen we vanochtend in het binnenland met zonnige perioden, al snel neemt de bewolking toe en gaat het af en toe regenen. Groot zijn de hoeveelheden niet. Het wordt vandaag tussen 12 en 14 graden.Vanochtend zijn er eerst nog zonnige perioden, maar al snel neemt de bewolking vanuit het zuidwesten toe en volgt opnieuw af en toe regen.",
@@ -498,9 +480,9 @@
  ],
  "status": {
   "ronde": "Ochtendbriefing",
-  "opgehaald": "10:14",
+  "opgehaald": "10:26",
   "blokken": 6,
-  "berichten": 47,
+  "berichten": 45,
   "problemen": []
  }
 }
