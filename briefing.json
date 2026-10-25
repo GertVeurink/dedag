@@ -1,5 +1,5 @@
 {
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "datum": "2026-10-25",
  "blokken": [
   {
@@ -7,6 +7,33 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "Kiezen Brazilianen toch voor Lula of breiden de Bolsonaro's hun macht verder uit?",
+     "context": "De tweede en beslissende verkiezingsronde vandaag in Brazilië is een spannende strijd tussen de zittende linkse president Lula da Silva (80) en de radicaal-rechtse kandidaat Flávio Bolsonaro (45), zoon van de veroordeelde ex-president Jair Bolsonaro. Maar wie na vandaag de nieuwe president van Brazilië ook wordt, de macht van de familie Bolsonaro is al fors toegenomen. Na de eerste verkiezingsrond",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636574",
+     "bron": "NOS",
+     "tijd": "11:45",
+     "sorteer": "2026-10-25T11:45:14+01:00"
+    },
+    {
+     "titel": "Gaan Trump, Poetin en Xi beslissen over Oekraïne? 'Alle alarmbellen moeten afgaan'",
+     "context": "Trump, Poetin en Xi die met z'n drietjes gaan onderhandelen over een Oekraïne-vredesdeal. Het is een idee van de Russische president en Trump - die volop de banden aanhaalt met het Kremlin - heeft er ook wel oren naar. Maar Europa- en Oekraïnegezinde geopolitieke analisten houden hun hart vast. Want een vredesdeal zonder Oekraïense handtekening eronder zal hoogstwaarschijnlijk slecht uitpakken voo",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636566",
+     "bron": "NOS",
+     "tijd": "10:30",
+     "sorteer": "2026-10-25T10:30:02+01:00"
+    },
+    {
+     "titel": "Plunderingen en brandstichtingen in Barcelona, ruim 100 mensen opgepakt",
+     "context": "Bij een protest in het centrum van Barcelona zijn zo'n honderd mensen opgepakt na plunderingen en brandstichtingen. Iets meer dan de helft is minderjarig, schrijven Spaanse media. De ongeregeldheden gingen tot diep in de nacht door. Het protest zou een reactie zijn geweest op de demonstraties in Frankrijk. Jongeren waren via sociale media opgeroepen om mee te doen. Online ging de slogan 'institut ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636564",
+     "bron": "NOS",
+     "tijd": "10:16",
+     "sorteer": "2026-10-25T10:16:49+01:00"
+    },
     {
      "titel": "Servische studenten dagen Vucic uit bij spannendste parlementsverkiezingen in jaren",
      "context": "Maken studenten in Servië een einde aan twaalf jaar heerschappij van de autocratische leider Aleksandar Vucic? Om die vraag draait het vandaag bij de parlementsverkiezingen in het Balkanland. Het zijn de spannendste sinds Vucic en zijn Servische Progressieve Partij (SNS) aan de macht kwamen, want de Studentenlijst maakt een serieuze kans. Volgens peilingen liggen de twee kampen nek aan nek. Vucic ",
@@ -17,58 +44,31 @@
      "sorteer": "2026-10-25T06:46:02+01:00"
     },
     {
-     "titel": "Duizenden Israëliërs eisen onderzoek naar 7 oktober, daags voor verkiezingen",
-     "context": "In de Israëlische stad Tel Aviv hebben duizenden mensen zaterdagavond, drie dagen voor de Israëlische verkiezingen, gedemonstreerd tegen de regering van premier Benjamin Netanyahu. De demonstranten eisen een onafhankelijk staatsonderzoek naar de fouten die voorafgingen aan de Hamas-aanval van 7 oktober 2023 waardoor het land werd verrast. Netanyahu weigert zo'n onderzoek. Volgens de organisatoren ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636537",
-     "bron": "NOS",
-     "tijd": "04:48",
-     "sorteer": "2026-10-25T04:48:31+01:00"
-    },
-    {
-     "titel": "Oekraïne schond volgens Musk voorwaarden van satellietsysteem Starlink",
-     "context": "Elon Musk zegt dat het Oekraïense leger de gebruiksvoorwaarden van Starlink heeft geschonden. Op zijn socialemediaplatform X schrijft hij dat het nooit is toegestaan om het satellietsysteem te gebruiken voor offensieve droneaanvallen om mensen te doden. \"Het was nooit toegestaan om de commerciële satellietdienst Starlink, die bedoeld is voor burgers, te gebruiken voor offensieve droneaanvallen om ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636534",
-     "bron": "NOS",
-     "tijd": "02:12",
-     "sorteer": "2026-10-25T02:12:11+01:00"
-    },
-    {
-     "titel": "Bijna 1000 arrestaties in Frankrijk, minister tevreden over verloop protesten",
-     "context": "De Franse politie heeft vandaag bij betogingen in het hele land bijna duizend mensen opgepakt. Dat heeft de Franse minister van Binnenlandse Zaken Nuñez bekendgemaakt. Hij verwacht dat \"dit aantal zal toenemen\". In heel Frankrijk liepen volgens de minister 410.000 mensen mee in betogingen. Volgens de vakbonden gingen vandaag bijna twee keer zoveel mensen, zo'n 800.000, de straat op om te demonstre",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636520",
-     "bron": "NOS",
-     "tijd": "22:16",
-     "sorteer": "2026-10-24T22:16:44+02:00"
-    },
-    {
-     "titel": "Aartsbisdom New York betaalt slachtoffers seksueel misbruik 800 miljoen dollar aan schadevergoedingen",
+     "titel": "Saoedi-Arabië heropent internationaal vliegveld na sluiting vanwege dodelijke aanvallen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/aartsbisdom-new-york-betaalt-slachtoffers-seksueel-misbruik-800-miljoen-dollar-aan-schadevergoedingen~b349c2e7/",
+     "link": "https://www.volkskrant.nl/buitenland/saoedi-arabie-heropent-internationaal-vliegveld-na-sluiting-vanwege-dodelijke-aanvallen~b2d71a17/",
      "bron": "de Volkskrant",
-     "tijd": "05:40",
-     "sorteer": "2026-10-25T04:40:24+00:00"
+     "tijd": "11:51",
+     "sorteer": "2026-10-25T10:51:00+00:00"
     },
     {
-     "titel": "Ineens praten de Amerikanen met de junta van Myanmar. Zou er soms wat te halen zijn?",
+     "titel": "Britse defensieminister verwacht dat vijanden het VK tegen 2030 kunnen aanvallen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/ineens-praten-de-amerikanen-met-de-junta-van-myanmar-zou-er-soms-wat-te-halen-zijn~bf17c45c/",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-hybride-oorlog-rusland-eu-navo~b08413ca/",
      "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-10-25T04:00:07+00:00"
+     "tijd": "10:52",
+     "sorteer": "2026-10-25T09:52:00+00:00"
     },
     {
-     "titel": "Meer dan honderd arrestaties na plunderingen en brandstichting door jongeren in centrum Barcelona",
+     "titel": "Cultuurgoed kreeft wordt in Maine van twee kanten bedreigd",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/meer-dan-honderd-arrestaties-na-plunderingen-en-brandstichting-door-jongeren-in-centrum-barcelona~b5b3b4e1/",
+     "link": "https://www.trouw.nl/buitenland/cultuurgoed-kreeft-wordt-in-maine-van-twee-kanten-bedreigd~b03d0b8c/",
      "bron": "Trouw",
-     "tijd": "03:21",
-     "sorteer": "2026-10-25T02:21:23+00:00"
+     "tijd": "12:00",
+     "sorteer": "2026-10-25T11:00:00+00:00"
     }
    ]
   },
@@ -78,40 +78,40 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Vele tientallen vluchten vanaf Schiphol geannuleerd vanwege harde wind",
+     "context": "Vele tientallen vluchten vanaf luchthaven Schiphol zijn geschrapt vanwege de harde wind. Vooral vluchten van luchtvaartmaatschappij KLM zijn geannuleerd. Ook vluchten van Easyjet zijn gecanceld. Vanwege de harde wind zijn niet alle start- en landingsbanen beschikbaar en kunnen minder vliegtuigen aankomen en vertrekken, zegt een woordvoerder van Schiphol. Reizigers moeten hierdoor rekening houden m",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636568",
+     "bron": "NOS",
+     "tijd": "10:41",
+     "sorteer": "2026-10-25T10:41:09+01:00"
+    },
+    {
+     "titel": "Brand in autosloperij Zoetermeer, politie houdt mensen tegen",
+     "context": "In Zoetermeer heeft een grote brand gewoed in een autosloperij. Omwonenden hebben via een NL Alert het advies gekregen om ramen en deuren dicht te houden. Er komt veel rook vrij en doordat de wind is gedraaid, hangt de rook nu over een groter gebied. Vier mensen zijn naar het ziekenhuis gebracht omdat ze rook hebben ingeademd, zegt de brandweer. Voor de brand aan de Bleiswijkseweg, die rond 06.50 ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636559",
+     "bron": "NOS",
+     "tijd": "09:38",
+     "sorteer": "2026-10-25T09:38:17+01:00"
+    },
+    {
+     "titel": "Auto's van handhavers Waalwijk uitgebrand, politie onderzoekt brandstichting",
+     "context": "Bij het gemeentehuis in Waalwijk zijn drie auto's van handhavers uitgebrand. De politie houdt rekening met opzet, schrijft Omroep Brabant. De brand ontstond vannacht rond kwart voor twee. De drie elektrische auto's stonden te laden. Twee voertuigen zijn herkenbaar als auto's van de handhaving, een van de auto's heeft geen logo van handhaving op het voertuig staan. De auto's stonden geparkeerd op p",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2636546",
+     "bron": "NOS",
+     "tijd": "07:41",
+     "sorteer": "2026-10-25T07:41:05+01:00"
+    },
+    {
      "titel": "Artsen kritisch op longcovidbeleid minister Hermans: 'Funest voor patiëntvertrouwen'",
-     "context": "Huisartsen, medisch-specialisten en wetenschappers kraken de plannen van zorgminister Sophie Hermans voor patiënten met long covid en soortgelijke aandoeningen als ME en Q-koorts. De minister wil de financiering van de longcovidexpertisecentra drastisch afbouwen en tegelijkertijd de zorgverantwoordelijkheid weer grotendeels bij huisartsen leggen. Dit is veel te vroeg, zo waarschuwt het zorgveld. H",
+     "context": "Huisartsen, medisch specialisten en wetenschappers kraken de plannen van zorgminister Sophie Hermans voor patiënten met long covid en soortgelijke aandoeningen als ME en Q-koorts. De minister wil de financiering van de longcovidexpertisecentra drastisch afbouwen en tegelijkertijd de zorgverantwoordelijkheid weer grotendeels bij huisartsen leggen. Dit is veel te vroeg, zo waarschuwt het zorgveld. H",
      "rubrieken": [],
      "link": "https://nos.nl/l/2636540",
      "bron": "NOS",
      "tijd": "06:47",
      "sorteer": "2026-10-25T06:47:04+01:00"
-    },
-    {
-     "titel": "Op verschillende plekken overlast door storm Boelo",
-     "context": "De harde wind heeft gisteravond en vannacht op verschillende plekken geleid tot schade of overlast, vooral door omgevallen bomen. In Amsterdam-Noord werd een rijdende auto getroffen, de bestuurder raakte gewond. In Rijnsburg, bij Leiden, raakte een huis beschadigd. In Culemborg viel een boom op een geparkeerde auto. De auto is total loss. Hier en daar kwamen bomen op doorgaande wegen terecht. Zo w",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636535",
-     "bron": "NOS",
-     "tijd": "02:44",
-     "sorteer": "2026-10-25T02:44:07+01:00"
-    },
-    {
-     "titel": "Opnieuw ongeregeldheden tijdens Walibi Fright Nights",
-     "context": "Bij attractiepark Walibi in Biddinghuizen zijn gisteravond vechtpartijen uitgebroken tijdens de zogenoemde Fright Nights. Op beelden die op sociale media circuleren, is te zien dat groepen bezoekers met elkaar op de vuist gaan. De politie probeerde de vechtende groepen uiteen te drijven. Daarbij werden honden en wapenstokken ingezet. Het is niet bekend of er mensen zijn opgepakt. Volgens Omroep Fl",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636536",
-     "bron": "NOS",
-     "tijd": "02:23",
-     "sorteer": "2026-10-25T02:23:52+01:00"
-    },
-    {
-     "titel": "Zomertijd voorbij: vannacht is de klok weer een uur teruggegaan",
-     "context": "Vannacht is de zomertijd geëindigd. Dat betekent dat de klok een uur achteruit is gezet en de meeste mensen een uurtje langer kunnen slapen. In de ochtend wordt het eerder licht en in de avond eerder donker. Ook andere Europese landen gaan komende nacht over op de 'wintertijd'. Wintertijd is de normale tijd voor Nederland. De zomertijd gaat op 28 maart 2027 weer in. Dan gaat de klok dus weer een u",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2636525",
-     "bron": "NOS",
-     "tijd": "22:52",
-     "sorteer": "2026-10-24T22:52:52+02:00"
     },
     {
      "titel": "Kabinet nodigt zeven oppositiepartijen uit voor onderhandelingen belastingplan",
@@ -123,6 +123,15 @@
      "sorteer": "2026-10-24T22:04:11+02:00"
     },
     {
+     "titel": "Met wintertijd zijn de drukste momenten op de weg nog drukker: bijna kwart meer files",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/met-wintertijd-zijn-de-drukste-momenten-op-de-weg-nog-drukker-bijna-kwart-meer-files~b20ecb78/",
+     "bron": "de Volkskrant",
+     "tijd": "12:17",
+     "sorteer": "2026-10-25T11:17:17+00:00"
+    },
+    {
      "titel": "‘Iemand moet haar toch missen?’ Vijftig jaar na de vondst van het lichaam van het Heulmeisje is haar identiteit nog altijd onbekend",
      "context": "",
      "rubrieken": [],
@@ -130,24 +139,6 @@
      "bron": "de Volkskrant",
      "tijd": "18:49",
      "sorteer": "2026-10-24T16:49:00+00:00"
-    },
-    {
-     "titel": "Is de Herepoort in de tuin van het Rijksmuseum een staaltje binnenlandse roofkunst?",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/is-de-herepoort-in-de-tuin-van-het-rijksmuseum-een-staaltje-binnenlandse-roofkunst~b5ed1b51/",
-     "bron": "Trouw",
-     "tijd": "21:41",
-     "sorteer": "2026-10-24T19:41:00+00:00"
-    },
-    {
-     "titel": "Loosdrecht raakte tot op het bot verdeeld over de noodopvang voor asielzoekers. Hoe gaat het dorp nu verder?",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/loosdrecht-raakte-tot-op-het-bot-verdeeld-over-de-noodopvang-voor-asielzoekers-hoe-gaat-het-dorp-nu-verder~b4747c41/",
-     "bron": "Trouw",
-     "tijd": "12:00",
-     "sorteer": "2026-10-24T10:00:00+00:00"
     }
    ]
   },
@@ -156,6 +147,33 @@
    "titel": "Zwolle en omgeving",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Twee promovendi, één koploper: Go-Ahead Kampen troeft CSV’28 af",
+     "context": "Allebei gepromoveerd en allebei opnieuw in de top van de ranglijst terug te vinden. CSV’28 en Go-Ahead Kampen zijn óók in de eerste klasse teams om serieus rekening mee te houden. Na de 0-1-zege in Zwolle zitten de Kampenaren voorlopig aan het stuur.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/amateurvoetbal/twee-promovendi-een-koploper-go-ahead-kampen-troeft-csv28-af~a785d526/",
+     "bron": "de Stentor",
+     "tijd": "11:33",
+     "sorteer": "2026-10-25T10:33:40+00:00"
+    },
+    {
+     "titel": "Doe de Zwolse Murdoku in halloweensfeer: wie pleegde een moord in de kerk?",
+     "context": "Er is een moord gepleegd! Een fictieve moord, om duidelijk te zijn. Met Halloween in het vooruitzicht (zaterdag 31 oktober) maakten we een spooky Murdoku die zich afspeelt in de Bethlehemkerk in Zwolle. Kom jij erachter wie de moordenaar is?",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/halloween-murdoku-moord-in-kerk-zwolle~ac1876ed/",
+     "bron": "de Stentor",
+     "tijd": "10:00",
+     "sorteer": "2026-10-25T09:00:37+00:00"
+    },
+    {
+     "titel": "PEC Zwolle heeft de gang er weer wat in, met de fitte aanvoerder als voorbeeld",
+     "context": "Er gebeurt weer wat bij PEC Zwolle. Er is nog veel te verbeteren en ja, de 1-1 tegen FC Utrecht zorgt voor teleurstelling, maar qua teamdynamiek beleven de Zwollenaren belangrijke weken. Met een aanvoerder die zijn ploeg bij de hand neemt.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/pec-zwolle/pec-zwolle-heeft-de-gang-er-weer-wat-in-met-de-fitte-aanvoerder-als-voorbeeld~a149ae22/",
+     "bron": "de Stentor",
+     "tijd": "10:00",
+     "sorteer": "2026-10-25T09:00:33+00:00"
+    },
     {
      "titel": "Dit beruchte kruispunt gaat op de schop: deze drie scenario’s liggen nu op tafel",
      "context": "Tunnels, een viaduct, gevaarlijke oversteken dicht. Wát er ook gebeurt bij het beruchte Kruispunt Raalte: het wordt veiliger. Drie kansrijke scenario’s liggen nu op tafel. Hoewel de wens groot is voor een compleet nieuw kruispunt, bestaat de mogelijkheid dat het blijft zoals nu.",
@@ -175,31 +193,21 @@
      "sorteer": "2026-10-24T15:00:51+00:00"
     },
     {
-     "titel": "Drie jaar lang gaat deze weg in Zwolle dicht, dit moet je weten",
-     "context": "De Luttenbergstraat in Zwolle is vanaf maandag deels afgesloten. En dat duurt minstens drie jaar. Allemaal vanwege de bouw van een parkeergarage. Waarom duurt dat zo lang? Voor wie wordt dit gebouwd? En wat gaat het kosten? Alle antwoorden op een rij.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/drie-jaar-lang-gaat-deze-weg-in-zwolle-dicht-dit-moet-je-weten~a287b297/",
-     "bron": "de Stentor",
-     "tijd": "16:00",
-     "sorteer": "2026-10-24T14:00:00+00:00"
-    },
-    {
-     "titel": "Gespot op Funda: de kleinste woningen die nu te koop staan in Zwolle",
-     "context": "Je kunt er misschien geen polonaise door de woonkamer lopen, maar je bent op zaterdag wél lekker snel klaar met stofzuigen. Op Funda staan op dit moment een paar opvallend kleine woningen in Zwolle te koop.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/gespot-op-funda-de-kleinste-woningen-die-nu-te-koop-staan-in-zwolle~afd78170/",
-     "bron": "de Stentor",
-     "tijd": "14:30",
-     "sorteer": "2026-10-24T12:30:08+00:00"
-    },
-    {
-     "titel": "IJssel stijgt, eenrichtingsverkeer niet meer van kracht: schepen mogen weer tussen Zutphen en Arnhem varen",
-     "context": "Goed nieuws voor de scheepvaart op de IJssel tussen Arnhem en Zutphen. Schepen mogen voorlopig weer in beide richtingen varen. Rijkswaterstaat verwacht een ‘spectaculaire stijging’ in de waterstand. Niet alleen in de IJssel.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zutphen/ijssel-stijgt-eenrichtingsverkeer-niet-meer-van-kracht-schepen-mogen-weer-tussen-zutphen-en-arnhem-varen~a1e0f8aa/",
-     "bron": "de Stentor",
-     "tijd": "10:56",
-     "sorteer": "2026-10-24T08:56:00+00:00"
+     "titel": "Zwolse streetdancer Kato Faasen (14) danst met ‘attitude’",
+     "context": "Locking, popping, waacking en house. Voor de Zwolse Kato Faasen (14) zijn het allemaal vanzelfsprekende stijlen. Ze danst op hoog niveau in de streetdance- en ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Cultuur",
+      "Dansdagen Zwolle",
+      "Freestyle",
+      "Hiphop",
+      "Kato Faasen",
+      "Streetdance"
+     ],
+     "link": "https://1zwolle.nl/nieuws/213491/zwolse-streetdancer-kato-faasen-14-danst-met-attitude.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "08:06",
+     "sorteer": "2026-10-25T07:06:00+00:00"
     },
     {
      "titel": "Opnieuw aanrijding op kruispunt waar vaker ongelukken gebeuren",
@@ -228,34 +236,13 @@
      "sorteer": "2026-10-24T14:01:00+00:00"
     },
     {
-     "titel": "Fraterhuis organiseert lezing over de band tussen mens en natuur",
-     "context": "De Fraterhuis Academie in Zwolle organiseert op zaterdag 31 oktober een lezing over de relatie tussen mens en natuur. Filosoof en filmdocent Flore Lutters onderzoekt ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Cultuur",
-      "Fraterhuis Academie",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/213180/fraterhuis-organiseert-lezing-over-de-band-tussen-mens-en-natuur.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "12:59",
-     "sorteer": "2026-10-24T10:59:00+00:00"
-    },
-    {
-     "titel": "Oude bloemenzaak gekraakt",
-     "context": "Waar vroeger de bloemenzaak ‘Aan De Zeven Alleetjes’ zat zijn nu krakers gevestigd. De bloemenzaak is in maart 2026 gesloten en staat sindsdien leeg. Volgens ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Politiek",
-      "Bloemenzaak",
-      "Krakers",
-      "Nieuws",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/213453/oude-bloemenzaak-gekraakt.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "11:02",
-     "sorteer": "2026-10-24T09:02:00+00:00"
+     "titel": "Kleine boompjes, grote passie: bonsaivereniging Overijssel bestaat veertig jaar",
+     "context": "De bonsai: voor veel mensen een klein Japans boompje dat met uiterste precisie in model wordt geknipt. Maar achter die miniatuurboom schuilt een wereld vol kennis, geduld en vakmanschap. Bij de Bonsai Vereniging Overijssel weten ze dat allang. De club bestaat veertig jaar en trekt nog altijd nieuwe leden aan.",
+     "rubrieken": [],
+     "link": "https://www.oost.nl/nieuws/3710281/kleine-boompjes-grote-passie-bonsaivereniging-overijssel-bestaat-veertig-jaar",
+     "bron": "RTV Oost",
+     "tijd": "11:51",
+     "sorteer": "2026-10-25T10:51:32+00:00"
     }
    ]
   },
@@ -400,18 +387,35 @@
    "emoji": "🌿",
    "items": [
     {
+     "titel": "Natuurjournaal 25 oktober 2026",
+     "toelichting": "Mis de mycena's niet! Zoek bijvoorbeeld de bundelmycena of oranje dwergmycena.",
+     "bron": "Nature Today",
+     "tijd": "06:45",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35977",
+     "sorteer": "2026-10-25T05:45:00+00:00"
+    },
+    {
+     "titel": "Canon van de Stadsnatuur: ode aan voegenvullers en dakvlieders",
+     "toelichting": "De eerste prefect van de Hortus botanicus Leiden begon ruim vier eeuwen geleden met de aanleg van een plantencollectie die inmiddels meer dan 17.000 planten omvat. De nieuwste prefect maakt korte metten met de misvatting",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35971",
+     "sorteer": "2026-10-25T06:00:00+00:00"
+    },
+    {
+     "titel": "Raadsel marmerschelpen onderzocht",
+     "toelichting": "Ruim twee en een half jaar geleden werd op Nature Today een oproep gedaan goed te letten op de raadselachtige Marmerschelp, zowel in en aan zee als op schelpenpaadjes. Dit in de hoop het raadsel waar ze vandaan komen op ",
+     "bron": "Nature Today",
+     "tijd": "10:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35989",
+     "sorteer": "2026-10-25T09:00:00+00:00"
+    },
+    {
      "titel": "Klimaatmodellen blijken El Niño na een La Niña wél een jaar vooruit te kunnen voorspellen",
      "toelichting": "Of een voorspelling van El Niño voor volgend jaar te vertrouwen is, hangt minder af van het rekenmodel dan van de stand van de Stille Oceaan op het moment dat de voorspelling begint. Starten klimaatmodellen tijdens een L",
      "bron": "Scientias",
      "tijd": "19:00",
      "link": "https://scientias.nl/klimaatmodellen-blijken-el-nino-na-een-la-nina-wel-een-jaar-vooruit-te-kunnen-voorspellen/"
-    },
-    {
-     "titel": "Ontmoet ‘Schrödingers pinguïn’: deze soort is op de ene plek wel veilig, maar op de andere totaal niet",
-     "toelichting": "De grote kuifpinguïn houdt op de ene eilandengroep wel stand, maar verliest op de andere in rap tempo terrein. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het laatste wetenschapsnieuws in je inbox? Of elke week?",
-     "bron": "Scientias",
-     "tijd": "17:00",
-     "link": "https://scientias.nl/ontmoet-schrodingers-pinguin-deze-soort-is-op-de-ene-plek-wel-veilig-maar-op-de-andere-totaal-niet/"
     }
    ]
   },
@@ -421,17 +425,17 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 10.1,
-    "gevoel": 7.9,
-    "wind": "ZW 3",
+    "nu": 11.9,
+    "gevoel": 9.3,
+    "wind": "ZW 4",
     "station": "Heino",
-    "bericht": "Ook storm Boelo heeft bij ons niet gezorgd voor de eerste officiële storm van het seizoen. Vandaag blijft de wind in combinatie met gure buien een hoofdrol spelen en bestaat er langs de kust kans op zware windstoten tot 100 km/u.Vanochtend zijn er perioden met zon en vormen zich stapelwolken. In het noorden neemt later vanochtend de kans op enkele buien toe.",
-    "vandaag": "Vandaag blijft de wind in combinatie met gure buien een hoofdrol spelen en bestaat er langs de kust kans op zware windstoten tot 100 km/u. Vanochtend zijn er perioden met zon en vormen zich stapelwolken.",
+    "bericht": "Ook storm Boelo heeft bij ons nog nét niet gezorgd voor de eerste officiële storm van het seizoen. Vandaag blijft de wind in combinatie met gure buien een hoofdrol spelen en bestaat er langs de kust kans op zware windstoten tot 100 km/u.Vanmiddag overheerst de bewolking, maar in het zuidwesten en langs de Belgische en Duitse grens schijnt soms ook de zon. Verspreid in het noorden en binnenland vallen enkele buien, waarbij er ook een klein beetje onweer en kleine hagelkorrels mogelijk zijn.",
+    "vandaag": "Vandaag blijft de wind in combinatie met gure buien een hoofdrol spelen en bestaat er langs de kust kans op zware windstoten tot 100 km/u. Vanmiddag overheerst de bewolking, maar in het zuidwesten en langs de Belgische en Duitse grens schijnt soms ook de zon.",
     "temperatuur": "De middagtemperatuur komt uit op 13 graden.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: regen, 10 tot 12 graden, 100% kans op neerslag, wind uit het zuidwesten, kracht 5.",
+     "zin": "Voor Zwolle zelf: regen, 9 tot 12 graden, 100% kans op neerslag, weinig zon, wind uit het zuidwesten, kracht 5.",
      "max": 12,
-     "min": 10,
+     "min": 9,
      "regenkans": 100,
      "omschrijving": "regen"
     },
@@ -452,12 +456,10 @@
   }
  ],
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:30",
   "blokken": 6,
-  "berichten": 42,
-  "problemen": [
-   "Nature Today: timeout"
-  ]
+  "berichten": 43,
+  "problemen": []
  }
 }
