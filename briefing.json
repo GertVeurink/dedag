@@ -1,5 +1,5 @@
 {
- "naam": "Middagbriefing",
+ "naam": "Avondbriefing",
  "datum": "2026-10-28",
  "blokken": [
   {
@@ -7,6 +7,24 @@
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
+    {
+     "titel": "'Wintersteunpakket' voor Oekraïne: Nederland geeft 500 miljoen voor luchtafweer",
+     "context": "Nederland geeft Oekraïne 500 miljoen euro aan militaire steun. Dit 'wintersteunpakket' is bedoeld voor luchtverdediging en drones. Dat zei premier Jetten op een persconferentie na zijn ontmoeting met de Oekraïense president Zelensky op het Catshuis in Den Haag. Het kabinet had dit geld al gereserveerd voor Oekraïne. Zelensky uitte zijn dankbaarheid voor alle steun die hij krijgt uit Nederland, en ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637052",
+     "bron": "NOS",
+     "tijd": "16:48",
+     "sorteer": "2026-10-28T16:48:15+01:00"
+    },
+    {
+     "titel": "Meisje (8) zwaargewond bij aanval door wolf in Duits dierenpark",
+     "context": "In een wildpark in de Oost-Duitse deelstaat Brandenburg heeft een wolf een 8-jarig meisje aangevallen. Dat bevestigt de lokale politie aan het Duitse persbureau DPA. Het kind raakte bij de aanval zwaargewond en is per helikopter naar een ziekenhuis gevlogen. De aanval vond vanochtend plaats in een van de dierenverblijven in het wildpark Johannismühle. Het wildpark ligt in de gemeente Baruth/Mark, ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637048",
+     "bron": "NOS",
+     "tijd": "16:34",
+     "sorteer": "2026-10-28T16:34:44+01:00"
+    },
     {
      "titel": "Podcast De Dag: Israël na de verkiezingen",
      "context": "Voor het eerst sinds de Hamas-aanslagen van 7 oktober 2023 en het genocidale geweld van Israël dat daarop volgde, ging Israël naar de stembus. De uitslag laat de politiek vooral met vragen achter, want er is geen meerderheid voor één van de blokken, van zittend premier Benjamin Netanyahu of zijn uitdager Gadi Eisenkot. Daarmee is de strijd tussen de twee nog niet beslecht. Wat betekent dat voor de",
@@ -17,8 +35,8 @@
      "sorteer": "2026-10-28T16:25:30+01:00"
     },
     {
-     "titel": "Minister: hogesnelheidstrein Spanje reed door rood sein na instructie verkeersleiding",
-     "context": "De hogesnelheidstrein die op een stilstaande trein reed in Spanje was met toestemming van de treinverkeersleiding doorgereden, terwijl er een rood sein was. Dat zei minister van Transport Puente op een persconferentie. Bij de ramp zijn zeker 64 doden gevallen. 80 mensen raakten gewond, van wie 50 ernstig. Volgens Puente was er voor het ongeluk een computerstoring en heeft de botsing daar mogelijk ",
+     "titel": "Minister: hogesnelheidstrein Spanje reed door rood sein op instructie verkeersleiding",
+     "context": "De hogesnelheidstrein die op een stilstaande trein reed in Spanje was met toestemming van de treinverkeersleiding doorgereden, terwijl er een rood sein was. Dat zei minister van Transport Puente op een persconferentie. Bij de ramp zijn zeker 68 doden gevallen. Tientallen mensen raakten gewond. Volgens Puente was er voor het ongeluk een computerstoring en heeft de botsing daar mogelijk mee te maken",
      "rubrieken": [],
      "link": "https://nos.nl/l/2637042",
      "bron": "NOS",
@@ -35,49 +53,31 @@
      "sorteer": "2026-10-28T16:10:17+01:00"
     },
     {
-     "titel": "Pro-Netanyahu-blok met 85 procent geteld aan kop, moeilijke formatie dreigt",
-     "context": "Met 85 procent van de stemmen geteld gaat het pro-Netanyahu-blok met 53 zetels aan kop bij de Israëlische parlementsverkiezingen. Het blok rond oppositieleider Gadi Eisenkot staat op dit moment op 48 zetels. Het aantal zetels voor de Arabische partijen staat op 19, een historisch record. De Likud-partij van Netanyahu verliest met deze uitslag zes zetels en gaat van 32 naar 26. De pas een jaar gele",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637035",
-     "bron": "NOS",
-     "tijd": "15:27",
-     "sorteer": "2026-10-28T15:27:43+01:00"
-    },
-    {
-     "titel": "Flávio Bolsonaro en gezin geland in de Verenigde Staten",
-     "context": "De Braziliaanse oud-presidentskandidaat Flávio Bolsonaro is aangekomen in Miami in de Verenigde Staten, melden persbureau Reuters en AP. Op beelden is te zien dat Bolsonaro en zijn gezin uit een privéjet stappen op het Miami Opa Locka Executive Airport. De zoon van oud-president Jair Bolsonaro vluchtte het land uit nadat hij afgelopen weekend de presidentsverkiezingen in Brazilië had verloren van ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2637028",
-     "bron": "NOS",
-     "tijd": "14:55",
-     "sorteer": "2026-10-28T14:55:57+01:00"
-    },
-    {
-     "titel": "Spaanse minister: hogesnelheidstrein kreeg toestemming om door te rijden ondanks rood sein",
+     "titel": "Een van de laatste vrije media van Egypte moet stoppen: ‘Verwoestende klap voor de persvrijheid’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/spaanse-minister-hogesnelheidstrein-kreeg-toestemming-om-door-te-rijden-ondanks-rood-sein~b4e9a811/",
+     "link": "https://www.volkskrant.nl/buitenland/een-van-de-laatste-vrije-media-van-egypte-moet-stoppen-verwoestende-klap-voor-de-persvrijheid~b404a5eaf/",
      "bron": "de Volkskrant",
-     "tijd": "16:02",
-     "sorteer": "2026-10-28T15:02:00+00:00"
+     "tijd": "17:55",
+     "sorteer": "2026-10-28T16:55:31+00:00"
     },
     {
-     "titel": "‘Dit was onze laatste kans om van Netanyahu af te komen’",
+     "titel": "Tweede treinramp binnen een jaar maakt van het Spaanse hogesnelheidsnetwerk een nationaal trauma",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/dit-was-onze-laatste-kans-om-van-netanyahu-af-te-komen~bf06a3b2/",
+     "link": "https://www.volkskrant.nl/buitenland/tweede-treinramp-binnen-een-jaar-maakt-van-het-spaanse-hogesnelheidsnetwerk-een-nationaal-trauma~b5479545/",
      "bron": "de Volkskrant",
-     "tijd": "15:59",
-     "sorteer": "2026-10-28T14:59:20+00:00"
+     "tijd": "17:45",
+     "sorteer": "2026-10-28T16:45:16+00:00"
     },
     {
-     "titel": "Onzekerheid overheerst in Israël, met een uitslag die alle kanten op gaat",
+     "titel": "Trump pronkt in verkiezingstijd met bisschoppen, tot hun ongenoegen: ‘Gebed is gemanipuleerd’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/onzekerheid-overheerst-in-israel-met-een-uitslag-die-alle-kanten-op-gaat~baa9e37e/",
+     "link": "https://www.trouw.nl/religie-filosofie/trump-pronkt-in-verkiezingstijd-met-bisschoppen-tot-hun-ongenoegen-gebed-is-gemanipuleerd~b1b4a0d2/",
      "bron": "Trouw",
-     "tijd": "15:25",
-     "sorteer": "2026-10-28T14:25:00+00:00"
+     "tijd": "17:34",
+     "sorteer": "2026-10-28T16:34:15+00:00"
     }
    ]
   },
@@ -86,6 +86,15 @@
    "titel": "Nederland",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Podcast De Monarchie: hoe het koningshuis en defensie elkaar omarmen",
+     "context": "Prinses Amalia heeft vorige week bij de Koninklijke Marine een hogere rang gekregen. Ze is bevorderd van korporaal naar sergeant. Het hoort bij haar studie-werktraject bij het Defensity College. De keuze van Amalia voor defensie past in de lijn van haar familie. \"Er is een lange geschiedenis tussen de Oranjes en de krijgsmacht. Die begon al tijdens de tachtigjarige oorlog\", vertelt militair histor",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2637053",
+     "bron": "NOS",
+     "tijd": "16:49",
+     "sorteer": "2026-10-28T16:49:46+01:00"
+    },
     {
      "titel": "28/10 in Nieuwsuur: Zelensky bezoekt Nederland • Blijft Netanyahu premier?",
      "context": "Zelensky in Nederland De Oekraïense president Zelensky is in Nederland. Hij bezoekt onder meer koning Willem-Alexander, premier Jetten en de ministers Yesilgöz (Defensie) en Berendsen (Buitenlandse Zaken). Waarover de gesprekken precies gaan, is nog niet bekend. Tegelijkertijd is minister Sjoerd Sjoerdsma van Buitenlandse Handel en Ontwikkelingssamenwerking in Kyiv. Hij licht daar toe hoe de in to",
@@ -123,22 +132,22 @@
      "sorteer": "2026-10-28T11:35:47+01:00"
     },
     {
-     "titel": "Tientallen servers in beslaggenomen in Limburg om verspreiden kinderporno",
-     "context": "De politie heeft tientallen servers in beslag genomen in een internationaal onderzoek naar een malafide hostingbedrijf. Het bedrijf wordt ervan verdacht medeplichtig te zijn aan het faciliteren van cybercriminaliteit. Het hostingbedrijf hield zich volgens de politie bezig met onder meer het verspreiden van kinderporno, phishingactiviteiten en ransomaanvallen. De servers werden in een datacentrum i",
+     "titel": "Per direcht landelijke ophokplicht voor pluimvee vanwege vogelgriep",
+     "context": "Er geldt per direct een landelijke ophokplicht voor pluimvee. Volgens staatssecretaris Erkens (Landbouw) is dat nodig omdat er in korte tijd drie vogelgriepuitbraken zijn geweest. Het virus is deze week vastgesteld in Lutjegast (Groningen), Middelie (Noord-Holland) en Grootegast (Groningen). Ook zijn er in Nederland en andere Europese landen recent wilde vogels gevonden die de ziekte hadden. In ju",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2636994",
-     "bron": "NOS",
-     "tijd": "11:23",
-     "sorteer": "2026-10-28T11:23:33+01:00"
+     "link": "https://nos.nl/l/2637063",
+     "bron": "NOS politiek",
+     "tijd": "17:57",
+     "sorteer": "2026-10-28T17:57:09+01:00"
     },
     {
-     "titel": "Steeds meer kritiek op eigenzinnige optreden minister Heinen",
-     "context": "Bij D66 en het CDA klinkt steeds meer kritiek op minister Eelco Heinen van Financiën. Achter de schermen is te horen dat hij te solistisch te werk gaat en voor zijn beurt spreekt. Vanmorgen, na een overleg met de ChristenUnie over steun voor het Belastingplan, zorgde de VVD-minister opnieuw voor irritatie bij de coalitiegenoten. Heinen suggereerde dat hij een oplossing heeft voor de aanpassingen a",
+     "titel": "Na tien jaar gesteggel krijgt Aletta Jacobs toch een standbeeld in Den Haag, door een andere kunstenaar en op een alternatieve locatie",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2637027",
-     "bron": "NOS politiek",
-     "tijd": "14:48",
-     "sorteer": "2026-10-28T14:48:40+01:00"
+     "link": "https://www.volkskrant.nl/binnenland/na-tien-jaar-gesteggel-krijgt-aletta-jacobs-toch-een-standbeeld-in-den-haag-door-een-andere-kunstenaar-en-op-een-alternatieve-locatie~be170e6b/",
+     "bron": "de Volkskrant",
+     "tijd": "16:44",
+     "sorteer": "2026-10-28T15:44:29+00:00"
     },
     {
      "titel": "Koning steekt zijn licht op in het azc in Leersum: ‘Zware asieldebatten zijn hier niet’",
@@ -148,15 +157,6 @@
      "bron": "de Volkskrant",
      "tijd": "19:19",
      "sorteer": "2026-10-27T18:19:00+00:00"
-    },
-    {
-     "titel": "Roemeense ‘pooierbende’ op de Wallen pakt volgens justitie de zaken geraffineerd aan: ‘Het gaat om manipulatie, misleiding’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/roemeense-pooierbende-op-de-wallen-pakt-volgens-justitie-de-zaken-geraffineerd-aan-het-gaat-om-manipulatie-misleiding~b7b821b3/",
-     "bron": "de Volkskrant",
-     "tijd": "19:07",
-     "sorteer": "2026-10-27T18:07:00+00:00"
     },
     {
      "titel": "Met misleidende asielcijfers vallen Kamerleden rechter aan die terugkeer naar Italië blokkeert",
@@ -174,6 +174,15 @@
    "titel": "Zwolle en omgeving",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Van de huizen in Zwolle werd 91 procent binnen drie maanden verkocht",
+     "context": "In juli, augustus en september stond 91 procent van de verkochte huizen in Zwolle korter dan drie maanden te koop. Dat is meer dan landelijk: daar was dat 85 procent. Dat blijkt uit cijfers van het landelijke makelaarscollectief Dynamis. In dezelfde maanden van 2025 was dat in Zwolle 95 procent.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/van-de-huizen-in-zwolle-werd-91-procent-binnen-drie-maanden-verkocht~a39f61cd/",
+     "bron": "de Stentor",
+     "tijd": "17:30",
+     "sorteer": "2026-10-28T16:30:00+00:00"
+    },
     {
      "titel": "Personeel van uitkeringsinstantie UWV in Zwolle gaat actievoeren: ‘We hopen dat ze allemaal naar buiten komen’",
      "context": "Het personeel van uitkeringsinstantie UWV in Zwolle gaat donderdag actievoeren uit onvrede over het cao-eindbod van de werkgever, meldt De Unie. Volgens de vakbond is de ontevredenheid onder het personeel momenteel zeer groot.",
@@ -211,13 +220,37 @@
      "sorteer": "2026-10-28T06:30:23+00:00"
     },
     {
-     "titel": "De trainer van PEC Zwolle neemt het woord ‘trots’ in zijn mond: ‘Geniet dat we stappen maken’",
-     "context": "Ze staan nu twee weken voor de groep en werken met PEC Zwolle toe naar de start van het bekertoernooi. Dennis van der Ree en Maikel van der Werff genieten van de stappen die de ploeg zet en gaan in aanloop naar de bekerwedstrijd tegen TOP Oss in op vier vragen.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/pec-zwolle/de-trainer-van-pec-zwolle-neemt-het-woord-trots-in-zijn-mond-geniet-dat-we-stappen-maken~a5c2ef20/",
-     "bron": "de Stentor",
+     "titel": "Gemeente Zwartewaterland knapt komende vijf jaar groenvakken op",
+     "context": "De gemeente Zwartewaterland en ROVA gaan de komende vijf jaar verouderde en kale groenvakken opknappen. Ongeveer een kwart van de plantvakken in de gemeente is ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "genemuiden",
+      "Hasselt",
+      "ROVA",
+      "Zwartewaterland"
+     ],
+     "link": "https://1zwolle.nl/nieuws/213699/gemeente-zwartewaterland-knapt-komende-vijf-jaar-groenvakken-op.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "17:39",
+     "sorteer": "2026-10-28T16:39:00+00:00"
+    },
+    {
+     "titel": "Nedersaksisch zit in de lift, actiegroep kondigt nieuwe stickeractie aan",
+     "context": "Wieje, Weensum of Wietem. De Jonge Sassen beplakte eerder in oktober zo’n dertig plaatsnaamborden met de Nedersaksische naamvariant. De actiegroep wil een hogere erkenning van ... Lees meer",
+     "rubrieken": [
+      "Cultuur",
+      "dialect",
+      "nedersaksisch",
+      "Overijssel",
+      "Streektaal",
+      "taal",
+      "Weensum",
+      "Windesheim"
+     ],
+     "link": "https://1zwolle.nl/nieuws/213707/nedersaksisch-zit-in-de-lift-actiegroep-kondigt-nieuwe-stickeractie-aan.html",
+     "bron": "Weblog Zwolle",
      "tijd": "17:00",
-     "sorteer": "2026-10-27T16:00:16+00:00"
+     "sorteer": "2026-10-28T16:00:47+00:00"
     },
     {
      "titel": "Zwolse vastgoedman volgens OM spil in drugslabs: zeven jaar cel geëist",
@@ -245,34 +278,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "12:03",
      "sorteer": "2026-10-28T11:03:00+00:00"
-    },
-    {
-     "titel": "Levensgrote beren vragen aandacht voor pleegzorg in Hattem",
-     "context": "Drie levensgrote beren verschijnen tijdens de Week van de Pleegzorg op verschillende plekken in Hattem. Met de actie vragen de gemeente en pleegzorgorganisaties aandacht voor ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Evenementen",
-      "Hattem",
-      "Week van de Pleegzorg"
-     ],
-     "link": "https://1zwolle.nl/nieuws/213668/levensgrote-beren-vragen-aandacht-voor-pleegzorg-in-hattem.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "11:10",
-     "sorteer": "2026-10-28T10:10:18+00:00"
-    },
-    {
-     "titel": "Burgemeester sluit bedrijfsunit op bedrijventerrein IJsselmuiden voor zes maanden",
-     "context": "Burgemeester De Rouwe heeft besloten een bedrijfsunit aan de Spoordwarsstraat in IJsselmuiden voor zes maanden te sluiten. In de bedrijfsunit werd na een explosie en ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "drugslab",
-      "Kampen",
-      "Spoordwarsstraat"
-     ],
-     "link": "https://1zwolle.nl/nieuws/213635/burgemeester-sluit-bedrijfsunit-op-bedrijventerrein-ijsselmuiden-voor-zes-maanden.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "08:20",
-     "sorteer": "2026-10-28T07:20:00+00:00"
     }
    ]
   },
@@ -281,48 +286,6 @@
    "titel": "Tweede Kamer",
    "emoji": "🏛️",
    "items": [
-    {
-     "titel": "Motie van het lid Dobbe over een ondersteuningsteam voor zorgbuurthuizen en vergelijkbare initiatieven",
-     "bron": "motie aangenomen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z22504"
-    },
-    {
-     "titel": "Motie van het lid Bikker over meer onderzoek naar en zorg en ondersteuning voor vrouwen die in het tweede trimester de…",
-     "bron": "motie aangenomen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z22496"
-    },
-    {
-     "titel": "Motie van het lid Tijmstra c.s. over onderzoeken of het mogelijk is om structureel 100 miljoen vanuit de groeiruimte voor het…",
-     "bron": "motie aangenomen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z22485"
-    },
-    {
-     "titel": "Motie van de leden Verkuijlen en Poortman over zorgkosten als gevolg van drugsgebruik in kaart brengen",
-     "bron": "motie aangenomen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z22483"
-    },
-    {
-     "titel": "Motie van het lid Van Brenk over een regeringscommissaris zorgfraude",
-     "bron": "motie verworpen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z22506"
-    },
-    {
-     "titel": "Motie van het lid Dobbe over het aantal uren kraamzorg voor gezinnen niet verminderen",
-     "bron": "motie verworpen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z22501"
-    },
     {
      "titel": "De lang aanslepende asielaanvragen die werk in de weg staan",
      "bron": "Kamervraag",
@@ -364,12 +327,12 @@
      "sorteer": "2026-10-28T10:11:46.367+01:00"
     },
     {
-     "titel": "Reactie op verzoek commissie over uitvoeringsagenda diergeneeskundige zorg",
+     "titel": "Schriftelijke antwoorden op vragen gesteld tijdens de eerste termijn van de begrotingsbehandeling van Onderwijs, Cultuur en…",
      "bron": "Brief van de regering",
      "kop": "Brieven en moties",
-     "tijd": "13-10",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D50858",
-     "sorteer": "2026-10-28T16:23:03.957+01:00"
+     "tijd": "28-10",
+     "link": "https://www.tweedekamer.nl/zoeken?qry=2026D53816",
+     "sorteer": "2026-10-28T17:53:03.843+01:00"
     },
     {
      "titel": "Over het rapport 'Iedere boer telt' door RVO en Caring Farmers",
@@ -439,9 +402,9 @@
      "titel": "Begroting Koning (37 020-I) en begroting Algemene Zaken (37 020-III)",
      "bron": "Plenair debat (wetgeving)",
      "kop": "Komende week",
-     "tijd": "woensdag 28/10 16:15",
+     "tijd": "woensdag 28/10 17:15",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05411",
-     "sorteer": "2026-10-28T16:15"
+     "sorteer": "2026-10-28T17:15"
     },
     {
      "titel": "Vreemdelingen- en asielbeleid",
@@ -490,16 +453,16 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 13.1,
-    "gevoel": 13.1,
-    "wind": "ZZW 2",
+    "nu": 11.9,
+    "gevoel": 11.9,
+    "wind": "ZW 2",
     "station": "Heino",
-    "bericht": "Door hogedrukgebied is het de komende dagen vaak rustig met nauwelijks wind. Verder is de zon geregeld te zien en is er 's nachts en 's ochtends kans op nevel of mist. Het blijft droog bij maxima rond of net boven het langjarig gemiddelde.",
-    "vandaag": "Vanmiddag wisselen zon en stapelwolken elkaar af en het blijft droog. Vanavond raakt het vanuit het noordwesten bewolkt, behalve in het oosten en zuidoosten.",
+    "bericht": "Het is de komende dagen vaak rustig weer met nauwelijks wind. Verder is de zon geregeld te zien en is 's nachts en 's ochtends kans op nevel of mist. Het blijft droog bij maxima rond of net boven het langjarig gemiddelde.",
+    "vandaag": "Vanavond raakt het vanuit het noordwesten bewolkt, behalve in het oosten en zuidoosten. Vannacht kan hier en daar nog wat lichte regen vallen.",
     "temperatuur": "In de middag wordt het zo'n 15 of 16 graden.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: 9 tot 14 graden, 28% kans op neerslag, ruim 8 uur zon, wind uit het zuidwesten, kracht 3.",
-     "max": 14,
+     "zin": "Voor Zwolle zelf: 9 tot 15 graden, 28% kans op neerslag, ruim 9 uur zon, wind uit het zuidwesten, kracht 3.",
+     "max": 15,
      "min": 9,
      "regenkans": 28,
      "omschrijving": "bewolkt"
@@ -521,10 +484,10 @@
   }
  ],
  "status": {
-  "ronde": "Middagbriefing",
-  "opgehaald": "16:27",
+  "ronde": "Avondbriefing",
+  "opgehaald": "18:00",
   "blokken": 6,
-  "berichten": 51,
+  "berichten": 45,
   "problemen": []
  }
 }
