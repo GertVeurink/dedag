@@ -157,6 +157,15 @@
    "emoji": "📍",
    "items": [
     {
+     "titel": "Schlette houdt Vink in bedwang en wijst d’Olde Veste’54 de weg tegen Berkum",
+     "context": "d’Olde Veste’54 is veel verder dan Berkum (3-0), zo wordt duidelijk in Steenwijk. De ijzersterke centrale verdediger Kaj Schlette houdt niet alleen spits Randy Vink in toom, maar scoort ook nog eens.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/amateurvoetbal/schlette-houdt-vink-in-bedwang-en-wijst-dolde-veste54-de-weg-tegen-berkum~a54e45d9/",
+     "bron": "de Stentor",
+     "tijd": "18:00",
+     "sorteer": "2026-11-01T17:00:48+00:00"
+    },
+    {
      "titel": "Fenomeen Richard Boerhof heeft eindelijk opvolger: ‘Mijn vader zegt altijd: Kost wat kost op tijd voor die goal zijn’",
      "context": "Met 297 goals voor Olympia’28 en Genemuiden staat de naam Richard Boerhof voor eeuwig gegrift in de voetbalhistorie van Zwartewaterland. Het fenomeen uit de jaren negentig heeft eindelijk een opvolger. Zoon en talent Rubin Boerhof (18) doet bij Olympia’28 wat vaderlief ook altijd deed: Scoren!",
      "rubrieken": [],
@@ -191,15 +200,6 @@
      "bron": "de Stentor",
      "tijd": "13:45",
      "sorteer": "2026-11-01T12:45:00+00:00"
-    },
-    {
-     "titel": "Hattem heeft de standaardsituatie als wapen: ‘Je zag wel dat er wat te halen viel’",
-     "context": "Nee, ze trainen er niet op. Trainer Mark Homme van der Veen zegt dat deze variant uit zijn spelers zelf komt. Hattem wint met 5-2 van WZC, mede dankzij drie goede standaardsituaties, twee corners en een vrije trap.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/regio-apeldoorn/hattem-heeft-de-standaardsituatie-als-wapen-je-zag-wel-dat-er-wat-te-halen-viel~a8b0cfd6/",
-     "bron": "de Stentor",
-     "tijd": "10:00",
-     "sorteer": "2026-11-01T09:00:53+00:00"
     },
     {
      "titel": "Nieuwe creatieve innovatiehub Future Works opent in Zwolse Spoorzone",
@@ -276,7 +276,7 @@
      "sorteer": "2026-11-02T13:00"
     },
     {
-     "titel": "Begroting Binnenlandse Zaken (37 020-VII) (1e TK)",
+     "titel": "Begroting Binnenlandse Zaken",
      "bron": "Plenair debat (wetgeving)",
      "kop": "Komende week",
      "tijd": "dinsdag 3/11 16:30",
@@ -292,7 +292,7 @@
      "sorteer": "2026-11-04T10:00"
     },
     {
-     "titel": "Begroting Klimaat en Groene Groei (37 020-XXIII) (1e TK)",
+     "titel": "Begroting Klimaat en Groene Groei",
      "bron": "Plenair debat (wetgeving)",
      "kop": "Komende week",
      "tijd": "woensdag 4/11 10:15",
@@ -300,15 +300,7 @@
      "sorteer": "2026-11-04T10:15"
     },
     {
-     "titel": "Stikstof - GEANNULEERD - agendapunten geagendeerd bij begrotingsbehandeling LVVN 2027",
-     "bron": "Commissiedebat",
-     "kop": "Komende week",
-     "tijd": "woensdag 4/11 13:00",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06512",
-     "sorteer": "2026-11-04T13:00"
-    },
-    {
-     "titel": "Pakket Belastingplan 2027 (1e TK)",
+     "titel": "Pakket Belastingplan 2027",
      "bron": "Plenair debat (wetgeving)",
      "kop": "Komende week",
      "tijd": "woensdag 4/11 15:30",
@@ -322,6 +314,14 @@
      "tijd": "donderdag 5/11 10:00",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04089",
      "sorteer": "2026-11-05T10:00"
+    },
+    {
+     "titel": "Begroting Binnenlandse Zaken (voortzetting)",
+     "bron": "Plenair debat (wetgeving)",
+     "kop": "Komende week",
+     "tijd": "donderdag 5/11 10:15",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07993",
+     "sorteer": "2026-11-05T10:15"
     }
    ]
   },
@@ -331,7 +331,7 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "18:00",
+    "bijgewerkt": "18:04",
     "uitslagen": [
      {
       "thuis": "PEC Zwolle",
@@ -362,7 +362,7 @@
       "uit": "Sparta",
       "score": "2 - 2",
       "wanneer": "vandaag 16:45",
-      "bezig": "56'",
+      "bezig": "60'",
       "pec": false
      },
      {
@@ -638,7 +638,7 @@
  ],
  "status": {
   "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
+  "opgehaald": "18:04",
   "blokken": 7,
   "berichten": 37,
   "problemen": []
