@@ -94,6 +94,47 @@
     -webkit-tap-highlight-color: transparent;
   }
   .kop .naam { flex: 1; }
+  /* Een kopje dat niet vouwt, zoals Uitslagen en Stand bij het voetbal: daar
+     valt niets open of dicht, het blok zelf doet dat al. */
+  .kop.vast { cursor: default; }
+
+  /* Eredivisie. Een uitslag is drie kolommen, zodat de cijfers onder elkaar
+     staan en je de rij niet hoeft te lezen om de stand te zien. */
+  .uitslag {
+    display: grid; grid-template-columns: 1fr auto 1fr;
+    align-items: baseline; gap: 10px; padding: 10px 16px;
+    border-bottom: 1px solid var(--line);
+  }
+  .uitslag:last-child { border-bottom: 0; }
+  .uitslag .thuis { text-align: right; }
+  .uitslag .score { font: 600 18px/1.2 var(--serif); white-space: nowrap; }
+  .uitslag .wanneer {
+    grid-column: 1 / -1; text-align: center;
+    color: var(--ink-3); font-size: 13px;
+  }
+  .uitslag.pec { background: var(--accent-zacht); }
+  .uitslag.pec .thuis, .uitslag.pec .gast { font-weight: 600; }
+  .bezig { color: var(--accent); font-weight: 600; }
+
+  table.stand { width: 100%; border-collapse: collapse; font-size: 15px; }
+  table.stand th {
+    text-align: right; color: var(--ink-3); font-weight: 500;
+    font-size: 13px; padding: 8px 7px 6px; border-bottom: 1px solid var(--line);
+  }
+  table.stand th.club, table.stand td.club { text-align: left; }
+  table.stand td {
+    text-align: right; padding: 7px; border-bottom: 1px solid var(--line);
+  }
+  /* Alleen buitenom de volle marge. Met 16 pixels aan weerskanten van élke
+     cel bleef er op een telefoon zo weinig over dat "Go Ahead Eagles" over
+     twee regels ging. */
+  table.stand th:first-child, table.stand td:first-child { padding-left: 16px; }
+  table.stand th:last-child, table.stand td:last-child { padding-right: 16px; }
+  table.stand td.plek { color: var(--ink-3); width: 1px; }
+  table.stand td.punten { font-weight: 600; }
+  table.stand tr:last-child td { border-bottom: 0; }
+  table.stand tr.pec td { background: var(--accent-zacht); font-weight: 600; }
+  .vbvoet { padding: 10px 16px; color: var(--ink-3); font-size: 13px; }
 
   .weer { padding: 14px 16px; }
   .weer .groot { font: 600 19px/1.4 var(--serif); }
@@ -156,6 +197,65 @@ function tekenWeer(blok) {
   return vak;
 }
 
+/* Uitslagen en de stand. Dit blok heeft geen berichten maar twee tabellen,
+   dus het tekent zichzelf — net als het weerblok. PEC Zwolle staat in beide
+   lichtgroen: dat is de club van de stad waar dit gelezen wordt. */
+function tekenVoetbal(blok) {
+  const v = blok.voetbal || {};
+  const vak = el('div');
+
+  if ((v.uitslagen || []).length) {
+    const kop = el('div', 'kop vast');
+    kop.appendChild(el('span', 'naam', 'Uitslagen'));
+    vak.appendChild(kop);
+    for (const u of v.uitslagen) {
+      const rij = el('div', 'uitslag' + (u.pec ? ' pec' : ''));
+      rij.appendChild(el('span', 'thuis', u.thuis));
+      rij.appendChild(el('span', 'score', u.score || '—'));
+      rij.appendChild(el('span', 'gast', u.uit));
+      const onder = el('span', 'wanneer');
+      onder.appendChild(el('span', '', u.wanneer || ''));
+      if (u.bezig) {
+        onder.appendChild(el('span', '', ' · '));
+        onder.appendChild(el('span', 'bezig', u.bezig));
+      }
+      rij.appendChild(onder);
+      vak.appendChild(rij);
+    }
+  }
+
+  if ((v.stand || []).length) {
+    const kop = el('div', 'kop vast');
+    kop.appendChild(el('span', 'naam', 'Stand'));
+    vak.appendChild(kop);
+    const t = el('table', 'stand');
+    const koprij = el('tr');
+    koprij.appendChild(el('th', '', ''));
+    koprij.appendChild(el('th', 'club', 'club'));
+    koprij.appendChild(el('th', '', 'gesp'));
+    koprij.appendChild(el('th', '', 'ptn'));
+    koprij.appendChild(el('th', '', 'saldo'));
+    t.appendChild(koprij);
+    for (const r of v.stand) {
+      const rij = el('tr', r.pec ? 'pec' : '');
+      rij.appendChild(el('td', 'plek', r.plek));
+      rij.appendChild(el('td', 'club', r.team));
+      rij.appendChild(el('td', '', r.gespeeld));
+      rij.appendChild(el('td', 'punten', r.punten));
+      rij.appendChild(el('td', '', r.saldo));
+      t.appendChild(rij);
+    }
+    vak.appendChild(t);
+    /* De stand loopt achter op de uitslagen: een wedstrijd van vanmiddag staat
+       er 's avonds soms nog niet in. Dat is geen fout van de app, dus zeggen we
+       het erbij in plaats van het te verbergen. */
+    vak.appendChild(el('div', 'vbvoet',
+      'Stand bijgewerkt om ' + (v.bijgewerkt || '?')
+      + '. Een uitslag van vandaag staat er soms nog niet in.'));
+  }
+  return vak;
+}
+
 function tekenBericht(i) {
   const rij = el('div', 'item');
   const a = el('a', '', i.titel);
@@ -212,15 +312,19 @@ function tekenItems(blok) {
   return lijst;
 }
 
-/* Wat er dichtgevouwen staat. Dat is een gemak van dit toestel en geen
-   gegeven van de briefing, dus het hoort in localStorage en niet in de app.
-   Bewaard wordt wat er DICHT staat: zo is alles standaard open en ziet hij
-   bij de eerste keer openen gewoon het nieuws, zonder dat hij moet ontdekken
-   dat er ergens getikt moet worden. */
-const ui = { dicht: {}, kopDicht: {} };
+/* Wat er openstaat. Dat is een gemak van dit toestel en geen gegeven van de
+   briefing, dus het hoort in localStorage en niet in de app.
+
+   Bewaard wordt wat er OPEN staat, en dus zijn de blokken standaard dicht.
+   Dat was eerst andersom -- alles open, zodat een nieuwe lezer gewoon het
+   nieuws zag -- maar Gerts vader vroeg op 1 november 2026 om het omgekeerde:
+   zeven kopjes met een aantal erachter zijn één schermvol, en dan kies je
+   waar je naar kijkt. De kopjes *binnen* een blok blijven wel standaard open
+   (`kopDicht`), anders moet je twee keer tikken voor je iets ziet. */
+const ui = { open: {}, kopDicht: {} };
 try {
   const bewaard = JSON.parse(localStorage.getItem('dedag.ui') || '{}');
-  Object.assign(ui.dicht, bewaard.dicht || {});
+  Object.assign(ui.open, bewaard.open || {});
   Object.assign(ui.kopDicht, bewaard.kopDicht || {});
 } catch (e) {}
 
@@ -246,16 +350,21 @@ function teken(d) {
 
   for (const blok of d.blokken || []) {
     const kaart = el('div', 'blok');
-    const open = !ui.dicht[blok.id];
+    const open = !!ui.open[blok.id];
     const naam = (blok.emoji ? blok.emoji + ' ' : '') + blok.titel;
-    kaart.appendChild(vouwknop('blokkop', naam, (blok.items || []).length, open,
+    /* Een blok mag zelf zeggen wat er op het bolletje staat. Het voetbalblok
+       heeft geen berichten maar wel negen uitslagen, en dicht is dat aantal
+       het enige wat je ziet. */
+    const aantal = blok.aantal !== undefined ? blok.aantal : (blok.items || []).length;
+    kaart.appendChild(vouwknop('blokkop', naam, aantal, open,
       () => {
-        ui.dicht[blok.id] = open;
+        ui.open[blok.id] = !open;
         bewaarUi();
         hertekenAlles();
       }));
     if (open) {
       if (blok.weer) kaart.appendChild(tekenWeer(blok));
+      if (blok.voetbal) kaart.appendChild(tekenVoetbal(blok));
       if ((blok.items || []).length) kaart.appendChild(tekenItems(blok));
     }
     doel.appendChild(kaart);
