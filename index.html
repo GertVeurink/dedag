@@ -83,6 +83,22 @@
   .meta { color: var(--ink-3); font-size: 14px; margin-top: 3px; }
   .toel { color: var(--ink-2); font-size: 15px; margin-top: 6px; }
 
+  /* De duiding: een paar stukjes die berichten aan elkaar knopen, met de
+     koppen eronder waarop ze rusten. Die koppen zijn het punt -- zonder die
+     lijst is het een bewering van een computer, met die lijst kun je het zelf
+     nalopen. Daarom staan ze er als gewone links en niet klein weggestopt. */
+  .draad { padding: 14px 16px; border-bottom: 1px solid var(--line); }
+  .draad:last-child { border-bottom: 0; }
+  .draadkop { font-weight: 600; margin-bottom: 5px; }
+  .draad p { margin: 0; color: var(--ink-2); }
+  .waaruit { margin-top: 9px; display: flex; flex-direction: column; gap: 4px; }
+  .waaruit a, .waaruit span {
+    color: var(--ink-3); font-size: 14px; text-decoration: none;
+  }
+  .waaruit a:hover { text-decoration: underline; color: var(--ink-2); }
+  .duidingtijd { color: var(--ink-3); font-size: 14px;
+                 padding: 11px 16px 0; margin: 0; }
+
   /* Kopjes binnen een blok, zoals Kamervragen en Komende week. Ook die vouwen
      dicht: het Kamerblok heeft er in een gewone week vijftien onder staan. */
   .kop {
@@ -269,6 +285,55 @@ function tekenBericht(i) {
   return rij;
 }
 
+/* De duiding. Zelfde opzet als tekenWeer en tekenVoetbal: een blok dat zijn
+   inhoud niet in `items` heeft maar in een eigen veld, dus het vouwt open en
+   dicht als alle andere.
+
+   De tekst komt van een model en gaat daarom met textContent naar het scherm
+   en niet met innerHTML -- een losse < of & hoort een teken te blijven. */
+function tekenDuiding(blok) {
+  const vak = el('div', 'items');
+
+  /* Wanneer het geschreven is. Het wordt één keer per dag gemaakt, vlak na de
+     ronde van 07:00, en staat 's avonds nog boven een lijst die sindsdien twee
+     keer is ververst. Een briefing van vóór 3 november 2026 draagt het veld
+     niet; dan staat er niets, en dat is beter dan een verzonnen tijd. */
+  const geschreven = (blok.duiding || []).find(d => d.geschreven);
+  if (geschreven) {
+    vak.appendChild(el('p', 'duidingtijd',
+      'Geschreven om ' + geschreven.geschreven + ', uit het nieuws van dat moment.'));
+  }
+
+  for (const d of blok.duiding || []) {
+    const rij = el('div', 'draad');
+    rij.appendChild(el('div', 'draadkop', d.titel || ''));
+    rij.appendChild(el('p', '', d.tekst || ''));
+
+    if ((d.verwijzingen || []).length) {
+      const uit = el('div', 'waaruit');
+      for (const v of d.verwijzingen) {
+        /* Afgekapt, want een titel uit de Kamer loopt makkelijk over drie
+           regels en dit is een lijstje om te scannen. */
+        const naam = (v.titel || '').length > 64
+          ? (v.titel || '').slice(0, 63) + '\u2026' : (v.titel || '');
+        const tekst = '\u2192 ' + naam + (v.bron ? ' (' + v.bron + ')' : '');
+        if (v.link) {
+          const a = el('a', '', tekst);
+          a.href = v.link;
+          a.target = '_blank';
+          a.rel = 'noopener';
+          uit.appendChild(a);
+        } else {
+          uit.appendChild(el('span', '', tekst));
+        }
+      }
+      rij.appendChild(uit);
+    }
+    vak.appendChild(rij);
+  }
+  return vak;
+}
+
 /* Een knop met een naam, een aantal en een pijltje. Zowel een blok als een
    kopje gebruikt hem, want ze doen hetzelfde: één tik vouwt hem open of dicht. */
 function vouwknop(klasse, naam, aantal, open, bijTik) {
@@ -363,6 +428,7 @@ function teken(d) {
         hertekenAlles();
       }));
     if (open) {
+      if (blok.duiding) kaart.appendChild(tekenDuiding(blok));
       if (blok.weer) kaart.appendChild(tekenWeer(blok));
       if (blok.voetbal) kaart.appendChild(tekenVoetbal(blok));
       if ((blok.items || []).length) kaart.appendChild(tekenItems(blok));
