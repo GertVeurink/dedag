@@ -1,6 +1,6 @@
 {
- "naam": "Avondbriefing",
- "datum": "2026-11-08",
+ "naam": "Ochtendbriefing",
+ "datum": "2026-11-09",
  "blokken": [
   {
    "id": "duiding",
@@ -9,51 +9,70 @@
    "items": [],
    "duiding": [
     {
-     "titel": "Amerikaanse zeeblokkade van Iran",
-     "tekst": "Het Amerikaanse leger heeft zaterdag in de Golf van Oman een vrachtschip beschoten dat uit een Iraanse haven kwam. Volgens het leger probeerde de bemanning de Amerikaanse zeeblokkade te omzeilen en negeerde ze waarschuwingen. NOS en de Volkskrant baseren zich allebei op wat het leger zelf meldt.",
+     "titel": "Belasting op vermogen in Kamer",
+     "tekst": "Vanmiddag om vier uur praat de Kamer over een uitbreiding van de belasting op vermogenswinst in box 3, en dinsdag gaat het debat over het Belastingplan 2027 verder. De Volkskrant blikt juist vandaag terug op de 19de eeuw, toen de elite een vermogensbelasting als verraad zag.",
      "verwijzingen": [
       {
-       "titel": "Amerikaans leger zegt schip in Golf van Oman te hebben beschoten",
-       "link": "https://nos.nl/l/2638515",
-       "bron": "NOS",
-       "tijd": "03:08"
+       "titel": "Toen de 19de-eeuwse elite vermogensbelasting als verraad zag",
+       "link": "https://www.volkskrant.nl/binnenland/toen-de-19de-eeuwse-elite-vermogensbelasting-als-verraad-zag~b9ab5955/",
+       "bron": "de Volkskrant",
+       "tijd": "05:00"
       },
       {
-       "titel": "VS beschieten vrachtschip in Golf van Oman wegens doorbreken blokkade Iran",
-       "link": "https://www.volkskrant.nl/buitenland/vs-beschieten-vrachtschip-in-golf-van-oman-wegens-doorbreken-blokkade-iran~b7a280d3/",
-       "bron": "de Volkskrant",
-       "tijd": "04:06"
+       "titel": "Novelle uitbreiding vermogenswinstbelasting box 3",
+       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07547",
+       "bron": "Wetgevingsoverleg",
+       "tijd": "maandag 9/11 16:00"
+      },
+      {
+       "titel": "Pakket Belastingplan 2027 (voortzetting)",
+       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07998",
+       "bron": "Plenair debat (wetgeving)",
+       "tijd": "dinsdag 10/11 16:15"
       }
      ],
      "geschreven": "07:00"
     },
     {
-     "titel": "Israël, Gaza en Amsterdam",
-     "tekst": "In Israël mag oppositieleider Eisenkot als eerste proberen een regering te vormen, hoewel Likud de grootste partij werd. In Gaza staan tienduizenden tenten onder water, en Unicef wijst op Israëlische beperkingen op de invoer. Maandag lopen de oud-politici Cohen en Van Aartsen in Amsterdam mee met het Rode Lijn-protest tegen Israël.",
+     "titel": "Mist en geen Wegenwacht",
+     "tekst": "Het KNMI waarschuwt tot dinsdagochtend tien uur voor dichte mist in delen van Overijssel, Drenthe en Groningen. Vandaag leggen ANWB-medewerkers, ook de Wegenwacht, van negen tot negen het werk neer omdat de gesprekken over een nieuwe cao zijn vastgelopen. Wie vandaag in de mist met pech strandt, moet dus langer wachten op hulp.",
      "verwijzingen": [
       {
-       "titel": "Oppositieleider Eisenkot mag Israëlische regering vormen, maar staat voor lastige puzzel",
-       "link": "https://nos.nl/l/2638495",
+       "titel": "Extra pech bij pech vandaag: Wegenwacht staakt",
+       "link": "https://nos.nl/l/2638664",
        "bron": "NOS",
-       "tijd": "21:51"
+       "tijd": "06:22"
       },
       {
-       "titel": "Hevige regen treft tentenkampen in Gaza, hulpvraag neemt toe",
-       "link": "https://nos.nl/l/2638483",
+       "titel": "Code geel in delen van Drenthe, Groningen en Overijssel wegens dichte mist",
+       "link": "https://nos.nl/l/2638659",
        "bron": "NOS",
-       "tijd": "20:07"
+       "tijd": "02:26"
+      }
+     ],
+     "geschreven": "07:00"
+    },
+    {
+     "titel": "Wat Rusland liever verzwijgt",
+     "tekst": "Bloomberg heeft gehackte gegevens van het Russische statistiekbureau onderzocht. Daaruit blijkt dat sinds februari 2022 bijna 400.000 Russen door de oorlog zijn omgekomen. Tegelijk meldt de Volkskrant dat ook de laatste kritische krant van Rusland bezwijkt onder Poetins repressie.",
+     "verwijzingen": [
+      {
+       "titel": "Bijna 400.000 Russische doden in oorlog met Oekraïne, blijkt uit gehackte data",
+       "link": "https://nos.nl/l/2638660",
+       "bron": "NOS",
+       "tijd": "03:36"
       },
       {
-       "titel": "Cohen en Van Aartsen lopen mee met Rode Lijn: 'We moeten het genocide noemen'",
-       "link": "https://nos.nl/l/2638426",
-       "bron": "NOS politiek",
-       "tijd": "14:04"
+       "titel": "Ook laatste kritische krant van Rusland bezwijkt dan toch onder Poetins repressie",
+       "link": "https://www.volkskrant.nl/buitenland/ook-laatste-kritische-krant-van-rusland-bezwijkt-dan-toch-onder-poetins-repressie~bacd9e91/",
+       "bron": "de Volkskrant",
+       "tijd": "05:00"
       }
      ],
      "geschreven": "07:00"
     }
    ],
-   "aantal": 2
+   "aantal": 3
   },
   {
    "id": "internationaal",
@@ -61,76 +80,67 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Zeven doden en ruim honderd gewonden bij treinbotsing in Egypte",
-     "context": "Bij een treinongeluk in Egypte zijn minstens zeven doden en 112 gewonden gevallen, melden de autoriteiten van het land. Het ongeluk gebeurde nabij Al Ayyat in het gouvernement Gizeh, zo'n 50 kilometer ten zuiden van de hoofdstad Caïro. Onder andere de machinist van een van de treinen kwam om bij de botsing, meldt het transportministerie Volgens het ministerie botste een trein richting Fayoum op de",
+     "titel": "Pianist valt van cruiseschip en wordt na 9 uur drijven in Stille Oceaan gered",
+     "context": "Een pianist van een cruiseschip is op bijna 30 kilometer van de Californische kust, midden in de Stille Oceaan, gered. Hij dreef toen vermoedelijk al zo'n negen uur rond, nadat hij 's nachts overboord was geslagen. Hoe de man van het veertien dekken tellende cruiseschip viel, is nog niet duidelijk. De 37-jarige man werd gered door twee vissers uit Newport Beach, die op de terugweg waren van een vi",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2638582",
+     "link": "https://nos.nl/l/2638662",
      "bron": "NOS",
-     "tijd": "16:35",
-     "sorteer": "2026-11-08T16:35:06+01:00"
+     "tijd": "05:35",
+     "sorteer": "2026-11-09T05:35:57+01:00"
     },
     {
-     "titel": "Nederlandse (81) overleden na ongeluk waarbij camper kantelde op snelweg in België",
-     "context": "Bij een ongeluk met een camper op de snelweg E313 in België is een Nederlandse vrouw van 81 om het leven gekomen. Belgische media schrijven dat het voertuig waarin ze reed op de zijkant is beland bij het ongeval. Hoe het fatale ongeluk kon gebeuren is nog onduidelijk. De politie doet daar onderzoek naar. De 81-jarige vrouw was de enige inzittende van het voertuig. Het ongeluk gebeurde rond 10.30 u",
+     "titel": "Tiener die plannen maakte voor terreuraanslag in Australië hoeft cel niet in",
+     "context": "Een 16-jarige jongen die plannen maakte voor een terreuraanslag in Sydney hoeft niet de gevangenis in, meldt de Australische publieke omroep ABC . De jongen werd ruim twee jaar geleden op 14-jarige leeftijd gearresteerd in Sydney, nadat hij online had opgezocht hoe hij met een snelkookpan een bom kon maken. Ook probeerde hij contact te leggen met een van de daders van de aanslag op de marathon van",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2638577",
+     "link": "https://nos.nl/l/2638661",
      "bron": "NOS",
-     "tijd": "15:51",
-     "sorteer": "2026-11-08T15:51:00+01:00"
+     "tijd": "04:36",
+     "sorteer": "2026-11-09T04:36:28+01:00"
     },
     {
-     "titel": "Kaapstad ruziet over plan om 'probleembavianen' op te sluiten",
-     "context": "Waar in Nederland de wolf de gemoederen bezighoudt, is dat in Zuid-Afrika de baviaan. Na jaren van pogingen om mens en aap vreedzaam te laten samenleven, wil de gemeente Kaapstad ruim zestig bavianen vangen en onderbrengen in een omheind gebied. Het plan leidt tot protesten. Het is klikodag in Simon's Town, aan de zuidpunt van het Kaapse schiereiland. Een baviaan trekt een grijze afvalbak omver en",
+     "titel": "Bijna 400.000 Russische doden in oorlog met Oekraïne, blijkt uit gehackte data",
+     "context": "Bijna 400.000 Russen zijn sinds de invasie van Oekraïne in februari 2022 omgekomen als gevolg van de oorlog. Dat blijkt uit gehackte gegevens van het Russische statistiekbureau Rosstat, die zijn ingezien en onderzocht door persbureau Bloomberg . De Belarussische hackersgroep Cyberpartisans en de Oekraïense hackerorganisatie Silent Crow maakten de gegevens buit van Rosstat, de Russische tegenhanger",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2638573",
+     "link": "https://nos.nl/l/2638660",
      "bron": "NOS",
-     "tijd": "15:42",
-     "sorteer": "2026-11-08T15:42:11+01:00"
+     "tijd": "03:36",
+     "sorteer": "2026-11-09T03:36:36+01:00"
     },
     {
-     "titel": "Personeel kinderopvang Israëlische nederzetting aangeklaagd voor zware mishandeling",
-     "context": "In Israël zijn drie medewerkers van een kinderopvang aangeklaagd voor mishandeling en geweld tegen zeker zeventien baby's en peuters. De jongsten waren pas zes maanden oud. In totaal gaat het om meer dan vierhonderd incidenten. De kinderopvang staat in Ariel, een nederzetting op de bezette Westelijke Jordaanoever. Volgens de aanklager werden de kinderen onder meer gewurgd en vastgebonden door de d",
+     "titel": "Trump noemt aankondiging UFC-baas Dana White als perschef Witte Huis 'grap'",
+     "context": "De Amerikaanse president Trump kondigde zaterdag vechtsportbaas Dana White aan als nieuwe perschef van het Witte Huis. Daarmee baarde hij opzien, maar nu doet Trump zijn aankondiging af als \"een grap\". Op zijn sociale mediaplatform Truth Social schreef Trump zaterdag dat hij White een aanbod had gedaan om perschef van het Witte Huis te worden, met een aantal bekende vechtsporters als zijn assisten",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2638566",
+     "link": "https://nos.nl/l/2638658",
      "bron": "NOS",
-     "tijd": "14:59",
-     "sorteer": "2026-11-08T14:59:42+01:00"
+     "tijd": "01:47",
+     "sorteer": "2026-11-09T01:47:10+01:00"
     },
     {
-     "titel": "Gebouw van Saudisch staatsoliebedrijf in hartje Riyad beschadigd bij raketaanval",
-     "context": "In Saudi-Arabië is een gebouw van het staatsoliebedrijf Aramco beschadigd geraakt door vallend puin na een verijdelde aanval. Op beelden is te zien dat op meerdere verdiepingen ramen zijn gesneuveld. Ook de gevel raakte beschadigd. Het gebouw is een van de hoogste in het financiële district van de Saudische hoofdstad Riyad. Volgens het ministerie van Energie is de schade beperkt gebleven. Eerder m",
+     "titel": "Boot met migranten zinkt voor kust Senegal: zeker 34 doden",
+     "context": "Een boot met migranten die op weg was naar Europa is voor de kust van Senegal gezonken. Daarbij zijn zeker 34 mensen om het leven gekomen, meldt het Senegalese staatspersbureau APS. De boot zonk voor de kust van Kébémer, in het noordwesten van Senegal. Volgens het Senegalese ministerie van Binnenlandse Zaken ging het om een zogenoemde pirogue, een traditionele boot die ook voor de visserij wordt g",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2638563",
+     "link": "https://nos.nl/l/2638653",
      "bron": "NOS",
-     "tijd": "14:47",
-     "sorteer": "2026-11-08T14:47:01+01:00"
+     "tijd": "23:48",
+     "sorteer": "2026-11-08T23:48:40+01:00"
     },
     {
-     "titel": "Oppositieleider Eisenkot mag in Israël als eerste proberen een regering te vormen",
+     "titel": "Gevluchte oud-premier vraagt ondanks terdoodveroordeling paspoort aan voor terugkeer naar Bangladesh",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/oppositieleider-eisenkot-mag-in-israel-als-eerste-proberen-een-regering-te-vormen~b1ac9687/",
+     "link": "https://www.volkskrant.nl/buitenland/gevluchte-oud-premier-vraagt-ondanks-terdoodveroordeling-paspoort-aan-voor-terugkeer-naar-bangladesh~bb3ee3af/",
      "bron": "de Volkskrant",
-     "tijd": "17:15",
-     "sorteer": "2026-11-08T16:15:01+00:00"
+     "tijd": "05:47",
+     "sorteer": "2026-11-09T04:47:00+00:00"
     },
     {
-     "titel": "Franse minister: Europa ook betrokken bij overleg Rusland en Oekraïne in Abu Dhabi",
+     "titel": "Ook laatste kritische krant van Rusland bezwijkt dan toch onder Poetins repressie",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/franse-minister-europa-ook-betrokken-bij-overleg-rusland-en-oekraine-in-abu-dhabi~bde4fbe2/",
+     "link": "https://www.volkskrant.nl/buitenland/ook-laatste-kritische-krant-van-rusland-bezwijkt-dan-toch-onder-poetins-repressie~bacd9e91/",
      "bron": "de Volkskrant",
-     "tijd": "17:03",
-     "sorteer": "2026-11-08T16:03:00+00:00"
-    },
-    {
-     "titel": "De aanslag in Krakau ondergraaft het zelfbeeld van Polen: hier is het toch schoon, welvarend en veilig?",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/de-aanslag-in-krakau-ondergraaft-het-zelfbeeld-van-polen-hier-is-het-toch-schoon-welvarend-en-veilig~b0487468/",
-     "bron": "Trouw",
-     "tijd": "16:02",
-     "sorteer": "2026-11-08T15:02:50+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-09T04:00:42+00:00"
     }
    ]
   },
@@ -139,6 +149,33 @@
    "titel": "Nederland",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Extra pech bij pech vandaag: Wegenwacht staakt",
+     "context": "Automobilisten die vandaag met pech langs de weg komen te staan, zullen geduld moeten hebben. Medewerkers van de ANWB - ook de Wegenwacht - leggen 12 uur lang het werk neer, van 09.00 's ochtends tot 21.00 uur 's avonds. De vakbonden voeren actie omdat de gesprekken over een nieuwe cao zijn vastgelopen. Ze vinden onder meer de werkdruk bij de ANWB te hoog en zien problemen met de roosters. De bond",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638664",
+     "bron": "NOS",
+     "tijd": "06:22",
+     "sorteer": "2026-11-09T06:22:20+01:00"
+    },
+    {
+     "titel": "Code geel in delen van Drenthe, Groningen en Overijssel wegens dichte mist",
+     "context": "Het KNMI heeft van 02.00 uur vannacht tot morgenochtend 10.00 uur code geel afgegeven voor delen in het noordoosten van Nederland wegens dichte mist . De waarschuwing is van kracht in delen van Drenthe, Groningen en Overijssel. In de tweede helft van de ochtend lost de (dichte) mist geleidelijk op, aldus het KNMI. De mist kan vannacht en vanochtend plotseling ontstaan. Bij plaatselijke mist is het",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638659",
+     "bron": "NOS",
+     "tijd": "02:26",
+     "sorteer": "2026-11-09T02:26:22+01:00"
+    },
+    {
+     "titel": "Explosies bij woningen in Schiedam",
+     "context": "In Schiedam zijn kort na elkaar explosies geweest bij twee woningen. De eerste was rond 20.15 uur, schrijft Rijnmond , de tweede even na 21.00 uur. Niemand raakte gewond. De woningen liepen wel schade op. Ze staan ongeveer een kilometer bij elkaar vandaan. De politie liet Rijnmond weten dat de explosies als losstaande incidenten worden onderzocht. Over de mogelijkheid dat ze iets te maken hebben m",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2638644",
+     "bron": "NOS",
+     "tijd": "22:32",
+     "sorteer": "2026-11-08T22:32:58+01:00"
+    },
     {
      "titel": "8/11 in Nieuwsuur: Israëlische kabinetsformatie • Worsteling gemeenten jeugdzorg • Interview bandleden U2",
      "context": "Eisenkot neemt voortouw in Israëlische formatie In Israël mag oppositieleider Gadi Eisenkot (Yashar) als eerste proberen om een nieuwe regering te vormen. President Herzog heeft hem aangewezen als eerste formateur. De Likud-partij van Netanyahu was bij de verkiezingen dan wel de grootste, maar Eisenkot kreeg meer aanbevelingen van de partijen. Er zijn meerdere wegen die naar een regering kunnen le",
@@ -149,40 +186,40 @@
      "sorteer": "2026-11-08T17:05:40+01:00"
     },
     {
-     "titel": "Nederlandse (81) overleden na ongeluk waarbij camper kantelde op snelweg in België",
-     "context": "Bij een ongeluk met een camper op de snelweg E313 in België is een Nederlandse vrouw van 81 om het leven gekomen. Belgische media schrijven dat het voertuig waarin ze reed op de zijkant is beland bij het ongeval. Hoe het fatale ongeluk kon gebeuren is nog onduidelijk. De politie doet daar onderzoek naar. De 81-jarige vrouw was de enige inzittende van het voertuig. Het ongeluk gebeurde rond 10.30 u",
+     "titel": "Frans Weekers wil VVD-koers veranderen en stelt zich kandidaat voor Eerste Kamer",
+     "context": "Oud-staatssecretaris Frans Weekers (VVD) wil lijsttrekker van de VVD worden voor de Eerste Kamer. Met zijn kandidatuur gaat hij tegen de partijtop in, die oud-minister Adriaansens als lijsttrekker naar voren heeft geschoven. Weekers zei in het programma Pauw, De Wit en Moggré dat onder anderen Halbe Zijlstra en Johan Remkes hem steunen in zijn kandidatuur. De voormalig staatssecretaris zei dat hij",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2638577",
-     "bron": "NOS",
-     "tijd": "15:51",
-     "sorteer": "2026-11-08T15:51:00+01:00"
+     "link": "https://nos.nl/l/2638657",
+     "bron": "NOS politiek",
+     "tijd": "00:17",
+     "sorteer": "2026-11-09T00:17:03+01:00"
     },
     {
-     "titel": "Zeker 200.000 mensen bij Rode Lijn-demonstratie in Amsterdam, zegt organisatie",
-     "context": "In Amsterdam hebben volgens de organisatie zeker 200.000 mensen tegen het Israël-beleid van de Nederlandse regering gedemonstreerd. De Rode Lijn-demonstratie verliep zonder grote incidenten, zegt de politie. Veel demonstranten droegen rode kleding en zwaaiden met rode en Palestijnse vlaggen. Er waren ook borden en spandoeken te zien met teksten als \"Zionisme is racisme\", \"Geen Nederlandse steun aa",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638553",
-     "bron": "NOS",
-     "tijd": "12:56",
-     "sorteer": "2026-11-08T12:56:23+01:00"
-    },
-    {
-     "titel": "Gemeenten nemen 'pijnlijke maatregelen' om extreme kosten jeugdzorg te betalen",
-     "context": "Het Rijk moet snel extra geld uittrekken voor gemeenten die te maken hebben met extreem hoge kosten voor jeugdzorg. Dat vindt de Vereniging Nederlandse Gemeenten (VNG). Sommige gemeenten kunnen vooral de zeer kostbare maatwerkoplossingen niet meer betalen. Het gaat dan bijvoorbeeld om jongeren die 1-op-1-begeleiding krijgen in een vakantiehuisje met heel specifieke zorg en expertise. Die expertise",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2638521",
-     "bron": "NOS",
-     "tijd": "07:00",
-     "sorteer": "2026-11-08T07:00:02+01:00"
-    },
-    {
-     "titel": "Opnieuw grote opkomst bij Rode Lijn-protest: ‘Er wordt heel hard gejuicht bij kritiek op de regering of premier Jetten’",
+     "titel": "Toen de 19de-eeuwse elite vermogensbelasting als verraad zag",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/opnieuw-grote-opkomst-bij-rode-lijn-protest-er-wordt-heel-hard-gejuicht-bij-kritiek-op-de-regering-of-premier-jetten~badd5010/",
+     "link": "https://www.volkskrant.nl/binnenland/toen-de-19de-eeuwse-elite-vermogensbelasting-als-verraad-zag~b9ab5955/",
      "bron": "de Volkskrant",
-     "tijd": "15:04",
-     "sorteer": "2026-11-08T14:04:00+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-09T04:00:44+00:00"
+    },
+    {
+     "titel": "Ouders sturen hun kind op steeds jongere leeftijd naar bijles: ‘Het is een wedloop geworden’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/ouders-sturen-hun-kind-op-steeds-jongere-leeftijd-naar-bijles-het-is-een-wedloop-geworden~bb08b85f/",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "sorteer": "2026-11-09T04:00:44+00:00"
+    },
+    {
+     "titel": "Filosoof Srecko Horvat: ‘We zijn bevangen door nostalgie naar een toekomst die we nooit zullen krijgen’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/duurzaamheid-economie/filosoof-srecko-horvat-we-zijn-bevangen-door-nostalgie-naar-een-toekomst-die-we-nooit-zullen-krijgen~b22e1bec/",
+     "bron": "Trouw",
+     "tijd": "22:00",
+     "sorteer": "2026-11-08T21:00:00+00:00"
     }
    ]
   },
@@ -192,49 +229,87 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Het dorp redde dit café van de ondergang, maar uitbater Mirjam (57) stopt. En ze is niet de eerste",
-     "context": "Grand Café Kappers in Hoonhorst zit wéér zonder uitbater. Mirjam Klein Herenbrink (57) stopt vanwege haar gezondheid. Het dorp redde de tent, maar voor de vierde keer in vier jaar tijd is een nieuwe roerganger nodig.",
+     "titel": "‘Malafide uitzendbureaus proberen nieuwe wet nu al te omzeilen’",
+     "context": "Nog voordat een nieuwe wet tegen misstanden in de uitzendbranche ingaat, zoeken malafide bureaus al naar manieren om eronderuit te komen.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/dalfsen/het-dorp-redde-dit-cafe-van-de-ondergang-maar-uitbater-mirjam-57-stopt-en-ze-is-niet-de-eerste~ac9f1041/",
+     "link": "https://www.destentor.nl/economie/malafide-uitzendbureaus-proberen-nieuwe-wet-nu-al-te-omzeilen~a8127390/",
      "bron": "de Stentor",
-     "tijd": "16:00",
-     "sorteer": "2026-11-08T15:00:00+00:00"
+     "tijd": "06:00",
+     "sorteer": "2026-11-09T05:00:32+00:00"
     },
     {
-     "titel": "Weekoverzicht: Zwolse biergarten is open en Moonloft op een nieuwe plek",
-     "context": "Drukke week gehad en het nieuws gemist? In dit overzicht zie je welke verhalen je echt even moet lezen.",
+     "titel": "Auto eindigt op zijn kant in Zwolle na aanrijding",
+     "context": "Een personenauto is zondagavond op zijn zij geëindigd op de Zwolse Ceintuurbaan. Daardoor was de weg richting de snelweg A28 tijdelijk volledig afgesloten.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/weekoverzicht-zwolse-biergarten-is-open-en-moonloft-op-een-nieuwe-plek~a15ebebf/",
+     "link": "https://www.destentor.nl/zwolle/auto-eindigt-op-zijn-kant-in-zwolle-na-aanrijding~ab02c7e3/",
      "bron": "de Stentor",
-     "tijd": "14:30",
-     "sorteer": "2026-11-08T13:30:45+00:00"
+     "tijd": "22:19",
+     "sorteer": "2026-11-08T21:19:00+00:00"
     },
     {
-     "titel": "Protestantse Gemeente dreigt onbestuurbaar te worden: niemand mag rekeningen betalen",
-     "context": "De spanning in de Protestantse Gemeente Zwolle rond de verkoop van drie kerken is verder opgelopen. Voorzitter Eduard Metselaar is opgestapt, net als financiële bestuurders. „Er moet aan het onderling vertrouwen worden gewerkt.”",
+     "titel": "Oplichters wachten op de eerste nachtvorst: zodra je kachel uitvalt, slaan ze toe",
+     "context": "Het kwik daalt richting het vriespunt, het wordt koud in huis, maar de verwarming doet het niet. Snel zoek je online een installateur en je belt het bovenste nummer. Pas wanneer de rekening komt, blijkt dat je met een oplichter te maken hebt. Criminelen die zich voordoen als erkende installateurs zijn namelijk steeds lastiger te herkennen.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/protestantse-gemeente-dreigt-onbestuurbaar-te-worden-niemand-mag-rekeningen-betalen~af19af61/",
+     "link": "https://www.destentor.nl/binnenland/oplichters-wachten-op-de-eerste-nachtvorst-zodra-je-kachel-uitvalt-slaan-ze-toe~a2478ac9/",
      "bron": "de Stentor",
-     "tijd": "14:00",
-     "sorteer": "2026-11-08T13:00:00+00:00"
+     "tijd": "20:00",
+     "sorteer": "2026-11-08T19:00:00+00:00"
     },
     {
-     "titel": "Als WHC niet degradeert wordt dat gevierd als een kampioenschap",
-     "context": "Als WHC volgend seizoen nog in de vierde divisie speelt, zal dat gevierd worden als een kampioenschap. In Wezep groeien de bomen niet meer tot in de hemel en is het buffelen geblazen, zoals tegen Heino (2-1).",
+     "titel": "Van pakjes sigaretten tot sojasaus, koekjes en chocoladerepen: Jackelien maakt van alles een urn",
+     "context": "Haar hele atelier ligt vol boodschappen: flesjes bier, zakken drop en Knorr Aromat. Allemaal voorbeelden voor de urnen die Jackelien van der Sleen (57) maakt. „Mensen die nog leven, hebben bij mij voorrang. Dat is soms wel heftig.”",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/regio-apeldoorn/als-whc-niet-degradeert-wordt-dat-gevierd-als-een-kampioenschap~a6066435/",
+     "link": "https://www.destentor.nl/zwolle/van-pakjes-sigaretten-tot-sojasaus-koekjes-en-chocoladerepen-jackelien-maakt-van-alles-een-urn~a8d038a4/",
      "bron": "de Stentor",
-     "tijd": "12:00",
-     "sorteer": "2026-11-08T11:00:12+00:00"
+     "tijd": "19:30",
+     "sorteer": "2026-11-08T18:30:13+00:00"
     },
     {
-     "titel": "Berkum maakt aanspraak op een hoofdrol, Urk moet het doen met een bijrol",
-     "context": "De vierde divisie D verloopt vooralsnog niet zoals een luie voetbalvolger de competitie op voorhand zal hebben voorspeld. Ook Berkum - Urk, herintreder tegen degradant, kent een enigszins verrassende uitslag: 4-1.",
+     "titel": "‘Opeens heb je het...’: deze bekende zin veranderde het leven van Rien (64) uit Deventer compleet",
+     "context": "‘Opeens heb je het...’ De zin raakte in het collectieve geheugen gegrift na een reclamespotje van de NS in 1999. Het leven van Rien van den Berg (64) uit Deventer veranderde er compleet door: hij werd echt conducteur. Nu blaast de NS de campagne nieuw leven in.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/regio-zwolle/berkum-maakt-aanspraak-op-een-hoofdrol-urk-moet-het-doen-met-een-bijrol~a5e6a45e/",
+     "link": "https://www.destentor.nl/zwolle/opeens-heb-je-het-deze-bekende-zin-veranderde-het-leven-van-rien-64-uit-deventer-compleet~ad6c8e44/",
      "bron": "de Stentor",
-     "tijd": "10:00",
-     "sorteer": "2026-11-08T09:00:44+00:00"
+     "tijd": "19:00",
+     "sorteer": "2026-11-08T18:00:57+00:00"
+    },
+    {
+     "titel": "Mercedes belandt op zijkant na botsing op Ceintuurbaan",
+     "context": "Op de Ceintuurbaan in Zwolle heeft zondagavond een ongeval plaatsgevonden tussen een Mercedes en een blauwe Opel. De Mercedes reed in de richting van de ... Lees meer",
+     "rubrieken": [
+      "112"
+     ],
+     "link": "https://1zwolle.nl/nieuws/214812/mercedes-belandt-op-zijkant-na-botsing-op-ceintuurbaan.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "23:24",
+     "sorteer": "2026-11-08T22:24:01+00:00"
+    },
+    {
+     "titel": "Brommerrijder gewond, politie controleert groep na gevaarlijk rijgedrag",
+     "context": "Op de Oude Wythemerweg ter hoogte van de Kroesenallee in Zwolle is zondagmiddag rond 16.08 uur een brommerrijder gewond geraakt. De bestuurder vloog uit de ... Lees meer",
+     "rubrieken": [
+      "112",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/214805/brommerrijder-gewond-politie-controleert-groep-na-gevaarlijk-rijgedrag.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "21:24",
+     "sorteer": "2026-11-08T20:24:05+00:00"
+    },
+    {
+     "titel": "De Oversteek #1: ‘Zit hier écht geen motor in?!’",
+     "context": "Carla, Ineke en Trea, oftewel de Grannies on Waves, hebben een ambitieus plan: volgende maand roeien ze de Atlantische Oceaan over. In totaal zo’n ruim ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "De Oversteek",
+      "grannies on waves",
+      "Zwartewaterland",
+      "Zwartsluis"
+     ],
+     "link": "https://1zwolle.nl/nieuws/214400/de-grote-oversteek-afl-1.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "20:27",
+     "sorteer": "2026-11-08T19:27:08+00:00"
     },
     {
      "titel": "Kleurrijke Lichtjesrun voert deelnemers dwars door Hattemse binnenstad",
@@ -248,51 +323,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "17:01",
      "sorteer": "2026-11-08T16:01:00+00:00"
-    },
-    {
-     "titel": "Nieuw onderzoek naar fatale aanrijding Hattem",
-     "context": "Er komt opnieuw een nieuwe reconstructie van de fatale aanrijding in Hattem van vorig jaar, waarbij een 33-jarige man overleed. De rechtbank wil onderzoeken of ... Lees meer",
-     "rubrieken": [
-      "Rechtspraak",
-      "Arnhem",
-      "Hattem",
-      "Heerde",
-      "Rechtbank"
-     ],
-     "link": "https://1zwolle.nl/nieuws/214661/opnieuw-onderzoek-naar-fatale-aanrijding-hattem.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "14:50",
-     "sorteer": "2026-11-08T13:50:36+00:00"
-    },
-    {
-     "titel": "Neemt AI de wereld over? Lezing Fraterhuis Academie in Zwolle over kunstmatige intelligentie",
-     "context": "Wat kunnen we nog vertrouwen nu kunstmatige intelligentie steeds realistischer beelden maakt en steeds meer taken overneemt? Die vraag staat centraal tijdens een nieuwe lezing ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "AI",
-      "Fraterhuis Academie",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/214568/neemt-ai-de-wereld-over-lezing-fraterhuis-academie-in-zwolle-over-kunstmatige-intelligentie.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "13:07",
-     "sorteer": "2026-11-08T12:07:00+00:00"
-    },
-    {
-     "titel": "Hoge brandstofprijzen zorgen voor meer fietsers in Overijssel",
-     "context": "Vier op de tien automobilisten in Overijssel zijn door de hoge brandstofprijzen vaker gaan fietsen. Daarmee ligt het percentage in de provincie hoger dan het ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Fietsers",
-      "Hoge brandstofprijzen",
-      "Kampen",
-      "Zwartewaterland",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/214389/hoge-brandstofprijzen-zorgen-voor-meer-fietsers-in-overijssel.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "09:01",
-     "sorteer": "2026-11-08T08:01:00+00:00"
     }
    ]
   },
@@ -373,13 +403,13 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "18:00",
+    "bijgewerkt": "07:00",
     "uitslagen": [
      {
       "thuis": "Heerenveen",
       "uit": "Feyenoord",
       "score": "5 - 3",
-      "wanneer": "vandaag 12:15",
+      "wanneer": "gisteren 12:15",
       "bezig": "",
       "pec": false
      },
@@ -387,32 +417,32 @@
       "thuis": "FC Twente",
       "uit": "Ajax",
       "score": "2 - 2",
-      "wanneer": "vandaag 14:30",
+      "wanneer": "gisteren 14:30",
       "bezig": "",
       "pec": false
      },
      {
       "thuis": "AZ Alkmaar",
       "uit": "FC Groningen",
-      "score": "1 - 3",
-      "wanneer": "vandaag 16:45",
-      "bezig": "57'",
+      "score": "4 - 3",
+      "wanneer": "gisteren 16:45",
+      "bezig": "",
       "pec": false
      },
      {
       "thuis": "Cambuur",
       "uit": "PSV",
-      "score": "1 - 3",
-      "wanneer": "vandaag 16:45",
-      "bezig": "47'",
+      "score": "2 - 5",
+      "wanneer": "gisteren 16:45",
+      "bezig": "",
       "pec": false
      },
      {
       "thuis": "FC Utrecht",
       "uit": "NEC",
-      "score": "",
-      "wanneer": "vandaag 20:00",
-      "bezig": "Scheduled",
+      "score": "2 - 3",
+      "wanneer": "gisteren 20:00",
+      "bezig": "",
       "pec": false
      },
      {
@@ -451,6 +481,14 @@
     "stand": [
      {
       "plek": "1",
+      "team": "PSV",
+      "gespeeld": "12",
+      "punten": "26",
+      "saldo": "+25",
+      "pec": false
+     },
+     {
+      "plek": "2",
       "team": "Feyenoord",
       "gespeeld": "12",
       "punten": "25",
@@ -458,7 +496,7 @@
       "pec": false
      },
      {
-      "plek": "2",
+      "plek": "3",
       "team": "Ajax",
       "gespeeld": "12",
       "punten": "25",
@@ -466,7 +504,7 @@
       "pec": false
      },
      {
-      "plek": "3",
+      "plek": "4",
       "team": "FC Twente",
       "gespeeld": "12",
       "punten": "24",
@@ -474,27 +512,19 @@
       "pec": false
      },
      {
-      "plek": "4",
-      "team": "PSV",
-      "gespeeld": "11",
-      "punten": "23",
-      "saldo": "+22",
-      "pec": false
-     },
-     {
       "plek": "5",
-      "team": "Heerenveen",
+      "team": "AZ Alkmaar",
       "gespeeld": "12",
-      "punten": "21",
+      "punten": "23",
       "saldo": "+8",
       "pec": false
      },
      {
       "plek": "6",
-      "team": "AZ Alkmaar",
-      "gespeeld": "11",
-      "punten": "20",
-      "saldo": "+7",
+      "team": "Heerenveen",
+      "gespeeld": "12",
+      "punten": "21",
+      "saldo": "+8",
       "pec": false
      },
      {
@@ -516,25 +546,25 @@
      {
       "plek": "9",
       "team": "FC Groningen",
-      "gespeeld": "11",
-      "punten": "15",
-      "saldo": "+2",
-      "pec": false
-     },
-     {
-      "plek": "10",
-      "team": "Cambuur",
-      "gespeeld": "11",
+      "gespeeld": "12",
       "punten": "15",
       "saldo": "+1",
       "pec": false
      },
      {
+      "plek": "10",
+      "team": "Cambuur",
+      "gespeeld": "12",
+      "punten": "15",
+      "saldo": "-2",
+      "pec": false
+     },
+     {
       "plek": "11",
-      "team": "FC Utrecht",
-      "gespeeld": "11",
-      "punten": "12",
-      "saldo": "-12",
+      "team": "NEC",
+      "gespeeld": "12",
+      "punten": "14",
+      "saldo": "-1",
       "pec": false
      },
      {
@@ -555,10 +585,10 @@
      },
      {
       "plek": "14",
-      "team": "NEC",
-      "gespeeld": "11",
-      "punten": "11",
-      "saldo": "-2",
+      "team": "FC Utrecht",
+      "gespeeld": "12",
+      "punten": "12",
+      "saldo": "-13",
       "pec": false
      },
      {
@@ -603,20 +633,12 @@
    "emoji": "🌿",
    "items": [
     {
-     "titel": "Natuurjournaal 8 november 2026",
-     "toelichting": "Roze stinkzwam lokt vliegen en piektijd voor het sprookjesachtige wit oorzwammetje.",
+     "titel": "Natuurjournaal 9 november 2026",
+     "toelichting": "Reserveer vast plek in huis voor de zwartkoppissebed en zeepissebed is marien bijtje.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36018",
-     "sorteer": "2026-11-08T05:45:00+00:00"
-    },
-    {
-     "titel": "De eerste fase van De Groene Corridor: van natuurbeheer naar natuurbegeleiding",
-     "toelichting": "Stichting Broedplaats Gooise Meren/ AltijdWerkplaats werkt aan De Groene Corridor, een ecologische verbindingszone van Bussum tot Naarden. Dat doet zij samen met bewoners, natuurorganisaties en de gemeente Gooise Meren. ",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36028",
-     "sorteer": "2026-11-08T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36034",
+     "sorteer": "2026-11-09T05:45:00+00:00"
     },
     {
      "titel": "Nieuwe salamandersoort ontdekt in het lab",
@@ -625,6 +647,14 @@
      "tijd": "12:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36020",
      "sorteer": "2026-11-08T11:00:00+00:00"
+    },
+    {
+     "titel": "Van de kwelder naar de kelder: permanent onderduiken als extra optie",
+     "toelichting": "De afgelopen zomer was extreem warm. Ook het zeewater was nog nooit zo warm. Als mens een duik nemen kan dan fijn zijn. Daarbij kun je onverwachte dingen tegenkomen. Dieren die bekend staan als landbewoners bijvoorbeeld.",
+     "bron": "Nature Today",
+     "tijd": "14:30",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36033",
+     "sorteer": "2026-11-08T13:30:00+00:00"
     },
     {
      "titel": "Jagen alleen voor mannen? Vrouwelijke bonobo’s bewijzen het tegendeel",
@@ -648,41 +678,41 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 8.4,
-    "gevoel": 8.4,
-    "wind": "ZZO 1",
+    "nu": 3.9,
+    "gevoel": 3.0,
+    "wind": "ZO 1",
     "station": "Heino",
-    "bericht": "Vannacht klaart het vanuit het zuiden op, maar kan ook mist ontstaan. Het koelt lokaal af tot rond het vriespunt. Morgen veel zon, maar in het uiterste noorden hardnekkige bewolking.",
-    "vandaag": "Vannacht klaart het vanuit het zuiden op, maar kan ook mist ontstaan. Vanavond komen in het noordwesten nog een paar buien voor, elders blijft het vrijwel droog en klaart het grotendeels op.",
-    "temperatuur": "Het wordt vrij koud, met in de middag geen hogere temperatuur dan 7 of 8 graden.",
+    "bericht": "In het noordoosten en oosten en in het zuiden is het eerst plaatselijk mistig! Verder vandaag flink wat zon, met op de Wadden kans op een bui. Vannacht mist en in het binnenland lichte vorst.Vanochtend is het in het zuiden flink zonnig, in het midden zijn er perioden met zon en in het noorden is de meeste bewolking aanwezig. Gaandeweg de ochtend schuift de bewolking verder naar het noorden.",
+    "vandaag": "In het noordoosten en oosten en in het zuiden is het eerst plaatselijk mistig! Verder vandaag flink wat zon, met op de Wadden kans op een bui. Vannacht mist en in het binnenland lichte vorst.",
+    "temperatuur": "De temperatuur liep in alle vroegte fors uiteen, van 7 graden langs de westkust tot een fractie onder nul in het noordoosten van Limburg.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: mistig, 4 tot 11 graden, 43% kans op neerslag, ruim 3 uur zon, wind uit het zuiden, kracht 3.",
-     "max": 11,
-     "min": 4,
-     "regenkans": 43,
+     "zin": "Voor Zwolle zelf: 2 tot 10 graden, droog, ruim 7 uur zon, wind uit het zuidoosten, kracht 2.",
+     "max": 10,
+     "min": 2,
+     "regenkans": 0,
      "omschrijving": "mistig"
     },
-    "vooruit": "Eerst vrijwel droog en af en toe zon. In de nacht en ochtend dan kans op (dichte) mist die dinsdag overdag mogelijk hardnekkig kan zijn. Woensdag en donderdag tijdelijk wisselvallig met af en toe regen, daarna keert het overwegend droge weerbeeld terug en laat de zon zich steeds vaker zien.",
-    "omslag": "Vanaf woensdag 5 graden warmer, een graad of 12.",
-    "min": null,
-    "max": null,
-    "regenkans": null,
-    "zonkans": null,
-    "omschrijving": null,
+    "vooruit": "Eerst droog met af en toe zon. In de nacht en ochtend dan kans op (dichte) mist, die dinsdag overdag mogelijk hardnekkig kan zijn. Woensdag tijdelijk wisselvallig met vooral in het zuiden regen. Daarna keert het overwegend droge weerbeeld terug met steeds meer zon en in de nachten en ochtenden weer kans op mist en lichte vorst.",
+    "omslag": "Nachtvorst in aantocht: morgen tot 0 graden.",
+    "min": "4",
+    "max": "10",
+    "regenkans": 0,
+    "zonkans": 40,
+    "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
     "morgen": {
-     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "3",
-     "max": "10",
-     "regenkans": 10
+     "omschrijving": "Zwaar bewolkt",
+     "min": "0",
+     "max": "8",
+     "regenkans": 30
     }
    }
   }
  ],
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
-  "blokken": 8,
-  "berichten": 35,
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "07:00",
+  "blokken": 7,
+  "berichten": 37,
   "problemen": []
  }
 }
