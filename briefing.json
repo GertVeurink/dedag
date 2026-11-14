@@ -1,6 +1,6 @@
 {
- "naam": "Avondbriefing",
- "datum": "2026-11-13",
+ "naam": "Ochtendbriefing",
+ "datum": "2026-11-14",
  "blokken": [
   {
    "id": "duiding",
@@ -9,57 +9,83 @@
    "items": [],
    "duiding": [
     {
-     "titel": "Belastingplan brengt kabinet in nood",
-     "tekst": "De Kamer stemde gisteravond met de kleinst mogelijke meerderheid voor het belastingplan, tegen de zin van de VVD in. Premier Jetten probeert vanochtend zijn kabinet te redden (12). Moties die zijn aangenomen gaan al over wat er na die stemming moet gebeuren (26, 27). Een brede groep organisaties zegt: los dit samen op (11).",
+     "titel": "Vliegstop VS door oude apparatuur",
+     "tekst": "In de VS lag het vliegverkeer zo'n vijf uur stil, de langste landelijke vliegstop in 25 jaar. De oorzaak: verouderde communicatieapparatuur van de luchtverkeersleiding raakte overbelast. Het luchtruim is weer vrij, maar het verkeer komt pas geleidelijk op gang en passagiers zitten nog vast.",
      "verwijzingen": [
       {
-       "titel": "Maatschappelijke organisaties uiten onvrede over kabinetscrisis: 'Los dit samen op'",
-       "link": "https://nos.nl/l/2639206",
+       "titel": "Passagiers in onzekerheid na grote vliegstop in VS: 'Ik zit hier vast'",
+       "link": "https://nos.nl/l/2639423",
        "bron": "NOS",
-       "tijd": "19:24"
+       "tijd": "05:28"
       },
       {
-       "titel": "Crisisoverleg Jetten over toekomst coalitie, wachten op duidelijkheid VVD",
-       "link": "https://nos.nl/l/2639247",
-       "bron": "NOS politiek",
-       "tijd": "06:38"
-      },
-      {
-       "titel": "Motie van de leden Grinwis en Stoffer over na stemming over het Belastingplan de resterende mogelijkheden en onmogelijkheden voor…",
-       "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z24749",
-       "bron": "motie aangenomen",
-       "tijd": ""
-      },
-      {
-       "titel": "Motie van het lid Hoogeveen c.s. over het wetsvoorstel voor de volledige vermogenswinstbelasting uiterlijk met Prinsjesdag 2027…",
-       "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z24740",
-       "bron": "motie aangenomen",
-       "tijd": ""
+       "titel": "Vliegverkeer VS hervat na grote communicatiestoring, apparatuur raakte overbelast",
+       "link": "https://nos.nl/l/2639391",
+       "bron": "NOS",
+       "tijd": "22:09"
       }
      ],
      "geschreven": "07:00"
     },
     {
-     "titel": "Microsoft wereldwijd grotendeels plat",
-     "tekst": "Sinds gistermiddag 17.15 uur werken Outlook, Teams en de AI-functies van Microsoft wereldwijd slecht of helemaal niet. Miljoenen gebruikers kunnen niet mailen of online vergaderen. Het bericht staat zowel bij het binnenlandse als bij het buitenlandse nieuws, omdat het hier net zo hard raakt als elders.",
+     "titel": "Topoverleg alleen door Washington gemeld",
+     "tekst": "Het Witte Huis meldt een overleg tussen Trump, Poetin en Xi, volgens Trouw donderdag in China. Het zou de eerste keer zijn dat de drie samen praten. De Chinese regering heeft het overleg niet bevestigd, dus het bericht komt tot nu toe alleen van Amerikaanse kant.",
      "verwijzingen": [
       {
-       "titel": "Wereldwijde storing treft Microsoft, miljoenen gebruikers de dupe",
-       "link": "https://nos.nl/l/2639244",
+       "titel": "Witte Huis: volgende week drielandengesprek tussen Trump, Poetin en Xi",
+       "link": "https://nos.nl/l/2639421",
        "bron": "NOS",
-       "tijd": "06:01"
+       "tijd": "02:51"
       },
       {
-       "titel": "Wereldwijde storing Microsoft: e-mail en andere diensten mogelijk onbereikbaar",
-       "link": "https://www.trouw.nl/buitenland/wereldwijde-storing-microsoft-e-mail-en-andere-diensten-mogelijk-onbereikbaar~b19abb6b/",
+       "titel": "Witte Huis: Trump heeft donderdag in China ontmoeting met Poetin en Xi",
+       "link": "https://www.trouw.nl/buitenland/live-vs-witte-huis-trump-heeft-donderdag-in-china-ontmoeting-met-poetin-en-xi~bbc0cf3d/",
        "bron": "Trouw",
-       "tijd": "05:48"
+       "tijd": "03:29"
+      }
+     ],
+     "geschreven": "07:00"
+    },
+    {
+     "titel": "Veiligheid in Zwolle en Heino",
+     "tekst": "Zwollenaren wijzen honderd plekken aan waar ze zich 's avonds onveilig voelen, en de gemeente belooft die aan te pakken. In Heino wil de hele gemeenteraad een veiligere uitrit, omdat het daar op wedstrijddagen gevaarlijk druk wordt. Wanneer dat gebeurt en van welk geld, is nog niet duidelijk.",
+     "verwijzingen": [
+      {
+       "titel": "Op wedstrijddagen kan het hier in Heino gevaarlijk druk worden: raad waagt nieuwe poging voor veiligere uitrit",
+       "link": "https://www.destentor.nl/raalte/op-wedstrijddagen-kan-het-hier-in-heino-gevaarlijk-druk-worden-raad-waagt-nieuwe-poging-voor-veiligere-uitrit~a9938746/",
+       "bron": "de Stentor",
+       "tijd": "06:00"
+      },
+      {
+       "titel": "Tunnels, parken en verlaten fietsroutes: hier voelen Zwollenaren zich ’s avonds niet veilig",
+       "link": "https://www.destentor.nl/zwolle/tunnels-parken-en-verlaten-fietsroutes-hier-voelen-zwollenaren-zich-s-avonds-niet-veilig~a56d4c26/",
+       "bron": "de Stentor",
+       "tijd": "20:30"
+      }
+     ],
+     "geschreven": "07:00"
+    },
+    {
+     "titel": "Sinterklaas komt vandaag aan",
+     "tekst": "Vandaag komt Sinterklaas aan in het land, ook in Kampen met de stoomboot. Wie gaat kijken staat een poos buiten. Sinds 2000 is het rond deze tijd overdag gemiddeld een graad of 9.",
+     "verwijzingen": [
+      {
+       "titel": "De Sint komt aan in het land: wordt het bibberen langs de kant?",
+       "link": "https://nos.nl/l/2639376",
+       "bron": "NOS",
+       "tijd": "20:24"
+      },
+      {
+       "titel": "Kampenaren kijken uit naar komst Sinterklaas: ‘Hij komt, hij komt’",
+       "link": "https://1zwolle.nl/nieuws/215791/kampenaren-kijken-uit-naar-komst-sinterklaas.html",
+       "bron": "Weblog Zwolle",
+       "tijd": "18:50"
       }
      ],
      "geschreven": "07:00"
     }
    ],
-   "aantal": 2
+   "aantal": 4
   },
   {
    "id": "internationaal",
@@ -67,76 +93,76 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Kansen van Klaas Knot slinken, volgende week duidelijk wie ECB-president wordt",
-     "context": "De kansen van Klaas Knot om de nieuwe voorzitter van de Europese Centrale Bank te worden, slinken. Dat bevestigen bronnen in Brussel en Dublin aan de NOS. Voor Knot is steun van Duitsland essentieel, maar de Duitsers zijn er nog niet uit wie ze willen steunen. Bondskanselier Merz zegt op een bijeenkomst van EU-leiders in Dublin nog een paar dagen nodig te hebben om de knoop door te hakken. Twee ka",
+     "titel": "Italiaanse minister: scholen niet meteen dicht na een bommelding",
+     "context": "Scholen in Italië hoeven niet langer automatisch te worden ontruimd na een bommelding per e-mail. Dat staat in een richtlijn van minister van Binnenlandse Zaken Piantedosi, die is verstuurd aan regionale bestuurders en politiechefs. Dat meldt het Italiaanse persbureau ANSA. Aanleiding zijn de bommeldingen die afgelopen week twee dagen op rij naar duizenden Italiaanse scholen werden verstuurd. Ruim",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639342",
+     "link": "https://nos.nl/l/2639426",
      "bron": "NOS",
-     "tijd": "17:43",
-     "sorteer": "2026-11-13T17:43:05+01:00"
+     "tijd": "06:16",
+     "sorteer": "2026-11-14T06:16:07+01:00"
     },
     {
-     "titel": "Wolven doden 35 schapen in België, dodelijkste aanval sinds terugkeer roofdier",
-     "context": "In een natuurgebied in België zijn vorige maand bij een wolvenaanval zeker 35 schapen doodgebeten. Het gaat om de dodelijkste wolvenaanval sinds de wolf is teruggekeerd in Vlaanderen in 2018, schrijft het dagblad Gazet van Antwerpen. De schapen werden op 4 oktober door herder Bert Plasmans aangetroffen, maar de aanval wordt nu pas gemeld. De dieren behoorden tot een kudde van 450 schapen die werde",
+     "titel": "Passagiers in onzekerheid na grote vliegstop in VS: 'Ik zit hier vast'",
+     "context": "De Verenigde Staten zijn gisteravond en vannacht getroffen door de langste landelijke vliegstop in 25 jaar. De oorzaak was verouderde communicatieapparatuur van de luchtverkeersleiding die overbelast raakte. Na ongeveer vijf uur werd het vliegverbod opgeheven en gaf de luchtvaartautoriteit FAA het luchtruim weer vrij. Het vliegverkeer kon daarna geleidelijk worden hervat. Hoewel het vliegverbod is",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639327",
+     "link": "https://nos.nl/l/2639423",
      "bron": "NOS",
-     "tijd": "15:34",
-     "sorteer": "2026-11-13T15:34:29+01:00"
+     "tijd": "05:28",
+     "sorteer": "2026-11-14T05:28:33+01:00"
     },
     {
-     "titel": "23 doden onder wie drie kinderen bij botsing bus en vrachtwagen in India",
-     "context": "Bij een ongeluk waarbij een vrachtwagen en een passagiersbus op elkaar inreden in India zijn 23 mensen om het leven gekomen. Onder de omgekomen slachtoffers zijn drie kinderen, meldt persbureau AFP. De politie verwacht dat het dodental nog verder zal oplopen. Het ongeluk gebeurde op een snelweg in de buurt van het Nationaal Park Kaziranga in de noordelijke deelstaat Assam. Zeven mensen zijn naar h",
+     "titel": "WSJ: Amerika verliest status van mazelenvrij land",
+     "context": "Amerika heeft zijn status van mazelenvrij land verloren. Dat schrijft The Wall Street Journal op basis van anonieme bronnen. Volgens de krant heeft de internationale gezondheidsorganisatie Pan American Health Organization de status van Amerika als mazelenvrij land ingetrokken. De VS kreeg die status in 2000 toegekend nadat het land de besmettelijke infectieziekte had geëlimineerd door een sterke v",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639324",
+     "link": "https://nos.nl/l/2639422",
      "bron": "NOS",
-     "tijd": "15:18",
-     "sorteer": "2026-11-13T15:18:34+01:00"
+     "tijd": "05:20",
+     "sorteer": "2026-11-14T05:20:41+01:00"
     },
     {
-     "titel": "Kremlin: Europa mag meepraten over Oekraïne 'als het bijdraagt aan vredesproces'",
-     "context": "Een deelname van Europese landen aan de vredesonderhandelingen over Oekraïne is wat Rusland betreft nog niet zeker. Het land heeft gezegd ervoor open te staan, mits blijkt dat Europa bereid is \"een bijdrage te leveren aan het vredesproces\", meldt het Kremlin. \"Zodra we hun oprechte intenties en hun bereidheid zien om bij te dragen aan het vredesproces, kunnen we besluiten of we een dialoog over ee",
+     "titel": "Witte Huis: volgende week drielandengesprek tussen Trump, Poetin en Xi",
+     "context": "Het Witte Huis meldt dat er volgende week een uniek topoverleg is tussen de leiders van de VS, China en Rusland. Dat werd vannacht door de Amerikaanse regering aan journalisten meegedeeld. De Chinese regering heeft het driepartijenoverleg niet bevestigd. Als dat overleg er komt, is het de eerste keer dat de leiders van die landen elkaar samen spreken. De ontmoeting zou plaatsvinden te midden van d",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639309",
+     "link": "https://nos.nl/l/2639421",
      "bron": "NOS",
-     "tijd": "13:44",
-     "sorteer": "2026-11-13T13:44:46+01:00"
+     "tijd": "02:51",
+     "sorteer": "2026-11-14T02:51:50+01:00"
     },
     {
-     "titel": "Olie-export krabbelt op richting niveau van voor Iran-oorlog, benzineprijzen dalen",
-     "context": "In september en oktober was er een overschot aan ruwe olie op de wereldwijde oliemarkt. Dat meldt het Internationaal Energieagentschap (IEA) . Het aanbod steeg onder meer doordat de olie-export uit de Golfregio weer toeneemt. Op dit moment is die export 74 procent van het niveau van voor de Iran-oorlog eind februari. In september was er sprake van een overschot van 600.000 vaten per dag, waar er e",
+     "titel": "Vliegverkeer VS hervat na grote communicatiestoring, apparatuur raakte overbelast",
+     "context": "De Amerikaanse luchtvaartautoriteit FAA heeft de tijdelijke stillegging van het vliegverkeer in de hele VS opgeheven. De maatregel was genomen vanwege \"buitengewone omstandigheden\" en \"om veiligheidsredenen\". Het vliegverkeer lag zo'n vijf uur stil door een storing in de communicatieapparatuur van de Amerikaanse luchtverkeersleiding. Volgens de Amerikaanse minister van Transport Sean Duffy raakte ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639306",
+     "link": "https://nos.nl/l/2639391",
      "bron": "NOS",
-     "tijd": "13:14",
-     "sorteer": "2026-11-13T13:14:41+01:00"
+     "tijd": "22:09",
+     "sorteer": "2026-11-13T22:09:31+01:00"
     },
     {
-     "titel": "De kubus van Rubik wordt na vijftig jaar weer gemaakt in zijn land van herkomst: Hongarije",
+     "titel": "Iran: twee olietankers in brand door mijnen in Straat van Hormuz",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/de-kubus-van-rubik-wordt-na-vijftig-jaar-weer-gemaakt-in-zijn-land-van-herkomst-hongarije~b3900773/",
+     "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
      "bron": "de Volkskrant",
-     "tijd": "17:29",
-     "sorteer": "2026-11-13T16:29:00+00:00"
+     "tijd": "05:46",
+     "sorteer": "2026-11-14T04:46:00+00:00"
     },
     {
-     "titel": "Pro-Russische journalist zwaargewond door bomaanslag in Moskou",
+     "titel": "Cubaanse president: we bereiden ons voor op mogelijke Amerikaanse aanval",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/pro-russische-journalist-zwaargewond-door-bomaanslag-in-moskou~bc0551f9/",
+     "link": "https://www.volkskrant.nl/buitenland/cubaanse-president-we-bereiden-ons-voor-op-mogelijke-amerikaanse-aanval~b1c4d181/",
      "bron": "de Volkskrant",
-     "tijd": "17:08",
-     "sorteer": "2026-11-13T16:08:12+00:00"
+     "tijd": "05:25",
+     "sorteer": "2026-11-14T04:25:14+00:00"
     },
     {
-     "titel": "Voor het eerst staat AI op de Europese agenda, maar Oekraïne krijgt de meeste aandacht",
+     "titel": "Witte Huis: Trump heeft donderdag in China ontmoeting met Poetin en Xi",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/voor-het-eerst-staat-ai-op-de-europese-agenda-maar-oekraine-krijgt-de-meeste-aandacht~b68fa23d/",
+     "link": "https://www.trouw.nl/buitenland/live-vs-witte-huis-trump-heeft-donderdag-in-china-ontmoeting-met-poetin-en-xi~bbc0cf3d/",
      "bron": "Trouw",
-     "tijd": "17:46",
-     "sorteer": "2026-11-13T16:46:59+00:00"
+     "tijd": "03:29",
+     "sorteer": "2026-11-14T02:29:00+00:00"
     }
    ]
   },
@@ -146,76 +172,85 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Curaçao wil samenwerken met omstreden regering El Salvador op gebied van justitie",
-     "context": "Curaçao wil op het gebied van justitie en veiligheid samenwerken met El Salvador. De ministers van Justitie van beide landen ondertekenden daarvoor om 17.00 uur Nederlandse tijd een intentieverklaring. De samenwerking is opvallend, omdat de Salvadoraanse president Nayib Bukele internationaal veel kritiek krijgt vanwege mensenrechtenschendingen bij zijn aanpak van criminaliteit. De landen hebben de",
+     "titel": "Advocaten onderzoeken juridische stappen tegen Spaans gezinshuis voor oud-bewoners",
+     "context": "Oud-bewoners van Huize Soria willen juridische stappen nemen tegen de gezinsouders, de organisaties die hen in het gezinshuis plaatsten en mogelijk de Nederlandse Staat. Meerdere advocaten staan een groep van 25 oud-bewoners bij. De advocaten onderzoeken onder meer of de betrokken instanties en de overheid aansprakelijk kunnen worden gehouden voor de misstanden in het Spaanse gezinshuis. Nieuwsuur",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639339",
+     "link": "https://nos.nl/l/2639425",
      "bron": "NOS",
-     "tijd": "17:07",
-     "sorteer": "2026-11-13T17:07:15+01:00"
+     "tijd": "06:00",
+     "sorteer": "2026-11-14T06:00:02+01:00"
     },
     {
-     "titel": "Podcast De Dag: hoe Jetten de kabinetscrisis (mis)managet",
-     "context": "Premier Jetten probeert een \"doorstart\" te maken met zijn minderheidskabinet. Welke rol speelt hij in het ontstaan en oplossen van de kabinetscrisis? Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. Na een lang debat in crisissfeer volgde gisteravond een zinderende stemming over het belastingplan, dat met de kleinst mog",
+     "titel": "Luchtmacht VS reageert op droneactiviteit op Britse vliegbasis",
+     "context": "De Amerikaanse luchtmacht is gisteravond in actie gekomen na meldingen over vermoedelijke ongeoorloofde droneactiviteit op de Britse luchtmachtbasis RAF Lakenheath in het oosten van Engeland. Of er drones zijn waargenomen is onbekend. Volgens de Amerikanen zijn in ieder geval geen militairen, vliegtuigen of gebouwen getroffen. De situatie is inmiddels opgelost. Ook het Britse ministerie van Defens",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639332",
+     "link": "https://nos.nl/l/2639420",
      "bron": "NOS",
-     "tijd": "15:55",
-     "sorteer": "2026-11-13T15:55:44+01:00"
+     "tijd": "01:41",
+     "sorteer": "2026-11-14T01:41:59+01:00"
     },
     {
-     "titel": "Prins Claus deserteerde niet uit leger nazi-Duitsland, blijkt uit nieuwe biografie",
-     "context": "Claus von Amsberg, de man van de vorige koningin, prinses Beatrix, en vader van koning Willem-Alexander, had een wat ander oorlogsverleden dan tot nu toe bekend. Zo deserteerde hij niet uit het Duitse leger, zoals hij later beweerde, en was zijn vader lid van nazipartij NSDAP. Dat blijkt uit een nieuwe biografie van de in 2002 overleden prins, geschreven door journalisten Jutta Chorus en Bas Blokk",
+     "titel": "Voormalig Doe Maar-drummer Jan Pijnenburg (70) overleden",
+     "context": "Jan Pijnenburg, voormalig drummer van de band Doe Maar, is op 70-jarige leeftijd onverwachts overleden. Dat schrijft Dagblad van het Noorden. Hij stierf in zijn woonplaats in Spanje. De doodsoorzaak is niet bekendgemaakt. Pijnenburg was slechts twee jaar drummer van Doe Maar, maar wel tijdens cruciale jaren. In 1982 moest hij drummer René van Collem vervangen, schrijft Omroep Brabant , die uit de ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639323",
+     "link": "https://nos.nl/l/2639401",
      "bron": "NOS",
-     "tijd": "15:14",
-     "sorteer": "2026-11-13T15:14:54+01:00"
+     "tijd": "22:52",
+     "sorteer": "2026-11-13T22:52:05+01:00"
     },
     {
-     "titel": "KLM doet aangifte na brand door powerbank Camiel Eurlings",
-     "context": "KLM heeft aangifte gedaan tegen een passagier vanwege een \"incident met een powerbank tijdens een vlucht in september\". Dat bevestigt de luchtvaartmaatschappij, na vragen van de NOS. Het gaat vermoedelijk om oud-KLM-directeur Camiel Eurlings, wiens powerbank in brand vloog op die vlucht. Of de aangifte inderdaad tegen Eurlings is, wil een woordvoerder niet zeggen. Ook is niet bekendgemaakt waarvan",
+     "titel": "De Sint komt aan in het land: wordt het bibberen langs de kant?",
+     "context": "Vandaag komt Sinterklaas officieel aan in ons land. Als je hem opwacht sta je waarschijnlijk een poos buiten te wachten. Bij welk weer doe je dat dit jaar en hoe zat dat de afgelopen jaren? Om met het laatste te beginnen; deze tijd van het jaar is het eigenlijk vrijwel nooit echt aangenaam om lang stil te staan in de buitenlucht. Gemiddeld is het sinds 2000 overdag een graad of 9. Echt koud was he",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639322",
+     "link": "https://nos.nl/l/2639376",
      "bron": "NOS",
-     "tijd": "15:06",
-     "sorteer": "2026-11-13T15:06:53+01:00"
+     "tijd": "20:24",
+     "sorteer": "2026-11-13T20:24:39+01:00"
     },
     {
-     "titel": "Politie vindt 3D-geprinte boksbeugels en vuurwapens in woning in Eindhoven",
-     "context": "Bij een inval in een woning in Eindhoven heeft de politie meerdere wapens aangetroffen die met een 3D-printer zijn gemaakt. Het gaat om zes boksbeugels en vijf vuurwapens die gemaakt zijn van 3D-printerplastic. Waarom de politie het huis was binnengevallen, wil een woordvoerder niet zeggen. De inval gebeurde volgens haar naar aanleiding van een onderzoek. Behalve de wapens werden ook twee 3D-print",
+     "titel": "Snel grote boom met veel schaduw laten groeien? Proef moet uitwijzen welke grond daarvoor het best is",
+     "context": "\"Dit is zo ongeveer de mooiste dag uit mijn leven\", zegt bomenexpert Hans Kaljee van de gemeente Amsterdam. Naast hem staan veel iepen die met wortels en al uit de grond zijn gehaald. Met de scan van de kluit en met metingen van acht jaar onderzoek gaan boomwetenschappers aan de slag om te achterhalen welke grond het beste is voor bomen om te groeien. Die informatie is belangrijk. \"Vroeger wilden ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639308",
+     "link": "https://nos.nl/l/2639365",
      "bron": "NOS",
-     "tijd": "13:37",
-     "sorteer": "2026-11-13T13:37:46+01:00"
+     "tijd": "19:35",
+     "sorteer": "2026-11-13T19:35:56+01:00"
     },
     {
-     "titel": "13/11 in Nieuwsuur: Het laatste nieuws over de crisis in het minderheidskabinet",
-     "context": "Crisis in minderheidskabinet Hebben we aan het einde van deze dag nog een missionair kabinet? Dat is de grote vraag vandaag in politiek Den Haag. Het belastingplan voor 2027 werd gisteren met een nipte meerderheid aangenomen 'over links', zónder steun van regeringspartij VVD. Dat is een flinke klap voor de partij van vicepremier Yesilgöz, die zich vandaag beraadt op de toekomst van het kabinet. We",
+     "titel": "D66, VVD en CDA zetten crisisoverleg voort op landgoed De Zwaluwenberg, uitkomst ongewis",
+     "context": "Het crisisoverleg tussen D66, VVD en CDA over de toekomst van het kabinet-Jetten gaat vandaag verder op landgoed De Zwaluwenberg. Hier komen Jetten en D66-fractievoorzitter Paternotte, VVD-leider Yesilgöz en VVD-fractievoorzitter Brekelmans en vicepremier Van den Brink en CDA-leider Bontenbal bij elkaar. Jetten kondigde gisteravond aan dit weekend \"fundamentele gesprekken\" te zullen voeren om op \"",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639286",
+     "link": "https://nos.nl/l/2639424",
      "bron": "NOS politiek",
-     "tijd": "11:34",
-     "sorteer": "2026-11-13T11:34:09+01:00"
+     "tijd": "05:29",
+     "sorteer": "2026-11-14T05:29:33+01:00"
     },
     {
-     "titel": "Een deel van de zorgverzekeraars tast diep in de buidel om stijging basispremie te dempen",
+     "titel": "Wie zitten er achter de Hamas-vlaggen?",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/een-deel-van-de-zorgverzekeraars-tast-diep-in-de-buidel-om-stijging-basispremie-te-dempen~b0f0748c/",
+     "link": "https://www.volkskrant.nl/binnenland/wie-zitten-er-achter-de-hamas-vlaggen~b0aab810/",
      "bron": "de Volkskrant",
-     "tijd": "15:27",
-     "sorteer": "2026-11-13T14:27:14+00:00"
+     "tijd": "18:45",
+     "sorteer": "2026-11-13T17:45:19+00:00"
     },
     {
-     "titel": "De archeologen waren trots dat ze een slavenbegraafplaats vonden, maar de nazaten niet",
+     "titel": "KLM doet aangifte vanwege in brand gevlogen powerbank, die was mogelijk van voormalig KLM-directeur Eurlings",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/de-archeologen-waren-trots-dat-ze-een-slavenbegraafplaats-vonden-maar-de-nazaten-niet~b0b45949/",
+     "link": "https://www.volkskrant.nl/binnenland/klm-doet-aangifte-vanwege-in-brand-gevlogen-powerbank-die-was-mogelijk-van-voormalig-klm-directeur-eurlings~bf8e533a/",
+     "bron": "de Volkskrant",
+     "tijd": "17:32",
+     "sorteer": "2026-11-13T16:32:57+00:00"
+    },
+    {
+     "titel": "Expositie in Groningse synagoge gaat gewoon door. ‘Als wij uit angst de deuren sluiten, verdwijnt de Joodse cultuur’",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/binnenland/expositie-in-groningse-synagoge-gaat-gewoon-door-als-wij-uit-angst-de-deuren-sluiten-verdwijnt-de-joodse-cultuur~bce1b8c0/",
      "bron": "Trouw",
-     "tijd": "17:54",
-     "sorteer": "2026-11-13T16:54:01+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-13T21:00:12+00:00"
     }
    ]
   },
@@ -225,49 +260,62 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Vier op een rij: bijzondere planetenparade boven Zwolle",
-     "context": "Mercurius, Venus, Mars en Jupiter: als je weet waar je moet kijken, zie je deze planeten soms aan de hemel staan. Maar de komende dagen is er iets speciaals aan de hand. Vanaf de aarde lijkt het alsof ze netjes op een rijtje staan. En dat wil je natuurlijk niet missen.",
+     "titel": "Eerste code rood door hitte kostte dancefestival tonnen, nu eisen zeven partijen opheldering",
+     "context": "Het was snikheet en daardoor vond de gemeente het onverantwoord vijf evenementen door te laten gaan. Code rood hield in juni ook Zwolle in zijn greep. Nu eisen zeven raadspartijen opheldering over het handelen van de gemeente. Zijn organisaties wel op tijd ingeseind?",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/planetenparade-november-2026-zwolle~a253e4af/",
+     "link": "https://www.destentor.nl/zwolle/eerste-code-rood-door-hitte-kostte-dancefestival-tonnen-nu-eisen-zeven-partijen-opheldering~acedc6d9/",
      "bron": "de Stentor",
-     "tijd": "16:00",
-     "sorteer": "2026-11-13T15:00:00+00:00"
+     "tijd": "06:00",
+     "sorteer": "2026-11-14T05:00:40+00:00"
     },
     {
-     "titel": "Laís en Jordy uit Zwolle maken Braziliaanse lekkernijen: ‘Vooral de toetjes zijn populair’",
-     "context": "Toetjes, taarten, pasteitjes... Laís Santos maakt het allemaal en haar vriend Jordy van der Veen helpt haar een handje. De Braziliaanse woont al bijna zes jaar in Nederland en laat Zwollenaren kennismaken met haar keuken. “Hagelslag is ook Braziliaans.”",
+     "titel": "Op wedstrijddagen kan het hier in Heino gevaarlijk druk worden: raad waagt nieuwe poging voor veiligere uitrit",
+     "context": "Twee wandelaars, verder niemand. Maar op wedstrijddagen is het bij deze uitrit in Heino heel anders: spelersbussen langs de weg, auto’s in de berm, fietsende kinderen ertussen. De hele gemeenteraad wil dat het veiliger wordt. Maar wanneer en van welk geld, is nog niet duidelijk.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/lais-en-jordy-uit-zwolle-maken-braziliaanse-lekkernijen-vooral-de-toetjes-zijn-populair~a36a7d46/",
+     "link": "https://www.destentor.nl/raalte/op-wedstrijddagen-kan-het-hier-in-heino-gevaarlijk-druk-worden-raad-waagt-nieuwe-poging-voor-veiligere-uitrit~a9938746/",
      "bron": "de Stentor",
-     "tijd": "14:30",
-     "sorteer": "2026-11-13T13:30:50+00:00"
+     "tijd": "06:00",
+     "sorteer": "2026-11-14T05:00:37+00:00"
     },
     {
-     "titel": "Noodlijdend jeugdzorgbedrijf Pactum hoeft 200 gemeenten voorlopig niet om geld te vragen",
-     "context": "Even leek het erop dat 200 gemeenten moesten bijspringen om jeugdzorgaanbieder Pactum overeind te houden. Dat lijkt nu toch niet nodig. Het bedrijf verwacht dit jaar een kleiner tekort dan eerder gevreesd. Het kan de lonen gewoon betalen.",
+     "titel": "Man (29) krijgt boete voor fietsen in winkelstraat, bij terugkomst uit de winkel vliegt zijn fiets richting agent",
+     "context": "De politie staat vrijdagmiddag in Zwolle te controleren in een voetgangersgebied. Ze deelt er bijna dertig boetes uit. En dan... besluit een man zijn fiets naar een agent te gooien.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/binnenland/noodlijdend-jeugdzorgbedrijf-pactum-hoeft-200-gemeenten-voorlopig-niet-om-geld-te-vragen~a198cf58/",
+     "link": "https://www.destentor.nl/zwolle/man-29-krijgt-boete-voor-fietsen-in-winkelstraat-bij-terugkomst-uit-de-winkel-vliegt-zijn-fiets-richting-agent~a5cb13df/",
      "bron": "de Stentor",
-     "tijd": "13:37",
-     "sorteer": "2026-11-13T12:37:00+00:00"
+     "tijd": "22:10",
+     "sorteer": "2026-11-13T21:10:00+00:00"
     },
     {
-     "titel": "Dit mbo in Zwolle bedacht een huiskamer voor studenten, nu komen scholen uit heel Europa kijken",
-     "context": "Na corona durfden jongeren amper nog op elkaar af te stappen. Op het Deltion College in Zwolle bedachten ze daar iets op: een huiskamer met een pooltafel, soms een gratis lunch en altijd iemand om mee te praten. Vijf jaar later komen scholen uit binnen- én buitenland kijken.",
+     "titel": "Tunnels, parken en verlaten fietsroutes: hier voelen Zwollenaren zich ’s avonds niet veilig",
+     "context": "Honderd plekken. Zoveel locaties wijzen Zwollenaren aan waar zij zich echt niet veilig voelen, vooral in de avond en nacht. Het gaat om fiets- en wandelroutes, tunnels, bruggen en onderdoorgangen. De gemeente belooft deze plekken aan te pakken.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/dit-mbo-in-zwolle-bedacht-een-huiskamer-voor-studenten-nu-komen-scholen-uit-heel-europa-kijken~aa4db7d0/",
+     "link": "https://www.destentor.nl/zwolle/tunnels-parken-en-verlaten-fietsroutes-hier-voelen-zwollenaren-zich-s-avonds-niet-veilig~a56d4c26/",
      "bron": "de Stentor",
-     "tijd": "11:30",
-     "sorteer": "2026-11-13T10:30:00+00:00"
+     "tijd": "20:30",
+     "sorteer": "2026-11-13T19:30:15+00:00"
     },
     {
-     "titel": "Hij komt, hij komt! Dit is het weerbericht voor de sinterklaasintocht 2026 in Zwolle",
-     "context": "Nog een nachtje slapen en dan komt Sinterklaas weer naar Zwolle. Moet je zaterdag 14 november een paraplu onder je arm meenemen of kun je die lekker thuislaten? Rico Schröder, meteoroloog bij Weeronline.nl, laat het weten.",
+     "titel": "Na jaren van onzekerheid gloort hoop voor Domusica: ontmoetingsplek mag mogelijk vijftien jaar blijven",
+     "context": "Achter de deuren van Domusica klinkt gezang, stemmen orkesten hun instrumenten en komen buurtgenoten samen. Wekelijks lopen er tweeduizend Zwollenaren binnen. Na jaren van onzekerheid gloort er eindelijk hoop voor deze ontmoetingsplek.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/sinterklaasintocht-weerbericht-2026-zwolle~abc9f2031/",
+     "link": "https://www.destentor.nl/zwolle/na-jaren-van-onzekerheid-gloort-hoop-voor-domusica-ontmoetingsplek-mag-mogelijk-vijftien-jaar-blijven~a611608f/",
      "bron": "de Stentor",
-     "tijd": "10:00",
-     "sorteer": "2026-11-13T09:00:00+00:00"
+     "tijd": "20:01",
+     "sorteer": "2026-11-13T19:01:01+00:00"
+    },
+    {
+     "titel": "Kampenaren kijken uit naar komst Sinterklaas: ‘Hij komt, hij komt’",
+     "context": "Hij komt, hij komt. Sinterklaas en zijn pieten komen zaterdag in meerdere steden met de stoomboot aan. Zo ook in Kampen. Wij gingen de straat op om ... Lees meer",
+     "rubrieken": [
+      "Kunst & Cultuur",
+      "Kampen",
+      "Sinterklaas"
+     ],
+     "link": "https://1zwolle.nl/nieuws/215791/kampenaren-kijken-uit-naar-komst-sinterklaas.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "18:50",
+     "sorteer": "2026-11-13T17:50:29+00:00"
     },
     {
      "titel": "Van EK voetbal ’88 tot bypass in de IJssel bij Confetti",
@@ -318,21 +366,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "14:46",
      "sorteer": "2026-11-13T13:46:27+00:00"
-    },
-    {
-     "titel": "Meer dan honderd onveilige plekken in Zwolle in kaart gebracht: gemeente komt in actie",
-     "context": "De gemeente Zwolle gaat aan de slag met ruim honderd plekken waar inwoners zich onveilig voelen. Via een gemeentelijke kaart werden in totaal 2.253 locaties ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Politiek",
-      "Gemeente",
-      "Veiligheid",
-      "Vrouwen"
-     ],
-     "link": "https://1zwolle.nl/nieuws/215548/meer-dan-honderd-onveilige-plekken-in-zwolle-in-kaart-gebracht-gemeente-komt-in-actie.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "12:41",
-     "sorteer": "2026-11-13T11:41:35+00:00"
     }
    ]
   },
@@ -341,41 +374,6 @@
    "titel": "Tweede Kamer",
    "emoji": "🏛️",
    "items": [
-    {
-     "titel": "Motie van het lid Van Brenk c.s. over bepaalde toetsstenen meenemen bij fundamentele herzieningen van het belasting- en…",
-     "bron": "motie aangenomen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z24751"
-    },
-    {
-     "titel": "Motie van de leden Grinwis en Stoffer over na stemming over het Belastingplan de resterende mogelijkheden en onmogelijkheden voor…",
-     "bron": "motie aangenomen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z24749"
-    },
-    {
-     "titel": "Motie van het lid Hoogeveen c.s. over het wetsvoorstel voor de volledige vermogenswinstbelasting uiterlijk met Prinsjesdag 2027…",
-     "bron": "motie aangenomen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z24740"
-    },
-    {
-     "titel": "Motie van het lid Jimmy Dijk over de studierente maximeren op 2,5 procent",
-     "bron": "motie verworpen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z24974"
-    },
-    {
-     "titel": "Motie van het lid Jimmy Dijk over de verruiming van de hypotheekrenteaftrek ongedaan maken",
-     "bron": "motie verworpen",
-     "kop": "Stemmingen",
-     "tijd": "",
-     "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z24973"
-    },
     {
      "titel": "Inburgering en Integratie (beleidsartikel 13 begroting SZW)",
      "bron": "Wetgevingsoverleg",
@@ -448,71 +446,52 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "18:00",
+    "bijgewerkt": "07:00",
     "uitslagen": [
      {
       "thuis": "Heerenveen",
       "uit": "Feyenoord",
       "score": "5 - 3",
-      "wanneer": "gisteren 12:15",
+      "wanneer": "zondag 12:15",
       "bezig": "",
-      "pec": false
+      "pec": false,
+      "tijd": "12:15"
      },
      {
       "thuis": "FC Twente",
       "uit": "Ajax",
       "score": "2 - 2",
-      "wanneer": "gisteren 14:30",
+      "wanneer": "zondag 14:30",
       "bezig": "",
-      "pec": false
+      "pec": false,
+      "tijd": "14:30"
      },
      {
       "thuis": "AZ Alkmaar",
       "uit": "FC Groningen",
       "score": "4 - 3",
-      "wanneer": "gisteren 16:45",
+      "wanneer": "zondag 16:45",
       "bezig": "",
-      "pec": false
+      "pec": false,
+      "tijd": "16:45"
      },
      {
       "thuis": "Cambuur",
       "uit": "PSV",
       "score": "2 - 5",
-      "wanneer": "gisteren 16:45",
+      "wanneer": "zondag 16:45",
       "bezig": "",
-      "pec": false
+      "pec": false,
+      "tijd": "16:45"
      },
      {
       "thuis": "FC Utrecht",
       "uit": "NEC",
       "score": "2 - 3",
-      "wanneer": "gisteren 20:00",
+      "wanneer": "zondag 20:00",
       "bezig": "",
-      "pec": false
-     },
-     {
-      "thuis": "Fortuna",
-      "uit": "Telstar",
-      "score": "2 - 2",
-      "wanneer": "gisteren 16:30",
-      "bezig": "",
-      "pec": false
-     },
-     {
-      "thuis": "ADO Den Haag",
-      "uit": "Sparta",
-      "score": "3 - 1",
-      "wanneer": "gisteren 18:45",
-      "bezig": "",
-      "pec": false
-     },
-     {
-      "thuis": "Excelsior",
-      "uit": "Go Ahead Eagles",
-      "score": "0 - 1",
-      "wanneer": "gisteren 21:00",
-      "bezig": "",
-      "pec": false
+      "pec": false,
+      "tijd": "20:00"
      }
     ],
     "stand": [
@@ -662,7 +641,7 @@
      }
     ]
    },
-   "aantal": 8
+   "aantal": 5
   },
   {
    "id": "natuur",
@@ -670,20 +649,12 @@
    "emoji": "🌿",
    "items": [
     {
-     "titel": "Natuurjournaal 13 november 2026",
-     "toelichting": "Volwassen insecten als schorsvlieg en maanschietmot, zie jij ze nog vliegen?",
+     "titel": "Natuurjournaal 14 november 2026",
+     "toelichting": "Tijd voor pups bij grijze zeehond en let eens op slaaptrek bij vogels, zoals de kokmeeuw.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36037",
-     "sorteer": "2026-11-13T05:45:00+00:00"
-    },
-    {
-     "titel": "In mangaanknollen uit de diepzee blijken kleine zeedieren te leven",
-     "toelichting": "Mangaanknollen, steenachtige structuren uit de diepzee die waardevolle metalen bevatten, blijken ook de unieke leefomgeving van verschillende kleine zeedieren te bieden – zelfs binnenin de knollen. Een leefgebied dat kwe",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36055",
-     "sorteer": "2026-11-13T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36038",
+     "sorteer": "2026-11-14T05:45:00+00:00"
     },
     {
      "titel": "Grote Pieper neemt andere afslag",
@@ -694,18 +665,26 @@
      "sorteer": "2026-11-13T09:00:00+00:00"
     },
     {
+     "titel": "Bermen als belangrijke verbinding voor natuur",
+     "toelichting": "In Zuid-Limburg liggen de natuurgebieden verspreid over het landschap, vaak compleet van elkaar afgezonderd. Hierdoor zitten planten en dieren gevangen in zo’n gebied. Door bermen die deze natuur aan elkaar verbinden een",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36030",
+     "sorteer": "2026-11-14T06:00:00+00:00"
+    },
+    {
+     "titel": "Waarom we verliefd worden op iemand die niet ons type is",
+     "toelichting": "Slim, grappig, ambitieus, sportief en een goede bos haar: veel mensen hebben een flink wensenlijstje voor hun toekomstige partner. En vervolgens vallen ze vaak voor iemand die daar totaal niet aan voldoet. Hoe zit dat? W",
+     "bron": "Scientias",
+     "tijd": "19:00",
+     "link": "https://scientias.nl/waarom-we-verliefd-worden-op-iemand-die-niet-ons-type-is/"
+    },
+    {
      "titel": "Verandert plastic de kleur van de Grote Oceaan?",
      "toelichting": "Wetenschappers zijn recent tot een opmerkelijke ontdekking gekomen over het effect van plastic op de oceaankleur. Zij kwamen erachter dat microplastics waarschijnlijk invloed hebben op de veranderde kleur rondom de plast",
      "bron": "Scientias",
      "tijd": "17:00",
      "link": "https://scientias.nl/verandert-plastic-de-kleur-van-de-grote-oceaan/"
-    },
-    {
-     "titel": "Ook een plantenziekte kan ziek worden, en de boosdoener blijkt verrassend divers",
-     "toelichting": "Een schimmel die meeldauw van binnenuit aanvalt blijkt diverser dan gedacht en wordt in DNA-databanken geregeld verward met andere schimmels. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het laatste wetenschapsni",
-     "bron": "Scientias",
-     "tijd": "15:00",
-     "link": "https://scientias.nl/ook-een-plantenziekte-kan-ziek-worden-en-de-boosdoener-blijkt-verrassend-divers/"
     }
    ]
   },
@@ -715,41 +694,41 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 5.2,
-    "gevoel": 4.0,
-    "wind": "W 1",
+    "nu": 0.4,
+    "gevoel": 0.4,
+    "wind": "Z 1",
     "station": "Heino",
-    "bericht": "Onder invloed van een hogedrukgebied is het zaterdag rustig weer met veel zon. Het is wel wat aan de frisse kant, dus kleed je goed aan als je zaterdag naar de intocht gaat.Vanavond neemt het aantal buien geleidelijk aan af. Er is ook iets minder wind.",
-    "vandaag": "Vanavond neemt het aantal buien geleidelijk aan af. Vannacht zijn er brede opklaringen.",
-    "temperatuur": "Rond 11 uur is het hier een graad of 5, rond de klok van 12 rond 7 graden.",
+    "bericht": "Het weer tijdens de landelijke Sinterklaasintocht in Grave ziet er bijzonder goed uit. Vandaag, na de mist, is het zonnig en droog. Morgenochtend alleen in het zuidoosten en oosten lichte (mot)regen.",
+    "vandaag": "Vandaag, na de mist, is het zonnig en droog. Vandaag begint de dag in het binnenland met lichte vorst en in het midden, zuiden en oosten mist of mistbanken.",
+    "temperatuur": "De maximumtemperatuur komt uit op 8 of 9 graden.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: 4 tot 10 graden, 14% kans op neerslag, ruim 8 uur zon, wind uit het westen, kracht 3.",
-     "max": 10,
-     "min": 4,
-     "regenkans": 14,
-     "omschrijving": "lichte motregen"
+     "zin": "Voor Zwolle zelf: 2 tot 9 graden, droog, ruim 7 uur zon, wind uit het zuiden, kracht 3.",
+     "max": 9,
+     "min": 2,
+     "regenkans": 1,
+     "omschrijving": "bewolkt"
     },
-    "vooruit": "Vanaf zondag veel bewolking, bijna dagelijks regen en de eerste dagen vrij veel wind. De temperatuur overdag is nog onzeker, maar ligt tussen 5 en 10°C. 's Nachts blijft het meestal boven nul.",
-    "omslag": "Nachtvorst in aantocht: zondag tot 0 graden.",
-    "min": "4",
-    "max": "11",
-    "regenkans": 30,
-    "zonkans": 50,
+    "vooruit": "Veel bewolking en perioden met regen. Zacht. Maandag en dinsdag aan de kust veel wind. Aan het einde van de week neemt de kans op neerslag af.",
+    "omslag": "Nachtvorst in aantocht: morgen tot 0 graden.",
+    "min": "2",
+    "max": "9",
+    "regenkans": 20,
+    "zonkans": 30,
     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
     "morgen": {
-     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "2",
-     "max": "9",
-     "regenkans": 20
+     "omschrijving": "Zwaar bewolkt en regen",
+     "min": "0",
+     "max": "7/10",
+     "regenkans": 40
     }
    }
   }
  ],
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
-  "blokken": 8,
-  "berichten": 43,
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "07:00",
+  "blokken": 7,
+  "berichten": 39,
   "problemen": []
  }
 }
