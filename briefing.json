@@ -1,5 +1,5 @@
 {
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "datum": "2026-11-14",
  "blokken": [
   {
@@ -93,6 +93,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "78-jarige verdachte van genocide Rwanda opgepakt in België",
+     "context": "In de buurt van het Belgische Leuven is een man opgepakt die wordt verdacht van genocide en misdaden tegen de menselijkheid in Rwanda. In de jaren 90 werden naar schatting zeker 800.000 mensen in het Afrikaanse land uitgemoord. Het OM vermoedt dat deze man daar een aandeel in had. De verdachte is de 78-jarige Jean Baptiste R., een man uit Rwanda met de Belgische nationaliteit. Hij verbleef volgens",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639441",
+     "bron": "NOS",
+     "tijd": "10:46",
+     "sorteer": "2026-11-14T10:46:51+01:00"
+    },
+    {
+     "titel": "Affaire Nvidia-topman legt risico's van banden tussen techwereld en Amerikaanse politiek bloot",
+     "context": "Nu topman Jensen Huang van chipbedrijf Nvidia is opgestapt, vraagt de Amerikaanse politiek zich hardop af of de nauwe banden tussen de regering en de topman voor blinde vlekken hebben gezorgd. Onder president Trump werd de weg vrijgemaakt voor een ongeremde groei van kunstmatige intelligentie, maar eventuele risico's lijken aan de kant geschoven. Vorige week kwam aan het licht dat Huang een affair",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639429",
+     "bron": "NOS",
+     "tijd": "07:10",
+     "sorteer": "2026-11-14T07:10:17+01:00"
+    },
+    {
      "titel": "Italiaanse minister: scholen niet meteen dicht na een bommelding",
      "context": "Scholen in Italië hoeven niet langer automatisch te worden ontruimd na een bommelding per e-mail. Dat staat in een richtlijn van minister van Binnenlandse Zaken Piantedosi, die is verstuurd aan regionale bestuurders en politiechefs. Dat meldt het Italiaanse persbureau ANSA. Aanleiding zijn de bommeldingen die afgelopen week twee dagen op rij naar duizenden Italiaanse scholen werden verstuurd. Ruim",
      "rubrieken": [],
@@ -111,58 +129,31 @@
      "sorteer": "2026-11-14T05:28:33+01:00"
     },
     {
-     "titel": "WSJ: Amerika verliest status van mazelenvrij land",
-     "context": "Amerika heeft zijn status van mazelenvrij land verloren. Dat schrijft The Wall Street Journal op basis van anonieme bronnen. Volgens de krant heeft de internationale gezondheidsorganisatie Pan American Health Organization de status van Amerika als mazelenvrij land ingetrokken. De VS kreeg die status in 2000 toegekend nadat het land de besmettelijke infectieziekte had geëlimineerd door een sterke v",
+     "titel": "Zelensky: VS opperden voor eerste keer afstaan van de Donbas in ruil voor Navo-lidmaatschap",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639422",
-     "bron": "NOS",
-     "tijd": "05:20",
-     "sorteer": "2026-11-14T05:20:41+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/zelensky-vs-opperden-voor-eerste-keer-afstaan-van-de-donbas-in-ruil-voor-navo-lidmaatschap~bffaf222/",
+     "bron": "de Volkskrant",
+     "tijd": "11:36",
+     "sorteer": "2026-11-14T10:36:00+00:00"
     },
     {
-     "titel": "Witte Huis: volgende week drielandengesprek tussen Trump, Poetin en Xi",
-     "context": "Het Witte Huis meldt dat er volgende week een uniek topoverleg is tussen de leiders van de VS, China en Rusland. Dat werd vannacht door de Amerikaanse regering aan journalisten meegedeeld. De Chinese regering heeft het driepartijenoverleg niet bevestigd. Als dat overleg er komt, is het de eerste keer dat de leiders van die landen elkaar samen spreken. De ontmoeting zou plaatsvinden te midden van d",
+     "titel": "Amerikanen hoeven Iran niet meer aan te vallen, zegt buitenlandminister Rubio: ‘Economische pijn is groot genoeg’",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639421",
-     "bron": "NOS",
-     "tijd": "02:51",
-     "sorteer": "2026-11-14T02:51:50+01:00"
-    },
-    {
-     "titel": "Vliegverkeer VS hervat na grote communicatiestoring, apparatuur raakte overbelast",
-     "context": "De Amerikaanse luchtvaartautoriteit FAA heeft de tijdelijke stillegging van het vliegverkeer in de hele VS opgeheven. De maatregel was genomen vanwege \"buitengewone omstandigheden\" en \"om veiligheidsredenen\". Het vliegverkeer lag zo'n vijf uur stil door een storing in de communicatieapparatuur van de Amerikaanse luchtverkeersleiding. Volgens de Amerikaanse minister van Transport Sean Duffy raakte ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639391",
-     "bron": "NOS",
-     "tijd": "22:09",
-     "sorteer": "2026-11-13T22:09:31+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
+     "bron": "de Volkskrant",
+     "tijd": "11:05",
+     "sorteer": "2026-11-14T10:05:00+00:00"
     },
     {
      "titel": "Iran: twee olietankers in brand door mijnen in Straat van Hormuz",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
-     "bron": "de Volkskrant",
-     "tijd": "05:46",
-     "sorteer": "2026-11-14T04:46:00+00:00"
-    },
-    {
-     "titel": "Cubaanse president: we bereiden ons voor op mogelijke Amerikaanse aanval",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/cubaanse-president-we-bereiden-ons-voor-op-mogelijke-amerikaanse-aanval~b1c4d181/",
-     "bron": "de Volkskrant",
-     "tijd": "05:25",
-     "sorteer": "2026-11-14T04:25:14+00:00"
-    },
-    {
-     "titel": "Witte Huis: Trump heeft donderdag in China ontmoeting met Poetin en Xi",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-vs-witte-huis-trump-heeft-donderdag-in-china-ontmoeting-met-poetin-en-xi~bbc0cf3d/",
+     "link": "https://www.trouw.nl/buitenland/live-oorlog-midden-oosten-iran-twee-olietankers-in-brand-door-mijnen-in-straat-van-hormuz~b4cda6da/",
      "bron": "Trouw",
-     "tijd": "03:29",
-     "sorteer": "2026-11-14T02:29:00+00:00"
+     "tijd": "05:47",
+     "sorteer": "2026-11-14T04:47:00+00:00"
     }
    ]
   },
@@ -171,6 +162,24 @@
    "titel": "Nederland",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Sinterklaasmysterie na weken onthuld, Gijs Naber volgt Stefan de Walle op",
+     "context": "Het Sinterklaasmysterie is eindelijk onthuld. Gijs Naber mag de rode mijter opzetten en vandaag in het Brabantse Grave naast Ozosnel lopen. Hij neemt de staf over van de 61-jarige Stefan de Walle die in september na vijftien jaar afscheid nam. De afgelopen weken buitelden de namen van mogelijke opvolgers over elkaar heen. Daan Schuurmans, Ramsey Nasr en Kasper van Kooten kwamen allemaal voorbij. A",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639457",
+     "bron": "NOS",
+     "tijd": "12:25",
+     "sorteer": "2026-11-14T12:25:54+01:00"
+    },
+    {
+     "titel": "Opnieuw vogelgriep in Hierden, 19.000 eenden en kippen gedood",
+     "context": "In het dorp Hierden in Gelderland is voor de derde keer deze week bij een bedrijf vogelgriep vastgesteld. Deze keer bij een eenden- en legpluimveebedrijf. De circa 6000 eenden en 13.000 legkippen worden om verdere verspreiding van het virus tegen te gaan, afgemaakt door de Nederlandse Voedsel- en Warenautoriteit. Het bedrijf was in 2022 ook al eens slachtoffer van de vogelgriep. In een zone van 10",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639437",
+     "bron": "NOS",
+     "tijd": "08:55",
+     "sorteer": "2026-11-14T08:55:42+01:00"
+    },
     {
      "titel": "Advocaten onderzoeken juridische stappen tegen Spaans gezinshuis voor oud-bewoners",
      "context": "Oud-bewoners van Huize Soria willen juridische stappen nemen tegen de gezinsouders, de organisaties die hen in het gezinshuis plaatsten en mogelijk de Nederlandse Staat. Meerdere advocaten staan een groep van 25 oud-bewoners bij. De advocaten onderzoeken onder meer of de betrokken instanties en de overheid aansprakelijk kunnen worden gehouden voor de misstanden in het Spaanse gezinshuis. Nieuwsuur",
@@ -190,40 +199,13 @@
      "sorteer": "2026-11-14T01:41:59+01:00"
     },
     {
-     "titel": "Voormalig Doe Maar-drummer Jan Pijnenburg (70) overleden",
-     "context": "Jan Pijnenburg, voormalig drummer van de band Doe Maar, is op 70-jarige leeftijd onverwachts overleden. Dat schrijft Dagblad van het Noorden. Hij stierf in zijn woonplaats in Spanje. De doodsoorzaak is niet bekendgemaakt. Pijnenburg was slechts twee jaar drummer van Doe Maar, maar wel tijdens cruciale jaren. In 1982 moest hij drummer René van Collem vervangen, schrijft Omroep Brabant , die uit de ",
+     "titel": "Crisisoverleg D66, VVD en CDA in Hilversum, premier en vicepremiers aangekomen",
+     "context": "Het crisisoverleg over de toekomst van het minderheidskabinet van D66, VVD en CDA staat op het punt van beginnen. D66-premier Jetten, VVD-leider en vicepremier Yesilgöz en vicepremier Van den Brink van het CDA zijn inmiddels aangekomen op landgoed De Zwaluwenberg in Hilversum. Ook de fractievoorzitters van de drie partijen, Paternotte van D66, Brekelmans van de VVD en CDA-leider Bontenbal zullen a",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639401",
-     "bron": "NOS",
-     "tijd": "22:52",
-     "sorteer": "2026-11-13T22:52:05+01:00"
-    },
-    {
-     "titel": "De Sint komt aan in het land: wordt het bibberen langs de kant?",
-     "context": "Vandaag komt Sinterklaas officieel aan in ons land. Als je hem opwacht sta je waarschijnlijk een poos buiten te wachten. Bij welk weer doe je dat dit jaar en hoe zat dat de afgelopen jaren? Om met het laatste te beginnen; deze tijd van het jaar is het eigenlijk vrijwel nooit echt aangenaam om lang stil te staan in de buitenlucht. Gemiddeld is het sinds 2000 overdag een graad of 9. Echt koud was he",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639376",
-     "bron": "NOS",
-     "tijd": "20:24",
-     "sorteer": "2026-11-13T20:24:39+01:00"
-    },
-    {
-     "titel": "Snel grote boom met veel schaduw laten groeien? Proef moet uitwijzen welke grond daarvoor het best is",
-     "context": "\"Dit is zo ongeveer de mooiste dag uit mijn leven\", zegt bomenexpert Hans Kaljee van de gemeente Amsterdam. Naast hem staan veel iepen die met wortels en al uit de grond zijn gehaald. Met de scan van de kluit en met metingen van acht jaar onderzoek gaan boomwetenschappers aan de slag om te achterhalen welke grond het beste is voor bomen om te groeien. Die informatie is belangrijk. \"Vroeger wilden ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639365",
-     "bron": "NOS",
-     "tijd": "19:35",
-     "sorteer": "2026-11-13T19:35:56+01:00"
-    },
-    {
-     "titel": "D66, VVD en CDA zetten crisisoverleg voort op landgoed De Zwaluwenberg, uitkomst ongewis",
-     "context": "Het crisisoverleg tussen D66, VVD en CDA over de toekomst van het kabinet-Jetten gaat vandaag verder op landgoed De Zwaluwenberg. Hier komen Jetten en D66-fractievoorzitter Paternotte, VVD-leider Yesilgöz en VVD-fractievoorzitter Brekelmans en vicepremier Van den Brink en CDA-leider Bontenbal bij elkaar. Jetten kondigde gisteravond aan dit weekend \"fundamentele gesprekken\" te zullen voeren om op \"",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639424",
+     "link": "https://nos.nl/l/2639451",
      "bron": "NOS politiek",
-     "tijd": "05:29",
-     "sorteer": "2026-11-14T05:29:33+01:00"
+     "tijd": "11:28",
+     "sorteer": "2026-11-14T11:28:22+01:00"
     },
     {
      "titel": "Wie zitten er achter de Hamas-vlaggen?",
@@ -244,13 +226,13 @@
      "sorteer": "2026-11-13T16:32:57+00:00"
     },
     {
-     "titel": "Expositie in Groningse synagoge gaat gewoon door. ‘Als wij uit angst de deuren sluiten, verdwijnt de Joodse cultuur’",
+     "titel": "Kade waar Sinterklaas aankomt in Grave is vol",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/expositie-in-groningse-synagoge-gaat-gewoon-door-als-wij-uit-angst-de-deuren-sluiten-verdwijnt-de-joodse-cultuur~bce1b8c0/",
+     "link": "https://www.trouw.nl/binnenland/kade-waar-sinterklaas-aankomt-in-grave-is-vol~bcba83d6/",
      "bron": "Trouw",
-     "tijd": "22:00",
-     "sorteer": "2026-11-13T21:00:12+00:00"
+     "tijd": "09:36",
+     "sorteer": "2026-11-14T08:36:00+00:00"
     }
    ]
   },
@@ -259,6 +241,24 @@
    "titel": "Zwolle en omgeving",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Nu de organisatie steviger staat, zet de Ster van Zwolle een stip aan de horizon",
+     "context": "De Ster van Zwolle staat weer een stuk steviger in de schoenen. De organisatie van de openingskoers van het jaar keek vrijdagavond vooruit naar de 66ste editie op 6 maart. En er is nog een andere stip aan de horizon.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/regiosport/nu-de-organisatie-steviger-staat-zet-de-ster-van-zwolle-een-stip-aan-de-horizon~abfb3188/",
+     "bron": "de Stentor",
+     "tijd": "11:00",
+     "sorteer": "2026-11-14T10:00:13+00:00"
+    },
+    {
+     "titel": "Even onderhandelen: 6 x deze woningen staan langer dan een half jaar te koop in Zwolle",
+     "context": "De meeste koopwoningen in Zwolle worden snel verkocht, maar er zijn ook stulpjes die na een half jaar (en soms zelfs na een jaar) maar geen nieuwe eigenaar vinden.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/even-onderhandelen-6-x-deze-woningen-staan-langer-dan-een-half-jaar-te-koop-in-zwolle~ab712f65/",
+     "bron": "de Stentor",
+     "tijd": "09:00",
+     "sorteer": "2026-11-14T08:00:43+00:00"
+    },
     {
      "titel": "Eerste code rood door hitte kostte dancefestival tonnen, nu eisen zeven partijen opheldering",
      "context": "Het was snikheet en daardoor vond de gemeente het onverantwoord vijf evenementen door te laten gaan. Code rood hield in juni ook Zwolle in zijn greep. Nu eisen zeven raadspartijen opheldering over het handelen van de gemeente. Zijn organisaties wel op tijd ingeseind?",
@@ -287,22 +287,46 @@
      "sorteer": "2026-11-13T21:10:00+00:00"
     },
     {
-     "titel": "Tunnels, parken en verlaten fietsroutes: hier voelen Zwollenaren zich ’s avonds niet veilig",
-     "context": "Honderd plekken. Zoveel locaties wijzen Zwollenaren aan waar zij zich echt niet veilig voelen, vooral in de avond en nacht. Het gaat om fiets- en wandelroutes, tunnels, bruggen en onderdoorgangen. De gemeente belooft deze plekken aan te pakken.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/tunnels-parken-en-verlaten-fietsroutes-hier-voelen-zwollenaren-zich-s-avonds-niet-veilig~a56d4c26/",
-     "bron": "de Stentor",
-     "tijd": "20:30",
-     "sorteer": "2026-11-13T19:30:15+00:00"
+     "titel": "Wat vertelt afval over het leven van vroeger? Zwolse lezing over geschiedenis van vuilnis",
+     "context": "Archeologen gebruiken afval om meer te weten te komen over het dagelijks leven, de gewoonten en het consumptiegedrag van mensen uit het verleden. Op vrijdag ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "geschiedenis",
+      "Lezing",
+      "Vuilnis",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/215680/wat-vertelt-afval-over-het-leven-van-vroeger-zwolse-lezing-over-geschiedenis-van-vuilnis.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "12:01",
+     "sorteer": "2026-11-14T11:01:00+00:00"
     },
     {
-     "titel": "Na jaren van onzekerheid gloort hoop voor Domusica: ontmoetingsplek mag mogelijk vijftien jaar blijven",
-     "context": "Achter de deuren van Domusica klinkt gezang, stemmen orkesten hun instrumenten en komen buurtgenoten samen. Wekelijks lopen er tweeduizend Zwollenaren binnen. Na jaren van onzekerheid gloort er eindelijk hoop voor deze ontmoetingsplek.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/na-jaren-van-onzekerheid-gloort-hoop-voor-domusica-ontmoetingsplek-mag-mogelijk-vijftien-jaar-blijven~a611608f/",
-     "bron": "de Stentor",
-     "tijd": "20:01",
-     "sorteer": "2026-11-13T19:01:01+00:00"
+     "titel": "Kunstenaar Miguel Chevalier onthult lichtkunstwerk op gevel Museum de Fundatie",
+     "context": "De Franse kunstenaar Miguel Chevalier is donderdag 10 december in Zwolle om zijn lichtkunstwerk Pixel Waves te onthullen. De gevel van Museum de Fundatie verandert ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Fundatie",
+      "Lichtkunstwerk",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/215306/kunstenaar-miguel-chevalier-onthult-lichtkunstwerk-op-gevel-museum-de-fundatie.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "11:06",
+     "sorteer": "2026-11-14T10:06:00+00:00"
+    },
+    {
+     "titel": "Sinterklaas in aantocht! 1Zwolle is erbij en zendt live uit!",
+     "context": "De spanning stijgt in Zwolle, de Pieten zijn er klaar voor en de pakjesboot is onderweg. De goedheiligman brengt vandaag een bezoek aan de stad ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Sinterklaas",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/215833/sinterklaas-in-aantocht-1zwolle-is-erbij-en-zendt-live-uit.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "10:04",
+     "sorteer": "2026-11-14T09:04:36+00:00"
     },
     {
      "titel": "Kampenaren kijken uit naar komst Sinterklaas: ‘Hij komt, hij komt’",
@@ -316,56 +340,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "18:50",
      "sorteer": "2026-11-13T17:50:29+00:00"
-    },
-    {
-     "titel": "Van EK voetbal ’88 tot bypass in de IJssel bij Confetti",
-     "context": "In Grand Café Confetti duikt presentator Erik Pool terug in de tijd met Evert ten Napel en de halve finale tijdens het Europees Kampioenschap voetbal ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "bypass",
-      "Confetti",
-      "EK voerbal",
-      "Hattem",
-      "Kampen",
-      "Zwartewaterland",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/215774/van-ek-voetbal-88-tot-bypass-in-de-ijssel-bij-confetti.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "17:47",
-     "sorteer": "2026-11-13T16:47:49+00:00"
-    },
-    {
-     "titel": "Rondje IJssel: theater vol verhalen en een oceaan vol lef!",
-     "context": "Een theatermaker met een passie voor historische verhalen en grootmoeders die binnenkort de Atlantische Oceaan willen oversteken. In het radioprogramma Rondje IJssel staan zaterdag twee ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Hattem",
-      "Rondje IJssel",
-      "Zwartewaterland",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/215550/rondje-ijssel-theater-vol-verhalen-en-een-oceaan-vol-lef.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "16:44",
-     "sorteer": "2026-11-13T15:44:00+00:00"
-    },
-    {
-     "titel": "Twee aanhoudingen na grootschalige spoorsabotage op Prinsjesdag",
-     "context": "In het onderzoek naar de spoorsabotages op Prinsjesdag zijn gisteren een man en een vrouw uit Drenthe aangehouden voor betrokkenheid. Ze zijn dezelfde dag weer ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Aanhoudingen",
-      "Hattem",
-      "Kampen",
-      "Spoorsabotage",
-      "Zwartewaterland",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/215640/twee-aanhoudingen-na-grootschalige-spoorsabotage-op-prinsjesdag.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "14:46",
-     "sorteer": "2026-11-13T13:46:27+00:00"
     }
    ]
   },
@@ -446,7 +420,7 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "07:00",
+    "bijgewerkt": "12:30",
     "uitslagen": [
      {
       "thuis": "Heerenveen",
@@ -657,14 +631,6 @@
      "sorteer": "2026-11-14T05:45:00+00:00"
     },
     {
-     "titel": "Grote Pieper neemt andere afslag",
-     "toelichting": "De Grote Pieper trekt na de broedtijd van nature vanuit Siberië naar het zuiden en oosten. Onderzoek wijst erop dat de soort steeds vaker naar het westen uitwijkt en een nieuwe trekroute naar Zuidwest‑Europa ontwikkelt. ",
-     "bron": "Nature Today",
-     "tijd": "10:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=35998",
-     "sorteer": "2026-11-13T09:00:00+00:00"
-    },
-    {
      "titel": "Bermen als belangrijke verbinding voor natuur",
      "toelichting": "In Zuid-Limburg liggen de natuurgebieden verspreid over het landschap, vaak compleet van elkaar afgezonderd. Hierdoor zitten planten en dieren gevangen in zo’n gebied. Door bermen die deze natuur aan elkaar verbinden een",
      "bron": "Nature Today",
@@ -673,18 +639,26 @@
      "sorteer": "2026-11-14T06:00:00+00:00"
     },
     {
+     "titel": "De meervleermuis vraagt om een landschap in samenhang",
+     "toelichting": "De meervleermuis komt in heel ons land voor in waterrijke landschappen. Ruimtelijke activiteiten zoals isoleren van gebouwen, kunnen gevolgen hebben voor zijn leefomgeving. In het nieuwe kennisdocument Meervleermuis van ",
+     "bron": "Nature Today",
+     "tijd": "10:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36054",
+     "sorteer": "2026-11-14T09:00:00+00:00"
+    },
+    {
+     "titel": "Vriendschappen onder druk: olifanten in Sri Lanka zoeken elkaar steeds minder op",
+     "toelichting": "Na jaren van achteruitgang passeerde een olifantenpopulatie in Sri Lanka een sociaal kantelpunt: het netwerk versplinterde in kleinere, geïsoleerde groepjes. Schrijf je in voor de nieuwsbrief! Ook elke dag vers het laats",
+     "bron": "Scientias",
+     "tijd": "11:00",
+     "link": "https://scientias.nl/vriendschappen-onder-druk-olifanten-in-sri-lanka-zoeken-elkaar-steeds-minder-op/"
+    },
+    {
      "titel": "Waarom we verliefd worden op iemand die niet ons type is",
      "toelichting": "Slim, grappig, ambitieus, sportief en een goede bos haar: veel mensen hebben een flink wensenlijstje voor hun toekomstige partner. En vervolgens vallen ze vaak voor iemand die daar totaal niet aan voldoet. Hoe zit dat? W",
      "bron": "Scientias",
      "tijd": "19:00",
      "link": "https://scientias.nl/waarom-we-verliefd-worden-op-iemand-die-niet-ons-type-is/"
-    },
-    {
-     "titel": "Verandert plastic de kleur van de Grote Oceaan?",
-     "toelichting": "Wetenschappers zijn recent tot een opmerkelijke ontdekking gekomen over het effect van plastic op de oceaankleur. Zij kwamen erachter dat microplastics waarschijnlijk invloed hebben op de veranderde kleur rondom de plast",
-     "bron": "Scientias",
-     "tijd": "17:00",
-     "link": "https://scientias.nl/verandert-plastic-de-kleur-van-de-grote-oceaan/"
     }
    ]
   },
@@ -694,17 +668,17 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 0.4,
-    "gevoel": 0.4,
-    "wind": "Z 1",
+    "nu": 3.2,
+    "gevoel": 0.8,
+    "wind": "ZZO 2",
     "station": "Heino",
     "bericht": "Het weer tijdens de landelijke Sinterklaasintocht in Grave ziet er bijzonder goed uit. Vandaag, na de mist, is het zonnig en droog. Morgenochtend alleen in het zuidoosten en oosten lichte (mot)regen.",
-    "vandaag": "Vandaag, na de mist, is het zonnig en droog. Vandaag begint de dag in het binnenland met lichte vorst en in het midden, zuiden en oosten mist of mistbanken.",
-    "temperatuur": "De maximumtemperatuur komt uit op 8 of 9 graden.",
+    "vandaag": "Vandaag, na de mist, is het zonnig en droog. Vanmiddag schijnt de zon volop en blijft het droog.",
+    "temperatuur": "De middagtemperatuur komt uit op 8 of 9 graden.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: 2 tot 9 graden, droog, ruim 7 uur zon, wind uit het zuiden, kracht 3.",
-     "max": 9,
-     "min": 2,
+     "zin": "Voor Zwolle zelf: 1 tot 8 graden, droog, ruim 8 uur zon, wind uit het zuiden, kracht 3.",
+     "max": 8,
+     "min": 1,
      "regenkans": 1,
      "omschrijving": "bewolkt"
     },
@@ -725,10 +699,10 @@
   }
  ],
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
-  "blokken": 7,
-  "berichten": 39,
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:30",
+  "blokken": 8,
+  "berichten": 37,
   "problemen": []
  }
 }
