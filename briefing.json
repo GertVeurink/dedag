@@ -1,6 +1,6 @@
 {
- "naam": "Avondbriefing",
- "datum": "2026-11-14",
+ "naam": "Ochtendbriefing",
+ "datum": "2026-11-15",
  "blokken": [
   {
    "id": "duiding",
@@ -9,77 +9,95 @@
    "items": [],
    "duiding": [
     {
-     "titel": "Vliegstop VS door oude apparatuur",
-     "tekst": "In de VS lag het vliegverkeer zo'n vijf uur stil, de langste landelijke vliegstop in 25 jaar. De oorzaak: verouderde communicatieapparatuur van de luchtverkeersleiding raakte overbelast. Het luchtruim is weer vrij, maar het verkeer komt pas geleidelijk op gang en passagiers zitten nog vast.",
+     "titel": "Spanning rond Golf en Gaza",
+     "tekst": "Drie berichten uit het Midden-Oosten raken elkaar. Volgens bronnen binnen Hamas doodde Israël een hoge commandant in Khan Younis. Iran meldt twee tankers op zeemijnen in de Straat van Hormuz, volgens Al Jazeera het zevende incident in een etmaal. Boven Saoedi-Arabië werden twee Houthi-raketten onderschept.",
      "verwijzingen": [
       {
-       "titel": "Passagiers in onzekerheid na grote vliegstop in VS: 'Ik zit hier vast'",
-       "link": "https://nos.nl/l/2639423",
+       "titel": "'Belangrijke Hamas-commandant gedood bij Israëlische luchtaanval'",
+       "link": "https://nos.nl/l/2639531",
        "bron": "NOS",
-       "tijd": "05:28"
+       "tijd": "04:21"
       },
       {
-       "titel": "Vliegverkeer VS hervat na grote communicatiestoring, apparatuur raakte overbelast",
-       "link": "https://nos.nl/l/2639391",
+       "titel": "Iran meldt brand op twee schepen in Straat van Hormuz, 'zevende incident in 24 uur'",
+       "link": "https://nos.nl/l/2639527",
        "bron": "NOS",
-       "tijd": "22:09"
+       "tijd": "01:31"
+      },
+      {
+       "titel": "Twee Houthi-raketten onderschept boven Saoedi-Arabië, inwoners Bahrein gewaarschuwd voor aanvallen",
+       "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
+       "bron": "de Volkskrant",
+       "tijd": "03:50"
       }
      ],
      "geschreven": "07:00"
     },
     {
-     "titel": "Topoverleg alleen door Washington gemeld",
-     "tekst": "Het Witte Huis meldt een overleg tussen Trump, Poetin en Xi, volgens Trouw donderdag in China. Het zou de eerste keer zijn dat de drie samen praten. De Chinese regering heeft het overleg niet bevestigd, dus het bericht komt tot nu toe alleen van Amerikaanse kant.",
+     "titel": "De Sint is weer begonnen",
+     "tekst": "Zaterdagochtend kwam de Sint met de stoomboot aan in Kampen en 's middags in Zwolle. Landelijk neemt Gijs Naber de plaats van Stefan de Walle in het Sinterklaasjournaal over. In Grave hoorden kinderen met een visuele beperking van de Sint in rijm wat ze wél kunnen.",
      "verwijzingen": [
       {
-       "titel": "Witte Huis: volgende week drielandengesprek tussen Trump, Poetin en Xi",
-       "link": "https://nos.nl/l/2639421",
-       "bron": "NOS",
-       "tijd": "02:51"
+       "titel": "In ‘blindenstad’ Grave hoort Sinterklaas in rijm wat kinderen met een visuele beperking allemaal wél kunnen",
+       "link": "https://www.volkskrant.nl/binnenland/in-blindenstad-grave-hoort-sinterklaas-in-rijm-wat-kinderen-met-een-visuele-beperking-allemaal-wel-kunnen~b145b2ae/",
+       "bron": "de Volkskrant",
+       "tijd": "18:09"
       },
       {
-       "titel": "Witte Huis: Trump heeft donderdag in China ontmoeting met Poetin en Xi",
-       "link": "https://www.trouw.nl/buitenland/live-vs-witte-huis-trump-heeft-donderdag-in-china-ontmoeting-met-poetin-en-xi~bbc0cf3d/",
-       "bron": "Trouw",
-       "tijd": "03:29"
-      }
-     ],
-     "geschreven": "07:00"
-    },
-    {
-     "titel": "Veiligheid in Zwolle en Heino",
-     "tekst": "Zwollenaren wijzen honderd plekken aan waar ze zich 's avonds onveilig voelen, en de gemeente belooft die aan te pakken. In Heino wil de hele gemeenteraad een veiligere uitrit, omdat het daar op wedstrijddagen gevaarlijk druk wordt. Wanneer dat gebeurt en van welk geld, is nog niet duidelijk.",
-     "verwijzingen": [
+       "titel": "Acteur Gijs Naber is de opvolger van Stefan de Walle in het Sinterklaasjournaal",
+       "link": "https://www.volkskrant.nl/binnenland/acteur-gijs-naber-is-de-opvolger-van-stefan-de-walle-in-het-sinterklaasjournaal~be2648315/",
+       "bron": "de Volkskrant",
+       "tijd": "12:34"
+      },
       {
-       "titel": "Op wedstrijddagen kan het hier in Heino gevaarlijk druk worden: raad waagt nieuwe poging voor veiligere uitrit",
-       "link": "https://www.destentor.nl/raalte/op-wedstrijddagen-kan-het-hier-in-heino-gevaarlijk-druk-worden-raad-waagt-nieuwe-poging-voor-veiligere-uitrit~a9938746/",
+       "titel": "Sinterklaas is weer in Zwolle: zo zag de intocht eruit",
+       "link": "https://www.destentor.nl/zwolle/sinterklaas-is-weer-in-zwolle-zo-zag-de-intocht-eruit~ac059b37/",
        "bron": "de Stentor",
-       "tijd": "06:00"
+       "tijd": "17:53"
       },
       {
-       "titel": "Tunnels, parken en verlaten fietsroutes: hier voelen Zwollenaren zich ’s avonds niet veilig",
-       "link": "https://www.destentor.nl/zwolle/tunnels-parken-en-verlaten-fietsroutes-hier-voelen-zwollenaren-zich-s-avonds-niet-veilig~a56d4c26/",
-       "bron": "de Stentor",
-       "tijd": "20:30"
-      }
-     ],
-     "geschreven": "07:00"
-    },
-    {
-     "titel": "Sinterklaas komt vandaag aan",
-     "tekst": "Vandaag komt Sinterklaas aan in het land, ook in Kampen met de stoomboot. Wie gaat kijken staat een poos buiten. Sinds 2000 is het rond deze tijd overdag gemiddeld een graad of 9.",
-     "verwijzingen": [
-      {
-       "titel": "De Sint komt aan in het land: wordt het bibberen langs de kant?",
-       "link": "https://nos.nl/l/2639376",
-       "bron": "NOS",
-       "tijd": "20:24"
-      },
-      {
-       "titel": "Kampenaren kijken uit naar komst Sinterklaas: ‘Hij komt, hij komt’",
-       "link": "https://1zwolle.nl/nieuws/215791/kampenaren-kijken-uit-naar-komst-sinterklaas.html",
+       "titel": "In beeld: Sint komt aan in Kampen",
+       "link": "https://1zwolle.nl/nieuws/215896/in-beeld-sint-komt-aan-in-kampen.html",
        "bron": "Weblog Zwolle",
-       "tijd": "18:50"
+       "tijd": "13:31"
+      }
+     ],
+     "geschreven": "07:00"
+    },
+    {
+     "titel": "Inburgering in Kamer en krant",
+     "tekst": "Maandag bespreekt de Kamer inburgering en integratie, een onderdeel van de begroting van Sociale Zaken. De Stentor volgt intussen Güven Kurt, een wiskundeleraar die in Turkije in de cel belandde en vluchtte, en laat zien hoe hij hier stap voor stap opnieuw begint.",
+     "verwijzingen": [
+      {
+       "titel": "Gevluchte wiskundeleraar Güven (49) geeft een inkijkje in het asielleven: ‘Ik dacht alleen maar aan mijn familie’",
+       "link": "https://www.destentor.nl/dalfsen/gevluchte-wiskundeleraar-guven-49-geeft-een-inkijkje-in-het-asielleven-ik-dacht-alleen-maar-aan-mijn-familie~a7911a83/",
+       "bron": "de Stentor",
+       "tijd": "19:02"
+      },
+      {
+       "titel": "Inburgering en Integratie (beleidsartikel 13 begroting SZW)",
+       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06402",
+       "bron": "Wetgevingsoverleg",
+       "tijd": "maandag 16/11 10:00"
+      }
+     ],
+     "geschreven": "07:00"
+    },
+    {
+     "titel": "Van Gogh-veiling onder vuur",
+     "tekst": "NOS en Volkskrant melden allebei dat een Van Gogh-veiling in New York onder druk staat. Nazaten van een Joodse eigenaar zeggen dat Châtaigniers en fleurs onder druk van de nazi's is verkocht en eisen dat het uit de veiling gaat. Het veilinghuis zegt met de familie in gesprek te zijn.",
+     "verwijzingen": [
+      {
+       "titel": "Veiling Van Gogh-schilderij op losse schroeven, werk mogelijk onder druk nazi's verkocht",
+       "link": "https://nos.nl/l/2639532",
+       "bron": "NOS",
+       "tijd": "05:50"
+      },
+      {
+       "titel": "Veiling schilderij Van Gogh betwist wegens mogelijke dwang bij verkoop in nazitijd",
+       "link": "https://www.volkskrant.nl/buitenland/veiling-schilderij-van-gogh-betwist-wegens-mogelijke-dwang-bij-verkoop-in-nazitijd~b70cecfa/",
+       "bron": "de Volkskrant",
+       "tijd": "02:18"
       }
      ],
      "geschreven": "07:00"
@@ -93,67 +111,67 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Moederbedrijf van WhatsApp en Instagram krijgt boete van 805 miljoen in Italië",
-     "context": "De Italiaanse autoriteit voor privacy- en databescherming heeft een boete van 805 miljoen euro opgelegd aan Meta, het moederbedrijf van Facebook, WhatsApp en Instagram. Het Amerikaanse techbedrijf had toegang tot foto's en video's van Android-gebruikers zonder daarvoor toestemming te vragen of gebruikers hierover te informeren. Meta kreeg toegang tot die gegevens via de Facebook-app voor Androidap",
+     "titel": "Veiling Van Gogh-schilderij op losse schroeven, werk mogelijk onder druk nazi's verkocht",
+     "context": "Een geplande veiling van een Van Gogh-schilderij in New York staat onder druk. Nazaten van een voormalige Joodse eigenaar van het beroemde schilderij Châtaigniers en fleurs beweren dat het werk destijds onder druk van de nazi's is verkocht. De nazaten eisen dat het doek uit de veiling wordt gehaald. Het veilinghuis zegt in gesprek te zijn met de familie. Het olieverfschilderij, in Nederland bekend",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639479",
+     "link": "https://nos.nl/l/2639532",
      "bron": "NOS",
-     "tijd": "14:50",
-     "sorteer": "2026-11-14T14:50:36+01:00"
+     "tijd": "05:50",
+     "sorteer": "2026-11-15T05:50:37+01:00"
     },
     {
-     "titel": "Miljoenen euro's opgegraven in anti-corruptieonderzoek naar regering-Orbán",
-     "context": "De Hongaarse autoriteiten hebben in een anticorruptie-onderzoek naar een minister uit de vorige regering van Viktor Orbán ruim 18 miljoen euro aan contant geld teruggevonden. Het geld lag begraven in bossen, was verborgen op boerderijen en in magazijnen en opgeslagen in een zwaarbeveiligde kluis. Het kostte twaalf medewerkers van de staatskas acht uur om de ruim 5 miljard Hongaarse Forint (zo'n 14",
+     "titel": "'Belangrijke Hamas-commandant gedood bij Israëlische luchtaanval'",
+     "context": "Bij een Israëlische luchtaanval op Khan Younis, een stad in het zuiden van de Gazastrook, is een hoge commandant van de terroristische organisatie Hamas gedood. Dat melden bronnen binnen Hamas aan persbureau Reuters. Bij de aanval raakten meerdere anderen gewond. Reuters meldt dat het gaat om de 53-jarige Samir Abu Younis. Hij zou betrokken zijn geweest bij het plannen van de grootschalige aanval ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639467",
+     "link": "https://nos.nl/l/2639531",
      "bron": "NOS",
-     "tijd": "13:20",
-     "sorteer": "2026-11-14T13:20:15+01:00"
+     "tijd": "04:21",
+     "sorteer": "2026-11-15T04:21:58+01:00"
     },
     {
-     "titel": "78-jarige verdachte van genocide Rwanda opgepakt in België",
-     "context": "In de buurt van het Belgische Leuven is een man opgepakt die wordt verdacht van genocide en misdaden tegen de menselijkheid in Rwanda. In de jaren 90 werden naar schatting zeker 800.000 mensen in het Afrikaanse land uitgemoord. Het OM vermoedt dat deze man daar een aandeel in had. De verdachte is de 78-jarige Jean Baptiste R., een man uit Rwanda met de Belgische nationaliteit. Hij verbleef volgens",
+     "titel": "19-jarige zangeres wint namens Filipijnen eerste Eurovisie Songfestival in Azië",
+     "context": "In Bangkok hebben de Filipijnen de eerste editie van het Eurovisie Songfestival Azië gewonnen. Met haar nummer Sobra-Sobra sleepte de Filipijnse deelneemster Carmelle de winst in de wacht. Gastland Thailand eindigde op de tweede plaats. Vietnam werd derde. De zangeres is met negentien jaar oud de jongste deelnemer van de competitie. Haar winnende nummer gaat over vrouwenemancipatie. Zo zingt ze on",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639441",
+     "link": "https://nos.nl/l/2639530",
      "bron": "NOS",
-     "tijd": "10:46",
-     "sorteer": "2026-11-14T10:46:51+01:00"
+     "tijd": "03:12",
+     "sorteer": "2026-11-15T03:12:34+01:00"
     },
     {
-     "titel": "Affaire Nvidia-topman legt risico's van banden tussen techwereld en Amerikaanse politiek bloot",
-     "context": "Nu topman Jensen Huang van chipbedrijf Nvidia is opgestapt, vraagt de Amerikaanse politiek zich hardop af of de nauwe banden tussen de regering en de topman voor blinde vlekken hebben gezorgd. Onder president Trump werd de weg vrijgemaakt voor een ongeremde groei van kunstmatige intelligentie, maar eventuele risico's lijken aan de kant geschoven. Vorige week kwam aan het licht dat Huang een affair",
+     "titel": "Iran meldt brand op twee schepen in Straat van Hormuz, 'zevende incident in 24 uur'",
+     "context": "De Iraanse marine meldt dat twee olietankers in de Straat van Hormuz op zeemijnen zijn gevaren. Aan boord zou brand zijn uitgebroken. De Arabische nieuwszender Al Jazeera meldt dat er de afgelopen 24 uur zeven van dit soort incidenten hebben plaatsgevonden in de zeestraat. Iraanse staatsmedia schrijven op basis van de marine dat de schepen hun navigatie- en volgsystemen hadden uitgeschakeld. De sc",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639429",
+     "link": "https://nos.nl/l/2639527",
      "bron": "NOS",
-     "tijd": "07:10",
-     "sorteer": "2026-11-14T07:10:17+01:00"
+     "tijd": "01:31",
+     "sorteer": "2026-11-15T01:31:08+01:00"
     },
     {
-     "titel": "Nederlands OnlyFans-model zit vast in ICE-gevangenis in New Jersey: ‘We vrezen voor haar leven’",
+     "titel": "Twee Houthi-raketten onderschept boven Saoedi-Arabië, inwoners Bahrein gewaarschuwd voor aanvallen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/nederlands-onlyfans-model-zit-vast-in-ice-gevangenis-in-new-jersey-we-vrezen-voor-haar-leven~b4813af8/",
+     "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
      "bron": "de Volkskrant",
-     "tijd": "17:32",
-     "sorteer": "2026-11-14T16:32:00+00:00"
+     "tijd": "03:50",
+     "sorteer": "2026-11-15T02:50:00+00:00"
     },
     {
-     "titel": "Drieduizend vluchten zaterdag geannuleerd ondanks vrijgave van vliegvelden in de VS",
+     "titel": "Veiling schilderij Van Gogh betwist wegens mogelijke dwang bij verkoop in nazitijd",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/drieduizend-vluchten-zaterdag-geannuleerd-ondanks-vrijgave-van-vliegvelden-in-de-vs~b44eefe1/",
+     "link": "https://www.volkskrant.nl/buitenland/veiling-schilderij-van-gogh-betwist-wegens-mogelijke-dwang-bij-verkoop-in-nazitijd~b70cecfa/",
      "bron": "de Volkskrant",
-     "tijd": "14:43",
-     "sorteer": "2026-11-14T13:43:00+00:00"
+     "tijd": "02:18",
+     "sorteer": "2026-11-15T01:18:19+00:00"
     },
     {
-     "titel": "De trein naar het vliegveld heeft al jaren vertraging",
+     "titel": "Franse regering maakt melding van meer dan 100.000 betogers",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/de-trein-naar-het-vliegveld-heeft-al-jaren-vertraging~ba313dfd/",
+     "link": "https://www.trouw.nl/buitenland/franse-regering-maakt-melding-van-meer-dan-100-000-betogers~b9abc2d6/",
      "bron": "Trouw",
-     "tijd": "17:13",
-     "sorteer": "2026-11-14T16:13:00+00:00"
+     "tijd": "22:44",
+     "sorteer": "2026-11-14T21:44:00+00:00"
     }
    ]
   },
@@ -163,58 +181,58 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Duizenden lopen mee met mars tegen abortus in Den Haag, ook tegendemonstratie",
-     "context": "In Den Haag vond vandaag de jaarlijkse Mars voor het Leven plaats. Duizenden deelnemers liepen mee in een stille mars tegen abortus. Er werd ook een tegendemonstratie gehouden waarbij veel geluid werd gemaakt. De mars begon op het Malieveld waar meerdere mensen op het podium het publiek toespraken. Onder anderen Chris Stoffer van de SGP hield een toespraak. Ook Mirjam Bikker van de ChristenUnie wa",
+     "titel": "Dode en zwaargewonde door aanrijding trein op station Strijp-S in Eindhoven",
+     "context": "Bij een ongeluk op het treinstation van Strijp-S, in een wijk in Eindhoven, is een man om het leven gekomen. Dat meldt de politie op X . De man werd aangereden door een trein. Een andere man raakte zwaargewond. Het ongeluk gebeurde rond 00.30 uur. De politie kan nog niets zeggen over de oorzaak van het ongeluk, maar gaat niet uit van zelfdoding. De politie verwacht dat het gaat om een noodlottig o",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639493",
+     "link": "https://nos.nl/l/2639529",
      "bron": "NOS",
-     "tijd": "16:42",
-     "sorteer": "2026-11-14T16:42:48+01:00"
+     "tijd": "03:11",
+     "sorteer": "2026-11-15T03:11:22+01:00"
+    },
+    {
+     "titel": "Kwaadaardige code verspreid via reclame op voetbalsite VI, gegevens buitgemaakt",
+     "context": "Voetbalnieuwssite VI.nl waarschuwt voor een \"kwaadaardige code\" die begin deze maand via advertenties op de website is verspreid onder bezoekers. De code kon volgens VI gegevens over websitebezoeken verzamelen en probeerde ook op bepaalde iPhone-toestellen toegang te krijgen tot persoonlijke gegevens. Volgens VI zijn er gegevens over websitebezoeken buitgemaakt, zonder dat bezoekers daarvoor iets ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639519",
+     "bron": "NOS",
+     "tijd": "22:23",
+     "sorteer": "2026-11-14T22:23:05+01:00"
+    },
+    {
+     "titel": "Duizenden stiekem gemaakte foto's van borsten en billen in Achterhoekse appgroep",
+     "context": "In een besloten groep op WhatsApp worden duizenden foto's gedeeld van vrouwen van wie de benen, billen of borsten stiekem zijn gefotografeerd. Ruim duizend mannen zitten in de appgroep die 't Haviksoog heet, meldt het tweewekelijkse onderzoeksprogramma Pointer van KRO-NCRV. Het programma ontdekte dat de fotomakers en de nietsvermoedende vrouwen vooral uit de Achterhoek en andere delen van Oost-Ned",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639515",
+     "bron": "NOS",
+     "tijd": "21:37",
+     "sorteer": "2026-11-14T21:37:27+01:00"
+    },
+    {
+     "titel": "Er is niks meer over van de historische molen bij Stiens: 'Dit is aangestoken'",
+     "context": "Waar gisteren nog een molen stond, ligt vandaag een ruïne. Overal geblakerde houten balken, weg is het vertrouwde silhouet aan de horizon in dit stukje Noord-Friesland. De karakteristieke Slagdijkstermolen uit 1864 tussen de dorpen Stiens en Feinsum ging vannacht in vlammen op. Molenaar Johan Nooi hoorde het trieste nieuws vanochtend vroeg van een verslaggeefster en sprong meteen in zijn auto. \"Da",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639508",
+     "bron": "NOS",
+     "tijd": "19:21",
+     "sorteer": "2026-11-14T19:21:29+01:00"
     },
     {
      "titel": "Kabinet wankelt terwijl Hilversum kiest: 'Misschien wel de midterms voor Den Haag'",
      "context": "Terwijl D66, VVD en CDA op landgoed De Zwaluwenberg praten over de toekomst van hun minderheidskabinet , voeren politieke partijen een paar kilometer verderop druk campagne. Woensdag kiezen de inwoners van Hilversum en Wijdemeren een nieuwe gemeenteraad. Speelt de politieke crisis een rol bij hun keuze? Wie vandaag door Hilversum wandelt, kan er nauwelijks aan ontkomen: de naderende gemeenteraadsv",
      "rubrieken": [],
      "link": "https://nos.nl/l/2639490",
-     "bron": "NOS",
+     "bron": "NOS politiek",
      "tijd": "16:12",
      "sorteer": "2026-11-14T16:12:28+01:00"
     },
     {
-     "titel": "14/11 in Nieuwsuur: Is er toekomst voor kabinet-Jetten? • Oorlogsverleden Claus ligt toch net anders • Kritiek op thuiswerken",
-     "context": "Is er nog toekomst voor kabinet-Jetten? Coalitiepartijen D66, VVD en CDA voeren net als gisteren crisisoverleg. Dit keer niet in Den Haag maar op landgoed De Zwaluwenberg in Hilversum. Onderwerp van gesprek is de toekomst van het minderheidskabinet na de chaotisch verlopen onderhandelingen over het belastingplan. Het is de vraag of het kabinet standhoudt, en zo ja in welke vorm. We bespreken alle ",
+     "titel": "In ‘blindenstad’ Grave hoort Sinterklaas in rijm wat kinderen met een visuele beperking allemaal wél kunnen",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639484",
-     "bron": "NOS",
-     "tijd": "15:56",
-     "sorteer": "2026-11-14T15:56:57+01:00"
-    },
-    {
-     "titel": "Sinterklaasmysterie na weken onthuld, Gijs Naber volgt Stefan de Walle op",
-     "context": "Het Sinterklaasmysterie is eindelijk onthuld. Gijs Naber mocht de rode mijter opzetten en vandaag in het Brabantse Grave op Ozosnel zitten. Hij nam de staf over van de 61-jarige Stefan de Walle, die in september na vijftien jaar afscheid nam. De afgelopen weken buitelden de namen van mogelijke opvolgers over elkaar heen. Daan Schuurmans, Ramsey Nasr en Kasper van Kooten kwamen allemaal voorbij. Al",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639457",
-     "bron": "NOS",
-     "tijd": "12:25",
-     "sorteer": "2026-11-14T12:25:54+01:00"
-    },
-    {
-     "titel": "Opnieuw vogelgriep in Hierden, 19.000 eenden en kippen gedood",
-     "context": "In het dorp Hierden in Gelderland is voor de derde keer deze week bij een bedrijf vogelgriep vastgesteld. Deze keer bij een eenden- en legpluimveebedrijf. De circa 6000 eenden en 13.000 legkippen worden om verdere verspreiding van het virus tegen te gaan, afgemaakt door de Nederlandse Voedsel- en Warenautoriteit. Het bedrijf was in 2022 ook al eens slachtoffer van de vogelgriep. In een zone van 10",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639437",
-     "bron": "NOS",
-     "tijd": "08:55",
-     "sorteer": "2026-11-14T08:55:42+01:00"
-    },
-    {
-     "titel": "Crisisoverleg D66, VVD en CDA in Hilversum waarschijnlijk morgen verder",
-     "context": "Het crisisoverleg over de toekomst van het minderheidskabinet van D66, VVD en CDA wordt waarschijnlijk na het avondeten afgebroken en morgenochtend voortgezet. Dat meldt een woordvoerder van premier Jetten. D66-premier Jetten, VVD-leider en vicepremier Yesilgöz, vicepremier Van den Brink (CDA), CDA-partijleider Bontenbal en de fractievoorzitters Paternotte van D66 en Brekelmans van VVD spreken van",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639451",
-     "bron": "NOS politiek",
-     "tijd": "11:28",
-     "sorteer": "2026-11-14T11:28:22+01:00"
+     "link": "https://www.volkskrant.nl/binnenland/in-blindenstad-grave-hoort-sinterklaas-in-rijm-wat-kinderen-met-een-visuele-beperking-allemaal-wel-kunnen~b145b2ae/",
+     "bron": "de Volkskrant",
+     "tijd": "18:09",
+     "sorteer": "2026-11-14T17:09:00+00:00"
     },
     {
      "titel": "Acteur Gijs Naber is de opvolger van Stefan de Walle in het Sinterklaasjournaal",
@@ -226,13 +244,13 @@
      "sorteer": "2026-11-14T11:34:00+00:00"
     },
     {
-     "titel": "Wie zitten er achter de Hamas-spandoeken die de laatste weken opduiken bij pro-Palestijnse protesten?",
+     "titel": "Biografen prins Claus brengen zijn onbekende jeugd in kaart: ‘Hij verzette zich bijna zijn hele schooltijd lang tegen het gezag’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/wie-zitten-er-achter-de-hamas-spandoeken-die-de-laatste-weken-opduiken-bij-pro-palestijnse-protesten~b0aab810/",
-     "bron": "de Volkskrant",
-     "tijd": "18:45",
-     "sorteer": "2026-11-13T17:45:00+00:00"
+     "link": "https://www.trouw.nl/binnenland/biografen-prins-claus-brengen-zijn-onbekende-jeugd-in-kaart-hij-verzette-zich-bijna-zijn-hele-schooltijd-lang-tegen-het-gezag~b2c6e0d4/",
+     "bron": "Trouw",
+     "tijd": "20:49",
+     "sorteer": "2026-11-14T19:49:00+00:00"
     }
    ]
   },
@@ -241,6 +259,33 @@
    "titel": "Zwolle en omgeving",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Elf kappers naast elkaar in één winkelstraat in Zwolle, Huseyin wil maar één ding van de gemeente",
+     "context": "Concurrentie hoort erbij, vindt iedere ondernemer. Maar wat als er in één winkelstraat ineens elf kappers naast elkaar knippen? In Zwolle stelt de politiek er vragen over. In de straat zelf heeft ieder zo zijn eigen verklaring.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/elf-kappers-naast-elkaar-in-een-winkelstraat-in-zwolle-huseyin-wil-maar-een-ding-van-de-gemeente~af4ca019/",
+     "bron": "de Stentor",
+     "tijd": "20:05",
+     "sorteer": "2026-11-14T19:05:00+00:00"
+    },
+    {
+     "titel": "Gevluchte wiskundeleraar Güven (49) geeft een inkijkje in het asielleven: ‘Ik dacht alleen maar aan mijn familie’",
+     "context": "Hoe begin je opnieuw als je alles achter je moet laten? Güven Kurt was wiskundeleraar in Turkije, tot hij in de cel belandde en vluchtte. In Nederland laat hij verslaggever Castor van Dillen meekijken, stap voor stap.Hoe het hem vergaat, lees je in onze special.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/dalfsen/gevluchte-wiskundeleraar-guven-49-geeft-een-inkijkje-in-het-asielleven-ik-dacht-alleen-maar-aan-mijn-familie~a7911a83/",
+     "bron": "de Stentor",
+     "tijd": "19:02",
+     "sorteer": "2026-11-14T18:02:00+00:00"
+    },
+    {
+     "titel": "PEC Zwolle-baas Van der Kolk strikt Max Verstappen voor zijn installatiebedrijf",
+     "context": "Zo ongeveer elke twee weken neemt ondernemer Frans van der Kolk uit Kampen wel een compleet installatiebedrijf over. Nu heeft hij ook een van ’s werelds populairste sporters gestrikt: Max Verstappen. Het logo van zijn VDK Groep krijgt een prominente plek op de helm van de Formule 1-coureur.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/pec-zwolle-baas-van-der-kolk-strikt-max-verstappen-voor-zijn-installatiebedrijf~af9322db/",
+     "bron": "de Stentor",
+     "tijd": "18:04",
+     "sorteer": "2026-11-14T17:04:35+00:00"
+    },
     {
      "titel": "Sinterklaas is weer in Zwolle: zo zag de intocht eruit",
      "context": "Vrolijke en gespannen snoetjes, pepernoten, dansjes en vooral veel gezelligheid. Kleine, maar ook grote Zwollenaren stonden zaterdagmiddag 14 november klaar om de Sint en pieten een warm welkom te geven in Zwolle.",
@@ -260,31 +305,16 @@
      "sorteer": "2026-11-14T10:00:00+00:00"
     },
     {
-     "titel": "Even onderhandelen: 6 x deze woningen staan langer dan een half jaar te koop in Zwolle",
-     "context": "De meeste koopwoningen in Zwolle worden snel verkocht, maar er zijn ook stulpjes die na een half jaar (en soms zelfs na een jaar) maar geen nieuwe eigenaar vinden.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/even-onderhandelen-6-x-deze-woningen-staan-langer-dan-een-half-jaar-te-koop-in-zwolle~ab712f65/",
-     "bron": "de Stentor",
-     "tijd": "09:00",
-     "sorteer": "2026-11-14T08:00:43+00:00"
-    },
-    {
-     "titel": "Op wedstrijddagen kan het hier in Heino gevaarlijk druk worden: raad waagt nieuwe poging voor veiligere uitrit",
-     "context": "Twee wandelaars, verder niemand. Maar op wedstrijddagen is het bij deze uitrit in Heino heel anders: spelersbussen langs de weg, auto’s in de berm, fietsende kinderen ertussen. De hele gemeenteraad wil dat het veiliger wordt. Maar wanneer en van welk geld, is nog niet duidelijk.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/raalte/op-wedstrijddagen-kan-het-hier-in-heino-gevaarlijk-druk-worden-raad-waagt-nieuwe-poging-voor-veiligere-uitrit~a9938746/",
-     "bron": "de Stentor",
-     "tijd": "06:00",
-     "sorteer": "2026-11-14T05:00:37+00:00"
-    },
-    {
-     "titel": "Eerste code rood door hitte kostte dancefestival tonnen: nu eisen zeven partijen opheldering",
-     "context": "Het was snikheet en daarom vond de gemeente het onverantwoord om vijf evenementen door te laten gaan. Code rood hield in juni ook Zwolle in zijn greep. Nu eisen zeven raadspartijen opheldering over het handelen van de gemeente. Zijn organisaties wel op tijd ingeseind?",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/eerste-code-rood-door-hitte-kostte-dancefestival-tonnen-nu-eisen-zeven-partijen-opheldering~acedc6d9/",
-     "bron": "de Stentor",
-     "tijd": "06:00",
-     "sorteer": "2026-11-14T05:00:00+00:00"
+     "titel": "Kop-staartbotsing met drie auto’s",
+     "context": "Op de Middelweg ter hoogte van de Zwartewaterallee heeft zaterdag rond 17.45 uur een kop-staartbotsing plaatsgevonden waarbij drie auto’s betrokken waren. Eén persoon is ter ... Lees meer",
+     "rubrieken": [
+      "112",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/215951/kop-staartbotsing-met-drie-autos.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "18:39",
+     "sorteer": "2026-11-14T17:39:44+00:00"
     },
     {
      "titel": "Paddington-regisseur maakt voorstelling voor wintercircus in Zwolle",
@@ -324,21 +354,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "13:31",
      "sorteer": "2026-11-14T12:31:25+00:00"
-    },
-    {
-     "titel": "Wat vertelt afval over het leven van vroeger? Zwolse lezing over geschiedenis van vuilnis",
-     "context": "Archeologen gebruiken afval om meer te weten te komen over het dagelijks leven, de gewoonten en het consumptiegedrag van mensen uit het verleden. Op vrijdag ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "geschiedenis",
-      "Lezing",
-      "Vuilnis",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/215680/wat-vertelt-afval-over-het-leven-van-vroeger-zwolse-lezing-over-geschiedenis-van-vuilnis.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "12:01",
-     "sorteer": "2026-11-14T11:01:00+00:00"
     }
    ]
   },
@@ -419,54 +434,8 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "18:00",
-    "uitslagen": [
-     {
-      "thuis": "Heerenveen",
-      "uit": "Feyenoord",
-      "score": "5 - 3",
-      "wanneer": "zondag 12:15",
-      "bezig": "",
-      "pec": false,
-      "tijd": "12:15"
-     },
-     {
-      "thuis": "FC Twente",
-      "uit": "Ajax",
-      "score": "2 - 2",
-      "wanneer": "zondag 14:30",
-      "bezig": "",
-      "pec": false,
-      "tijd": "14:30"
-     },
-     {
-      "thuis": "AZ Alkmaar",
-      "uit": "FC Groningen",
-      "score": "4 - 3",
-      "wanneer": "zondag 16:45",
-      "bezig": "",
-      "pec": false,
-      "tijd": "16:45"
-     },
-     {
-      "thuis": "Cambuur",
-      "uit": "PSV",
-      "score": "2 - 5",
-      "wanneer": "zondag 16:45",
-      "bezig": "",
-      "pec": false,
-      "tijd": "16:45"
-     },
-     {
-      "thuis": "FC Utrecht",
-      "uit": "NEC",
-      "score": "2 - 3",
-      "wanneer": "zondag 20:00",
-      "bezig": "",
-      "pec": false,
-      "tijd": "20:00"
-     }
-    ],
+    "bijgewerkt": "07:00",
+    "uitslagen": [],
     "stand": [
      {
       "plek": "1",
@@ -614,7 +583,7 @@
      }
     ]
    },
-   "aantal": 5
+   "aantal": 0
   },
   {
    "id": "natuur",
@@ -622,20 +591,12 @@
    "emoji": "🌿",
    "items": [
     {
-     "titel": "Natuurjournaal 14 november 2026",
-     "toelichting": "Tijd voor pups bij grijze zeehond en let eens op slaaptrek bij vogels, zoals de kokmeeuw.",
+     "titel": "Natuurjournaal 15 november 2026",
+     "toelichting": "De roep van de bosuil schalt weer, gaai heeft verzameldrift.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36038",
-     "sorteer": "2026-11-14T05:45:00+00:00"
-    },
-    {
-     "titel": "Bermen als belangrijke verbinding voor natuur",
-     "toelichting": "In Zuid-Limburg liggen de natuurgebieden verspreid over het landschap, vaak compleet van elkaar afgezonderd. Hierdoor zitten planten en dieren gevangen in zo’n gebied. Door bermen die deze natuur aan elkaar verbinden een",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36030",
-     "sorteer": "2026-11-14T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36036",
+     "sorteer": "2026-11-15T05:45:00+00:00"
     },
     {
      "titel": "De meervleermuis vraagt om een landschap in samenhang",
@@ -644,6 +605,14 @@
      "tijd": "10:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36054",
      "sorteer": "2026-11-14T09:00:00+00:00"
+    },
+    {
+     "titel": "Laat webshops voor natuurcartoons doneren bij jouw online aankopen",
+     "toelichting": "Deze feestdagen geef je niet alleen cadeaus, maar ook natuurverhalen door! Steun Nature Today zonder een cent extra uit te geven. Via Terry.earth wordt een deel van de aankoopprijs door de webshop gedoneerd aan ons doel:",
+     "bron": "Nature Today",
+     "tijd": "06:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36065",
+     "sorteer": "2026-11-15T05:00:00+00:00"
     },
     {
      "titel": "Vriendschappen onder druk: olifanten in Sri Lanka zoeken elkaar steeds minder op",
@@ -667,40 +636,40 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 1.1,
-    "gevoel": -0.5,
-    "wind": "O 1",
+    "nu": 0.1,
+    "gevoel": -2.1,
+    "wind": "ZO 2",
     "station": "Heino",
-    "bericht": "Vanavond is het op de meeste plaatsen helder en koelt het snel af. Morgen gaat het weer veranderen en gaat het vooral later op de dag regenen. Ook trekt de zuidenwind aan.Vanavond is het helder en koelt het snel af.",
-    "vandaag": "Vanavond is het op de meeste plaatsen helder en koelt het snel af. Vanavond is het helder en koelt het snel af.",
-    "temperatuur": "Het wordt plaatselijk -3 graden in het oosten tot 3 graden direct langs de kust.",
+    "bericht": "Het weerbeeld voor de komende tijd ziet er steeds wisselvalliger uit, waarbij de regenkans steeds groter wordt. De meeste regen valt in de nacht naar dinsdag en dinsdagochtend. Daarbij bestaat in het noordoosten tijdelijk kans op flatsen natte sneeuw.Vanochtend hebben we te maken met veel bewolking en in het zuiden, midden en oosten valt plaatselijk wat regen of motregen.",
+    "vandaag": "Vanochtend hebben we te maken met veel bewolking en in het zuiden, midden en oosten valt plaatselijk wat regen of motregen. Vanmiddag is het overwegend bewolkt en valt er aanvankelijk in het noordoosten nog plaatselijk wat lichte regen of motregen.",
+    "temperatuur": "In Heino zakte de temperatuur naar -1,9 graden.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: 1 tot 8 graden, droog, ruim 8 uur zon, wind uit het zuiden, kracht 3.",
+     "zin": "Voor Zwolle zelf: dichte motregen, 0 tot 8 graden, 75% kans op neerslag, weinig zon, wind uit het zuiden, kracht 3.",
      "max": 8,
-     "min": 1,
-     "regenkans": 1,
-     "omschrijving": "bewolkt"
+     "min": 0,
+     "regenkans": 75,
+     "omschrijving": "dichte motregen"
     },
-    "vooruit": "Veel bewolking en perioden met regen. Zacht. Maandag en dinsdag aan de kust veel wind. Aan het einde van de week neemt de kans op neerslag af.",
-    "omslag": "Nachtvorst in aantocht: morgen tot 0 graden.",
-    "min": "2",
-    "max": "9",
-    "regenkans": 20,
-    "zonkans": 30,
-    "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
+    "vooruit": "Veel bewolking en perioden met regen. Zacht. Maandag en dinsdag aan de kust veel wind. Aan het einde van de week neemt de kans op neerslag af. Zaterdag blijft het waarschijnlijk droog en zijn er perioden met zon.",
+    "omslag": null,
+    "min": "0",
+    "max": "7/10",
+    "regenkans": 40,
+    "zonkans": 20,
+    "omschrijving": "Zwaar bewolkt en regen",
     "morgen": {
      "omschrijving": "Zwaar bewolkt en regen",
-     "min": "0",
-     "max": "7/10",
+     "min": "2/7",
+     "max": "9/13",
      "regenkans": 40
     }
    }
   }
  ],
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
-  "blokken": 8,
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "07:00",
+  "blokken": 7,
   "berichten": 37,
   "problemen": []
  }
