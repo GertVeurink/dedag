@@ -1,6 +1,6 @@
 {
- "naam": "Avondbriefing",
- "datum": "2026-11-15",
+ "naam": "Ochtendbriefing",
+ "datum": "2026-11-16",
  "blokken": [
   {
    "id": "duiding",
@@ -9,101 +9,45 @@
    "items": [],
    "duiding": [
     {
-     "titel": "Spanning rond Golf en Gaza",
-     "tekst": "Drie berichten uit het Midden-Oosten raken elkaar. Volgens bronnen binnen Hamas doodde Israël een hoge commandant in Khan Younis. Iran meldt twee tankers op zeemijnen in de Straat van Hormuz, volgens Al Jazeera het zevende incident in een etmaal. Boven Saoedi-Arabië werden twee Houthi-raketten onderschept.",
+     "titel": "Mijnen en vliegdekschepen bij Hormuz",
+     "tekst": "In de Straat van Hormuz zijn opnieuw twee olietankers op mijnen gelopen (5). Tegelijk melden Al Jazeera en Axios dat een derde Amerikaans vliegdekschip, de USS Theodore Roosevelt, in de Golfregio is aangekomen. Het Amerikaanse leger heeft dat nog niet bevestigd (1).",
      "verwijzingen": [
       {
-       "titel": "'Belangrijke Hamas-commandant gedood bij Israëlische luchtaanval'",
-       "link": "https://nos.nl/l/2639531",
+       "titel": "'Derde Amerikaanse vliegdekschip, USS Theodore Roosevelt, aangekomen in Golfregio'",
+       "link": "https://nos.nl/l/2639661",
        "bron": "NOS",
-       "tijd": "04:21"
+       "tijd": "05:16"
       },
       {
-       "titel": "Iran meldt brand op twee schepen in Straat van Hormuz, 'zevende incident in 24 uur'",
-       "link": "https://nos.nl/l/2639527",
-       "bron": "NOS",
-       "tijd": "01:31"
-      },
-      {
-       "titel": "Twee Houthi-raketten onderschept boven Saoedi-Arabië, inwoners Bahrein gewaarschuwd voor aanvallen",
+       "titel": "Opnieuw twee olietankers op mijnen gelopen in Straat van Hormuz",
        "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
        "bron": "de Volkskrant",
-       "tijd": "03:50"
-      }
-     ],
-     "geschreven": "07:00"
-    },
-    {
-     "titel": "De Sint is weer begonnen",
-     "tekst": "Zaterdagochtend kwam de Sint met de stoomboot aan in Kampen en 's middags in Zwolle. Landelijk neemt Gijs Naber de plaats van Stefan de Walle in het Sinterklaasjournaal over. In Grave hoorden kinderen met een visuele beperking van de Sint in rijm wat ze wél kunnen.",
-     "verwijzingen": [
-      {
-       "titel": "In ‘blindenstad’ Grave hoort Sinterklaas in rijm wat kinderen met een visuele beperking allemaal wél kunnen",
-       "link": "https://www.volkskrant.nl/binnenland/in-blindenstad-grave-hoort-sinterklaas-in-rijm-wat-kinderen-met-een-visuele-beperking-allemaal-wel-kunnen~b145b2ae/",
-       "bron": "de Volkskrant",
-       "tijd": "18:09"
-      },
-      {
-       "titel": "Acteur Gijs Naber is de opvolger van Stefan de Walle in het Sinterklaasjournaal",
-       "link": "https://www.volkskrant.nl/binnenland/acteur-gijs-naber-is-de-opvolger-van-stefan-de-walle-in-het-sinterklaasjournaal~be2648315/",
-       "bron": "de Volkskrant",
-       "tijd": "12:34"
-      },
-      {
-       "titel": "Sinterklaas is weer in Zwolle: zo zag de intocht eruit",
-       "link": "https://www.destentor.nl/zwolle/sinterklaas-is-weer-in-zwolle-zo-zag-de-intocht-eruit~ac059b37/",
-       "bron": "de Stentor",
-       "tijd": "17:53"
-      },
-      {
-       "titel": "In beeld: Sint komt aan in Kampen",
-       "link": "https://1zwolle.nl/nieuws/215896/in-beeld-sint-komt-aan-in-kampen.html",
-       "bron": "Weblog Zwolle",
-       "tijd": "13:31"
-      }
-     ],
-     "geschreven": "07:00"
-    },
-    {
-     "titel": "Inburgering in Kamer en krant",
-     "tekst": "Maandag bespreekt de Kamer inburgering en integratie, een onderdeel van de begroting van Sociale Zaken. De Stentor volgt intussen Güven Kurt, een wiskundeleraar die in Turkije in de cel belandde en vluchtte, en laat zien hoe hij hier stap voor stap opnieuw begint.",
-     "verwijzingen": [
-      {
-       "titel": "Gevluchte wiskundeleraar Güven (49) geeft een inkijkje in het asielleven: ‘Ik dacht alleen maar aan mijn familie’",
-       "link": "https://www.destentor.nl/dalfsen/gevluchte-wiskundeleraar-guven-49-geeft-een-inkijkje-in-het-asielleven-ik-dacht-alleen-maar-aan-mijn-familie~a7911a83/",
-       "bron": "de Stentor",
-       "tijd": "19:02"
-      },
-      {
-       "titel": "Inburgering en Integratie (beleidsartikel 13 begroting SZW)",
-       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06402",
-       "bron": "Wetgevingsoverleg",
-       "tijd": "maandag 16/11 10:00"
-      }
-     ],
-     "geschreven": "07:00"
-    },
-    {
-     "titel": "Van Gogh-veiling onder vuur",
-     "tekst": "NOS en Volkskrant melden allebei dat een Van Gogh-veiling in New York onder druk staat. Nazaten van een Joodse eigenaar zeggen dat Châtaigniers en fleurs onder druk van de nazi's is verkocht en eisen dat het uit de veiling gaat. Het veilinghuis zegt met de familie in gesprek te zijn.",
-     "verwijzingen": [
-      {
-       "titel": "Veiling Van Gogh-schilderij op losse schroeven, werk mogelijk onder druk nazi's verkocht",
-       "link": "https://nos.nl/l/2639532",
-       "bron": "NOS",
        "tijd": "05:50"
+      }
+     ],
+     "geschreven": "07:00"
+    },
+    {
+     "titel": "Kerncentrales Eemshaven stuiten op Duitsers",
+     "tekst": "Duitse grensgemeenten en de deelstaat Nedersaksen wijzen twee mogelijke kerncentrales in de Groningse Eemshaven af. De burgemeester van Emden noemt zijn streek een voorbeeld voor duurzame energie (10). Dinsdag praat de Tweede Kamer in een kort debat over kernenergie (26).",
+     "verwijzingen": [
+      {
+       "titel": "Ook Duitse overheden tegen kerncentrales in Eemshaven",
+       "link": "https://nos.nl/l/2639613",
+       "bron": "NOS",
+       "tijd": "17:23"
       },
       {
-       "titel": "Veiling schilderij Van Gogh betwist wegens mogelijke dwang bij verkoop in nazitijd",
-       "link": "https://www.volkskrant.nl/buitenland/veiling-schilderij-van-gogh-betwist-wegens-mogelijke-dwang-bij-verkoop-in-nazitijd~b70cecfa/",
-       "bron": "de Volkskrant",
-       "tijd": "02:18"
+       "titel": "Tweeminutendebat Kernenergie (CD 2/7)",
+       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06131",
+       "bron": "Plenair debat (tweeminutendebat)",
+       "tijd": "dinsdag 17/11 16:30"
       }
      ],
      "geschreven": "07:00"
     }
    ],
-   "aantal": 4
+   "aantal": 2
   },
   {
    "id": "internationaal",
@@ -111,76 +55,58 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Bomaanslag op woning onderzoeksjournalist in Panama: 'Dit verandert de spelregels'",
-     "context": "De woning van de Panamese onderzoeksjournalist Rolando Rodríguez is beschadigd geraakt bij een bomaanslag. Dat meldt zijn werkgever, de landelijke krant La Prensa . De adjunct-hoofdredacteur van de krant was op het moment van de explosie niet thuis in San Miguelito, de tweede stad van het land, gelegen naast hoofdstad Panama City. Zijn vrouw was er wel, maar zij raakte niet gewond. Ze wist samen m",
+     "titel": "'Derde Amerikaanse vliegdekschip, USS Theodore Roosevelt, aangekomen in Golfregio'",
+     "context": "Een derde Amerikaans vliegdekschip is aangekomen in de Golfregio. Dat melden de nieuwszender Al Jazeera en een journalist van de Amerikaanse nieuwswebsite Axios op basis van Amerikaanse ingewijden. Het Amerikaanse leger heeft de berichten nog niet bevestigd. Het vliegdekschip, de USS Theodore Roosevelt, vertrok eind september vanuit San Diego naar de regio. De vliegdekschepen USS George H.W. Bush ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639614",
+     "link": "https://nos.nl/l/2639661",
      "bron": "NOS",
-     "tijd": "17:52",
-     "sorteer": "2026-11-15T17:52:37+01:00"
+     "tijd": "05:16",
+     "sorteer": "2026-11-16T05:16:48+01:00"
     },
     {
-     "titel": "Ook Duitse overheden tegen kerncentrales in Eemshaven",
-     "context": "Duitse overheden keren zich tegen een eventuele komst van twee kerncentrales in de Eemshaven, vlak over de grens in Groningen. Duitse grensgemeenten en de deelstaat Nedersaksen wijzen de plannen af. De burgemeester van de grensgemeente Emden, Tim Kruithoff, zegt tegen de Duitse omroep NDR : \"Wij zijn een modelregio voor hernieuwbare energie en juist daar willen ze een kerncentrale bouwen.\" Ook de ",
+     "titel": "Mexico’s eerste kartelbaas Félix Gallardo op 80-jarige leeftijd overleden",
+     "context": "Miguel Ángel Félix Gallardo, de oprichter van het eerste Mexicaanse drugskartel en een van de bekendste criminelen uit de Mexicaanse geschiedenis, is overleden. Hij kampte al langere tijd met een zwakke gezondheid en overleed in een ziekenhuis in de stad Guadalajara aan de gevolgen van een longontsteking. ' El Jefe de Jefes' , of 'de Baas der Bazen', is 80 jaar geworden. Félix Gallardo bouwde in d",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639613",
+     "link": "https://nos.nl/l/2639660",
      "bron": "NOS",
-     "tijd": "17:23",
-     "sorteer": "2026-11-15T17:23:09+01:00"
+     "tijd": "04:30",
+     "sorteer": "2026-11-16T04:30:13+01:00"
     },
     {
-     "titel": "'Grootste protest in Tsjechische geschiedenis': honderdduizenden demonstreren voor vrije pers",
-     "context": "In de Tsjechische hoofdstad Praag protesteren honderdduizenden mensen tegen de regering van de populistische premier Babis en zijn plannen om de publieke omroep te hervormen. Volgens de organisatie zijn er 350.000 tot 450.000 mensen op de been. Daarmee zou het het grootste protest zijn sinds Tsjechië in 1993 een zelfstandig land werd. Demonstranten dragen truien, mutsen en borden met daarop '4:36'",
+     "titel": "Vrouw van vermoorde Haïtiaanse president wil nu zelf president worden",
+     "context": "Martine Moïse, de weduwe van de in 2021 vermoorde president van Haïti, wil nu zelf president van het land worden. Ze heeft zichzelf geregistreerd als kandidaat voor de eerste presidentsverkiezingen in tien jaar tijd, staat op de website van de Haïtiaanse kiesraad. De verkiezingen staan gepland voor juli volgend jaar. \"Haïti zal weer op eigen benen staan, want de politiek moet anders worden aangepa",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639607",
+     "link": "https://nos.nl/l/2639659",
      "bron": "NOS",
-     "tijd": "16:52",
-     "sorteer": "2026-11-15T16:52:10+01:00"
+     "tijd": "04:17",
+     "sorteer": "2026-11-16T04:17:02+01:00"
     },
     {
-     "titel": "Decennia-oude mahjongstad krijgt tweede leven door internationale mahjonghype",
-     "context": "Omsloten door miljoenensteden als Shanghai en Nanjing ligt het plattelandsstadje Taixing. Op het eerste gezicht een stad als vele andere, met landbouw en kleine fabrieken. Toch onderscheidt Taixing zich: dagelijks rollen er ontelbare stenen voor het bordspel mahjong van de band. Sinds kort zitten daar ook stenen tussen die in China niet eerder te zien waren. De mahjongindustrie van Taixing ontston",
+     "titel": "Raketlancering in Florida gaat fout, tientallen Amazon-satellieten verloren gegaan",
+     "context": "De lancering van een zogenoemde Vulcan-raket van het bedrijf United Launch Alliance (ULA), vanaf een lanceerbasis in Florida, is mislukt. Dat melden Amerikaanse media. De raket had een lading van veertig internetsatellieten van Amazon, die zijn allemaal verloren gegaan. Eén minuut en veertig seconden na de lancering kwamen de hulpraketten los van het projectiel, zoals gepland. Na tien minuten trad",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639596",
+     "link": "https://nos.nl/l/2639658",
      "bron": "NOS",
-     "tijd": "16:00",
-     "sorteer": "2026-11-15T16:00:02+01:00"
+     "tijd": "03:18",
+     "sorteer": "2026-11-16T03:18:35+01:00"
     },
     {
-     "titel": "Minister Van Veldhoven later naar klimaattop vanwege kabinetscrisis",
-     "context": "Minister Van Veldhoven van Klimaat en Groene Groei gaat pas later naar de grote VN-klimaattop in Turkije vanwege de kabinetscrisis. Dat laat haar woordvoerder weten. Ze zou morgen aankomen op de klimaattop in Antalya, maar de spanningen binnen het minderheidskabinet gooien nu roet in het eten. Daarmee verloopt de bijdrage van het Nederlandse kabinet aan de internationale klimaattop chaotischer dan",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639592",
-     "bron": "NOS",
-     "tijd": "15:30",
-     "sorteer": "2026-11-15T15:30:31+01:00"
-    },
-    {
-     "titel": "Zelensky vermoedt dat Navo-lidmaatschap Oekraïne als ruilmiddel op tafel ligt in overleg tussen VS en Rusland",
+     "titel": "Opnieuw twee olietankers op mijnen gelopen in Straat van Hormuz",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/zelensky-vermoedt-dat-navo-lidmaatschap-oekraine-als-ruilmiddel-op-tafel-ligt-in-overleg-tussen-vs-en-rusland~b6b3091d/",
+     "link": "https://www.volkskrant.nl/buitenland/israel-hamas-iran-gaza-hormuz-trump~b65f9edd/",
      "bron": "de Volkskrant",
-     "tijd": "16:57",
-     "sorteer": "2026-11-15T15:57:31+00:00"
+     "tijd": "05:50",
+     "sorteer": "2026-11-16T04:50:00+00:00"
     },
     {
-     "titel": "Chaos in luchtverkeer in VS veroorzaakt door ernstig achterstallig onderhoud aan het luchtverkeerssysteem",
+     "titel": "Een bos is ook een bos als de bomen zijn gekapt, vindt Mihály Filemon. Hij heeft daar zo zijn redenen voor.",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/chaos-in-luchtverkeer-in-vs-veroorzaakt-door-ernstig-achterstallig-onderhoud-aan-het-luchtverkeerssysteem~bed6a758/",
-     "bron": "de Volkskrant",
-     "tijd": "16:52",
-     "sorteer": "2026-11-15T15:52:12+00:00"
-    },
-    {
-     "titel": "Surinaamse justitieminister neemt ontslag; positie onhoudbaar",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/surinaamse-justitieminister-neemt-ontslag-positie-onhoudbaar~bad2b435/",
+     "link": "https://www.trouw.nl/buitenland/een-bos-is-ook-een-bos-als-de-bomen-zijn-gekapt-vindt-mihaly-filemon-hij-heeft-daar-zo-zijn-redenen-voor~b4d551bc/",
      "bron": "Trouw",
-     "tijd": "09:43",
-     "sorteer": "2026-11-15T08:43:51+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-15T21:00:17+00:00"
     }
    ]
   },
@@ -190,6 +116,33 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Nederlandse chirurgen halen tumor van ruim 10 kilo uit buik van man (68)",
+     "context": "Chirurgen in het Universitair Medisch Centrum Groningen (UMCG) hebben met succes een tumor van ruim 10 kilo en ter grootte van een basketbal verwijderd uit het darmstelsel van een patiënt. Dat gebeurde volgens het ziekenhuis met een uitzonderlijke operatie. Bij de ingreep werden de darmen en de tumor uit de buik van de patiënt gehaald. Buiten het lichaam verwijderden de chirurgen het gezwel en pla",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639668",
+     "bron": "NOS",
+     "tijd": "06:59",
+     "sorteer": "2026-11-16T06:59:16+01:00"
+    },
+    {
+     "titel": "Aantal incidenten met nepagenten weer fors toegenomen, babbeltrucs steeds slimmer",
+     "context": "Het aantal incidenten met nepagenten blijft maar toenemen. De politie telde dit jaar tot nu toe ruim 14.000 incidenten, blijkt uit cijfers die de NOS opvroeg. Dat zijn nu al meer incidenten dan heel vorig jaar. Nepagenten zijn onderdeel van een gewiekste babbeltruc, specifiek gericht op ouderen. Oplichters bellen op met het verhaal dat er bijvoorbeeld inbrekers in de buurt zijn en dat de politie a",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639662",
+     "bron": "NOS",
+     "tijd": "06:00",
+     "sorteer": "2026-11-16T06:00:02+01:00"
+    },
+    {
+     "titel": "'Jamming' in luchtruim rond Schiphol: 'We zijn beide gps-systemen kwijt'",
+     "context": "Meerdere vliegtuigen zijn afgelopen maandag in het Nederlandse luchtruim hun gps-signaal kwijtgeraakt. Sommige toestellen konden daardoor korte tijd niet hun precieze locatie doorgeven aan de luchtverkeersleiding op Schiphol. Het leidde niet tot ongelukken. Waarschijnlijk zijn de navigatiesystemen bewust gesaboteerd. Er zijn sterke aanwijzingen dat Rusland erachter zit. Als dat klopt, past dat vol",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2639642",
+     "bron": "NOS",
+     "tijd": "20:54",
+     "sorteer": "2026-11-15T20:54:25+01:00"
+    },
+    {
      "titel": "Ook Duitse overheden tegen kerncentrales in Eemshaven",
      "context": "Duitse overheden keren zich tegen een eventuele komst van twee kerncentrales in de Eemshaven, vlak over de grens in Groningen. Duitse grensgemeenten en de deelstaat Nedersaksen wijzen de plannen af. De burgemeester van de grensgemeente Emden, Tim Kruithoff, zegt tegen de Duitse omroep NDR : \"Wij zijn een modelregio voor hernieuwbare energie en juist daar willen ze een kerncentrale bouwen.\" Ook de ",
      "rubrieken": [],
@@ -199,67 +152,40 @@
      "sorteer": "2026-11-15T17:23:09+01:00"
     },
     {
-     "titel": "Meerdere Nederlandse sites verspreidden malware via advertenties",
-     "context": "Niet alleen voetbalsite VI , ook andere Nederlandse sites blijken via advertenties een kwaadaardige code te hebben verspreid onder gebruikers. Ook onder meer websites GeenStijl en De Dagelijkse Standaard, Autoblog.nl, techplatform Bright en wetenschapssite Scientias melden gedupeerd te zijn. \"Serieus slecht nieuws\", noemt GeenStijl het . In totaal waarschuwen zeker veertien Nederlandse sites en éé",
+     "titel": "Weer een volle dag crisisoverleg zonder uitkomst, partijen praten deze ochtend verder",
+     "context": "D66, VVD en CDA zijn er nog niet uit en praten vandaag om 11.00 uur verder op het Catshuis in Den Haag. Dat laat de Rijksvoorlichtingsdienst weten. Het waren intensieve maar goede gesprekken, zo luidt de mededeling. Op het spel staat de toekomst van het kabinet en de samenwerking in de coalitie. De partijen hebben afgesproken radiostilte in acht te nemen en doen officieel geen mededelingen aan de ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639562",
-     "bron": "NOS",
-     "tijd": "11:36",
-     "sorteer": "2026-11-15T11:36:36+01:00"
-    },
-    {
-     "titel": "Driekwart van de gemeenten geeft geen ontheffing voor afsteken vuurwerk",
-     "context": "Het overgrote deel van de Nederlandse gemeenten geeft voor de komende jaarwisseling geen enkele ontheffing voor het afsteken van vuurwerk. Dat blijkt uit een rondgang van de NOS en de regionale omroepen. Het gaat om zeker driekwart van de gemeenten. Van de overige gemeenten staan sommige daar wel voor open, maar het is nog niet duidelijk of de ontheffingen ook daadwerkelijk worden verleend. Met ee",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639554",
-     "bron": "NOS",
-     "tijd": "10:23",
-     "sorteer": "2026-11-15T10:23:52+01:00"
-    },
-    {
-     "titel": "Dode en zwaargewonde bij aanrijding met trein op station Strijp-S in Eindhoven",
-     "context": "Bij een aanrijding met een trein op het treinstation Strijp-S in Eindhoven is een man om het leven gekomen. Het gaat om een 49-jarige man uit de Limburgse gemeente Leudal, meldt de politie. Een andere man die werd aangereden door de trein, een 37-jarige Belg, raakte zwaargewond. Het ongeluk gebeurde rond 00.30 uur. De politie kan nog niets zeggen over de toedracht van het ongeluk, maar gaat niet u",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639529",
-     "bron": "NOS",
-     "tijd": "03:11",
-     "sorteer": "2026-11-15T03:11:22+01:00"
-    },
-    {
-     "titel": "Op tweede dag ook uren crisisoverleg over verstoorde relatie D66, VVD en CDA",
-     "context": "Ook vandaag wordt op landgoed De Zwaluwenberg in Hilversum al uren overlegd over de toekomst van het kabinet. Over wat er wordt besproken en welke kant het op gaat, is niets bekend. De partijen hebben radiostilte afgesproken en staan de pers tussentijds niet te woord. Premier Jetten en fractievoorzitter Paternotte van D66, vicepremier Yesilgöz en fractievoorzitter Brekelmans van de VVD en fractiev",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639601",
+     "link": "https://nos.nl/l/2639644",
      "bron": "NOS politiek",
-     "tijd": "16:15",
-     "sorteer": "2026-11-15T16:15:38+01:00"
+     "tijd": "20:56",
+     "sorteer": "2026-11-15T20:56:58+01:00"
     },
     {
-     "titel": "Oud-rechercheur Aad Voshol: ‘Ik schrok: naast die dode lag een politiewapen’",
+     "titel": "‘Ik herinner me nog dat in 1933 in onze huiskamer de naam van Adolf Hitler viel’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/mensen/oud-rechercheur-aad-voshol-ik-schrok-naast-die-dode-lag-een-politiewapen~b0837f0d/",
+     "link": "https://www.volkskrant.nl/binnenland/ik-herinner-me-nog-dat-in-1933-in-onze-huiskamer-de-naam-van-adolf-hitler-viel~b79c0e06/",
      "bron": "de Volkskrant",
-     "tijd": "17:00",
-     "sorteer": "2026-11-15T16:00:00+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-16T04:00:34+00:00"
     },
     {
-     "titel": "Gps boven Schiphol zou opzettelijk zijn verstoord, vliegtuigen hadden geen signaal",
+     "titel": "Toen werkgevers bang waren dat ‘telewerkers’ vooral koffie zaten te drinken",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/gps-boven-schiphol-zou-opzettelijk-zijn-verstoord-vliegtuigen-hadden-geen-signaal~b63100ed/",
+     "link": "https://www.volkskrant.nl/binnenland/toen-werkgevers-bang-waren-dat-telewerkers-thuis-hun-tijd-verpoosden~b95383a3/",
      "bron": "de Volkskrant",
-     "tijd": "09:02",
-     "sorteer": "2026-11-15T08:02:00+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-16T04:00:32+00:00"
     },
     {
-     "titel": "Alleen door hard te werken krijgt een tuin een ziel, wist Ton ter Linden (1935-2026)",
+     "titel": "Het saluut dat 250 jaar geleden zei dat Amerika er mocht zijn, was waarschijnlijk een ongelukje",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/alleen-door-hard-te-werken-krijgt-een-tuin-een-ziel-wist-ton-ter-linden-1935-2026~b0f38efe/",
+     "link": "https://www.trouw.nl/binnenland/het-saluut-dat-250-jaar-geleden-zei-dat-amerika-er-mocht-zijn-was-waarschijnlijk-een-ongelukje~bfb17b8f/",
      "bron": "Trouw",
-     "tijd": "13:06",
-     "sorteer": "2026-11-15T12:06:00+00:00"
+     "tijd": "06:07",
+     "sorteer": "2026-11-16T05:07:00+00:00"
     }
    ]
   },
@@ -268,6 +194,33 @@
    "titel": "Zwolle en omgeving",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Sam is de derde Van Oostrum bij Hammers: ‘Ik heb er zelf voor gezorgd dat ik hier speel, niet mijn broers’",
+     "context": "Sam van Oostrum (27) koos in 2023 voor Donar omdat hij niet hetzelfde pad wilde bewandelen als Nigel en Devon. Dat stadium is de jongste van de drie basketbalbroers ontgroeid.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/regiosport/sam-is-de-derde-van-oostrum-bij-hammers-ik-heb-er-zelf-voor-gezorgd-dat-ik-hier-speel-niet-mijn-broers~a34a4687/",
+     "bron": "de Stentor",
+     "tijd": "20:52",
+     "sorteer": "2026-11-15T19:52:00+00:00"
+    },
+    {
+     "titel": "Rechter: ziekenhuis Isala zorgt slecht voor verpleegkundige en moet ton vergoeding betalen",
+     "context": "Ziekenhuis Isala heeft een verpleegkundige die 25 jaar voor het ziekenhuis werkte ernstig in de steek gelaten. Dat oordeelt de rechter. Het Zwolse ziekenhuis moet de medewerker daarom zo’n 100.000 euro betalen.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/rechter-ziekenhuis-isala-zorgt-slecht-voor-verpleegkundige-en-moet-ton-vergoeding-betalen~aebce14c/",
+     "bron": "de Stentor",
+     "tijd": "19:00",
+     "sorteer": "2026-11-15T18:00:25+00:00"
+    },
+    {
+     "titel": "Sinterklaas doet ronde door Lemelerveld in een stijlvolle koets",
+     "context": "Onder de vrolijke tonen van de plaatselijke fanfare Polyhymnia komt Sinterklaas met zijn Pieten zondagmiddag Lemelerveld binnen. Tientallen kinderharten kloppen sneller nu de goedheiligman ook in het Sallandse dorp is gearriveerd.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/dalfsen/sinterklaas-doet-ronde-door-lemelerveld-in-een-stijlvolle-koets~aa6558da/",
+     "bron": "de Stentor",
+     "tijd": "18:00",
+     "sorteer": "2026-11-15T17:00:00+00:00"
+    },
     {
      "titel": "Kooplieden trakteren de hele raad op koeken, maar krijgen niet wat ze hopen",
      "context": "Gevulde koeken en fruitspiesjes voor de hele gemeenteraad. Zo probeerden de Zwolse marktkooplieden hogere tarieven tegen te houden. Het mocht niet baten: de marktgelden stijgen met 10 procent. Toch staan de ondernemers niet helemaal met lege handen.",
@@ -287,31 +240,30 @@
      "sorteer": "2026-11-15T13:30:31+00:00"
     },
     {
-     "titel": "Bas (56) is net onthuld als prins carnaval van Zwolle, en heeft meteen een wens voor de jeugd",
-     "context": "Een half jaar hield hij zijn mond. Zaterdagavond om 23.11 uur kwam Bas Koelmans (56) als Prins Koelie uit het nest van de Eileuvers. De nieuwe prins carnaval van Zwolle wil nu vooral vooruitkijken. Met één wens: ook tieners moeten weer een veilige plek krijgen om carnaval te vieren.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/bas-56-is-net-onthuld-als-prins-carnaval-van-zwolle-en-heeft-meteen-een-wens-voor-de-jeugd~a5af957a/",
-     "bron": "de Stentor",
-     "tijd": "10:36",
-     "sorteer": "2026-11-15T09:36:58+00:00"
+     "titel": "Voor tweede keer in korte tijd brand op bootje aan Blekersweg",
+     "context": "Aan het Blekerswegje in Zwolle is zondagavond voor de tweede keer in korte tijd brand uitgebroken op een bootje. De brandweer werd rond 21.20 uur ... Lees meer",
+     "rubrieken": [
+      "112",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/216014/voor-tweede-keer-in-korte-tijd-brand-op-bootje-aan-blekersweg.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "22:15",
+     "sorteer": "2026-11-15T21:15:18+00:00"
     },
     {
-     "titel": "Kerstig uitje: deze kerstmarkten vind je op (maximaal) anderhalf uur rijden vanuit Zwolle",
-     "context": "Het is nog niet zover, maar de tijd van glühwein drinken, Mariah Carey uit de speakers en gezellige kraampjes vol christmas vibes komt steeds dichterbij. Door een bezoekje aan de kerstmarkt kom je meteen in de sfeer. Dus muts op, jas en handschoenen aan en gaan: deze kerstmarkten vind je op maximaal anderhalf uur rijden van Zwolle.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/kerstmarkt-in-de-buurt-van-zwolle-2026~af120da2/",
-     "bron": "de Stentor",
-     "tijd": "10:00",
-     "sorteer": "2026-11-15T09:00:27+00:00"
-    },
-    {
-     "titel": "Deurwaarder komt bij boer voor 129 euro, wat volgt kost schuldenaar weken celstraf",
-     "context": "Met de auto reed ze naar veehouder W.K. (41) uit Zwolle om een brief namens het deurwaarderskantoor te overhandigen. De sfeer was volgens haar zo bedreigend dat ze vluchtte naar de buren.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/deurwaarder-komt-bij-boer-voor-129-euro-wat-volgt-kost-schuldenaar-weken-celstraf~ab57dde6/",
-     "bron": "de Stentor",
-     "tijd": "10:00",
-     "sorteer": "2026-11-15T09:00:00+00:00"
+     "titel": "Zwolle viert verbinding met Caribische klanken en smaken bij Coco Bongo Club",
+     "context": "Zwollenaren kunnen zondag 29 november in het Wresinski Theater kennismaken met de Caribische cultuur tijdens de eerste editie van de Coco Bongo Club. Met muziek, ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Caribisch",
+      "Coco Bongo Club",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/215329/zwolle-viert-verbinding-met-caribische-klanken-en-smaken-bij-coco-bongo-club.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "19:02",
+     "sorteer": "2026-11-15T18:02:00+00:00"
     },
     {
      "titel": "Vrijwillig achter slot en grendel: Zwolse asielmedewerkers gaan 50 uur de kennel in",
@@ -343,35 +295,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "13:27",
      "sorteer": "2026-11-15T12:27:00+00:00"
-    },
-    {
-     "titel": "De Oversteek #2: Trainer en militair Randy: ‘Het zit tussen de oren’",
-     "context": "Hoe bereid je je voor op vijfduizend kilometer op zee? Het gaat niet alleen om hoe goed je kan roeien, vertelt Randy Schipper, de personal ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "De Oversteek",
-      "grannies on waves",
-      "worlds toughest row",
-      "Zwartsluis"
-     ],
-     "link": "https://1zwolle.nl/nieuws/215971/de-oversteek-2-tussen-de-oren.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "12:19",
-     "sorteer": "2026-11-15T11:19:59+00:00"
-    },
-    {
-     "titel": "Zwols kinderkoor de Dominicaantjes zoekt oud-leden voor Reünieconcert",
-     "context": "Wie vroeger heeft meegezongen bij de Dominicaantjes, kan deze kerst nog één keer het podium op. Ter gelegenheid van het tienjarig bestaan van het kinderkoor ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "de Dominicaantjes",
-      "Reünieconcert",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/215703/zwols-kinderkoor-de-dominicaantjes-zoekt-oud-leden-voor-reunieconcert.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "09:19",
-     "sorteer": "2026-11-15T08:19:00+00:00"
     }
    ]
   },
@@ -452,7 +375,7 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "18:00",
+    "bijgewerkt": "07:00",
     "uitslagen": [],
     "stand": [
      {
@@ -609,28 +532,28 @@
    "emoji": "🌿",
    "items": [
     {
-     "titel": "Natuurjournaal 15 november 2026",
-     "toelichting": "De roep van de bosuil schalt weer, gaai heeft verzameldrift.",
+     "titel": "Natuurjournaal 16 november 2026",
+     "toelichting": "Papegaaizwammetje leef je nog en we zeggen nog geen dag tegen de dagkoekoeksbloem.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36036",
-     "sorteer": "2026-11-15T05:45:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36064",
+     "sorteer": "2026-11-16T05:45:00+00:00"
     },
     {
-     "titel": "Laat webshops voor natuurcartoons doneren bij jouw online aankopen",
-     "toelichting": "Deze feestdagen geef je niet alleen cadeaus, maar ook natuurverhalen door! Steun Nature Today zonder een cent extra uit te geven. Via Terry.earth wordt een deel van de aankoopprijs door de webshop gedoneerd aan ons doel:",
+     "titel": "De dood is essentieel voor nieuw natuurbeleid",
+     "toelichting": "Voor natuurherstel is het van groot belang dat we de natuurlijke cyclus van leven en dood herstellen en grote dode dieren niet uit de natuur verwijderen. Juridische experts en beleidsmakers pleiten ervoor om binnen de Na",
      "bron": "Nature Today",
-     "tijd": "06:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36065",
-     "sorteer": "2026-11-15T05:00:00+00:00"
+     "tijd": "10:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36063",
+     "sorteer": "2026-11-15T09:00:00+00:00"
     },
     {
-     "titel": "Gigabeestjes in de Hortus botanicus Leiden",
-     "toelichting": "In de Leidse Hortus gaat het om planten. Die maken deel uit van een heel web van leven, groot en heel klein. Om jonge kinderen enthousiast te maken voor allerlei kleine kriebelbeestjes plaatste de Hortus grote modellen i",
+     "titel": "Tientallen heimelijke zwarte herfstspinners",
+     "toelichting": "De zwarte herfstspinner is groot en opvallend, maar toch wordt deze algemene nachtvlinder niet zo heel veel waargenomen. Dat komt door de verborgen leefwijze van de vlinder. Bijna alle waarnemingen zijn bij licht. De vli",
      "bron": "Nature Today",
      "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36049",
-     "sorteer": "2026-11-15T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36061",
+     "sorteer": "2026-11-16T06:00:00+00:00"
     },
     {
      "titel": "Vriendschappen onder druk: olifanten in Sri Lanka zoeken elkaar steeds minder op",
@@ -647,41 +570,41 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.6,
-    "gevoel": 6.0,
-    "wind": "ZZO 2",
+    "nu": 9.4,
+    "gevoel": 6.6,
+    "wind": "WZW 3",
     "station": "Heino",
-    "bericht": "Het is bewolkt en er valt van tijd tot tijd wat regen. Het is vannacht een graad of 8. Er staat een natte herfstweek op het programma met weinig ruimte voor de zon.",
-    "vandaag": "Het is vannacht een graad of 8. Vanavond trekt een regengebied over het land naar het noordoosten.",
-    "temperatuur": "Het koelt vanavond af naar 8 graden in het noorden en 10 graden in het zuiden.",
+    "bericht": "Het weer ziet er de komende tijd uitermate wisselvallig uit, met regionaal tientallen millimeters regen. Pas aan het eind van de week wordt het droger en krijgen we meer zon.Vanochtend trekt de regen vlot naar het oosten weg. Daarachter komt de zon af en toe tevoorschijn en vallen enkele buien.",
+    "vandaag": "Vanochtend trekt de regen vlot naar het oosten weg. Vanmiddag is het wisselend bewolkt, met tussendoor ook momenten waarop de zon zich laat zien.",
+    "temperatuur": "De middagtemperatuur komt uit op 10 of 11 graden.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: motregen, -0 tot 9 graden, 75% kans op neerslag, weinig zon, wind uit het zuiden, kracht 3.",
-     "max": 9,
-     "min": 0,
-     "regenkans": 75,
+     "zin": "Voor Zwolle zelf: motregen, 3 tot 11 graden, 73% kans op neerslag, ruim 3 uur zon, wind uit het zuidwesten, kracht 4.",
+     "max": 11,
+     "min": 3,
+     "regenkans": 73,
      "omschrijving": "motregen"
     },
-    "vooruit": "Veel bewolking en perioden met regen. Zacht. Maandag en dinsdag aan de kust veel wind. Aan het einde van de week neemt de kans op neerslag af. Zaterdag blijft het waarschijnlijk droog en zijn er perioden met zon.",
-    "omslag": null,
-    "min": "0",
-    "max": "7/10",
+    "vooruit": "Eerst veel bewolking en perioden met regen. Zacht. Vanaf vrijdag sterk afnemende kans op regen, meer zon en lagere temperatuur.",
+    "omslag": "Nachtvorst in aantocht: morgen tot 0 graden.",
+    "min": "2/7",
+    "max": "9/13",
     "regenkans": 40,
     "zonkans": 20,
     "omschrijving": "Zwaar bewolkt en regen",
     "morgen": {
      "omschrijving": "Zwaar bewolkt en regen",
-     "min": "2/7",
-     "max": "9/13",
-     "regenkans": 40
+     "min": "0",
+     "max": "12",
+     "regenkans": 90
     }
    }
   }
  ],
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
-  "blokken": 8,
-  "berichten": 37,
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "07:00",
+  "blokken": 7,
+  "berichten": 35,
   "problemen": []
  }
 }
