@@ -1,6 +1,6 @@
 {
- "naam": "Avondbriefing",
- "datum": "2026-11-17",
+ "naam": "Ochtendbriefing",
+ "datum": "2026-11-18",
  "blokken": [
   {
    "id": "duiding",
@@ -9,83 +9,88 @@
    "items": [],
    "duiding": [
     {
-     "titel": "Kabinet gaat met drie partijen door",
-     "tekst": "D66, VVD en CDA gaan na vier dagen praten samen door in het minderheidskabinet, zonder vierde partij; Buma is om hulp gevraagd. Vanochtend leggen Jetten, Yesilgöz en Van den Brink hun voorstel voor aan de ministerraad. Volgens de NOS lijmen gemeenten zulke breuken vaker, en wil de Kamer bij een val niet meteen verkiezingen.",
+     "titel": "Nachttrein Zwolle–Schiphol stopt direct",
+     "tekst": "De nachttrein van Arriva tussen Zwolle en Schiphol rijdt niet meer. De rechter zette na bezwaar van NS de subsidie van Almere en Lelystad stop. De Kamer nam een motie aan om binnen zes maanden een tijdpad voor beter openbaar vervoer te maken, en vanmiddag staat een kort debat over openbaar vervoer en taxi op de agenda.",
      "verwijzingen": [
       {
-       "titel": "Verkiezingen geen optie bij gemeentelijke coalitiecrises: 'Drink een borrel met elkaar'",
-       "link": "https://nos.nl/l/2639769",
+       "titel": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+       "link": "https://nos.nl/l/2639916",
        "bron": "NOS",
-       "tijd": "19:59"
+       "tijd": "19:03"
       },
       {
-       "titel": "Coalitie gaat ondanks verwijten met zijn drieën verder, hulp Buma ingeroepen",
-       "link": "https://nos.nl/l/2639792",
-       "bron": "NOS politiek",
-       "tijd": "22:43"
+       "titel": "Na uitspraak rechter: nachttrein tussen Zwolle en Schiphol stopt per direct",
+       "link": "https://1zwolle.nl/nieuws/216261/rechter-bepaalt-nachttrein-tussen-zwolle-en-schiphol-stopt-per-direct.html",
+       "bron": "Weblog Zwolle",
+       "tijd": "16:39"
+      },
+      {
+       "titel": "Motie van de leden Teunissen en Van Oosterhout over binnen zes maanden komen met een tijdpad voor beter openbaar vervoer en een…",
+       "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z25017",
+       "bron": "motie aangenomen",
+       "tijd": ""
+      },
+      {
+       "titel": "Tweeminutendebat Openbaar vervoer en taxi (CD 13/10)",
+       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07644",
+       "bron": "Plenair debat (tweeminutendebat)",
+       "tijd": "woensdag 18/11 16:30"
       }
      ],
      "geschreven": "07:00"
     },
     {
-     "titel": "Caribische eilanden en Amerika",
-     "tekst": "Gisteren herdacht de koning op Sint-Eustatius dat daar 250 jaar geleden de Amerikaanse vlag werd begroet. Veel eilanders vierden vooral hun eigen geschiedenis en het verzet tegen de slavernij. Vanuit Aruba klinkt dat het koninkrijk belangrijk is, juist nu er spanning is tussen de VS en Venezuela.",
+     "titel": "Alaska kiest tweemaal voor Democraten",
+     "tekst": "In Alaska won Democraat Mary Peltola de laatste open Senaatszetel. Ze haalde ruim 12.000 stemmen meer dan Republikein Dan S. Sullivan. Daarmee hebben de Democraten 56 van de 100 senatoren. Dezelfde staat koos ook voor het eerst deze eeuw een Democratische gouverneur.",
      "verwijzingen": [
       {
-       "titel": "Koning herdenkt Amerikaans saluut, Sint-Eustatius eert eigen vrijheidsstrijders",
-       "link": "https://nos.nl/l/2639761",
+       "titel": "Ook laatste Senaatszetel nu definitief naar Democraten: winst Peltola in Alaska",
+       "link": "https://nos.nl/l/2639952",
        "bron": "NOS",
-       "tijd": "19:07"
+       "tijd": "04:35"
       },
       {
-       "titel": "‘Voor Aruba is de inbedding in het koninkrijk belangrijk. Dat hebben we weer gemerkt met de spanning tussen de VS en Venezuela’",
-       "link": "https://www.volkskrant.nl/binnenland/voor-aruba-is-de-inbedding-in-het-koninkrijk-belangrijk-dat-hebben-we-weer-gemerkt-met-de-spanning-tussen-de-vs-en-venezuela~b69ccb0e/",
+       "titel": "Democraat Mary Peltola verslaat zittende Republikein en wint senaatszetel in Alaska",
+       "link": "https://www.volkskrant.nl/buitenland/democraat-mary-peltola-verslaat-zittende-republikein-en-wint-senaatszetel-in-alaska~bc3bb24d/",
        "bron": "de Volkskrant",
-       "tijd": "05:00"
+       "tijd": "05:27"
+      },
+      {
+       "titel": "Alaska kiest voor het eerst deze eeuw Democraat als gouverneur",
+       "link": "https://www.trouw.nl/buitenland/live-vs-geen-bewijs-voor-cyberaanval-na-technische-storingen-in-vs-zegt-buitenlandminster-rubio~bbc0cf3d/",
+       "bron": "Trouw",
+       "tijd": "04:50"
       }
      ],
      "geschreven": "07:00"
     },
     {
-     "titel": "Twee ongelukken op A28",
-     "tekst": "Maandagavond ging het twee keer mis op de A28 bij Zwolle. Door een ongeluk in de spits stond het verkeer vast van knooppunt Hattemerbroek tot afslag Ommen. Later kwam bij een tweede botsing een auto dwars voor een vrachtwagen.",
+     "titel": "Onrust in de wereld, Kamer debatteert",
+     "tekst": "Iran heeft een luchtaanval op Koeweit bevestigd. Vandaag behandelt de Kamer eerst de begroting van Buitenlandse Zaken en vanavond volgt een debat over de verslechterende veiligheidssituatie in de wereld.",
      "verwijzingen": [
       {
-       "titel": "Veel verkeershinder door ongeluk op A28 bij Zwolle",
-       "link": "https://www.destentor.nl/zwolle/veel-verkeershinder-door-ongeluk-op-a28-bij-zwolle~aefb35c5/",
-       "bron": "de Stentor",
-       "tijd": "17:42"
+       "titel": "Iran bevestigt luchtaanval op Koeweit",
+       "link": "https://www.volkskrant.nl/buitenland/iran-bevestigt-luchtaanval-op-koeweit~bd96d2f5/",
+       "bron": "de Volkskrant",
+       "tijd": "05:50"
       },
       {
-       "titel": "Auto komt dwars voor vrachtwagen na botsing op A28",
-       "link": "https://1zwolle.nl/nieuws/216167/auto-komt-dwars-voor-vrachtwagen-na-botsing-op-a28.html",
-       "bron": "Weblog Zwolle",
-       "tijd": "19:30"
-      }
-     ],
-     "geschreven": "07:00"
-    },
-    {
-     "titel": "Sassendonk krijgt nieuwe prinsen",
-     "tekst": "Het Zwolse carnaval komt op gang: sportdocent Bas Koelmans (56) is de nieuwe Stadsprins Koelie van Sassendonk. Op zondag 22 november maken de Eipiepers in Odeon bekend wie Stadsjeugdprins of -prinses wordt. Dat gebeurt op hun zittingsmiddag, van 13.00 tot 16.30 uur.",
-     "verwijzingen": [
-      {
-       "titel": "Eipiepers maken nieuwe Stadsjeugdprins(es) van Sassendonk bekend",
-       "link": "https://www.destentor.nl/zwolle/eipiepers-maken-nieuwe-stadsjeugdprins-es-van-sassendonk-bekend~a59fb055/",
-       "bron": "de Stentor",
-       "tijd": "20:30"
+       "titel": "Begroting Buitenlandse Zaken (2e termijn)",
+       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08373",
+       "bron": "Plenair debat (wetgeving)",
+       "tijd": "woensdag 18/11 17:00"
       },
       {
-       "titel": "Sportdocent Bas Koelmans is Stadsprins Koelie van Sassendonk: ‘Mijn vrouw is misschien nog wel enthousiaster dan ik!’",
-       "link": "https://1zwolle.nl/nieuws/216071/sportdocent-bas-koelmans-is-stadsprins-koelie-van-sassendonk-mijn-vrouw-is-misschien-nog-wel-enthousiaster-dan-ik.html",
-       "bron": "Weblog Zwolle",
-       "tijd": "19:20"
+       "titel": "Debat over de verslechterende veiligheidssituatie in de wereld",
+       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06852",
+       "bron": "Plenair debat (debat)",
+       "tijd": "woensdag 18/11 19:30"
       }
      ],
      "geschreven": "07:00"
     }
    ],
-   "aantal": 4
+   "aantal": 3
   },
   {
    "id": "internationaal",
@@ -93,76 +98,67 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Tanker in brand na aanval Straat van Hormuz, explosies gemeld op Iraans eiland",
-     "context": "In de Straat van Hormuz is een tanker met vloeibaar gemaakt aardgas in brand gevlogen nadat het door een onbekend projectiel werd geraakt. Ook zijn er explosies gemeld op het Iraanse eiland Qeshm. De bemanning van de onder Panamese vlag varende tanker Tara Gas kon het schip op ongeveer 13 kilometer voor de kust van de havenstad Khasab in Oman verlaten. Het merendeel van de bemanning heeft de India",
+     "titel": "Ook laatste Senaatszetel nu definitief naar Democraten: winst Peltola in Alaska",
+     "context": "Bij de Amerikaanse tussentijdse verkiezingen is ook de laatste strijd om Senaatszetels, in de staat Alaska, beslecht in het voordeel van de Democraten. Mary Peltola haalde ruim 12.000 stemmen meer dan haar Republikeinse tegenstander, Dan S. Sullivan. In een eerste reactie laat Peltola weten \"zeer vereerd\" te zijn. Daarmee leveren de Democraten 56 van de 100 senatoren, een flinke winst ten opzichte",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639904",
+     "link": "https://nos.nl/l/2639952",
      "bron": "NOS",
-     "tijd": "17:28",
-     "sorteer": "2026-11-17T17:28:27+01:00"
+     "tijd": "04:35",
+     "sorteer": "2026-11-18T04:35:12+01:00"
     },
     {
-     "titel": "Deutsche Bank onder vuur na uitlekken omstreden transacties van Trump en Epstein",
-     "context": "Verdachte betalingen die verband houden met Jeffrey Epstein en transacties van Donald Trump en Russische miljonairs die sancties kunnen omzeilen. Dat en meer blijkt uit onderzoek van gelekte gegevens van de Deutsche Bank, verzameld onder de naam \"Inside Deutsche Bank\". Aan het onderzoek werkten 230 journalisten van 56 nieuwsorganisaties mee, waaronder Le Monde, Der Spiegel, FT en Follow the Money.",
+     "titel": "Nvidia verdubbelt omzet in kwartaalcijfers na vertrek topman Huang",
+     "context": "De Amerikaanse chipfabrikant Nvidia heeft het derde kwartaal de omzet meer dan verdubbeld. Het bedrijf blijft profiteren van de enorme vraag naar chips voor AI. En dat is een meevaller voor de chipmaker. De afgelopen weken is het concern verwikkeld geraakt in een schandaal rond de voormalige topman Jensen Huang. De totale omzet steeg met 103 procent naar 115,8 miljard dollar, de nettowinst steeg n",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639899",
+     "link": "https://nos.nl/l/2639949",
      "bron": "NOS",
-     "tijd": "17:08",
-     "sorteer": "2026-11-17T17:08:46+01:00"
+     "tijd": "00:14",
+     "sorteer": "2026-11-18T00:14:49+01:00"
     },
     {
-     "titel": "Honderden arrestaties bij protest tegen bezoek president Trump aan Manilla",
-     "context": "In de Filipijnse hoofdstad Manilla zijn de afgelopen dagen honderden mensen gearresteerd die demonstreerden tegen de komst van de Amerikaanse president Trump. Hij is daar vandaag aangekomen om met partners te praten op de regionale Asean-top , een samenwerkingsverband van landen in Zuidoost-Azië. \"Donald Trump is hier in de Filipijnen niet welkom\", zei protestleider Renato Reyes, terwijl achter he",
+     "titel": "Ier in VS aangeklaagd voor vernielen militair vliegtuig",
+     "context": "Een 48-jarige man uit Ierland is in de VS aangeklaagd voor het vernielen van een Amerikaans militair vliegtuig. De man drong in april het beveiligde terrein van Shannon Airport in Ierland binnen en zou het toestel zo zwaar hebben beschadigd dat het niet meer kan vliegen. Het gaat om een C-130 Hercules, een militair transportvliegtuig met een waarde van ongeveer 60 miljoen dollar volgens Amerikaans",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639896",
+     "link": "https://nos.nl/l/2639944",
      "bron": "NOS",
-     "tijd": "16:52",
-     "sorteer": "2026-11-17T16:52:55+01:00"
+     "tijd": "22:56",
+     "sorteer": "2026-11-17T22:56:00+01:00"
     },
     {
-     "titel": "Podcast De Dag: De oneindige reis van de Voyager",
-     "context": "Bij de lancering in 1977 had niemand gedacht dat het ruimteschip de Voyager het zo lang vol zou houden. Bijna 50 jaar later is er nog steeds contact en deze week bereikt-ie de magische afstand van één lichtdag tot de aarde. Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet je dan niet te abonneren. Met ruimtevaartdeskundige Rob van Hassel volgen ",
+     "titel": "Woede in Australië na vondst renpaard in afvalcontainer",
+     "context": "In Australië is met afschuw gereageerd op de vondst van een dood renpaard in een afvalcontainer bij een stortplaats. Meerdere betrokken partijen hebben een onderzoek aangekondigd naar wat er is misgegaan De paardenrenorganisatie in de deelstaat New South Wales stelt volgens ABC News nieuwe regels op, die ervoor moeten zorgen dat er met overleden renpaarden respectvol wordt omgegaan. Renpaard So Yo",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639877",
+     "link": "https://nos.nl/l/2639941",
      "bron": "NOS",
-     "tijd": "14:45",
-     "sorteer": "2026-11-17T14:45:27+01:00"
+     "tijd": "22:30",
+     "sorteer": "2026-11-17T22:30:17+01:00"
     },
     {
-     "titel": "Influencer Vera Dijkmans vast in VS om gemiste zitting immigratierechtbank",
-     "context": "Influencer Vera Dijkmans wordt in de VS vastgehouden door ICE omdat ze niet is verschenen op een immigratiezitting in mei. Dat meldt het Amerikaanse ministerie van Binnenlandse Veiligheid aan de NOS. De rechter heeft toen al een uitzettingsbevel tegen haar uitgevaardigd. Dijkmans werd afgelopen woensdag aangehouden op een vliegveld in Newark en zit sindsdien in hechtenis in het omstreden detentiec",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639876",
-     "bron": "NOS",
-     "tijd": "14:30",
-     "sorteer": "2026-11-17T14:30:54+01:00"
-    },
-    {
-     "titel": "Servisch parlement komt voor het eerst samen na verkiezingswinst studenten, Vucic gebruikt spreekrecht voor urenlange speech",
+     "titel": "Iran bevestigt luchtaanval op Koeweit",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/servisch-parlement-komt-voor-het-eerst-samen-na-verkiezingswinst-studenten-vucic-gebruikt-spreekrecht-voor-urenlange-speech~bfc46252b/",
+     "link": "https://www.volkskrant.nl/buitenland/iran-bevestigt-luchtaanval-op-koeweit~bd96d2f5/",
      "bron": "de Volkskrant",
-     "tijd": "17:32",
-     "sorteer": "2026-11-17T16:32:00+00:00"
+     "tijd": "05:50",
+     "sorteer": "2026-11-18T04:50:00+00:00"
     },
     {
-     "titel": "Israël doodt zes Palestijnen bij beschietingen en luchtaanvallen in Gaza, onder wie 6-jarige jongen",
+     "titel": "Democraat Mary Peltola verslaat zittende Republikein en wint senaatszetel in Alaska",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/israel-doodt-zes-palestijnen-bij-beschietingen-en-luchtaanvallen-in-gaza-onder-wie-6-jarige-jongen~bd96d2f5/",
+     "link": "https://www.volkskrant.nl/buitenland/democraat-mary-peltola-verslaat-zittende-republikein-en-wint-senaatszetel-in-alaska~bc3bb24d/",
      "bron": "de Volkskrant",
-     "tijd": "17:27",
-     "sorteer": "2026-11-17T16:27:00+00:00"
+     "tijd": "05:27",
+     "sorteer": "2026-11-18T04:27:00+00:00"
     },
     {
-     "titel": "Internationaal Strafhof wekt kritiek met besluit om onderzoek naar Amerikaanse oorlogsmisdaden te staken",
+     "titel": "Alaska kiest voor het eerst deze eeuw Democraat als gouverneur",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/internationaal-strafhof-wekt-kritiek-met-besluit-om-onderzoek-naar-amerikaanse-oorlogsmisdaden-te-staken~bf2d8c0f/",
+     "link": "https://www.trouw.nl/buitenland/live-vs-geen-bewijs-voor-cyberaanval-na-technische-storingen-in-vs-zegt-buitenlandminster-rubio~bbc0cf3d/",
      "bron": "Trouw",
-     "tijd": "17:53",
-     "sorteer": "2026-11-17T16:53:28+00:00"
+     "tijd": "04:50",
+     "sorteer": "2026-11-18T03:50:00+00:00"
     }
    ]
   },
@@ -172,85 +168,67 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Wachtlijsten bij ijsverenigingen door tekort aan ijsbanen",
-     "context": "Wachtlijsten, volle trainingsgroepen en minder trainingsuren. Mensen die willen kunstschaatsen, shorttracken of ijshockeyen kennen het probleem van de ijsbanen. Er zijn er te weinig, vindt de schaatsbond KNSB. De sporten worden steeds populairder, maar het aantal ijsbanen is niet meegegroeid. Nederland telt 23 ijsbanen van 30 bij 60 meter waar deze drie sporten op worden beoefend. Die banen zijn k",
+     "titel": "'Lastig om conclusies te trekken over autopsierapport Epstein'",
+     "context": "Is het mogelijk om conclusies te trekken over de doodsoorzaak van iemand op basis van alleen foto's? Dat is erg lastig, zegt deskundige forensische pathologie Dingeman Rijken van het Nederlands Forensisch Insituut (NFI) over het autopsierapport van Jeffrey Epstein dat inmiddels wereldnieuws is. \"Wat je normaal natuurlijk doet op het moment dat er een verhanging is, of in ieder geval dat dat het ve",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639906",
+     "link": "https://nos.nl/l/2639925",
      "bron": "NOS",
-     "tijd": "17:47",
-     "sorteer": "2026-11-17T17:47:43+01:00"
+     "tijd": "19:55",
+     "sorteer": "2026-11-17T19:55:02+01:00"
     },
     {
-     "titel": "Officieel einde aan lange droogteperiode, schepen weer volgeladen over de rivieren",
-     "context": "Er is officieel een einde gekomen aan een lange periode van droogte met historisch lage waterstanden. Die periode duurde van begin juli tot nu, meldt Rijkswaterstaat. De afvoer van de Rijn stijgt sinds 12 november weer, dat is de hoeveelheid water die door de rivier stroomt. Dat betekent dat ook de waterstanden en de vaardieptes toenemen. Daarmee is de hinder voor de scheepvaart grotendeels voorbi",
+     "titel": "Man die Monument op de Dam bekladde moet gemeente 2000 euro betalen",
+     "context": "De 27-jarige man die deze zomer het Nationaal Monument op de Dam bekladde, heeft een voorwaardelijke geldboete van 500 euro gekregen. Wel moet hij de gemeente Amsterdam ruim 2000 euro betalen voor de schoonmaakkosten. Daarnaast mag hij de komende twee jaar niet in aanraking komen met politie en justitie. De man uit Hoofddorp spoot op 2 augustus rond 05.15 uur teksten met gele en blauwe graffiti op",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639903",
+     "link": "https://nos.nl/l/2639923",
      "bron": "NOS",
-     "tijd": "17:15",
-     "sorteer": "2026-11-17T17:15:24+01:00"
+     "tijd": "19:44",
+     "sorteer": "2026-11-17T19:44:07+01:00"
     },
     {
-     "titel": "Bedrijven kunnen pfas-onderzoek niet langer tegenhouden: dit staat ze te wachten",
-     "context": "Bedrijven waar een vermoeden is van pfas-vervuiling moeten verplicht meewerken aan onderzoek op hun terrein. Dat heeft staatssecretaris Bertram van het ministerie van Infrastructuur en Waterstaat besloten. Op die manier wil de overheid goed zicht krijgen op risicovolle vervuiling. Dit kan grote gevolgen hebben voor bedrijven, ook als zij niet zelf de vervuiler zijn. Vorig jaar meldden de NOS en re",
+     "titel": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+     "context": "De nachttrein van Arriva tussen Zwolle en Schiphol stopt per direct met rijden. Dat bevestigt Arriva naar aanleiding van een rechterlijke uitspraak. Die bepaalde dat de subsidie die Arriva van de gemeenten Almere en Lelystad ontvangt om de verbinding in stand te houden, moet worden stopgezet. De gemeenten baseerden de subsidies op een Europese verordening over openbaar personenvervoer op het spoor",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639886",
+     "link": "https://nos.nl/l/2639916",
      "bron": "NOS",
-     "tijd": "16:00",
-     "sorteer": "2026-11-17T16:00:01+01:00"
+     "tijd": "19:03",
+     "sorteer": "2026-11-17T19:03:20+01:00"
     },
     {
-     "titel": "Zeven aanhoudingen in groot onderzoek naar drugshandel, ook Jan G. opnieuw aangehouden",
-     "context": "In een groot opsporingsonderzoek naar georganiseerde criminaliteit en drugshandel zijn vandaag zeven mannen aangehouden, dat meldt de politie Oost-Nederland. Een van hen zat al vast in de Extra Beveiligde Inrichting (EBI) in Vught. Het gaat om de 28-jarige Jan G., bevestigen bronnen aan de NOS. G. werd in september opgepakt in Duitsland. Hij is verdachte in meerdere drugszaken en zou onder meer be",
+     "titel": "Oppositie kritisch op inzet Buma: keuze tussen links en rechts opnieuw uitgesteld",
+     "context": "De inzet van Sybrand Buma, de vicepresident van de Raad van State, is bij veel oppositiepartijen met weinig enthousiasme ontvangen. Dit bleek dinsdagavond tijdens een ruim acht uur durend debat over de 'ontstane politieke situatie', dat tot in de nacht doorging. Onder meer Pro, SP, PVV, Partij voor de Dieren, BBB en ChristenUnie zetten vraagtekens bij de inzet van Buma. Pro en de Partij voor de Di",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2639875",
-     "bron": "NOS",
-     "tijd": "14:25",
-     "sorteer": "2026-11-17T14:25:32+01:00"
-    },
-    {
-     "titel": "17/11 in Nieuwsuur: de laatste ontwikkelingen uit Den Haag",
-     "context": "De laatste ontwikkelingen uit Den Haag In Den Haag staat politiek en bestuurlijk veel op het spel. Wat zijn de laatste ontwikkelingen en wat betekenen die voor de toekomst van het kabinet? We bespreken het met Kim Putters , voorzitter van de Sociaal-Economische Raad, die bij ons te gast is in de studio over hoe nu verder met het minderheidskabinet. VNO-NCW-voorzitter Coen van Oostrom is eveneens t",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639872",
-     "bron": "NOS",
-     "tijd": "13:37",
-     "sorteer": "2026-11-17T13:37:12+01:00"
-    },
-    {
-     "titel": "Kabinetscrisis bezworen met leeg verhaal, coalitie voorlopig door op wilskracht",
-     "context": "Na hun bijna-fatale ruzie gaan D66, VVD en CDA toch met elkaar door op wilskracht, en op hoop van zegen. Want inhoudelijk hebben de vier dagen crisisoverleg weinig opgeleverd. De hoop van de minderheidscoalitie is gevestigd op vicevoorzitter van de Raad van State Sybrand Buma, die de samenwerking met de oppositie een zetje moet geven. Het vertrouwen is hersteld. Dat was gisteravond de korte boodsc",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2639883",
+     "link": "https://nos.nl/l/2639951",
      "bron": "NOS politiek",
-     "tijd": "15:52",
-     "sorteer": "2026-11-17T15:52:56+01:00"
+     "tijd": "02:26",
+     "sorteer": "2026-11-18T02:26:35+01:00"
     },
     {
-     "titel": "Een dubbele pet voor Sybrand Buma? Experts zien geen belemmering maar wel een risico",
+     "titel": "Deze Amsterdamse iepen zijn net pubers: geef je ze te weinig, dan gaan ze ervandoor",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/een-dubbele-pet-voor-sybrand-buma-experts-zien-geen-belemmering-maar-wel-een-risico~be9401ba/",
+     "link": "https://www.volkskrant.nl/binnenland/deze-amsterdamse-iepen-zijn-net-pubers-geef-je-ze-te-weinig-dan-gaan-ze-ervandoor~bcefd2c7/",
      "bron": "de Volkskrant",
-     "tijd": "16:04",
-     "sorteer": "2026-11-17T15:04:00+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-18T04:00:32+00:00"
     },
     {
-     "titel": "Franse scholieren, ambtenaren en ‘gele hesjes’ vinden elkaar op nieuwe protestdag",
+     "titel": "Kumar vluchtte als 18-jarige uit Sri Lanka: ‘Tamils moesten naar een sobere opvanglocatie – eigenlijk het eerste azc’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/franse-scholieren-ambtenaren-en-gele-hesjes-vinden-elkaar-op-nieuwe-protestdag~b10d0312/",
+     "link": "https://www.volkskrant.nl/mensen/kumar-vluchtte-als-18-jarige-uit-sri-lanka-tamils-moesten-naar-een-sobere-opvanglocatie-eigenlijk-het-eerste-azc~b24a7c53/",
      "bron": "de Volkskrant",
-     "tijd": "08:33",
-     "sorteer": "2026-11-17T07:33:00+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-18T04:00:32+00:00"
     },
     {
-     "titel": "Twee vrouwen uit Stadskanaal óók verdacht van mishandelen zevenjarige zoon",
+     "titel": "Ook de politie moet zich aanpassen aan klimaatverandering. ‘Het gaat niet over de toekomst, het gaat over het nu’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/twee-vrouwen-uit-stadskanaal-ook-verdacht-van-mishandelen-zevenjarige-zoon~b0d980d1/",
+     "link": "https://www.trouw.nl/binnenland/ook-de-politie-moet-zich-aanpassen-aan-klimaatverandering-het-gaat-niet-over-de-toekomst-het-gaat-over-het-nu~b3fc4ab4/",
      "bron": "Trouw",
-     "tijd": "17:55",
-     "sorteer": "2026-11-17T16:55:44+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-17T21:00:34+00:00"
     }
    ]
   },
@@ -259,6 +237,42 @@
    "titel": "Zwolle en omgeving",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Sinds het gifverbod voor particulieren duiken plaagdieren vaker op, dit grote onderzoek moet uitwijzen wat er aan de hand is",
+     "context": "Hoe goed kunnen ratten en muizen tegen (ratten)gif? Nieuw, groot onderzoek moet antwoord geven op de vraag of meer of minder plaagdieren resistent zijn geworden, nadat inzet van het gif in 2023 verboden werd voor particulieren.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/noordoostpolder/sinds-het-gifverbod-voor-particulieren-duiken-plaagdieren-vaker-op-dit-grote-onderzoek-moet-uitwijzen-wat-er-aan-de-hand-is~a313cf86/",
+     "bron": "de Stentor",
+     "tijd": "06:00",
+     "sorteer": "2026-11-18T05:00:00+00:00"
+    },
+    {
+     "titel": "Twintig appartementen op de plek van deze illustere sportschool in Zwolle",
+     "context": "De bouw van 20 koopappartementen op de plek van het voormalige Loekie’s Gym in Zwolle komt dichterbij. Maandag kan de gemeenteraad zich uitspreken over het voorstel van B&W voor een gebouw met vier woonlagen.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/twintig-appartementen-op-de-plek-van-deze-illustere-sportschool-in-zwolle~a18c364f/",
+     "bron": "de Stentor",
+     "tijd": "20:14",
+     "sorteer": "2026-11-17T19:14:10+00:00"
+    },
+    {
+     "titel": "Op de foto die hem roem bezorgde, kreeg Jan Stappenbeld ook veel kritiek, fotograaf overleden op 80-jarige leeftijd",
+     "context": "Als jong jochie fietst hij al achter de brandweer aan. Jaren later legt Jan Stappenbeld de executie bij de treinkaping Wijster vast. Een foto die hem roem én grafkransen op de mat bezorgt. De Zwolse fotograaf is op 80-jarige leeftijd overleden.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/op-de-foto-die-hem-roem-bezorgde-kreeg-jan-stappenbeld-ook-veel-kritiek-fotograaf-overleden-op-80-jarige-leeftijd~a918672f/",
+     "bron": "de Stentor",
+     "tijd": "20:00",
+     "sorteer": "2026-11-17T19:00:00+00:00"
+    },
+    {
+     "titel": "Rechter veegt bezwaar van buren van tafel: groen licht voor nieuwbouw in Nieuwleusen",
+     "context": "Een nieuw appartementengebouw in Nieuwleusen is in de ogen van de rechter niet te hoog. Ook zijn er genoeg parkeerplekken en hebben winkels op deze plek geen bestaansrecht meer. Daarmee zijn alle bezwaren van buren van tafel geveegd – voorlopig.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/dalfsen/rechter-veegt-bezwaar-van-buren-van-tafel-groen-licht-voor-nieuwbouw-in-nieuwleusen~ad46ebeb/",
+     "bron": "de Stentor",
+     "tijd": "18:00",
+     "sorteer": "2026-11-17T17:00:55+00:00"
+    },
     {
      "titel": "Europese kunstwereld strijkt neer in Zwolle: wat blijft er over als de gasten weer vertrekken?",
      "context": "Zwolle krijgt deze week de internationale kunstwereld op bezoek. Is zo’n conferentie vooral een visitekaartje, of kan de stad er ook echt beter van worden?",
@@ -269,40 +283,35 @@
      "sorteer": "2026-11-17T16:00:10+00:00"
     },
     {
-     "titel": "Provincies betalen 22 miljoen extra om busvervoer van kwakkelend EBS overeind te houden",
-     "context": "De provincies Flevoland, Gelderland en Overijssel betalen de komende jaren bijna 22 miljoen euro extra om het busvervoer van EBS overeind te houden.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/binnenland/provincies-betalen-22-miljoen-extra-om-busvervoer-van-kwakkelend-ebs-overeind-te-houden~a4caa3571/",
-     "bron": "de Stentor",
-     "tijd": "17:00",
-     "sorteer": "2026-11-17T16:00:06+00:00"
+     "titel": "Vrij nemen voor GTA 6? ‘Ik ga me gewoon ziek melden’",
+     "context": "De release van GTA 6 zorgt voor een flinke stijging van het aantal verlofaanvragen. Ook in Zwolle zijn gamers van plan vrij te nemen of ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Kunst & Cultuur",
+      "Video",
+      "GTA6",
+      "Nieuws",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/216287/vrij-nemen-voor-gta-6-ik-ga-me-gewoon-ziek-melden.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "19:02",
+     "sorteer": "2026-11-17T18:02:26+00:00"
     },
     {
-     "titel": "Nachttrein van Zwolle naar Schiphol stopt per direct met rijden",
-     "context": "De nachttrein van Zwolle naar Schiphol Airport, met tussenstops in onder meer Lelystad en Almere, stopt per direct met rijden. Dat meldt vervoerder Arriva. Het is een gevolg van een rechtszaak over subsidie voor de treinverbinding, die de NS aanspande tegen de Flevolandse gemeenten.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/nachttrein-van-zwolle-naar-schiphol-stopt-per-direct-met-rijden~a2285fad/",
-     "bron": "de Stentor",
-     "tijd": "15:19",
-     "sorteer": "2026-11-17T14:19:00+00:00"
-    },
-    {
-     "titel": "Zwols gebouw kleurt blauw en dit is waarom",
-     "context": "Dat valt wel op! Meerdere gebouwen in Nederland (en ook één in Zwolle) zijn de komende tijd in een blauw jasje gestoken. Niet letterlijk, maar bouwwerken worden sinds maandag 16 november beschenen met blauwe lampen. Het ziet er niet alleen opvallend uit, er zit ook een verhaal achter.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/blauwe-lichten-gebouw-zwolle~ae71ab16/",
-     "bron": "de Stentor",
-     "tijd": "14:30",
-     "sorteer": "2026-11-17T13:30:17+00:00"
-    },
-    {
-     "titel": "Nely heeft een goed idee, stapt bij de directeur van het zwembad binnen en die bestelt er meteen 200",
-     "context": "Een prullenbak vol plastic hoesjes bij het zwembad: dat kan anders, besluit Nely Visser. Ze zet de schaar in een oude spijkerbroek. Haar zelfgemaakte schoenhoezen zijn nu onmisbaar voor de stichting waarmee zij en haar man Folkert kinderen helpen. En dat blijft niet onopgemerkt.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/nely-heeft-een-goed-idee-stapt-bij-de-directeur-van-het-zwembad-binnen-en-die-bestelt-er-meteen-200~a009853c/",
-     "bron": "de Stentor",
-     "tijd": "11:00",
-     "sorteer": "2026-11-17T10:00:00+00:00"
+     "titel": "Na uitspraak rechter: nachttrein tussen Zwolle en Schiphol stopt per direct",
+     "context": "De nachttrein die rijdt tussen Zwolle en Schiphol stopt per direct met rijden, bevestigt vervoerder Arriva aan 1Zwolle. Concurrent NS had bezwaar gemaakt tegen de ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Arriva",
+      "nachttrein",
+      "NS",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/216261/rechter-bepaalt-nachttrein-tussen-zwolle-en-schiphol-stopt-per-direct.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "16:39",
+     "sorteer": "2026-11-17T15:39:06+00:00"
     },
     {
      "titel": "Dominicanenkerk roept met ‘Black Friarday’ op om juist niet te shoppen",
@@ -331,32 +340,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "12:41",
      "sorteer": "2026-11-17T11:41:42+00:00"
-    },
-    {
-     "titel": "Wijken met Wortels: eerste groencafés in Assendorp en Dieze-Oost",
-     "context": "Hoe zag het groen in Assendorp en Dieze-Oost er vroeger uit? Inwoners van beide Zwolse wijken kunnen daar binnenkort samen onderzoek naar doen. Op 26 ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Assendorp",
-      "groencafés",
-      "Wijken met Wortels",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/216190/wijken-met-wortels-eerste-groencafes-in-assendorp-en-dieze-oost.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "11:13",
-     "sorteer": "2026-11-17T10:13:34+00:00"
-    },
-    {
-     "titel": "Oudste sinterklaasgedicht ooit gevonden: vol gekras en met steken onder water",
-     "context": "Johan Oosterman weet meteen dat hij iets bijzonders in handen heeft. De hoogleraar letterkunde stuit in de archieven op een boekje met de titel 'Gedichten', geschreven door een Deventer edelman. Halverwege, tussen de verzen en liedjes, staat het echt: 'Sancte Niclaes'. Het zal toch niet?",
-     "rubrieken": [
-      "breaking"
-     ],
-     "link": "https://www.oost.nl/cultuur/3720315/oudste-sinterklaasgedicht-ooit-gevonden-vol-gekras-en-met-steken-onder-water",
-     "bron": "RTV Oost",
-     "tijd": "16:23",
-     "sorteer": "2026-11-17T15:23:54+00:00"
     }
    ]
   },
@@ -399,22 +382,6 @@
      "kop": "Stemmingen",
      "tijd": "",
      "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z24734"
-    },
-    {
-     "titel": "Tweeminutendebat Kernenergie (CD 2/7)",
-     "bron": "Plenair debat (tweeminutendebat)",
-     "kop": "Komende week",
-     "tijd": "dinsdag 17/11 16:15",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06131",
-     "sorteer": "2026-11-17T16:15"
-    },
-    {
-     "titel": "Debat over de ontstane politieke situatie",
-     "bron": "Plenair debat (debat)",
-     "kop": "Komende week",
-     "tijd": "dinsdag 17/11 17:00",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08484",
-     "sorteer": "2026-11-17T17:00"
     },
     {
      "titel": "Begroting Asiel en Migratie 1e TK",
@@ -463,6 +430,22 @@
      "tijd": "donderdag 19/11 10:40",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05412",
      "sorteer": "2026-11-19T10:40"
+    },
+    {
+     "titel": "Begroting Asiel en Migratie voortzetting",
+     "bron": "Plenair debat (wetgeving)",
+     "kop": "Komende week",
+     "tijd": "donderdag 19/11 16:45",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08434",
+     "sorteer": "2026-11-19T16:45"
+    },
+    {
+     "titel": "Wetgevingsoverleg OCW-begroting, onderdeel Emancipatie",
+     "bron": "Wetgevingsoverleg",
+     "kop": "Komende week",
+     "tijd": "maandag 23/11 10:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07055",
+     "sorteer": "2026-11-23T10:00"
     }
    ]
   },
@@ -472,7 +455,7 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "18:00",
+    "bijgewerkt": "07:00",
     "uitslagen": [],
     "stand": [
      {
@@ -629,20 +612,12 @@
    "emoji": "🌿",
    "items": [
     {
-     "titel": "Natuurjournaal 17 november 2026",
-     "toelichting": "Witte paddenstoelen tussen het bruine blad, zoek de witte kluifzwam en grote molenaar.",
+     "titel": "Natuurjournaal 18 november 2026",
+     "toelichting": "Kolgans algemene overwinteraar in Nederland en met roodhalsgans een (on)opvallende vreemde gans in de bijt.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36069",
-     "sorteer": "2026-11-17T05:45:00+00:00"
-    },
-    {
-     "titel": "De eerste fase van De Groene Corridor: van natuurbeheer naar natuurbegeleiding",
-     "toelichting": "Stichting Broedplaats Gooise Meren/ AltijdWerkplaats werkt aan De Groene Corridor, een ecologische verbindingszone van Bussum tot Naarden. Dat doet zij samen met bewoners, natuurorganisaties en de gemeente Gooise Meren. ",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36028",
-     "sorteer": "2026-11-17T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36080",
+     "sorteer": "2026-11-18T05:45:00+00:00"
     },
     {
      "titel": "Europa zet deur open voor afzwakking natuurwetgeving",
@@ -651,6 +626,14 @@
      "tijd": "10:30",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36068",
      "sorteer": "2026-11-17T09:30:00+00:00"
+    },
+    {
+     "titel": "Uitbreiding Wolvenmeldpunt helpt gedrag van wolven beter te volgen",
+     "toelichting": "Het landelijke Wolvenmeldpunt van BIJ12 is uitgebreid. Iedereen die een wolf of wolvenspoor ziet, kan daar een melding van doen. Die meldingen helpen om in kaart te brengen waar wolven leven en hoe zij zich verplaatsen. ",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36066",
+     "sorteer": "2026-11-17T11:00:00+00:00"
     },
     {
      "titel": "Glasvezelkabels ook handig bij het monitoren van walvissen",
@@ -667,41 +650,41 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 11.7,
-    "gevoel": 9.2,
+    "nu": 9.4,
+    "gevoel": 6.2,
     "wind": "ZW 4",
     "station": "Heino",
-    "bericht": "Vandaag en morgen is het sterk wisselvallig met vanmiddag buien, vanavond mogelijk plensregen met onweer en zware windstoten. In het zuiden is het zeer zacht!Vanavond trekken buiengebieden over het midden en zuiden met lokaal onweer. Het kan soms echt even goed doorplenzen.",
-    "vandaag": "In het zuiden is het zeer zacht!Vanavond trekken buiengebieden over het midden en zuiden met lokaal onweer. Vannacht trekken de zwaarste buien naar het oosten weg.",
-    "temperatuur": "In het noorden dringt de warme lucht ook binnen waardoor we hier uiteindelijk van 4 graden naar een graad of 8 stijgen.",
+    "bericht": "Het weer blijft voorlopig sterk wisselvallig, met geregeld regen of buien. In het oostelijke Waddengebied staat vandaag tijdelijk een stormachtige westenwind, met kans op zware windstoten tot 95 km/u.Vanochtend domineert de bewolking en trekken enkele buien over het land. In het zuiden bestaat daarbij een kleine kans op een klap onweer.",
+    "vandaag": "In het oostelijke Waddengebied staat vandaag tijdelijk een stormachtige westenwind, met kans op zware windstoten tot 95 km/u. Vanochtend domineert de bewolking en trekken enkele buien over het land.",
+    "temperatuur": "De middagtemperatuur komt uit op 10 graden in het noorden en 12 graden in de zuidelijke helft van het land.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: regen, 2 tot 12 graden, 100% kans op neerslag, wind uit het zuiden, kracht 5.",
-     "max": 12,
-     "min": 2,
-     "regenkans": 100,
-     "omschrijving": "regen"
+     "zin": "Voor Zwolle zelf: motregen, 6 tot 10 graden, 77% kans op neerslag, ruim 4 uur zon, wind uit het westen, kracht 5.",
+     "max": 10,
+     "min": 6,
+     "regenkans": 77,
+     "omschrijving": "motregen"
     },
     "vooruit": "Eerst veel bewolking en perioden met regen. Zacht. Vanaf vrijdag sterk afnemende kans op regen, meer zon en lagere temperatuur.",
     "omslag": "Nachtvorst in aantocht: dinsdag tot 0 graden.",
-    "min": "0",
-    "max": "12",
+    "min": "7/8",
+    "max": "9/11",
     "regenkans": 90,
     "zonkans": 10,
     "omschrijving": "Zwaar bewolkt en regen",
     "morgen": {
      "omschrijving": "Zwaar bewolkt en regen",
-     "min": "7/8",
-     "max": "9/11",
+     "min": "6/7",
+     "max": "9/10",
      "regenkans": 90
     }
    }
   }
  ],
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
-  "blokken": 8,
-  "berichten": 43,
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "07:00",
+  "blokken": 7,
+  "berichten": 40,
   "problemen": []
  }
 }
