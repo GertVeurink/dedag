@@ -1,6 +1,6 @@
 {
- "naam": "Avondbriefing",
- "datum": "2026-11-18",
+ "naam": "Ochtendbriefing",
+ "datum": "2026-11-19",
  "blokken": [
   {
    "id": "duiding",
@@ -9,85 +9,67 @@
    "items": [],
    "duiding": [
     {
-     "titel": "Nachttrein Zwolle–Schiphol stopt direct",
-     "tekst": "De nachttrein van Arriva tussen Zwolle en Schiphol rijdt niet meer. De rechter zette na bezwaar van NS de subsidie van Almere en Lelystad stop. De Kamer nam een motie aan om binnen zes maanden een tijdpad voor beter openbaar vervoer te maken, en vanmiddag staat een kort debat over openbaar vervoer en taxi op de agenda.",
+     "titel": "Nederlandse drones aan Krimbrug",
+     "tekst": "Verkeer over de Krimbrug ligt stil na een nieuwe Oekraïense aanval (7). De Nederlandse wapenfabrikant Destinus eiste deze week een rol op bij een aanval op die brug. NRC meldt nu dat medewerkers van het bedrijf in Oekraïne ook zelf op Russische drones joegen en het leger hielpen bij aanvallen op Rusland, al drie jaar geleden (1, 11).",
      "verwijzingen": [
       {
-       "titel": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-       "link": "https://nos.nl/l/2639916",
+       "titel": "NRC: medewerkers Nederlandse wapenfabrikant schoten zelf drones af in Oekraïne",
+       "link": "https://nos.nl/l/2640095",
        "bron": "NOS",
-       "tijd": "19:03"
+       "tijd": "06:27"
       },
       {
-       "titel": "Na uitspraak rechter: nachttrein tussen Zwolle en Schiphol stopt per direct",
-       "link": "https://1zwolle.nl/nieuws/216261/rechter-bepaalt-nachttrein-tussen-zwolle-en-schiphol-stopt-per-direct.html",
-       "bron": "Weblog Zwolle",
-       "tijd": "16:39"
-      },
-      {
-       "titel": "Motie van de leden Teunissen en Van Oosterhout over binnen zes maanden komen met een tijdpad voor beter openbaar vervoer en een…",
-       "link": "https://www.tweedekamer.nl/zoeken?qry=2026Z25017",
-       "bron": "motie aangenomen",
-       "tijd": ""
-      },
-      {
-       "titel": "Tweeminutendebat Openbaar vervoer en taxi (CD 13/10)",
-       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07644",
-       "bron": "Plenair debat (tweeminutendebat)",
-       "tijd": "woensdag 18/11 16:30"
-      }
-     ],
-     "geschreven": "07:00"
-    },
-    {
-     "titel": "Alaska kiest tweemaal voor Democraten",
-     "tekst": "In Alaska won Democraat Mary Peltola de laatste open Senaatszetel. Ze haalde ruim 12.000 stemmen meer dan Republikein Dan S. Sullivan. Daarmee hebben de Democraten 56 van de 100 senatoren. Dezelfde staat koos ook voor het eerst deze eeuw een Democratische gouverneur.",
-     "verwijzingen": [
-      {
-       "titel": "Ook laatste Senaatszetel nu definitief naar Democraten: winst Peltola in Alaska",
-       "link": "https://nos.nl/l/2639952",
-       "bron": "NOS",
-       "tijd": "04:35"
-      },
-      {
-       "titel": "Democraat Mary Peltola verslaat zittende Republikein en wint senaatszetel in Alaska",
-       "link": "https://www.volkskrant.nl/buitenland/democraat-mary-peltola-verslaat-zittende-republikein-en-wint-senaatszetel-in-alaska~bc3bb24d/",
-       "bron": "de Volkskrant",
-       "tijd": "05:27"
-      },
-      {
-       "titel": "Alaska kiest voor het eerst deze eeuw Democraat als gouverneur",
-       "link": "https://www.trouw.nl/buitenland/live-vs-geen-bewijs-voor-cyberaanval-na-technische-storingen-in-vs-zegt-buitenlandminster-rubio~bbc0cf3d/",
+       "titel": "Verkeer over Krimbrug stilgelegd na nieuwe Oekraïense aanval",
+       "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-verkeer-over-krimbrug-stilgelegd-na-nieuwe-oekraiense-aanval~ba2815bb/",
        "bron": "Trouw",
-       "tijd": "04:50"
+       "tijd": "02:30"
       }
      ],
-     "geschreven": "07:00"
+     "geschreven": "07:09"
     },
     {
-     "titel": "Onrust in de wereld, Kamer debatteert",
-     "tekst": "Iran heeft een luchtaanval op Koeweit bevestigd. Vandaag behandelt de Kamer eerst de begroting van Buitenlandse Zaken en vanavond volgt een debat over de verslechterende veiligheidssituatie in de wereld.",
+     "titel": "Grote mogendheden zoeken elkaar op",
+     "tekst": "Trump, Poetin en Xi zitten vandaag in China om tafel. Het treffen wordt met Jalta vergeleken, maar de verwachtingen zijn laag (4). De Volkskrant beschrijft uit Shenzhen dat Chinezen zich meer met Rusland verbonden voelen dan met Europa of Amerika (6). Tegelijk kondigt de Amerikaanse defensieminister Hegseth in Caracas militaire samenwerking met Venezuela aan (2).",
      "verwijzingen": [
       {
-       "titel": "Iran bevestigt luchtaanval op Koeweit",
-       "link": "https://www.volkskrant.nl/buitenland/iran-bevestigt-luchtaanval-op-koeweit~bd96d2f5/",
+       "titel": "Minister Hegseth bezoekt Venezuela en kondigt militaire deal aan met VS",
+       "link": "https://nos.nl/l/2640093",
+       "bron": "NOS",
+       "tijd": "04:33"
+      },
+      {
+       "titel": "Trump, Poetin en Xi in China voor historisch treffen met lage verwachtingen",
+       "link": "https://nos.nl/l/2640086",
+       "bron": "NOS",
+       "tijd": "23:00"
+      },
+      {
+       "titel": "Chinezen hebben meer met Rusland dan met EU of VS, blijkt bij de Russische bakker in Shenzhen: ‘Chinezen bewonderen Poetin’",
+       "link": "https://www.volkskrant.nl/buitenland/chinezen-hebben-meer-met-rusland-dan-met-eu-of-vs-blijkt-bij-de-russische-bakker-in-shenzhen-chinezen-bewonderen-poetin~b5d313ce/",
        "bron": "de Volkskrant",
-       "tijd": "05:50"
-      },
-      {
-       "titel": "Begroting Buitenlandse Zaken (2e termijn)",
-       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08373",
-       "bron": "Plenair debat (wetgeving)",
-       "tijd": "woensdag 18/11 17:00"
-      },
-      {
-       "titel": "Debat over de verslechterende veiligheidssituatie in de wereld",
-       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06852",
-       "bron": "Plenair debat (debat)",
-       "tijd": "woensdag 18/11 19:30"
+       "tijd": "05:00"
       }
      ],
-     "geschreven": "07:00"
+     "geschreven": "07:09"
+    },
+    {
+     "titel": "Oude namen, nieuwe tijden",
+     "tekst": "In Kampen wil een groep het Van Heutszplein aan de IJsselkade omdopen, met Hendrick Avercamp als voorstel (22). In Zwolle staan ruim honderd scholieren voor dag en dauw op om zeventiende-eeuwse barokmuziek in te studeren (16). Zo is de eigen geschiedenis in de regio deze week op twee heel verschillende manieren onderwerp.",
+     "verwijzingen": [
+      {
+       "titel": "Voor dag en dauw uit bed voor zeventiende-eeuwse liederen: deze scholieren vinden het ‘supervet’",
+       "link": "https://www.destentor.nl/zwolle/voor-dag-en-dauw-uit-bed-voor-zeventiende-eeuwse-liederen-deze-scholieren-vinden-het-supervet~a5b3304d/",
+       "bron": "de Stentor",
+       "tijd": "20:00"
+      },
+      {
+       "titel": "Hendrick Avercamp in plaats van Van Heutsz? Groep wil andere naam voor plein in Kampen",
+       "link": "https://1zwolle.nl/nieuws/216341/hendrick-avercamp-in-plaats-van-van-heutsz-groep-wil-andere-naam-voor-plein-in-kampen.html",
+       "bron": "Weblog Zwolle",
+       "tijd": "15:04"
+      }
+     ],
+     "geschreven": "07:09"
     }
    ],
    "aantal": 3
@@ -98,76 +80,67 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Democraat Hakeem Jeffries vrijwel zeker eerste zwarte leider van het Huis in VS",
-     "context": "De Democraten hebben Hakeem Jeffries genomineerd als nieuwe voorzitter van het Huis van Afgevaardigden, waar de partij vanaf januari de meerderheid heeft. Er waren geen tegenkandidaten en de weg lijkt vrij voor Jeffries om de nieuwe speaker te worden. Hij zou daarmee de eerste zwarte parlementariër zijn in die invloedrijke functie. Jeffries (56) kan vanaf 3 januari, als het nieuwe Congres zitting ",
+     "titel": "NRC: medewerkers Nederlandse wapenfabrikant schoten zelf drones af in Oekraïne",
+     "context": "Werknemers van de Nederlandse wapenfabrikant Destinus, die deze week een rol opeiste bij de Oekraïense aanval op de Krimbrug, hebben zelf in Oekraïne op Russische drones gejaagd. Ook hielpen ze het Oekraïense leger bij het afschieten van aanvalsdrones op Rusland, zelfs drie jaar geleden al. Dat meldt NRC na maandenlang onderzoek en gesprekken met ruim veertig betrokkenen. Deskundigen op het gebied",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640053",
+     "link": "https://nos.nl/l/2640095",
      "bron": "NOS",
-     "tijd": "17:50",
-     "sorteer": "2026-11-18T17:50:02+01:00"
+     "tijd": "06:27",
+     "sorteer": "2026-11-19T06:27:52+01:00"
     },
     {
-     "titel": "China zet deur open voor ontmoeting tussen Donald Trump en Kim Jong-un",
-     "context": "De Chinese president Xi Jinping heeft vandaag zijn steun uitgesproken voor een top tussen Donald Trump en Kim Jong-un, meldt het Zuid-Koreaanse persbureau Yonhap. De Zuid-Koreaanse president Lee sprak vandaag met Xi op de APEC-top in China. Als belangrijkste partner van Noord-Korea bepaalt China de facto of een ontmoeting plaatsvindt. Trump is al lange tijd open over zijn wens om de Noord-Koreaans",
+     "titel": "Minister Hegseth bezoekt Venezuela en kondigt militaire deal aan met VS",
+     "context": "De VS en Venezuela gaan naar eigen zeggen militair samenwerken. Die overeenkomst is bekendgemaakt door de Amerikaanse minister van Defensie Hegseth en interim-president Rodriguez. Hegseth is op bezoek in de Venezolaanse hoofdstad Caracas. Het is opmerkelijk dat de defensieminister van de VS te gast is in Venezuela, na de ontvoering van president Maduro begin dit jaar. \"Een jaar geleden was mijn aa",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640019",
+     "link": "https://nos.nl/l/2640093",
      "bron": "NOS",
-     "tijd": "14:42",
-     "sorteer": "2026-11-18T14:42:52+01:00"
+     "tijd": "04:33",
+     "sorteer": "2026-11-19T04:33:18+01:00"
     },
     {
-     "titel": "APEC-top van start in China: Trump, Poetin en Xi samen, Europa ver weg",
-     "context": "Bij de start van de grote economische APEC-top in China hebben de Amerikaanse president Trump en de Russische president Poetin elkaar de hand geschud, onder het toeziend oog van gastheer Xi, de Chinese president. Het was voor het eerst in meer dan een jaar tijd dat Trump en Poetin elkaar ontmoetten. De APEC-top (Azië-Pacifische Economische Samenwerking) in de Zuid-Chinese stad Shenzhen draait om h",
+     "titel": "Van Goghs 'Bloeiende kastanjebomen' geveild voor recordbedrag: 173 miljoen euro",
+     "context": "In New York is het schilderij Bloeiende Kastanjebomen van Vincent van Gogh geveild voor omgerekend ruim 173 miljoen euro. Nooit eerder heeft een kunstwerk van de befaamde Nederlandse schilder zo veel opgeleverd . De koper is onbekend. Volgens veilinghuis Sotheby's was het de eerste keer in zestig jaar tijd dat het meesterwerk in het openbaar te zien was. Van Gogh schilderde het kort voor zijn over",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640018",
+     "link": "https://nos.nl/l/2640092",
      "bron": "NOS",
-     "tijd": "14:30",
-     "sorteer": "2026-11-18T14:30:05+01:00"
+     "tijd": "02:29",
+     "sorteer": "2026-11-19T02:29:55+01:00"
     },
     {
-     "titel": "Rus krijgt mogelijk topfunctie bij Atoomagentschap VN, Oekraïne protesteert",
-     "context": "Het hoofd van het Internationaal Atoomenergieagentschap (IAEA) heeft voorgesteld om de Rus Aleksej Ferapontov te benoemen tot een van de onderdirecteuren van de VN-organisatie. Dat meldt persbureau AFP, dat de brief van directeur Rafael Grossi heeft ingezien. De 62-jarige Ferapontov is sinds 2008 werkzaam bij de Russische waakhond Rostechnadzor, verantwoordelijk voor onder meer nucleair toezicht. ",
+     "titel": "Trump, Poetin en Xi in China voor historisch treffen met lage verwachtingen",
+     "context": "\"Historisch\" en \"een ontmoeting die zijn weerga niet kent\" zijn enkele kwalificaties die rondgaan. Vergelijkingen met de beroemde top in Jalta van Stalin, Roosevelt en Churchill in 1945 worden zelfs getrokken. De Chinese president Xi, de Amerikaanse president Trump en de Russische president Poetin zitten vanochtend (Nederlandse tijd) met elkaar om de tafel in China. Een bijzondere ontmoeting, waar",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640007",
+     "link": "https://nos.nl/l/2640086",
      "bron": "NOS",
-     "tijd": "13:17",
-     "sorteer": "2026-11-18T13:17:25+01:00"
+     "tijd": "23:00",
+     "sorteer": "2026-11-18T23:00:01+01:00"
     },
     {
-     "titel": "Russische ambassade reageert op Krimbrugaanval, minister Berendsen niet onder de indruk",
-     "context": "De Russische ambassade heeft op X gereageerd op het nieuws dat bij de grote aanval op de Krimbrug raketten en drones zijn gebruikt van een wapenfabrikant die in Nederland gevestigd is. De ambassade zegt dat \"Moskou op de hoogte is gesteld van de Nederlandse betrokkenheid\". \"De bekentenis is genoteerd\". De ambassade sluit het bericht af met de vraag of \"Den Haag openlijk deelneemt aan het conflict.",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640005",
-     "bron": "NOS",
-     "tijd": "12:59",
-     "sorteer": "2026-11-18T12:59:40+01:00"
-    },
-    {
-     "titel": "Generaal LaNeve maakte onder Trump snel carrière en wordt nu beloond met topfunctie landmacht",
+     "titel": "Grondtroepen Israël dringen verder door in Gaza, ondanks bestand",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/generaal-laneve-maakte-onder-trump-snel-carriere-en-wordt-nu-beloond-met-topfunctie-landmacht~b79499a2/",
+     "link": "https://www.volkskrant.nl/buitenland/grondtroepen-israel-dringen-verder-door-in-gaza-ondanks-bestand~bd96d2f5/",
      "bron": "de Volkskrant",
-     "tijd": "17:50",
-     "sorteer": "2026-11-18T16:50:00+00:00"
+     "tijd": "05:50",
+     "sorteer": "2026-11-19T04:50:00+00:00"
     },
     {
-     "titel": "Democraten nomineren Hakeem Jeffries als nieuwe voorzitter Huis van Afgevaardigden",
+     "titel": "Chinezen hebben meer met Rusland dan met EU of VS, blijkt bij de Russische bakker in Shenzhen: ‘Chinezen bewonderen Poetin’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
+     "link": "https://www.volkskrant.nl/buitenland/chinezen-hebben-meer-met-rusland-dan-met-eu-of-vs-blijkt-bij-de-russische-bakker-in-shenzhen-chinezen-bewonderen-poetin~b5d313ce/",
      "bron": "de Volkskrant",
-     "tijd": "17:49",
-     "sorteer": "2026-11-18T16:49:00+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-19T04:00:53+00:00"
     },
     {
-     "titel": "EU helpt Oekraïne met extra miljardenlening, maar Europees Parlement wil Russische tegoeden inzetten",
+     "titel": "Verkeer over Krimbrug stilgelegd na nieuwe Oekraïense aanval",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/eu-helpt-oekraine-met-extra-miljardenlening-maar-europees-parlement-wil-russische-tegoeden-inzetten~bc4ff575/",
+     "link": "https://www.trouw.nl/buitenland/live-oorlog-oekraine-verkeer-over-krimbrug-stilgelegd-na-nieuwe-oekraiense-aanval~ba2815bb/",
      "bron": "Trouw",
-     "tijd": "17:50",
-     "sorteer": "2026-11-18T16:50:04+00:00"
+     "tijd": "02:30",
+     "sorteer": "2026-11-19T01:30:00+00:00"
     }
    ]
   },
@@ -177,76 +150,76 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Man moet voet en onderbeen laten amputeren na pedicurebezoek",
-     "context": "Een man uit Den Haag heeft na een pedicurebezoek een deel van zijn linkervoet en rechteronderbeen moeten laten amputeren. Door de behandeling liep hij derdegraadsbrandwonden op. Het slachtoffer stapte naar de rechter en eist een schadevergoeding van de cosmetisch pedicure. De man bezocht de Rotterdamse pedicure in april voor een behandeling van een kalknagel. Tijdens de behandeling werden de voete",
+     "titel": "Post in Gelders buitengebied vaker te laat bezorgd dan in de stad",
+     "context": "Post voor het Gelderse buitengebied komt vaker te laat aan dan post bestemd voor stedelijke adressen in de provincie. Dat blijkt uit onderzoek van Omroep Gelderland . Van de honderd brieven die naar adressen in het buitengebied werden verstuurd, kwamen er twintig te laat aan. De regionale omroep volgde de afgelopen twee maanden met bluetooth-trackers 150 brieven. Daaruit bleek dat het regelmatig m",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640055",
+     "link": "https://nos.nl/l/2640101",
      "bron": "NOS",
-     "tijd": "17:56",
-     "sorteer": "2026-11-18T17:56:55+01:00"
+     "tijd": "07:02",
+     "sorteer": "2026-11-19T07:02:15+01:00"
     },
     {
-     "titel": "Vogelgriep slaat weer hard toe, afgelopen maand 350.000 dieren geruimd",
-     "context": "Vogelgriep waart weer volop rond in Nederland. In nog geen maand tijd is het virus op negen bedrijven vastgesteld en zijn er al meer dan 350.000 kippen en eenden afgemaakt. Het ministerie van Landbouw maakt zich zorgen, hoewel het aantal besmettingen niet uitzonderlijk hoog is vergeleken met andere jaren. Gisteren maakte het ministerie nog bekend dat de ziekte is vastgesteld op een vermeerderings-",
+     "titel": "Rapporteur mensenhandel: waarschuw tegen uitbuiting buitenlandse draagmoeders",
+     "context": "Een kind krijgen via een draagmoeder op duizenden kilometers afstand. Nederlandse wensouders reizen tegenwoordig ook naar landen als Ghana en Georgië om hun kinderwens te vervullen. Maar zo'n traject is niet geheel zonder risico's. Volgens experts ligt uitbuiting van draagmoeders op de loer. Uit onderzoek van Nieuwsuur blijkt dat bij ten minste twee Ghanese klinieken draagmoeders niet zelfstandig ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640052",
+     "link": "https://nos.nl/l/2640099",
      "bron": "NOS",
-     "tijd": "17:35",
-     "sorteer": "2026-11-18T17:35:49+01:00"
+     "tijd": "07:00",
+     "sorteer": "2026-11-19T07:00:01+01:00"
     },
     {
-     "titel": "Ruim duizend Dordtenaren getroffen door privacyfouten gemeente",
-     "context": "De gemeente Dordrecht heeft persoonsgegevens van meer dan duizend inwoners jarenlang onvoldoende beschermd. Dat blijkt uit onderzoek dat de gemeente zelf heeft laten uitvoeren. Volgens de onderzoekers was de verwerking van persoonsgegevens op meerdere punten in strijd met de privacywet. De gemeente verzamelde de gegevens bij de aanpak van overlast, zoals intimidatie, vechtpartijen en beginnend cri",
+     "titel": "Veel minder mannen incontinent na prostaatoperatie vanwege tumor",
+     "context": "Het aantal mannen dat na een prostaatoperatie om een tumor te verwijderen incontinent wordt is in een paar jaar tijd gehalveerd. In 2020 trad de complicatie landelijk gemiddeld bij 30 procent van de patiënten op. Na allerlei aanpassingen in de aanpak daalde het de afgelopen jaren naar gemiddeld 14 procent. Uit onderzoeken tot 2020 bleek dat zo'n 30 procent van de patiënten na de operatie incontine",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640047",
+     "link": "https://nos.nl/l/2640098",
      "bron": "NOS",
-     "tijd": "17:10",
-     "sorteer": "2026-11-18T17:10:33+01:00"
+     "tijd": "06:57",
+     "sorteer": "2026-11-19T06:57:34+01:00"
     },
     {
-     "titel": "FVD'ers actief in neonazistisch netwerk, inclusief kooigevechten",
-     "context": "Mensen in en rond Forum voor Democratie (FVD) hebben banden met een gewelddadig neonazistisch netwerk dat her en der in het land kooigevechten organiseert. Dat blijkt uit een uitzending van onderzoeksprogramma Zembla. Het gaat onder anderen om Ramon van Asch, de FVD-fractievoorzitter in de gemeenteraad van Den Bosch. Hij stond vorig jaar op plaats 13 bij de Tweede Kamerverkiezingen, was tot voor k",
+     "titel": "NRC: medewerkers Nederlandse wapenfabrikant schoten zelf drones af in Oekraïne",
+     "context": "Werknemers van de Nederlandse wapenfabrikant Destinus, die deze week een rol opeiste bij de Oekraïense aanval op de Krimbrug, hebben zelf in Oekraïne op Russische drones gejaagd. Ook hielpen ze het Oekraïense leger bij het afschieten van aanvalsdrones op Rusland, zelfs drie jaar geleden al. Dat meldt NRC na maandenlang onderzoek en gesprekken met ruim veertig betrokkenen. Deskundigen op het gebied",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640044",
+     "link": "https://nos.nl/l/2640095",
      "bron": "NOS",
-     "tijd": "16:59",
-     "sorteer": "2026-11-18T16:59:38+01:00"
+     "tijd": "06:27",
+     "sorteer": "2026-11-19T06:27:52+01:00"
     },
     {
-     "titel": "Volgende week maandag en dinsdag weer stakingen in streekvervoer",
-     "context": "De vakbonden FNV en CNV hebben nieuwe landelijke stakingen voor het streekvervoer aangekondigd omdat de cao-onderhandelingen weer zijn vastgelopen. Maandag en dinsdag leggen medewerkers in het streekvervoer in het hele land het werk neer. Ook in december wordt er gestaakt. Door de stakingen zullen streekbussen, stadsbussen en regionale treinen niet rijden. In Amsterdam, Rotterdam en Den Haag rijde",
+     "titel": "FVD royeert twee leden na Zembla-uitzending over neonazi's en Hitler-verering",
+     "context": "Forum voor Democratie heeft twee leden geroyeerd naar aanleiding van de reportage van Zembla over banden die mensen in en rond de partij onderhouden met een gewelddadig neonazistisch netwerk. Ramon van Asch, FVD-fractievoorzitter in Den Bosch, is op aandringen van de partij opgestapt. Onderzoeksprogramma Zembla heeft ontdekt dat leden van de partij en de jongerentak JFVD deze zomer aanwezig waren ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640043",
-     "bron": "NOS",
-     "tijd": "16:58",
-     "sorteer": "2026-11-18T16:58:36+01:00"
-    },
-    {
-     "titel": "Podcast De Dag: poging twee voor het minderheidsexperiment",
-     "context": "Het minderheidskabinet gaat door na een lang weekend crisisoverleg. Vicepresident van de Raad van State Sybrand Buma moet de drie coalitiepartijen helpen om de samenwerking met de Kamer te verbeteren. Wat is er nodig om de doorstart van het minderheidskabinet Jetten te laten slagen? Luister hier: Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Bevalt het? Vergeet ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640027",
+     "link": "https://nos.nl/l/2640076",
      "bron": "NOS politiek",
-     "tijd": "15:11",
-     "sorteer": "2026-11-18T15:11:28+01:00"
+     "tijd": "20:48",
+     "sorteer": "2026-11-18T20:48:59+01:00"
     },
     {
-     "titel": "Partijprominent Forum voor Democratie was aanwezig bij geheim vechttoernooi van neonazi’s",
+     "titel": "Grote vraag naar thuisbatterijen nu voordelige salderingsregeling eindigt",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/partijprominent-forum-voor-democratie-was-aanwezig-bij-geheim-vechttoernooi-van-neonazi-s~b43d6ec6/",
+     "link": "https://www.volkskrant.nl/binnenland/grote-vraag-naar-thuisbatterijen-nu-voordelige-salderingsregeling-eindigt~bb4b2b51/",
      "bron": "de Volkskrant",
-     "tijd": "17:00",
-     "sorteer": "2026-11-18T16:00:56+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-19T04:00:51+00:00"
     },
     {
-     "titel": "Vrouwen die ‘paranormaal onderzoek’ deden bij kindergraven in Leusden vrijgesproken van grafschennis",
+     "titel": "Aantal hiv-diagnoses stijgt voor vierde jaar op rij, zorgen over toename bij jongeren",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/vrouwen-die-paranormaal-onderzoek-deden-bij-kindergraven-in-leusden-vrijgesproken-van-grafschennis~bee22347b/",
+     "link": "https://www.volkskrant.nl/binnenland/aantal-hiv-diagnoses-stijgt-voor-vierde-jaar-op-rij-zorgen-over-toename-bij-jongeren~b8ef0a93/",
      "bron": "de Volkskrant",
-     "tijd": "15:56",
-     "sorteer": "2026-11-18T14:56:43+00:00"
+     "tijd": "00:01",
+     "sorteer": "2026-11-18T23:01:41+00:00"
+    },
+    {
+     "titel": "PRO wordt grootste partij bij verkiezingen Hilversum",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.trouw.nl/binnenland/pro-wordt-grootste-partij-bij-verkiezingen-hilversum~b97de09c/",
+     "bron": "Trouw",
+     "tijd": "06:52",
+     "sorteer": "2026-11-19T05:52:47+00:00"
     }
    ]
   },
@@ -255,6 +228,33 @@
    "titel": "Zwolle en omgeving",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Voor dag en dauw uit bed voor zeventiende-eeuwse liederen: deze scholieren vinden het ‘supervet’",
+     "context": "Terwijl leeftijdsgenoten nog liggen te slapen, staan ruim honderd scholieren in Zwolle voor dag en dauw op. Hun doel: zeventiende-eeuwse barokmuziek instuderen. En ze vinden het nog supervet ook.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/voor-dag-en-dauw-uit-bed-voor-zeventiende-eeuwse-liederen-deze-scholieren-vinden-het-supervet~a5b3304d/",
+     "bron": "de Stentor",
+     "tijd": "20:00",
+     "sorteer": "2026-11-18T19:00:27+00:00"
+    },
+    {
+     "titel": "Na zijn doelpunt stormt iedereen op Melvin (26) af: ‘Ik kreeg altijd veel appjes met de vraag hoe het ging’",
+     "context": "Eerst is er een oerkreet. Daarna wordt hij bestormd door al zijn teamgenoten. De ontlading is zaterdag groot na de prachtige vrije trap die voetballer Melvin Hofstede binnen knalt namens Wilsum. Met een goede reden.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/amateurvoetbal/na-zijn-doelpunt-stormt-iedereen-op-melvin-26-af-ik-kreeg-altijd-veel-appjes-met-de-vraag-hoe-het-ging~a6277315/",
+     "bron": "de Stentor",
+     "tijd": "20:00",
+     "sorteer": "2026-11-18T19:00:00+00:00"
+    },
+    {
+     "titel": "Bert (74) praat over de setting voor zijn uitvaart en zegt: ‘Ik krijg er gewoon zin in’",
+     "context": "Als Bert Jonker (74) enkele maanden voor zijn dood de uitvaartwensen bespreekt, zegt hij: „Ik krijg er gewoon zin in.” De eigenzinnige en bekende restaurator wilde dat alles zou kloppen. Op zijn manier. „Hij had een hekel aan middelmatigheid.”",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/in-herinnering-zwolle/bert-74-praat-over-de-setting-voor-zijn-uitvaart-en-zegt-ik-krijg-er-gewoon-zin-in~a32f1f8a/",
+     "bron": "de Stentor",
+     "tijd": "18:00",
+     "sorteer": "2026-11-18T17:00:00+00:00"
+    },
     {
      "titel": "Dj Jorien Renkema uit Hardenberg presenteert iconische Top 2000",
      "context": "Jorien Renkema (36) uit Hardenberg is een van de dj’s die tussen kerst en oud en nieuw de iconische Top 2000 presenteren. NPO Radio 2 maakte dat vandaag bekend.",
@@ -272,33 +272,6 @@
      "bron": "de Stentor",
      "tijd": "15:07",
      "sorteer": "2026-11-18T14:07:32+00:00"
-    },
-    {
-     "titel": "Windmolens tussen Hasselt en Zwolle: vrijdag wordt bekend waar ze komen te staan",
-     "context": "Het bleef lang een goed bewaard geheim: waar tussen Hasselt en Zwolle vijf windmolens komen te staan. Vrijdag maakt de provincie Overijssel bekend welke locatie de grootste kans maakt. Zeker is die plek nog niet.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwartewaterland/windmolens-tussen-hasselt-en-zwolle-vrijdag-wordt-bekend-waar-ze-komen-te-staan~a6a7a5ef/",
-     "bron": "de Stentor",
-     "tijd": "13:00",
-     "sorteer": "2026-11-18T12:00:00+00:00"
-    },
-    {
-     "titel": "Schuld van failliete huisartsenketen Co-Med is opgelopen tot ruim 11 miljoen euro",
-     "context": "De schuld van de failliete huisartsenketen Co-Med is opgelopen tot ruim 11 miljoen euro. Onderzoekers hebben oud-bestuurders aan de tand gevoeld. Het onderzoek naar de oorzaak van het faillissement is nog altijd in volle gang.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/schuld-van-failliete-huisartsenketen-co-med-is-opgelopen-tot-ruim-11-miljoen-euro~ac0c71d1/",
-     "bron": "de Stentor",
-     "tijd": "12:40",
-     "sorteer": "2026-11-18T11:40:08+00:00"
-    },
-    {
-     "titel": "Dansers, merknaam en trofeeën weg: eigenaren en dansdocenten tegenover elkaar in rechtbank",
-     "context": "Ze werkten jaren samen en hadden het over een overname. Inzet: de activiteiten van de dansschool in Tuk en de merknaam Eyecatcher. Maar in de zomer komt er een flinke kink in de kabel en nu zitten twee stellen tegenover elkaar in de rechtbank.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/steenwijkerland/dansers-merknaam-en-trofeeen-weg-eigenaren-en-dansdocenten-tegenover-elkaar-in-rechtbank~a1274e4b/",
-     "bron": "de Stentor",
-     "tijd": "12:15",
-     "sorteer": "2026-11-18T11:15:43+00:00"
     },
     {
      "titel": "Ronald McDonald Huis Zwolle krijgt bijna 45.000 euro cadeau",
@@ -368,38 +341,6 @@
    "emoji": "🏛️",
    "items": [
     {
-     "titel": "Begroting Asiel en Migratie 1e TK",
-     "bron": "Plenair debat (wetgeving)",
-     "kop": "Komende week",
-     "tijd": "woensdag 18/11 10:15",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05414",
-     "sorteer": "2026-11-18T10:15"
-    },
-    {
-     "titel": "Tweeminutendebat Openbaar vervoer en taxi (CD 13/10)",
-     "bron": "Plenair debat (tweeminutendebat)",
-     "kop": "Komende week",
-     "tijd": "woensdag 18/11 16:10",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07644",
-     "sorteer": "2026-11-18T16:10"
-    },
-    {
-     "titel": "Begroting Buitenlandse Zaken (2e termijn)",
-     "bron": "Plenair debat (wetgeving)",
-     "kop": "Komende week",
-     "tijd": "woensdag 18/11 16:30",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08373",
-     "sorteer": "2026-11-18T16:30"
-    },
-    {
-     "titel": "Debat over de verslechterende veiligheidssituatie in de wereld",
-     "bron": "Plenair debat (debat)",
-     "kop": "Komende week",
-     "tijd": "woensdag 18/11 19:15",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06852",
-     "sorteer": "2026-11-18T19:15"
-    },
-    {
      "titel": "Tweeminutendebat Landbouw- en Visserijraad d.d. 23 en 24 november 2026 (2026Z25482)",
      "bron": "Plenair debat (tweeminutendebat)",
      "kop": "Komende week",
@@ -430,6 +371,38 @@
      "tijd": "maandag 23/11 10:00",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07055",
      "sorteer": "2026-11-23T10:00"
+    },
+    {
+     "titel": "Villa Expertcare/Medische kindzorg",
+     "bron": "Commissiedebat",
+     "kop": "Komende week",
+     "tijd": "woensdag 25/11 14:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08353",
+     "sorteer": "2026-11-25T14:00"
+    },
+    {
+     "titel": "Incidentele suppletoire begroting Defensie",
+     "bron": "Wetgevingsoverleg",
+     "kop": "Komende week",
+     "tijd": "woensdag 25/11 14:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08265",
+     "sorteer": "2026-11-25T14:00"
+    },
+    {
+     "titel": "Staat van de infrastructuur",
+     "bron": "Rondetafelgesprek",
+     "kop": "Komende week",
+     "tijd": "woensdag 25/11 14:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08247",
+     "sorteer": "2026-11-25T14:00"
+    },
+    {
+     "titel": "Begrotingsproces",
+     "bron": "Commissiedebat",
+     "kop": "Komende week",
+     "tijd": "woensdag 25/11 14:00",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05374",
+     "sorteer": "2026-11-25T14:00"
     }
    ]
   },
@@ -439,7 +412,7 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "18:00",
+    "bijgewerkt": "07:09",
     "uitslagen": [],
     "stand": [
      {
@@ -596,20 +569,12 @@
    "emoji": "🌿",
    "items": [
     {
-     "titel": "Natuurjournaal 18 november 2026",
-     "toelichting": "Kolgans algemene overwinteraar in Nederland en met roodhalsgans een (on)opvallende vreemde gans in de bijt.",
+     "titel": "Natuurjournaal 19 november 2026",
+     "toelichting": "Het weer: een beetje neerslag met sombere honingzwammen. Sombere dartelwantsen overwinteren als adult.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36080",
-     "sorteer": "2026-11-18T05:45:00+00:00"
-    },
-    {
-     "titel": "Veel lege nood-beukennootjes door hittestress",
-     "toelichting": "Hoewel het herfstbos nog veelkleurig is, draagt de beuk daar dit najaar minder aan bij. Veel beuken hebben hun bladeren al voortijdig laten vallen en extra veel beukennootjes geproduceerd. Maar deze noodnootjes blijken v",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36073",
-     "sorteer": "2026-11-18T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36074",
+     "sorteer": "2026-11-19T05:45:00+00:00"
     },
     {
      "titel": "Zeldzame vleesetende paddenstoel ontdekt op Vlieland",
@@ -618,6 +583,21 @@
      "tijd": "10:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36072",
      "sorteer": "2026-11-18T09:00:00+00:00"
+    },
+    {
+     "titel": "Burgerwetenschap rond het water staat centraal op de Waterdag",
+     "toelichting": "Hoe schoon is het water in de stad? Hoe gaat het met het leven in en rondom het water? En hoe onderzoek je dat (zelf)? Dat zijn belangrijke vragen. De Nederlandse waterkwaliteit laat wel wat te wensen over en verdient du",
+     "bron": "Nature Today",
+     "tijd": "14:30",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36083",
+     "sorteer": "2026-11-18T13:30:00+00:00"
+    },
+    {
+     "titel": "Brutale eekhoorns hebben de halve wereld",
+     "toelichting": "Wie niet waagt, wie niet wint geldt ook voor eekhoorns. En dat komt goed van pas bij de zoektocht naar voedsel. Wij mensen nemen steeds meer ruimte in en wilde dieren moeten zich maar zien aan te passen. Hoe goed dat luk",
+     "bron": "Scientias",
+     "tijd": "19:00",
+     "link": "https://scientias.nl/brutale-eekhoorns-hebben-de-halve-wereld/"
     }
    ]
   },
@@ -627,40 +607,40 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 7.0,
-    "gevoel": 5.0,
-    "wind": "WZW 2",
+    "nu": 8.1,
+    "gevoel": 7.4,
+    "wind": "ZZO 1",
     "station": "Heino",
-    "bericht": "Het is een komen en gaan van regengebieden, dus de paraplu is de komende dagen vaak nodig. Koud is het niet, vannacht is het een graad of 7 en morgen wordt het regionaal 12 graden. In het weekend wordt het droog, maar in de nachten krijgen we mist en vorst.Vanavond trekken vooral over een strook van west naar oost over het midden van het land buien.",
-    "vandaag": "Vanavond trekken vooral over een strook van west naar oost over het midden van het land buien. Vannacht krijgt eerst vooral het noorden met buien te maken.",
-    "temperatuur": "De middagtemperatuur varieert van 7 graden in Groningen tot 11 of 12 graden langs de westkust en in het zuiden.",
+    "bericht": "Een lagedrukgebied trekt vandaag over ons land naar het oosten en brengt flinke verschillen in het weer tussen het noorden het zuiden. Vrij nat lijkt het evenwel overal te worden en het wordt 7 tot 12 graden. Vanochtend trekt een gebied met regen geleidelijk naar het noorden.",
+    "vandaag": "Een lagedrukgebied trekt vandaag over ons land naar het oosten en brengt flinke verschillen in het weer tussen het noorden het zuiden. Vanochtend trekt een gebied met regen geleidelijk naar het noorden.",
+    "temperatuur": "Vrij nat lijkt het evenwel overal te worden en het wordt 7 tot 12 graden.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: motregen, 6 tot 10 graden, 100% kans op neerslag, ruim 5 uur zon, wind uit het westen, kracht 5.",
+     "zin": "Voor Zwolle zelf: regen, 4 tot 10 graden, 100% kans op neerslag, wind uit het zuidoosten, kracht 4.",
      "max": 10,
-     "min": 6,
+     "min": 4,
      "regenkans": 100,
-     "omschrijving": "motregen"
+     "omschrijving": "regen"
     },
-    "vooruit": "Eerst nog bewolkt en af en toe regen. Gedurende het weekeinde overwegend droog, met meer ruimte voor de zon en een toenemende kans op lichte nachtvorst. De maximumtemperatuur ligt aanvankelijk rond het langjarig gemiddelde, maar dalen vervolgens tot beneden het langjarig gemiddelde.",
-    "omslag": "Nachtvorst in aantocht: zondag tot 0 graden.",
-    "min": "8",
+    "vooruit": "In de nachten en ochtenden is er kans op mist en lichte nachtvorst. Verder blijft het droog en is er af en toe ruimte voor de zon. De maximumtemperatuur ligt beneden het langjarig gemiddelde.",
+    "omslag": "Vanaf morgen droog: de regenkans zakt van 100% naar 30%.",
+    "min": "5",
     "max": "10",
     "regenkans": 100,
     "zonkans": 0,
     "omschrijving": "Zwaar bewolkt en regen",
     "morgen": {
-     "omschrijving": "Zwaar bewolkt en regen",
-     "min": "5",
-     "max": "11",
-     "regenkans": 100
+     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
+     "min": "2",
+     "max": "8",
+     "regenkans": 30
     }
    }
   }
  ],
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
-  "blokken": 8,
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "07:09",
+  "blokken": 7,
   "berichten": 36,
   "problemen": []
  }
