@@ -1,5 +1,5 @@
 {
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "datum": "2026-11-21",
  "blokken": [
   {
@@ -80,6 +80,24 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Gaat een unieke gebeurtenis hoog boven de polen ons winterweer bezorgen?",
+     "context": "De wetenschappelijke wereld kijkt met grote interesse naar de poolwervel die eind vorige week is ingestort . Deze ijskoude, onzichtbare draaikolk van lucht van een paar duizend kilometer doorsnee ontstaat elke winter boven het Noordpoolgebied en valt af en toe uit elkaar. Maar zo vroeg als het nu gebeurt, is nog nooit waargenomen. Uniek en opmerkelijk, vinden wetenschappers wereldwijd. Het kan bov",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640403",
+     "bron": "NOS",
+     "tijd": "11:30",
+     "sorteer": "2026-11-21T11:30:04+01:00"
+    },
+    {
+     "titel": "'Internationaal Strafhof dreigt lege huls te worden door concessies aan VS'",
+     "context": "Experts maken zich zorgen over de toekomst van het internationaal recht als de Verenigde Staten concessies weten af te dwingen bij het Internationaal Strafhof ICC. \"Als je toegeeft, reduceer je het ICC tot een lege huls\", waarschuwt Iva Vukusic, historicus en genocide-deskundige aan de Universiteit Utrecht. \"De Amerikaanse eisen zijn totaal niet legitiem.\" De laatste dagen wordt er druk gespeculee",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640368",
+     "bron": "NOS",
+     "tijd": "07:00",
+     "sorteer": "2026-11-21T07:00:37+01:00"
+    },
+    {
      "titel": "Man schuldig bevonden aan verwoestende bosbranden Los Angeles",
      "context": "In de Verenigde Staten is een man door een rechtbankjury schuldig bevonden aan het aansteken van wat uiteindelijk een van de meest verwoestende bosbranden in de geschiedenis van Californië zou worden. Bij de brand, die wekenlang niet de blussen was , kwamen vorig jaar twaalf mensen om het leven. Complete wijken in Los Angeles en Malibu werden verwoest, bijna 7000 gebouwen brandden af. De 30-jarige",
      "rubrieken": [],
@@ -98,31 +116,13 @@
      "sorteer": "2026-11-21T01:08:02+01:00"
     },
     {
-     "titel": "Franse senaat keurt wet goed die schietende politieagenten beschermt",
-     "context": "De Franse senaat heeft een wet goedgekeurd die politieagenten automatisch beschermt nadat zij hun vuurwapen hebben gebruikt. Het uitgangspunt in de nieuwe wet is dat agenten binnen de wettelijke kaders hebben gehandeld wanneer zij hun wapen trekken. Minister Nuñez van Binnenlandse Zaken zegt dat de wet nodig is om te voorkomen dat \"het veeleisende werk van de veiligheidsdiensten in twijfel wordt g",
+     "titel": "Gelekt overheids­rapport VS: training ICE-immigratie­agenten ‘catastrofale mislukking’",
+     "context": "",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640354",
-     "bron": "NOS",
-     "tijd": "23:05",
-     "sorteer": "2026-11-20T23:05:32+01:00"
-    },
-    {
-     "titel": "Oud-president Bolsonaro van Brazilië weer in het ziekenhuis",
-     "context": "Oud-president Bolsonaro van Brazilië is met ernstige pijn in zijn buik opgenomen in een ziekenhuis in Brasilia. Zijn zoon Carlos heeft dat bekendgemaakt op X . De 71-jarige oud-president heeft huisarrest. Vorig jaar september werd hij veroordeeld tot 27 jaar cel, omdat hij probeerde een staatsgreep te plegen nadat hij de presidentsverkiezingen van 2022 had verloren van zijn tegenstander Lula. Vanw",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640351",
-     "bron": "NOS",
-     "tijd": "22:55",
-     "sorteer": "2026-11-20T22:55:27+01:00"
-    },
-    {
-     "titel": "Denemarken zet Russische gezant uit na verijdelde aanslag op Oekraïense rapper",
-     "context": "De Deense inlichtingendienst PET verdenkt Rusland ervan dat het een criminele organisatie in Denemarken in de arm heeft genomen om een bekende Oekraïense rapper op Deens grondgebied te liquideren. Vanwege de kwestie zet Denemarken de defensieattaché op de Russische ambassade in Kopenhagen het land uit. De man krijgt van de Deense autoriteiten zeven dagen om het land te verlaten, zei minister Rasmu",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640346",
-     "bron": "NOS",
-     "tijd": "22:05",
-     "sorteer": "2026-11-20T22:05:09+01:00"
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
+     "bron": "de Volkskrant",
+     "tijd": "08:37",
+     "sorteer": "2026-11-21T07:37:00+00:00"
     },
     {
      "titel": "Tussen Iran en de VS geldt ‘geen vrede, geen oorlog’, maar dat kan snel omslaan",
@@ -132,15 +132,6 @@
      "bron": "de Volkskrant",
      "tijd": "05:00",
      "sorteer": "2026-11-21T04:00:49+00:00"
-    },
-    {
-     "titel": "Wat betekent de uitspraak over de genocide op de Rohingya in Myanmar voor de zaak tegen Israël?",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/wat-betekent-de-uitspraak-over-de-genocide-op-de-rohingya-in-myanmar-voor-de-zaak-tegen-israel~b4d328da6/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-21T04:00:48+00:00"
     },
     {
      "titel": "Na 167 jaar velt AI het oordeel: de wiskundige Riemann had gelijk",
@@ -159,49 +150,40 @@
    "emoji": "🇳🇱",
    "items": [
     {
+     "titel": "Universiteit Leiden stopt samenwerking met Chinese universiteit na zorgen over lekken data",
+     "context": "De Universiteit Leiden heeft besloten een geplande samenwerking met de Chinese universiteit Xi'an Jiaotong niet door te laten gaan , na kritiek van het eigen personeel en zorgen over het lekken van gevoelige informatie naar de Chinese overheid. NRC meldde afgelopen week dat het plan van de Leidse universiteit om jaarlijks 200 Chinese studenten in Leiden te laten deelnemen aan de studierichtingen w",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640396",
+     "bron": "NOS",
+     "tijd": "10:20",
+     "sorteer": "2026-11-21T10:20:23+01:00"
+    },
+    {
+     "titel": "Grote politieactie bij motorclub in Rijswijk, leden verdacht van wapenhandel",
+     "context": "In Rijswijk heeft gisteravond een grote politieactie plaatsgevonden. De politie viel daar een pand binnen van motorclub Brotherhood Somos Calle. Meerdere leden van de motorclub worden verdacht van handel in vuurwapens. De handel zou onder meer plaatsvinden in het pand waar de motorclub is gevestigd, zegt de politie. Bij de inval zijn onder meer gegevensdragers en een vuurwapen in beslag genomen. E",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640394",
+     "bron": "NOS",
+     "tijd": "10:07",
+     "sorteer": "2026-11-21T10:07:46+01:00"
+    },
+    {
+     "titel": "Podcast De Dag: buitenlandse draagmoeders, de wereld achter de reclames",
+     "context": "Met getuigenissen van gelukkige wensouders met een baby op de arm, en vrolijke filmpjes van zwangere vrouwen, bieden verschillende internationale bureaus buitenlandse draagmoeders aan bij wensouders. En die zogenoemde buitenlandroute is voor veel wensouders interessant, omdat het in eigen land vaak ingewikkeld is. Deze aflevering van De Dag luister je via NPO Luister en alle andere podcastapps. Be",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640366",
+     "bron": "NOS",
+     "tijd": "07:00",
+     "sorteer": "2026-11-21T07:00:01+01:00"
+    },
+    {
      "titel": "Eerste tweetalige verkeersbord in Friesland: uit en út",
-     "context": "Voor het eerst heeft Friesland een tweetalig verkeersbord langs de provinciale weg. Gisteren is de eerste vervangen, behalve 'uit' staat er nu ook 'út'. Het nieuwe bord staat langs de N356 bij De Westereen in de gemeente Dantumadiel. Het is de bedoeling dat alle verkeersborden in Friesland tweetalig worden. Als eerste worden 33 uit-borden vervangen langs provinciale wegen. Provinciebestuurder Eke ",
+     "context": "Voor het eerst heeft Friesland een tweetalig verkeersbord langs de provinciale weg. Gisteren is het eerste bord vervangen, behalve 'uit' staat er nu ook 'út'. Het nieuwe bord staat langs de N356 bij De Westereen in de gemeente Dantumadiel. Het is de bedoeling dat alle verkeersborden in Friesland tweetalig worden. Als eerste worden 33 uit-borden vervangen langs provinciale wegen. Provinciebestuurde",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640361",
      "bron": "NOS",
      "tijd": "05:13",
      "sorteer": "2026-11-21T05:13:01+01:00"
-    },
-    {
-     "titel": "Brand in basisschool Deurne door vuurwerk",
-     "context": "Op een basisschool in het Brabantse dorp Deurne is vrijdagavond brand ontstaan. De politie gaat ervanuit dat de brand is ontstaan door vuurwerk. Twee leslokalen en de aula zijn uitgebrand, meldt de veiligheidsregio. Er is niemand gewond geraakt. De politie vermoedt dat het vuurwerk is afgestoken door twee kinderen. Ze zijn onder de twaalf jaar oud en daarom niet strafrechtelijk vervolgbaar, meldt ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640357",
-     "bron": "NOS",
-     "tijd": "23:41",
-     "sorteer": "2026-11-20T23:41:41+01:00"
-    },
-    {
-     "titel": "45 kinderpornobezitters krijgen waarschuwing van de politie",
-     "context": "45 mensen hebben deze week bezoek van de politie gekregen om ze te waarschuwen om te stoppen met het downloaden of verspreiden van beeldmateriaal van seksueel misbruik van kinderen. Dat gebeurde in het kader van een landelijke actieweek. Ze zijn ook gewezen op de organisatie Offlimits , die hulp kan bieden om hiermee te stoppen. Deze organisatie biedt via de telefoon en chat anoniem, vertrouwelijk",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640339",
-     "bron": "NOS",
-     "tijd": "20:38",
-     "sorteer": "2026-11-20T20:38:35+01:00"
-    },
-    {
-     "titel": "NVWA haalt 200 runderen weg bij veehouder in Brabant",
-     "context": "De Nederlandse Voedsel- en Warenautoriteit (NVWA) heeft 200 runderen weggehaald bij een veehouder in Noord-Brabant. De dieren stonden in een stal waar ze zich konden verwonden en kregen volgens de NVWA niet de zorg die ze nodig hadden. Ze zijn naar een opvanglocatie gebracht. Bij een controle zagen inspecteurs dat de vloer van de stal was verzakt. Daardoor konden de runderen met hun poten tussen d",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640324",
-     "bron": "NOS",
-     "tijd": "18:47",
-     "sorteer": "2026-11-20T18:47:02+01:00"
-    },
-    {
-     "titel": "Jason Bhugwandass (28) overleden, streed tegen misstanden in jeugdzorg",
-     "context": "Jason Bhugwandass is overleden op 28-jarige leeftijd. Hij werd bekend door zijn strijd tegen misstanden in de jeugdzorg. Jason had al enige tijd ernstige gezondheidsklachten en overleed vandaag, staat op zijn Instagram-account . Afgelopen week maakte hij met Stichting Ambulance Wens nog foto's op het strand met zijn familie en vrienden. \"Ik kon in dit leven, met deze ervaringen en deze aandoeninge",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640323",
-     "bron": "NOS",
-     "tijd": "18:41",
-     "sorteer": "2026-11-20T18:41:38+01:00"
     },
     {
      "titel": "Ondanks belofte hebben nog niet alle zorgvilla-kinderen een nieuwe plek",
@@ -213,22 +195,22 @@
      "sorteer": "2026-11-20T19:27:14+01:00"
     },
     {
+     "titel": "FvD royeert leden na uitzending ‘Zembla’, maar intussen strooien andere met likes en hartjes onder nazicontent",
+     "context": "",
+     "rubrieken": [],
+     "link": "https://www.volkskrant.nl/binnenland/fvd-royeert-leden-na-uitzending-zembla-maar-intussen-strooien-andere-met-likes-en-hartjes-onder-nazicontent~b46dfefe/",
+     "bron": "de Volkskrant",
+     "tijd": "05:00",
+     "sorteer": "2026-11-21T04:00:00+00:00"
+    },
+    {
      "titel": "Overlijden Jason Bhugwandass raakt velen in het hart: ‘Laten we naar elkaar omkijken zoals Jason dat als geen ander kon’",
      "context": "",
      "rubrieken": [],
      "link": "https://www.volkskrant.nl/binnenland/overlijden-jason-bhugwandass-raakt-velen-in-het-hart-laten-we-naar-elkaar-omkijken-zoals-jason-dat-als-geen-ander-kon~b153652d/",
      "bron": "de Volkskrant",
      "tijd": "05:00",
-     "sorteer": "2026-11-21T04:00:48+00:00"
-    },
-    {
-     "titel": "Forum royeert leden na onthullingen Zembla, maar intussen strooien andere met likes en hartjes onder nazi-content: ‘Deze partij is door en door extreemrechts’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/forum-royeert-leden-na-onthullingen-zembla-maar-intussen-strooien-andere-met-likes-en-hartjes-onder-nazi-content-deze-partij-is-door-en-door-extreemrechts~b46dfefe/",
-     "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-21T04:00:47+00:00"
+     "sorteer": "2026-11-21T04:00:00+00:00"
     },
     {
      "titel": "De angst om stiekem op straat gefilmd te worden. ‘Mijn korte rokje wisselde ik om voor een broek’",
@@ -246,6 +228,33 @@
    "titel": "Zwolle en omgeving",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "De Zwolse favorieten van Heleen: ‘Dit is mijn plek voor all-you-can-eat’",
+     "context": "Heleen (40) woont al achttien jaar in Zwolle. Ze is getrouwd en heeft twee kinderen. Ze is gék op theater en musicals en droomt er stiekem van om ooit musicalacteur te worden. Dit zijn haar favoriete plekken in Zwolle!",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/de-zwolse-favorieten-van-heleen-dit-is-mijn-plek-voor-all-you-can-eat~a0fb7c8a/",
+     "bron": "de Stentor",
+     "tijd": "09:00",
+     "sorteer": "2026-11-21T08:00:50+00:00"
+    },
+    {
+     "titel": "Ooit een talent bij PEC Zwolle, nu speelt hij via omweg toch in de eredivisie: ‘De trainer is een soort mentor’",
+     "context": "Hij dacht aan stoppen. Na twee zware blessures, een veelbesproken incident en een jaar zonder club twijfelde Gabi Caschili (23) over zijn toekomst als voetballer. Maar kijk nu eens. Als speler van Telstar loopt hij nu toch rond in de eredivisie en vertelt hij over zijn opvallende carrièrepad.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/pec-zwolle/ooit-een-talent-bij-pec-zwolle-nu-speelt-hij-via-omweg-toch-in-de-eredivisie-de-trainer-is-een-soort-mentor~ad0ee8b1/",
+     "bron": "de Stentor",
+     "tijd": "07:30",
+     "sorteer": "2026-11-21T06:30:39+00:00"
+    },
+    {
+     "titel": "Vijf bedrijven krijgen geen grip op Zwols deelvervoer, Lime lijkt op de goede weg",
+     "context": "Fietsen gingen de gracht in, scooters eindigden geregeld in de bosjes. Vijf bedrijven beten hun tanden stuk op deelvervoer in Zwolle. Maar de fietsen van Lime lijken nu wel in trek. Is dat ook echt zo? En hoe kan dat dan?",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/vijf-bedrijven-krijgen-geen-grip-op-zwols-deelvervoer-lime-lijkt-op-de-goede-weg~ad6ed969/",
+     "bron": "de Stentor",
+     "tijd": "07:00",
+     "sorteer": "2026-11-21T06:00:23+00:00"
+    },
     {
      "titel": "Van luchtgitaar naar groot podium: Nio (14) bewijst dat deze muziek niet meer voor ‘mannen met grijs haar’ is",
      "context": "Blues alleen iets voor oude mannen? Vergeet het maar. Op het Zwolse festival Blues & More staan zondag opvallend jonge muzikanten uit binnen- en buitenland op het podium. De jongste van het stel woont het dichtst bij. „Ik denk dat hij een hele grote jongen gaat worden.”",
@@ -265,31 +274,32 @@
      "sorteer": "2026-11-20T17:51:00+00:00"
     },
     {
-     "titel": "Jeugdzorg in Zwolle: 8 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 64 miljoen euro uit",
-     "context": "Van alle kinderen en jongeren tot 23 jaar in Zwolle kreeg in de eerste helft van dit jaar 8 procent jeugdzorg, blijkt uit nieuwe cijfers van het CBS. Het gaat om 2850 kinderen en jongeren. Vorig jaar gaf de gemeente volgens haar jaarrekening minstens 64 miljoen euro uit aan jeugdzorg.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/jeugdzorg-in-zwolle-8-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-64-miljoen-euro-uit~a304333b/",
-     "bron": "de Stentor",
-     "tijd": "17:29",
-     "sorteer": "2026-11-20T16:29:00+00:00"
+     "titel": "Blauwe Echo’s #5: Verlanglijstje",
+     "context": "Vandaag laat Gertrüd Reinink haar vijfde Blauwe Echo in haar gelijknamige rubriek weerklinken. Als negende Stadsdichter van Zwolle vangt ze in woorden wat haar opvalt, ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Blauwe Echo's",
+      "Gertrüd Reinink",
+      "Hattem",
+      "Kampen",
+      "Zwartewaterland",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/216651/blauwe-echos-5-verlanglijstje.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "11:03",
+     "sorteer": "2026-11-21T10:03:00+00:00"
     },
     {
-     "titel": "De debuterende trainer van PEC Zwolle is vol lof: ‘Het is niet mijn show, het is onze show’",
-     "context": "Alex Pastoor staat voor zijn debuut bij PEC Zwolle. In aanloop naar zijn eerste competitiewedstrijd beantwoordt de 60-jarige coach vier vragen en deelt hij complimenten uit aan van alles en nog wat.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/pec-zwolle/de-debuterende-trainer-van-pec-zwolle-is-vol-lof-het-is-niet-mijn-show-het-is-onze-show~ab2b5e3e/",
-     "bron": "de Stentor",
-     "tijd": "17:00",
-     "sorteer": "2026-11-20T16:00:00+00:00"
-    },
-    {
-     "titel": "Drugslabzaak rond Zwolse vastgoedbaas werpt schaduw over Deventer horeca",
-     "context": "De strafeis van zeven jaar tegen de Zwolse vastgoedmagnaat L. werkt door in de Deventer horeca. Volgens brouwerij AB InBev is dat een belangrijke reden voor de geweigerde vergunningen voor ondernemer Cees Meekers (62).",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/deventer/drugslabzaak-rond-zwolse-vastgoedbaas-werpt-schaduw-over-deventer-horeca~ae95c90e/",
-     "bron": "de Stentor",
-     "tijd": "15:26",
-     "sorteer": "2026-11-20T14:26:00+00:00"
+     "titel": "Kampen kleurt oranje voor strijd tegen vrouwengeweld",
+     "context": "De Stadsbrug en de Nieuwe Toren in Kampen kleuren vanaf 25 november oranje. Met de internationale campagne Orange the World vraagt de gemeente aandacht voor ... Lees meer",
+     "rubrieken": [
+      "Algemeen"
+     ],
+     "link": "https://1zwolle.nl/nieuws/216620/kampen-kleurt-oranje-voor-strijd-tegen-vrouwengeweld.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "09:04",
+     "sorteer": "2026-11-21T08:04:00+00:00"
     },
     {
      "titel": "Livemuziek in winkels, kroegjes en musea: dit was Popronde 2026.",
@@ -323,28 +333,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "19:09",
      "sorteer": "2026-11-20T18:09:00+00:00"
-    },
-    {
-     "titel": "‘Goed goan en wear komm’n’. Podcast over Nedersaksen keert terug",
-     "context": "Albert Bartelds en Hendrik Jan Bökkers maakten al bijna zestig afleveringen over de Nedersaksen, er daar komen binnenkort weer een aantal nieuwe episodes bij. Vanaf ... Lees meer",
-     "rubrieken": [
-      "Algemeen"
-     ],
-     "link": "https://1zwolle.nl/nieuws/216718/goed-goan-en-wear-kommn-podcast-over-nedersaksen-keert-terug.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "14:05",
-     "sorteer": "2026-11-20T13:05:51+00:00"
-    },
-    {
-     "titel": "Scholier aangereden door vrachtwagen, politie zoekt bestuurder",
-     "context": "Op de Ceintuurbaan, ter hoogte van de Meppelerstraatweg, is een scholier aangereden door een vrachtwagen. De vrachtwagen draaide in de buurt van de Mcdonald’s de ... Lees meer",
-     "rubrieken": [
-      "112"
-     ],
-     "link": "https://1zwolle.nl/nieuws/216719/scholier-aangereden-door-vrachtwagen.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "13:41",
-     "sorteer": "2026-11-20T12:41:46+00:00"
     }
    ]
   },
@@ -425,7 +413,7 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "07:00",
+    "bijgewerkt": "12:30",
     "uitslagen": [
      {
       "thuis": "NEC",
@@ -636,14 +624,6 @@
      "sorteer": "2026-11-21T05:45:00+00:00"
     },
     {
-     "titel": "Nieuwe bakenbomen langs de Maas",
-     "toelichting": "De historische bakenbomenstructuur langs de Maas tussen Boxmeer en Geertruidenberg blijft behouden voor toekomstige generaties. Het Rijk, provincies Noord-Brabant, Gelderland, Limburg en veertien gemeenten langs de Maas ",
-     "bron": "Nature Today",
-     "tijd": "10:30",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36087",
-     "sorteer": "2026-11-20T09:30:00+00:00"
-    },
-    {
      "titel": "KANO gaat internationaal",
      "toelichting": "KANO is een quickscan die kansen voor natuurgebieden en omliggend landschap in beeld brengt en onderwerpen inventariseert die bijdragen aan de verbetering van de algehele natuurkwaliteit. Na de lancering in 2022 is KANO ",
      "bron": "Nature Today",
@@ -652,18 +632,19 @@
      "sorteer": "2026-11-21T06:00:00+00:00"
     },
     {
+     "titel": "Weten dat natuur verdwijnt is iets anders dan voelen wat we verloren zijn",
+     "toelichting": "Ik kan blij worden van een paar vlinders in mijn tuin. Van een bloemrijke berm ook. Toen las ik hoe Jac. P. Thijsse ruim een eeuw geleden een Nederlands weiland beschreef: dotterbloemen zover je keek, orchideeën tussen h",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36086",
+     "sorteer": "2026-11-21T11:00:00+00:00"
+    },
+    {
      "titel": "Kan zuurstofarme lucht bijenvolken beschermen tegen de dodelijke varroamijt?",
      "toelichting": "De varroamijt is voor honingbijen wereldwijd de grootste plaag, maar op de Tibetaanse hoogvlakte loopt de parasiet tegen zijn grens aan. Bijenvolken die naar ruim 3600 meter hoogte werden verhuisd, waren binnen een jaar ",
      "bron": "Scientias",
      "tijd": "19:00",
      "link": "https://scientias.nl/kan-zuurstofarme-lucht-bijenvolken-beschermen-tegen-de-dodelijke-varroamijt/"
-    },
-    {
-     "titel": "Aseksueel voortplanten: kelpen doen het bij gebrek aan een partner",
-     "toelichting": "Kelpen, een zeewiersoort, planten zich op een aseksuele manier voort als ze geen geschikte paringspartner kunnen vinden. Dat blijkt uit een recente studie. Dat zeewier zich aseksueel kan voortplanten, wisten we al, maar ",
-     "bron": "Scientias",
-     "tijd": "19:00",
-     "link": "https://scientias.nl/aseksueel-voortplanten-kelpen-doen-het-bij-gebrek-aan-een-partner/"
     }
    ]
   },
@@ -673,22 +654,22 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -0.7,
-    "gevoel": -3.9,
-    "wind": "ZW 2",
+    "nu": 8.4,
+    "gevoel": 5.9,
+    "wind": "ZW 3",
     "station": "Heino",
-    "bericht": "Vandaag is het wisselend bewolkt en vallen verspreid nog enkele lichte buien. Vanaf morgen wordt het droog en krijgen we zonnige perioden, met in de nacht en ochtend plaatselijk mist. Het wordt de komende dagen steeds kouder, met in de nachten op uitgebreide schaal lichte en lokaal mogelijk ook matige vorst.Vanochtend is het wisselend bewolkt en komen verspreid over het land enkele buien voor.",
-    "vandaag": "Vandaag is het wisselend bewolkt en vallen verspreid nog enkele lichte buien. Vanochtend is het wisselend bewolkt en komen verspreid over het land enkele buien voor.",
-    "temperatuur": "Op het KNMI-station in Deelen daalde de temperatuur naar -2,8 graden en aan de grond werd het zelfs -4,2 graden.",
+    "bericht": "Vandaag verspreid nog enkele buien met verder zon. Vanaf morgen wordt het meest droog met veel ruimte voor de zon. In de nacht en ochtend plaatselijk mist.",
+    "vandaag": "Vandaag verspreid nog enkele buien met verder zon. Vanmiddag zijn er zonnige perioden met stapelwolken en kan er plaatselijk nog een lichte regenbui vallen.",
+    "temperatuur": "De maximumtemperatuur komt uit op ongeveer 9 graden.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: motregen, 3 tot 8 graden, 86% kans op neerslag, ruim 5 uur zon, wind uit het zuidwesten, kracht 3.",
+     "zin": "Voor Zwolle zelf: lichte motregen, 3 tot 8 graden, 90% kans op neerslag, ruim 5 uur zon, wind uit het zuidwesten, kracht 3.",
      "max": 8,
      "min": 3,
-     "regenkans": 86,
-     "omschrijving": "motregen"
+     "regenkans": 90,
+     "omschrijving": "lichte motregen"
     },
     "vooruit": "Vrij koud, meest droog en perioden met zon. In de nacht en ochtend lichte vorst. Vooral zondag kans op mist in de nacht en ochtend.",
-    "omslag": "Vanaf morgen droog: de regenkans zakt van 70% naar 0%.",
+    "omslag": "Vanaf morgen droog: de regenkans zakt van 70% naar 10%.",
     "min": "0",
     "max": "8",
     "regenkans": 70,
@@ -697,17 +678,17 @@
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
      "min": "0",
-     "max": "7",
-     "regenkans": 0
+     "max": "6",
+     "regenkans": 10
     }
    }
   }
  ],
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
-  "blokken": 7,
-  "berichten": 39,
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:30",
+  "blokken": 8,
+  "berichten": 36,
   "problemen": []
  }
 }
