@@ -1,6 +1,6 @@
 {
- "naam": "Avondbriefing",
- "datum": "2026-11-21",
+ "naam": "Ochtendbriefing",
+ "datum": "2026-11-22",
  "blokken": [
   {
    "id": "duiding",
@@ -9,64 +9,58 @@
    "items": [],
    "duiding": [
     {
-     "titel": "Jeugdzorg landelijk en in Zwolle",
-     "tekst": "NOS en de Volkskrant staan stil bij het overlijden van Jason Bhugwandass, die streed tegen misstanden in de jeugdzorg. Nieuwe cijfers van het CBS laten zien hoe groot die zorg in Zwolle is: 2850 kinderen en jongeren, 8 procent, kregen in de eerste helft van dit jaar hulp. De gemeente gaf er vorig jaar minstens 64 miljoen euro aan uit.",
+     "titel": "Reeks hacks bij Trumps FBI",
+     "tekst": "Trump speelt de tweede hack bij de FBI in korte tijd naar beneden en ziet er zelfs mogelijke voordelen in. Tegelijk vertrekt zijn belangrijkste adviseur voor digitale veiligheid, volgens Trouw na een reeks incidenten. Het zijn twee kranten, maar het gaat om dezelfde reeks.",
      "verwijzingen": [
       {
-       "titel": "Jason Bhugwandass (28) overleden, streed tegen misstanden in jeugdzorg",
-       "link": "https://nos.nl/l/2640323",
-       "bron": "NOS",
-       "tijd": "18:41"
-      },
-      {
-       "titel": "Overlijden Jason Bhugwandass raakt velen in het hart: ‘Laten we naar elkaar omkijken zoals Jason dat als geen ander kon’",
-       "link": "https://www.volkskrant.nl/binnenland/overlijden-jason-bhugwandass-raakt-velen-in-het-hart-laten-we-naar-elkaar-omkijken-zoals-jason-dat-als-geen-ander-kon~b153652d/",
+       "titel": "Trump bagatelliseert tweede FBI-hack in korte tijd en ziet zelfs mogelijke positieve gevolgen",
+       "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
        "bron": "de Volkskrant",
-       "tijd": "05:00"
+       "tijd": "03:38"
       },
       {
-       "titel": "Jeugdzorg in Zwolle: 8 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 64 miljoen euro uit",
-       "link": "https://www.destentor.nl/zwolle/jeugdzorg-in-zwolle-8-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-64-miljoen-euro-uit~a304333b/",
-       "bron": "de Stentor",
-       "tijd": "17:29"
+       "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
+       "link": "https://www.trouw.nl/buitenland/live-vs-trump-ziet-mogelijke-positieve-gevolgen-van-tweede-fbi-hack-in-korte-tijd~bbc0cf3d/",
+       "bron": "Trouw",
+       "tijd": "03:47"
       }
      ],
      "geschreven": "07:00"
     },
     {
-     "titel": "Dienstplicht op straat, Defensie in Kamer",
-     "tekst": "Vrijdag voerden Zwolse jongeren in de binnenstad actie tegen de dienstplicht, met leuzen gericht aan Jetten. Woensdag praat de Tweede Kamer over een tussentijdse wijziging van de begroting van Defensie.",
+     "titel": "Kerkasiel in Kampen voorbij",
+     "tekst": "Na twee jaar kerkasiel in de Open Hof in Kampen verlaat het Oezbeekse gezin Babayants de kerk. De familie mag in Nederland een nieuwe procedure beginnen om hier te mogen blijven. In Trouw komt de familie zelf aan het woord. Ze zegt vooral de vrijwilligers te gaan missen.",
      "verwijzingen": [
       {
-       "titel": "Zwolse jongeren in actie tegen dienstplicht",
-       "link": "https://1zwolle.nl/nieuws/216819/zwolse-jongeren-in-actie-tegen-dienstplicht.html",
-       "bron": "Weblog Zwolle",
-       "tijd": "19:09"
+       "titel": "De familie Babayants neemt afscheid van gemeente Kampen. ‘Ik ga alle vrijwilligers heel erg missen’",
+       "link": "https://www.trouw.nl/binnenland/de-familie-babayants-neemt-afscheid-van-gemeente-kampen-ik-ga-alle-vrijwilligers-heel-erg-missen~b6f9adec8/",
+       "bron": "Trouw",
+       "tijd": "18:26"
       },
       {
-       "titel": "Incidentele suppletoire begroting Defensie",
-       "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08265",
-       "bron": "Wetgevingsoverleg",
-       "tijd": "woensdag 25/11 14:00"
+       "titel": "Na twee jaar stopt kerkasiel Kampen: gezin Babayants verlaat kerk",
+       "link": "https://1zwolle.nl/nieuws/216879/na-twee-jaar-stopt-kerkasiel-kampen-gezin-babayants-verlaat-kerk.html",
+       "bron": "Weblog Zwolle",
+       "tijd": "14:33"
       }
      ],
      "geschreven": "07:00"
     },
     {
-     "titel": "Muziek op onverwachte plekken in Zwolle",
-     "tekst": "De Popronde bracht livemuziek naar Zwolse winkels, kroegen en musea, met onder meer een optreden in het Fries in het Academiehuis. Zondag staan op het festival Blues & More opvallend jonge muzikanten op het podium. De jongste is de 14-jarige Nio, die het dichtst bij woont.",
+     "titel": "Minder uitgaan, ook in Zwolle",
+     "tekst": "Volgens het Trimbos-instituut gaan steeds minder jongeren tot diep in de nacht dansen. In Zwolle is te zien wat er met zo'n plek kan gebeuren. Waar vroeger heel de stad uitging, staan nu 52 zorgappartementen van Frion, en er komt een dagbesteding.",
      "verwijzingen": [
       {
-       "titel": "Van luchtgitaar naar groot podium: Nio (14) bewijst dat deze muziek niet meer voor ‘mannen met grijs haar’ is",
-       "link": "https://www.destentor.nl/zwolle/van-luchtgitaar-naar-groot-podium-nio-14-bewijst-dat-deze-muziek-niet-meer-voor-mannen-met-grijs-haar-is~ae999ef9/",
-       "bron": "de Stentor",
-       "tijd": "19:00"
+       "titel": "Dansen tot diep in de nacht? Jongeren kiezen steeds vaker iets anders",
+       "link": "https://nos.nl/l/2640463",
+       "bron": "NOS",
+       "tijd": "19:15"
       },
       {
-       "titel": "Livemuziek in winkels, kroegjes en musea: dit was Popronde 2026.",
-       "link": "https://1zwolle.nl/nieuws/216792/livemuziek-in-winkels-kroegjes-en-musea-dit-was-popronde-2026.html",
-       "bron": "Weblog Zwolle",
-       "tijd": "20:29"
+       "titel": "Gretha (45) bakt straks appeltaarten op plek waar heel Zwolle ooit uitging",
+       "link": "https://www.destentor.nl/zwolle/gretha-45-bakt-straks-appeltaarten-op-plek-waar-heel-zwolle-ooit-uitging~af8c388c/",
+       "bron": "de Stentor",
+       "tijd": "18:30"
       }
      ],
      "geschreven": "07:00"
@@ -80,76 +74,76 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Kapitein Costa Concordia-scheepsramp komt vervroegd vrij",
-     "context": "De voormalige kapitein van het cruiseschip Costa Concordia komt na negen jaar gevangenis vervroegd vrij. Francesco Schettino werd in 2017 in hoger beroep veroordeeld tot zestien jaar cel voor een scheepsramp waarbij 32 mensen om het leven kwamen. Een rechtbank in Rome heeft de 66-jarige Italiaan toestemming gegeven om de rest van zijn straf onder toezicht thuis uit te zitten vanwege goed gedrag. V",
+     "titel": "Doden en tientallen vermisten na brand in snoepfabriek Indonesië",
+     "context": "Bij een verwoestende brand in een snoepfabriek in Indonesië zijn zeker drie mensen om het leven gekomen. Reddingswerkers zijn nog op zoek naar 36 vermiste werknemers. Vijftien mensen wisten aan de vlammen te ontkomen, van wie er vier naar het ziekenhuis zijn gebracht. De brand in de fabriek in de buurt van hoofdstad Jakarta op het eiland Java brak gisteravond uit. De oorzaak is nog onbekend. Volge",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640447",
+     "link": "https://nos.nl/l/2640514",
      "bron": "NOS",
-     "tijd": "17:50",
-     "sorteer": "2026-11-21T17:50:35+01:00"
+     "tijd": "06:19",
+     "sorteer": "2026-11-22T06:19:58+01:00"
     },
     {
-     "titel": "Beschuldigde Italiaanse oud-politiechef dood gevonden",
-     "context": "De voormalige Italiaans politiechef Gianni De Gennaro heeft zichzelf van het leven beroofd. Er liep een onderzoek van justitie naar de 78-jarige De Gennaro. Hij zou een onderzoek naar de moord op een vooraanstaande antimaffiarechter in 1992 hebben willen dwarsbomen. Volgens Italiaanse media is De Gennaro dood aangetroffen in zijn landhuis in Toscane. Familieleden hadden alarm geslagen omdat ze gee",
+     "titel": "24 doden nadat boot met grote groep begrafenisgangers omslaat in Nigeria",
+     "context": "Een boot met een grote groep mensen die onderweg was naar een begrafenis in het zuiden van Nigeria is omgeslagen. Zeker 24 mensen zijn daarbij omgekomen, melden de hulpdiensten. De Nigeriaanse rampenbestrijdingsdienst spreekt van een tragisch bootongeluk op een kruising van rivieren. De boot vervoerde passagiers van het ene dorp naar het andere voor een begrafenisceremonie. De autoriteiten hebben ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640436",
+     "link": "https://nos.nl/l/2640511",
      "bron": "NOS",
-     "tijd": "16:51",
-     "sorteer": "2026-11-21T16:51:04+01:00"
+     "tijd": "02:45",
+     "sorteer": "2026-11-22T02:45:56+01:00"
     },
     {
-     "titel": "Poetin de derde wereldleider? 'Het einde van de democratische rechtsorde'",
-     "context": "President Xi Jinping, president Donald Trump en president Vladimir Poetin stonden deze week schouder aan schouder in de Zuid-Chinese stad Shenzhen. Het was de eerste keer dat de drie samen in één ruimte met elkaar spraken. Poetin noemde China, de VS en Rusland \"de overwinnaars van de Tweede Wereldoorlog\", die volgens hem samen verantwoordelijkheid zijn voor het handhaven van de internationale vred",
+     "titel": "Italiaanse luxe-juwelier Bulgari (89) overleden",
+     "context": "De Italiaanse juwelier en zakenman Paolo Bulgari is op 89-jarige leeftijd overleden. Hij gaf decennialang leiding aan het gelijknamige luxemerk. Onder Bulgari en zijn broers groeide het bedrijf uit tot een wereldberoemd juwelenmerk. Ook bouwden zij het merk uit van alleen sieraden naar horloges, geurtjes, lederwaren en zelfs hotels. Naar verluidt hield Paolo er ook als directielid nog van om soms ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640431",
+     "link": "https://nos.nl/l/2640484",
      "bron": "NOS",
-     "tijd": "16:00",
-     "sorteer": "2026-11-21T16:00:02+01:00"
+     "tijd": "21:48",
+     "sorteer": "2026-11-21T21:48:53+01:00"
     },
     {
-     "titel": "Russisch vrachtschip geraakt door drones in Finse Golf",
-     "context": "Een Russisch vrachtschip is vanochtend aangevallen door drones in de Finse Golf. Het schip was op weg naar de havenstad Kaliningrad in de gelijknamige Russische exclave aan de Oostzee, meldt gouverneur Drozdenko van de oblast Leningrad op Telegram . Het schip Sparta II voer in internationale wateren en bevond zich op ongeveer vijf kilometer van de Russische kust toen het volgens Drozdenko werd ger",
+     "titel": "Palestijnen vrezen meer noodweer aankomende winter in Gaza",
+     "context": "Terwijl de gevolgen van de overstromingen in Gaza eerder deze maand nog voelbaar zijn, bereiden veel Palestijnen zich voor op meer noodweer. De winter staat voor de deur. Hulporganisaties doen wat ze kunnen, maar hebben nog altijd niet voldoende middelen om iedereen te helpen. Osama Abu Obeid trekt een zeil omhoog en laat zien dat de grond nog steeds vochtig is. Hij woont samen met zijn vrouw en h",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640430",
+     "link": "https://nos.nl/l/2640477",
      "bron": "NOS",
-     "tijd": "15:45",
-     "sorteer": "2026-11-21T15:45:31+01:00"
+     "tijd": "20:39",
+     "sorteer": "2026-11-21T20:39:17+01:00"
     },
     {
-     "titel": "Mexicaanse drugsbaron 'El Chapo Isidro' opgepakt, met hulp van VS",
-     "context": "In Mexico is een kartelbaas opgepakt die op de lijst van meestgezochte voortvluchtigen van de FBI stond, schrijven Mexicaanse media. Er stond een beloning van 5 miljoen dollar op zijn hoofd. Fausto Isidro Meza Flores, ook wel 'El Chapo Isidro' genoemd, werd gisteravond gearresteerd bij een grote militaire operatie in Guasave in de noordwestelijke deelstaat Sinaloa. De 44-jarige Meza Flores staat a",
+     "titel": "Maandag alle Belgische vluchten geannuleerd wegens staking",
+     "context": "Maandag worden alle vluchten van en naar België geschrapt vanwege een landelijke staking. Die staking is in diverse sectoren. Omdat een deel van de luchtverkeersleiding eraan meedoet, is besloten uit veiligheidsoverwegingen alle vluchten te annuleren tussen 07.00 en 21.00 uur. De luchthaven Brussel is ook onder Nederlandse reizigers populair. Jaarlijks vertrekken of arriveren er ongeveer een miljo",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640421",
+     "link": "https://nos.nl/l/2640473",
      "bron": "NOS",
-     "tijd": "14:29",
-     "sorteer": "2026-11-21T14:29:49+01:00"
+     "tijd": "19:58",
+     "sorteer": "2026-11-21T19:58:06+01:00"
     },
     {
-     "titel": "Oezbeeks gezin beëindigt kerkasiel na twee jaar vanwege nieuwe procedure",
+     "titel": "Trump bagatelliseert tweede FBI-hack in korte tijd en ziet zelfs mogelijke positieve gevolgen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/oezbeeks-gezin-beeindigt-kerkasiel-na-twee-jaar-vanwege-nieuwe-procedure~b679647e/",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
      "bron": "de Volkskrant",
-     "tijd": "17:29",
-     "sorteer": "2026-11-21T16:29:58+00:00"
+     "tijd": "03:38",
+     "sorteer": "2026-11-22T02:38:00+00:00"
     },
     {
-     "titel": "Akkoord over moordrobots verder uit zicht, VS en Rusland willen niet",
+     "titel": "Met arrestatie drugsbaas ‘El Chapo Isidro’ haalt Mexico wit voetje bij VS",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/economie/akkoord-over-moordrobots-verder-uit-zicht-vs-en-rusland-willen-niet~b7a6b41d/",
+     "link": "https://www.volkskrant.nl/buitenland/met-arrestatie-drugsbaas-el-chapo-isidro-haalt-mexico-wit-voetje-bij-vs~be46da40/",
      "bron": "de Volkskrant",
-     "tijd": "14:51",
-     "sorteer": "2026-11-21T13:51:00+00:00"
+     "tijd": "01:52",
+     "sorteer": "2026-11-22T00:52:18+00:00"
     },
     {
-     "titel": "Britse langeafstandszwemmer zwemt door Straat van Hormuz uit protest tegen oorlog",
+     "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/live-oorlog-midden-oosten-britse-langeafstandszwemmer-zwemt-door-straat-van-hormuz-uit-protest-tegen-oorlog~b4cda6da/",
+     "link": "https://www.trouw.nl/buitenland/live-vs-trump-ziet-mogelijke-positieve-gevolgen-van-tweede-fbi-hack-in-korte-tijd~bbc0cf3d/",
      "bron": "Trouw",
-     "tijd": "17:36",
-     "sorteer": "2026-11-21T16:36:00+00:00"
+     "tijd": "03:47",
+     "sorteer": "2026-11-22T02:47:00+00:00"
     }
    ]
   },
@@ -158,6 +152,33 @@
    "titel": "Nederland",
    "emoji": "🇳🇱",
    "items": [
+    {
+     "titel": "Waarschuwingen voor gladheid en dichte mist in delen van Nederland",
+     "context": "Het KNMI heeft code geel afgegeven voor zowel mist als gladheid. Plaatselijk kan het glad zijn door bevriezing van natte weggedeelten, waarschuwt het weerinstituut. Kans op mist is er in een groot deel van het land, behalve in het uiterste noorden, langs de kust en in het zuiden. Gladheid kan zich voordoen in het noordoosten, met name in Drenthe, en in een strook van west naar oost over het midden",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640513",
+     "bron": "NOS",
+     "tijd": "05:13",
+     "sorteer": "2026-11-22T05:13:50+01:00"
+    },
+    {
+     "titel": "Premier Jetten en Britse premier Burnham dineren in Rijksmuseum, praten over Oekraïne",
+     "context": "Premier Jetten heeft de Britse premier Burnham ontvangen. Ze hebben samen met hun partners gedineerd in het Rijksmuseum in Amsterdam, tussen de Hollandse meesters. Dat meldt Jetten in een bericht op X. Ze spraken onder meer over de economische en militaire samenwerking tussen het Verenigd Koninkrijk en Nederland. Daarnaast beloofden ze Oekraïne de militaire steun te geven die het land nodig heeft ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640510",
+     "bron": "NOS",
+     "tijd": "00:24",
+     "sorteer": "2026-11-22T00:24:39+01:00"
+    },
+    {
+     "titel": "Dansen tot diep in de nacht? Jongeren kiezen steeds vaker iets anders",
+     "context": "Uitgaan en dansen tot in de vroege uurtjes. Het gebeurt nog wel, maar minder jongeren kiezen daarvoor. Dat bleek al uit een groot uitgaansonderzoek van het Trimbos-instituut dat in 2023 werd gedaan onder ruim 7000 respondenten tussen de 16 en 35 jaar. Volgens het instituut zet die dalende trend door. Volgens Trimbos-onderzoeker Michelle van der Horst zijn er verschillende redenen waarom jongeren m",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640463",
+     "bron": "NOS",
+     "tijd": "19:15",
+     "sorteer": "2026-11-21T19:15:52+01:00"
+    },
     {
      "titel": "21/11 in Nieuwsuur: Congres FVD na Zembla-documentaire • Hoe verder met Democraten? • Documentaire over Iraanse revolutie op IDFA",
      "context": "FVD-congres na Zembla-documentaire Zes leden van Forum voor Democratie zijn geroyeerd, nadat Zembla aan het licht bracht dat zij aanwezig zijn geweest bij neonazibijeenkomsten. Vandaag hield FVD een congres in Den Bosch. Daar spraken wij de bezoekers: hoe kijken zij naar de beelden? Hoe moeten Democraten nu verder? Het zijn hoogtijdagen voor de Democraten in de Verenigde Staten. Afgelopen week wer",
@@ -168,7 +189,7 @@
      "sorteer": "2026-11-21T17:32:07+01:00"
     },
     {
-     "titel": "Afgebrande school Deurne waarschijnlijk nog maanden dicht",
+     "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
      "context": "De school in Deurne waar gisteravond een brand uitbrak blijft waarschijnlijk nog maanden dicht, zegt directeur Pleun van Genugten tegen de NOS. De bijna 300 leerlingen zullen de komende tijd ergens anders moeten worden ondergebracht. Volgens Van Genugten is het de vraag \"of de school überhaupt nog open kan\" vanwege de grote schade aan het schoolgebouw in het Brabantse dorp. Twee lokalen zijn volle",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640434",
@@ -177,67 +198,31 @@
      "sorteer": "2026-11-21T16:12:27+01:00"
     },
     {
-     "titel": "Reacties op overlijden Jason Bhugwandass: 'Er zat zo veel kracht in hem'",
-     "context": "\"Jason wandelde recht je hart in als je hem ontmoette, hij was een enorm inspirerend, lief en intelligent mens. Hij streed tegen onrecht met passie, bevlogenheid, humor en tederheid.\" Dat zegt Janinka Steenkuijl (links op de foto hierboven), een goede vriendin van de gisteren overleden Jason Bhugwandass . Vrienden en bekenden reageren verslagen op zijn dood. Bhugwandass werd bekend van zijn strijd",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640423",
-     "bron": "NOS",
-     "tijd": "15:03",
-     "sorteer": "2026-11-21T15:03:07+01:00"
-    },
-    {
-     "titel": "Oezbeeks gezin uit Kampen kan kerk na twee jaar verlaten door nieuwe procedure",
-     "context": "Het Oezbeekse gezin dat precies twee jaar kerkasiel kreeg in een kerkgebouw in Kampen, gaat een nieuwe procedure beginnen. De kerkdienst voor de familie Babayants is vandaag beëindigd, omdat die bescherming tegen uitzetting van het gezin niet meer nodig is. Dat heeft de kerk vandaag bekendgemaakt op een persconferentie. De familie heeft zelf besloten het kerkasiel te beëindigen, gesteund door een ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640412",
-     "bron": "NOS",
-     "tijd": "13:00",
-     "sorteer": "2026-11-21T13:00:08+01:00"
-    },
-    {
-     "titel": "Universiteit Leiden stopt samenwerking met Chinese universiteit na zorgen over lekken data",
-     "context": "De Universiteit Leiden heeft besloten een geplande samenwerking met de Chinese universiteit Xi'an Jiaotong niet door te laten gaan , na kritiek van het eigen personeel en zorgen over het lekken van gevoelige informatie naar de Chinese overheid. NRC meldde afgelopen week dat het plan van de Leidse universiteit om jaarlijks 200 Chinese studenten in Leiden te laten deelnemen aan de studierichtingen w",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640396",
-     "bron": "NOS",
-     "tijd": "10:20",
-     "sorteer": "2026-11-21T10:20:23+01:00"
-    },
-    {
-     "titel": "Ondanks belofte hebben nog niet alle zorgvilla-kinderen een nieuwe plek",
-     "context": "Zestien zieke en gehandicapte kinderen die zorg krijgen van Villa ExpertCare hebben nog geen nieuwe geschikte plek gevonden. Voor een deel van hen zal niet meer op tijd een andere zorgorganisatie gevonden worden, schrijft minister Sterk (Langdurige Zorg) in een Kamerbrief. Begin dit jaar kondigde Villa ExpertCare aan de laatste vier zorgvilla's te sluiten. Volgens het bedrijf zijn de vergoedingen ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640331",
-     "bron": "NOS politiek",
-     "tijd": "19:27",
-     "sorteer": "2026-11-20T19:27:14+01:00"
-    },
-    {
-     "titel": "Chanoekaconcert in Concertgebouw gaat door zonder sponsorbijdrage Israëlische ambassade",
+     "titel": "Verwey-Jonker Instituut gaf jarenlang stem aan marginale groepen, nu is het failliet. Hoe kan dat?",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/chanoekaconcert-in-concertgebouw-gaat-door-zonder-sponsorbijdrage-israelische-ambassade~b0aff2e1/",
+     "link": "https://www.volkskrant.nl/binnenland/verwey-jonker-instituut-gaf-jarenlang-stem-aan-marginale-groepen-nu-is-het-failliet-hoe-kan-dat~b594ba2f/",
      "bron": "de Volkskrant",
-     "tijd": "13:48",
-     "sorteer": "2026-11-21T12:48:00+00:00"
+     "tijd": "20:37",
+     "sorteer": "2026-11-21T19:37:29+00:00"
     },
     {
-     "titel": "FvD royeert leden na uitzending ‘Zembla’, maar intussen strooien andere met likes en hartjes onder nazicontent",
+     "titel": "Kleuter (5) overlijdt na eten giftige paddenstoel",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/fvd-royeert-leden-na-uitzending-zembla-maar-intussen-strooien-andere-met-likes-en-hartjes-onder-nazicontent~b46dfefe/",
+     "link": "https://www.volkskrant.nl/binnenland/kleuter-5-overlijdt-na-eten-giftige-paddenstoel~bdb879ec/",
      "bron": "de Volkskrant",
-     "tijd": "05:00",
-     "sorteer": "2026-11-21T04:00:00+00:00"
+     "tijd": "19:07",
+     "sorteer": "2026-11-21T18:07:00+00:00"
     },
     {
-     "titel": "De angst om stiekem op straat gefilmd te worden. ‘Mijn korte rokje wisselde ik om voor een broek’",
+     "titel": "De familie Babayants neemt afscheid van gemeente Kampen. ‘Ik ga alle vrijwilligers heel erg missen’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/de-angst-om-stiekem-op-straat-gefilmd-te-worden-mijn-korte-rokje-wisselde-ik-om-voor-een-broek~b86e7b1dd/",
+     "link": "https://www.trouw.nl/binnenland/de-familie-babayants-neemt-afscheid-van-gemeente-kampen-ik-ga-alle-vrijwilligers-heel-erg-missen~b6f9adec8/",
      "bron": "Trouw",
-     "tijd": "15:49",
-     "sorteer": "2026-11-21T14:49:00+00:00"
+     "tijd": "18:26",
+     "sorteer": "2026-11-21T17:26:00+00:00"
     }
    ]
   },
@@ -246,6 +231,33 @@
    "titel": "Zwolle en omgeving",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Deze wereldberoemde jongen woont met zijn moeder in een Vinex-wijk in Zwolle: ‘Eigenlijk de perfecte plek’",
+     "context": "De jonge gast die hier vol zelfvertrouwen in de camera zingt, was bij Ajax ooit aanvoerder van Ryan Gravenberch en Jurriën Timber. Nu bouwt Elikia Mbinga (25) aan zijn muziekdroom. Hij haalde al meer dan 30 miljoen streams, en legt de basis op zijn slaapkamer.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/deze-wereldberoemde-jongen-woont-met-zijn-moeder-in-een-vinex-wijk-in-zwolle-eigenlijk-de-perfecte-plek~ad0a2f71/",
+     "bron": "de Stentor",
+     "tijd": "20:01",
+     "sorteer": "2026-11-21T19:01:00+00:00"
+    },
+    {
+     "titel": "Vrachtauto’s persen zich in Hoonhorst door dit straatje, maar de gemeente stelt maatregelen voorlopig uit",
+     "context": "Hardrijders door Hoonhorst: het probleem is het dorp al jaren een doorn in het oog. Maar het staat niet op zichzelf. Het vastlopen van de doorgaande provinciale wegen zorgt ervoor dat ook grote vrachtwagens zich door het smalle klinkerstraatje persen.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/dalfsen/vrachtautos-persen-zich-in-hoonhorst-door-dit-straatje-maar-de-gemeente-stelt-maatregelen-voorlopig-uit~af3e7b3d/",
+     "bron": "de Stentor",
+     "tijd": "19:45",
+     "sorteer": "2026-11-21T18:45:46+00:00"
+    },
+    {
+     "titel": "Gretha (45) bakt straks appeltaarten op plek waar heel Zwolle ooit uitging",
+     "context": "Appeltaarten en brownies. Gretha Keijl (45) kan niet wachten tot ze daarmee aan de slag gaat in de nieuwe dagbesteding. Waar vroeger tot diep in de nacht werd gedanst, staan nu 52 zorgappartementen van Frion. Weemoed en blijdschap gaan hier hand in hand.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/gretha-45-bakt-straks-appeltaarten-op-plek-waar-heel-zwolle-ooit-uitging~af8c388c/",
+     "bron": "de Stentor",
+     "tijd": "18:30",
+     "sorteer": "2026-11-21T17:30:59+00:00"
+    },
     {
      "titel": "Opwarmen maar: 5 x huizen in Zwolle met een eigen sauna",
      "context": "De koude dagen kom je bij deze vijf stekjes in Zwolle wel door. Ze hebben namelijk allemaal een sauna aan huis. Kijk mee.",
@@ -265,31 +277,16 @@
      "sorteer": "2026-11-21T08:00:50+00:00"
     },
     {
-     "titel": "Ooit een talent bij PEC Zwolle, nu speelt hij via omweg toch in de eredivisie: ‘De trainer is een soort mentor’",
-     "context": "Hij dacht aan stoppen. Na twee zware blessures, een veelbesproken incident en een jaar zonder club twijfelde Gabi Caschili (23) over zijn toekomst als voetballer. Maar kijk nu eens. Als speler van Telstar loopt hij nu toch rond in de eredivisie en vertelt hij over zijn opvallende carrièrepad.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/pec-zwolle/ooit-een-talent-bij-pec-zwolle-nu-speelt-hij-via-omweg-toch-in-de-eredivisie-de-trainer-is-een-soort-mentor~ad0ee8b1/",
-     "bron": "de Stentor",
-     "tijd": "07:30",
-     "sorteer": "2026-11-21T06:30:39+00:00"
-    },
-    {
-     "titel": "Vijf bedrijven krijgen geen grip op Zwols deelvervoer, Lime lijkt op de goede weg",
-     "context": "Fietsen gingen de gracht in, scooters eindigden geregeld in de bosjes. Vijf bedrijven beten hun tanden stuk op deelvervoer in Zwolle. Maar de fietsen van Lime lijken nu wel in trek. Is dat ook echt zo? En hoe kan dat dan?",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/vijf-bedrijven-krijgen-geen-grip-op-zwols-deelvervoer-lime-lijkt-op-de-goede-weg~ad6ed969/",
-     "bron": "de Stentor",
-     "tijd": "07:00",
-     "sorteer": "2026-11-21T06:00:23+00:00"
-    },
-    {
-     "titel": "Van luchtgitaar naar groot podium: Nio (14) bewijst dat deze muziek niet meer voor ‘mannen met grijs haar’ is",
-     "context": "Blues alleen iets voor oude mannen? Vergeet het maar. Op het Zwolse festival Blues & More staan zondag opvallend jonge muzikanten uit binnen- en buitenland op het podium. De jongste van het stel woont het dichtst bij. „Ik denk dat hij een hele grote jongen gaat worden.”",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/van-luchtgitaar-naar-groot-podium-nio-14-bewijst-dat-deze-muziek-niet-meer-voor-mannen-met-grijs-haar-is~ae999ef9/",
-     "bron": "de Stentor",
-     "tijd": "19:00",
-     "sorteer": "2026-11-20T18:00:00+00:00"
+     "titel": "Veel minder treinen tussen Amersfoort en Zwolle door storing aan spoorwegovergangen",
+     "context": "Tussen Amersfoort en Zwolle rijden zaterdag veel minder treinen door een storing aan meerdere spoorwegovergangen. Onder meer in Wezep gaan de spoorbomen niet dicht. De ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/216921/veel-minder-treinen-tussen-amersfoort-en-zwolle-door-storing-aan-spoorwegovergangen.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "19:37",
+     "sorteer": "2026-11-21T18:37:03+00:00"
     },
     {
      "titel": "Zwolse kunstenaars maken eenzaamheid zichtbaar met kunstproject Kunstklap",
@@ -334,20 +331,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "14:33",
      "sorteer": "2026-11-21T13:33:28+00:00"
-    },
-    {
-     "titel": "Zwollenaren kunnen nog tot 29 november iemand voordragen voor Ons Blauwe Hart",
-     "context": "Zwollenaren kunnen nog tot en met zondag 29 november iemand aanmelden voor Ons Blauwe Hart. Met het initiatief worden inwoners in het zonnetje gezet die ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Ons Blauwe Hart",
-      "vrijwilligers",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/216757/zwollenaren-kunnen-nog-tot-29-november-iemand-voordragen-voor-ons-blauwe-hart.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "13:03",
-     "sorteer": "2026-11-21T12:03:00+00:00"
     }
    ]
   },
@@ -428,77 +411,113 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "18:00",
+    "bijgewerkt": "07:00",
     "uitslagen": [
+     {
+      "thuis": "FC Twente",
+      "uit": "Willem II",
+      "score": "",
+      "tijd": "12:15",
+      "bezig": "Scheduled",
+      "pec": false,
+      "wanneer": "vandaag 12:15"
+     },
+     {
+      "thuis": "Ajax",
+      "uit": "ADO Den Haag",
+      "score": "",
+      "tijd": "14:30",
+      "bezig": "Scheduled",
+      "pec": false,
+      "wanneer": "vandaag 14:30"
+     },
+     {
+      "thuis": "Sparta",
+      "uit": "AZ Alkmaar",
+      "score": "",
+      "tijd": "14:30",
+      "bezig": "Scheduled",
+      "pec": false,
+      "wanneer": "vandaag 14:30"
+     },
+     {
+      "thuis": "Go Ahead Eagles",
+      "uit": "Fortuna",
+      "score": "",
+      "tijd": "16:45",
+      "bezig": "Scheduled",
+      "pec": false,
+      "wanneer": "vandaag 16:45"
+     },
      {
       "thuis": "NEC",
       "uit": "PSV",
-      "score": "0 - 4",
+      "score": "1 - 4",
       "tijd": "16:30",
-      "bezig": "66'",
+      "bezig": "",
       "pec": false,
-      "wanneer": "vandaag 16:30"
+      "wanneer": "gisteren 16:30"
      },
      {
       "thuis": "FC Utrecht",
       "uit": "Cambuur",
-      "score": "",
+      "score": "2 - 3",
       "tijd": "18:45",
-      "bezig": "Scheduled",
+      "bezig": "",
       "pec": false,
-      "wanneer": "vandaag 18:45"
+      "wanneer": "gisteren 18:45"
      },
      {
       "thuis": "Feyenoord",
       "uit": "Excelsior",
-      "score": "",
+      "score": "2 - 3",
       "tijd": "18:45",
-      "bezig": "Scheduled",
+      "bezig": "",
       "pec": false,
-      "wanneer": "vandaag 18:45"
+      "wanneer": "gisteren 18:45"
      },
      {
       "thuis": "FC Groningen",
       "uit": "Heerenveen",
-      "score": "",
+      "score": "1 - 3",
       "tijd": "21:00",
-      "bezig": "Scheduled",
+      "bezig": "",
       "pec": false,
-      "wanneer": "vandaag 21:00"
+      "wanneer": "gisteren 21:00"
      },
      {
       "thuis": "Telstar",
       "uit": "PEC Zwolle",
-      "score": "",
+      "score": "1 - 3",
       "tijd": "21:00",
-      "bezig": "Scheduled",
+      "bezig": "",
       "pec": true,
-      "wanneer": "vandaag 21:00"
+      "wanneer": "gisteren 21:00"
      }
     ],
     "stand": [
      {
       "plek": "1",
       "team": "PSV",
-      "gespeeld": "12",
-      "punten": "26",
-      "saldo": "+25",
+      "gespeeld": "13",
+      "punten": "29",
+      "saldo": "+28",
       "pec": false
      },
      {
       "plek": "2",
-      "team": "Feyenoord",
-      "gespeeld": "12",
-      "punten": "25",
-      "saldo": "+19",
-      "pec": false
-     },
-     {
-      "plek": "3",
       "team": "Ajax",
       "gespeeld": "12",
       "punten": "25",
       "saldo": "+17",
+      "pec": false
+     },
+     {
+      "plek": "3",
+      "team": "Feyenoord",
+      "gespeeld": "13",
+      "punten": "25",
+      "saldo": "+18",
       "pec": false
      },
      {
@@ -511,17 +530,17 @@
      },
      {
       "plek": "5",
-      "team": "AZ Alkmaar",
-      "gespeeld": "12",
-      "punten": "23",
-      "saldo": "+8",
+      "team": "Heerenveen",
+      "gespeeld": "13",
+      "punten": "24",
+      "saldo": "+10",
       "pec": false
      },
      {
       "plek": "6",
-      "team": "Heerenveen",
+      "team": "AZ Alkmaar",
       "gespeeld": "12",
-      "punten": "21",
+      "punten": "23",
       "saldo": "+8",
       "pec": false
      },
@@ -535,6 +554,14 @@
      },
      {
       "plek": "8",
+      "team": "Cambuur",
+      "gespeeld": "13",
+      "punten": "18",
+      "saldo": "-1",
+      "pec": false
+     },
+     {
+      "plek": "9",
       "team": "Go Ahead Eagles",
       "gespeeld": "12",
       "punten": "17",
@@ -542,31 +569,39 @@
       "pec": false
      },
      {
-      "plek": "9",
-      "team": "FC Groningen",
-      "gespeeld": "12",
-      "punten": "15",
-      "saldo": "+1",
-      "pec": false
-     },
-     {
       "plek": "10",
-      "team": "Cambuur",
-      "gespeeld": "12",
+      "team": "FC Groningen",
+      "gespeeld": "13",
       "punten": "15",
-      "saldo": "-2",
-      "pec": false
-     },
-     {
-      "plek": "11",
-      "team": "NEC",
-      "gespeeld": "12",
-      "punten": "14",
       "saldo": "-1",
       "pec": false
      },
      {
+      "plek": "11",
+      "team": "PEC Zwolle",
+      "gespeeld": "13",
+      "punten": "15",
+      "saldo": "-9",
+      "pec": true
+     },
+     {
       "plek": "12",
+      "team": "NEC",
+      "gespeeld": "13",
+      "punten": "14",
+      "saldo": "-4",
+      "pec": false
+     },
+     {
+      "plek": "13",
+      "team": "Excelsior",
+      "gespeeld": "13",
+      "punten": "14",
+      "saldo": "-12",
+      "pec": false
+     },
+     {
+      "plek": "14",
       "team": "Sparta",
       "gespeeld": "12",
       "punten": "12",
@@ -574,35 +609,19 @@
       "pec": false
      },
      {
-      "plek": "13",
-      "team": "PEC Zwolle",
-      "gespeeld": "12",
-      "punten": "12",
-      "saldo": "-11",
-      "pec": true
-     },
-     {
-      "plek": "14",
-      "team": "FC Utrecht",
-      "gespeeld": "12",
-      "punten": "12",
-      "saldo": "-13",
-      "pec": false
-     },
-     {
       "plek": "15",
-      "team": "Excelsior",
-      "gespeeld": "12",
-      "punten": "11",
-      "saldo": "-13",
+      "team": "FC Utrecht",
+      "gespeeld": "13",
+      "punten": "12",
+      "saldo": "-14",
       "pec": false
      },
      {
       "plek": "16",
       "team": "Telstar",
-      "gespeeld": "12",
+      "gespeeld": "13",
       "punten": "10",
-      "saldo": "-7",
+      "saldo": "-9",
       "pec": false
      },
      {
@@ -623,7 +642,7 @@
      }
     ]
    },
-   "aantal": 5
+   "aantal": 9
   },
   {
    "id": "natuur",
@@ -631,20 +650,12 @@
    "emoji": "🌿",
    "items": [
     {
-     "titel": "Natuurjournaal 21 november 2026",
-     "toelichting": "Nevelzwammen kondigen het eind van het paddenstoelenseizoen aan. Grote bonte spechten gebruiken gaten om in dennenappels te hakken.",
+     "titel": "Natuurjournaal 22 november 2026",
+     "toelichting": "Notenkrakers hadden trek en zijn de merels in jouw buurt ook ineens schuwer?",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36071",
-     "sorteer": "2026-11-21T05:45:00+00:00"
-    },
-    {
-     "titel": "KANO gaat internationaal",
-     "toelichting": "KANO is een quickscan die kansen voor natuurgebieden en omliggend landschap in beeld brengt en onderwerpen inventariseert die bijdragen aan de verbetering van de algehele natuurkwaliteit. Na de lancering in 2022 is KANO ",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36085",
-     "sorteer": "2026-11-21T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36076",
+     "sorteer": "2026-11-22T05:45:00+00:00"
     },
     {
      "titel": "Weten dat natuur verdwijnt is iets anders dan voelen wat we verloren zijn",
@@ -653,6 +664,14 @@
      "tijd": "12:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36086",
      "sorteer": "2026-11-21T11:00:00+00:00"
+    },
+    {
+     "titel": "Levende thermometers op stadsbomen: hoe bewoners helpen stedelijke hitte in kaart te brengen",
+     "toelichting": "Wie op een hete zomerdag vanuit het groene buitengebied de stad in fietst, voelt het direct: tussen de stenen blijft de warmte hangen. Dit stedelijk hitte-eilandeffect vormt door klimaatverandering een groeiend risico vo",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36089",
+     "sorteer": "2026-11-22T06:00:00+00:00"
     },
     {
      "titel": "Deze prehistorische walvis had wel een heel bijzonder hoofd",
@@ -676,41 +695,41 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 6.1,
-    "gevoel": 4.0,
-    "wind": "WZW 2",
+    "nu": -0.1,
+    "gevoel": -0.1,
+    "wind": "WNW 1",
     "station": "Heino",
-    "bericht": "De komende dagen is het droog met veel ruimte voor de zon. In de nacht en ochtend kan plaatselijk mist ontstaan. Het wordt wel steeds kouder, met in de nachten op uitgebreide schaal lichte en lokaal mogelijk ook matige vorst.",
-    "vandaag": "Vanavond en vannacht zijn er brede opklaringen.",
-    "temperatuur": "Later in de nieuwe week ligt de middagtemperatuur maar een paar graden boven het vriespunt en zorgt een stevige oostenwind ervoor dat het schraal aanvoelt.",
+    "bericht": "De dag begint plaatselijk met dichte mist, die in het oosten lang kan blijven hangen. Verder schijnt de zon. De komende week verloopt (licht) winters met in de nacht en ochtend vorst!Vanochtend heeft het KNMI code geel uitgegeven voor dichte mist, die in het oosten de hele ochtend kan blijven hangen.",
+    "vandaag": "Vanavond en vannacht zijn er brede opklaringen en blijft het droog.",
+    "temperatuur": "De middagtemperatuur komt uit op 7 of 8 graden langs de kust en vijf graden in het oosten van het land.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: lichte motregen, 3 tot 9 graden, 84% kans op neerslag, ruim 5 uur zon, wind uit het zuidwesten, kracht 3.",
-     "max": 9,
-     "min": 3,
-     "regenkans": 84,
-     "omschrijving": "lichte motregen"
+     "zin": "Voor Zwolle zelf: 0 tot 7 graden, droog, ruim 6 uur zon, wind uit het noorden, kracht 3.",
+     "max": 7,
+     "min": 0,
+     "regenkans": 7,
+     "omschrijving": "bewolkt"
     },
-    "vooruit": "Vrij koud, meest droog en perioden met zon. In de nacht en ochtend lichte vorst. Vooral zondag kans op mist in de nacht en ochtend.",
-    "omslag": "Vanaf morgen droog: de regenkans zakt van 70% naar 0%.",
-    "min": "0",
-    "max": "8",
-    "regenkans": 70,
-    "zonkans": 20,
-    "omschrijving": "Zwaar bewolkt en regen",
+    "vooruit": "Perioden met zon en vrijwel overal droog. Vrij koud met in de nacht en ochtend overwegend lichte vorst. Later in de week meer bewolking.",
+    "omslag": "Nachtvorst in aantocht: morgen tot -2 graden.",
+    "min": "-1",
+    "max": "7",
+    "regenkans": 0,
+    "zonkans": 60,
+    "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "-1",
-     "max": "7",
+     "min": "-2",
+     "max": "6",
      "regenkans": 0
     }
    }
   }
  ],
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
-  "blokken": 8,
-  "berichten": 39,
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "07:00",
+  "blokken": 7,
+  "berichten": 38,
   "problemen": []
  }
 }
