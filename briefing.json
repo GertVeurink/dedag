@@ -1,149 +1,65 @@
 {
- "naam": "Avondbriefing",
- "datum": "2026-11-22",
+ "naam": "Ochtendbriefing",
+ "datum": "2026-11-23",
  "blokken": [
-  {
-   "id": "duiding",
-   "titel": "Duiding",
-   "emoji": "🧵",
-   "items": [],
-   "duiding": [
-    {
-     "titel": "Reeks hacks bij Trumps FBI",
-     "tekst": "Trump speelt de tweede hack bij de FBI in korte tijd naar beneden en ziet er zelfs mogelijke voordelen in. Tegelijk vertrekt zijn belangrijkste adviseur voor digitale veiligheid, volgens Trouw na een reeks incidenten. Het zijn twee kranten, maar het gaat om dezelfde reeks.",
-     "verwijzingen": [
-      {
-       "titel": "Trump bagatelliseert tweede FBI-hack in korte tijd en ziet zelfs mogelijke positieve gevolgen",
-       "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
-       "bron": "de Volkskrant",
-       "tijd": "03:38"
-      },
-      {
-       "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
-       "link": "https://www.trouw.nl/buitenland/live-vs-trump-ziet-mogelijke-positieve-gevolgen-van-tweede-fbi-hack-in-korte-tijd~bbc0cf3d/",
-       "bron": "Trouw",
-       "tijd": "03:47"
-      }
-     ],
-     "geschreven": "07:00"
-    },
-    {
-     "titel": "Kerkasiel in Kampen voorbij",
-     "tekst": "Na twee jaar kerkasiel in de Open Hof in Kampen verlaat het Oezbeekse gezin Babayants de kerk. De familie mag in Nederland een nieuwe procedure beginnen om hier te mogen blijven. In Trouw komt de familie zelf aan het woord. Ze zegt vooral de vrijwilligers te gaan missen.",
-     "verwijzingen": [
-      {
-       "titel": "De familie Babayants neemt afscheid van gemeente Kampen. ‘Ik ga alle vrijwilligers heel erg missen’",
-       "link": "https://www.trouw.nl/binnenland/de-familie-babayants-neemt-afscheid-van-gemeente-kampen-ik-ga-alle-vrijwilligers-heel-erg-missen~b6f9adec8/",
-       "bron": "Trouw",
-       "tijd": "18:26"
-      },
-      {
-       "titel": "Na twee jaar stopt kerkasiel Kampen: gezin Babayants verlaat kerk",
-       "link": "https://1zwolle.nl/nieuws/216879/na-twee-jaar-stopt-kerkasiel-kampen-gezin-babayants-verlaat-kerk.html",
-       "bron": "Weblog Zwolle",
-       "tijd": "14:33"
-      }
-     ],
-     "geschreven": "07:00"
-    },
-    {
-     "titel": "Minder uitgaan, ook in Zwolle",
-     "tekst": "Volgens het Trimbos-instituut gaan steeds minder jongeren tot diep in de nacht dansen. In Zwolle is te zien wat er met zo'n plek kan gebeuren. Waar vroeger heel de stad uitging, staan nu 52 zorgappartementen van Frion, en er komt een dagbesteding.",
-     "verwijzingen": [
-      {
-       "titel": "Dansen tot diep in de nacht? Jongeren kiezen steeds vaker iets anders",
-       "link": "https://nos.nl/l/2640463",
-       "bron": "NOS",
-       "tijd": "19:15"
-      },
-      {
-       "titel": "Gretha (45) bakt straks appeltaarten op plek waar heel Zwolle ooit uitging",
-       "link": "https://www.destentor.nl/zwolle/gretha-45-bakt-straks-appeltaarten-op-plek-waar-heel-zwolle-ooit-uitging~af8c388c/",
-       "bron": "de Stentor",
-       "tijd": "18:30"
-      }
-     ],
-     "geschreven": "07:00"
-    }
-   ],
-   "aantal": 3
-  },
   {
    "id": "internationaal",
    "titel": "Internationaal",
    "emoji": "🌍",
    "items": [
     {
-     "titel": "Droneaanval op Russisch schip in Libische haven, schade onbekend",
-     "context": "In de haven van de Libische stad Benghazi heeft een explosie een Russisch schip beschadigd. Volgens de eerste berichten van de plaatselijke machthebbers ging het om een droneaanval. Wie daarachter zit, is nog niet bekend. Op beelden die zijn genomen van de aanval gisteravond is een grote explosie te zien, voorafgegaan door schoten van het afweergeschut. Of het daadwerkelijk gaat om een aanval uit ",
+     "titel": "Duizenden bezoekers concert Manchester geëvacueerd om onbekende stof",
+     "context": "Bij een concert in Manchester zijn zondagavond 12.000 bezoekers geëvacueerd. Er was volgens de politie een onbekende stof vrijgekomen. Het gebeurde tijdens een concert van de Amerikaanse rapper Don Toliver in de Co-op Live Arena. Ambulancepersoneel onderzocht ter plaatse ruim vijftig mensen. Sommigen hadden last van hun ogen of luchtwegen. Een persoon is voor onderzoek naar het ziekenhuis gebracht",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640603",
+     "link": "https://nos.nl/l/2640662",
      "bron": "NOS",
-     "tijd": "16:15",
-     "sorteer": "2026-11-22T16:15:57+01:00"
+     "tijd": "05:52",
+     "sorteer": "2026-11-23T05:52:39+01:00"
     },
     {
-     "titel": "Kerkgangers onwel door koolmonoxidevergiftging in Duitse kasteelkapel",
-     "context": "In de Duitse deelstaat Beieren zijn bijna twintig kerkgangers onwel geworden door koolmonoxidevergiftiging. Dat gebeurde in de kapel van kasteel Hohes Schloss in de gemeente Bad Grönenbach, meldt de Allgäuer Zeitung . Volgens de krant was er een mis gaande in het pand, dat naast het kasteel ligt. Meerdere kerkgangers vielen flauw. Vier mensen zijn er slecht aan toe, zeggen de hulpdiensten tegen pe",
+     "titel": "'Dodental brand fabriek Indonesië stijgt naar 24'",
+     "context": "Na de brand in een snoepfabriek in Indonesië zijn inmiddels 24 doden geteld. Dat heeft een adviseur van president Prabowo tegen journalisten verteld. Eerder werd gemeld dat er 24 lijkzakken naar buiten waren gebracht. Hulpdiensten ter plekke konden niet bevestigen dat dat betekent dat er 24 doden zijn; mogelijk zaten er lichaamsdelen van slachtoffers in verschillende zakken. Nu zegt de adviseur du",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640598",
+     "link": "https://nos.nl/l/2640661",
      "bron": "NOS",
-     "tijd": "16:00",
-     "sorteer": "2026-11-22T16:00:37+01:00"
+     "tijd": "05:17",
+     "sorteer": "2026-11-23T05:17:41+01:00"
     },
     {
-     "titel": "Russisch vrachtschip na droneaanval nog altijd in brand op Oostzee",
-     "context": "Een Russisch vrachtschip dat gisteren in de Oostzee door drones werd geraakt, staat nog altijd in brand. Het is nog niet gelukt om de brand te blussen, meldt de Finse kustwacht vandaag. Volgens het Finse leger is het schip, de Sparta II, waarschijnlijk door Oekraïne aangevallen. Het schip dreef later af naar Finse wateren, waar het nu voor anker ligt. De zestien bemanningsleden werden geëvacueerd ",
+     "titel": "'Alice Huang tijdens affaire met Nvidia-chef ruim een jaar in contact met spionagedienst'",
+     "context": "De Chinese vrouw die een affaire had met de gevallen Nvidia-topman Jensen Huang had meer dan een jaar lang contact met China's spionagedienst. Dat meldt The New York Times op basis van bronnen bij veiligheidsdiensten. De vrouw, Alice Huang, stond in contact met een functionaris van het Chinese ministerie van Staatsveiligheid vanaf het voorjaar van 2025 tot de herfst van dit jaar. In die periode ha",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640587",
+     "link": "https://nos.nl/l/2640659",
      "bron": "NOS",
-     "tijd": "14:43",
-     "sorteer": "2026-11-22T14:43:15+01:00"
+     "tijd": "02:14",
+     "sorteer": "2026-11-23T02:14:54+01:00"
     },
     {
-     "titel": "Zuid-Koreaanse onderwijsminister treedt af na examenschandaal",
-     "context": "De Zuid-Koreaanse minister van Onderwijs is afgetreden nadat er onrust was ontstaan over plotselinge anti-spiekmaatregelen bij toelatingsexamen voor de universiteit de Suneung , het belangrijkste examen in het land. Tijdens het examen werden landelijke noodwaarschuwingen naar telefoons gestuurd om scholieren op te sporen die hun telefoon bij zich hadden. Ook werd er gecontroleerd op verborgen came",
+     "titel": "Dodental Russische aanval op woongebouw bij Kyiv opgelopen tot 11",
+     "context": "Bij de Russische aanval op een voorstad van Kyiv van gisterochtend zijn naar nu blijkt meerdere doden gevallen. Na urenlange bergingswerkzaamheden zijn zeker elf lichamen gevonden in het puin van het ingestorte wooncomplex in Dymer, meldt militair gouverneur Tkatsjenko. Daarnaast raakten zes mensen gewond. Er wordt nog altijd gezocht onder het puin, waar nog mensen zouden liggen. De BBC ging ter p",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640585",
+     "link": "https://nos.nl/l/2640658",
      "bron": "NOS",
-     "tijd": "14:20",
-     "sorteer": "2026-11-22T14:20:18+01:00"
+     "tijd": "01:20",
+     "sorteer": "2026-11-23T01:20:52+01:00"
     },
     {
-     "titel": "Klimaattop in Turkije loopt uit op mislukking: voor het eerst in jaren geen slotakkoord",
-     "context": "De klimaattop in het Turkse Antalya is uitgelopen op een mislukking. Het lukt de ruim 190 aanwezige landen niet het eens te worden over grote vraagstukken. Inhoudelijke meningsverschillen over bijvoorbeeld het afscheid nemen van olie, steenkool en aardgas bleken te groot. De vergadering is nog bezig, maar EU-klimaatcommissaris Hoekstra noemde de top in Antalya \"evident mislukt\". Hij zei dat de hui",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640580",
-     "bron": "NOS",
-     "tijd": "13:40",
-     "sorteer": "2026-11-22T13:40:54+01:00"
-    },
-    {
-     "titel": "Drie doden door Israëlische aanval op voedseltruck in Gaza",
+     "titel": "Oxfam: Gazastrook ernstig vervuild geraakt door Israëlisch geweld",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/drie-doden-door-israelische-aanval-op-voedseltruck-in-gaza~bd96d2f5/",
+     "link": "https://www.volkskrant.nl/buitenland/oxfam-gazastrook-ernstig-vervuild-geraakt-door-israelisch-geweld~bd96d2f5/",
      "bron": "de Volkskrant",
-     "tijd": "13:25",
-     "sorteer": "2026-11-22T12:25:00+00:00"
+     "tijd": "01:08",
+     "sorteer": "2026-11-23T00:08:00+00:00"
     },
     {
-     "titel": "Dode en vermisten na hevige Russische drone­aanval op apparte­men­ten­com­plex",
+     "titel": "Haarlok van Washington geveild",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/dode-en-vermisten-na-hevige-russische-drone-aanval-op-apparte-men-ten-com-plex~b11373d3a/",
-     "bron": "de Volkskrant",
-     "tijd": "13:10",
-     "sorteer": "2026-11-22T12:10:00+00:00"
-    },
-    {
-     "titel": "Denkers in Parijs zijn het eens: de revolutie begint bij eerlijke belastingen",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/denkers-in-parijs-zijn-het-eens-de-revolutie-begint-bij-eerlijke-belastingen~bb73fb73/",
+     "link": "https://www.trouw.nl/buitenland/haarlok-van-washington-geveild~b11d2d4e/",
      "bron": "Trouw",
-     "tijd": "16:08",
-     "sorteer": "2026-11-22T15:08:00+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-22T21:00:36+00:00"
     }
    ]
   },
@@ -153,49 +69,40 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Volop zon, maar het wordt wel koud deze week",
-     "context": "Na een frisse ochtend met wat mist was het vandaag een stralend zonnige dag. Daar gaan we er komende week meer van krijgen. In de nacht van zondag op maandag kan er opnieuw mist ontstaan. Het zuiden is hier het meest gevoelig voor. In de loop van de ochtend trekt de mist op. Op sommige plaatsen gaat dit sneller dan op andere plaatsen, waardoor er best grote verschillen kunnen zijn in de hoeveelhei",
+     "titel": "Nederlanders stoken minder gas, maar gebruiken meer stroom voor verwarming",
+     "context": "Op de eerste koude dagen van november hebben huishoudens gemiddeld tot 10 procent minder gas verbruikt dan vorig jaar in november. Dat blijkt uit cijfers van energiemaatschappij Essent. In plaats daarvan werd juist meer stroom gebruikt, tot wel 40 procent. Dat betekent dat er meer gebruikgemaakt werd van elektrische kachels, infraroodpanelen of airco's als verwarming. Essent verwacht dat deze tren",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640621",
+     "link": "https://nos.nl/l/2640666",
      "bron": "NOS",
-     "tijd": "17:33",
-     "sorteer": "2026-11-22T17:33:40+01:00"
+     "tijd": "06:36",
+     "sorteer": "2026-11-23T06:36:12+01:00"
     },
     {
-     "titel": "Werkzaamheden aan Galecopperbrug bij Utrecht eerder klaar, brug morgen weer open",
-     "context": "De Galecopperbrug op de A12 richting Arnhem gaat morgen om 05.00 uur weer open, meldt Rijkswaterstaat. Dat is een dag eerder dan gepland. De brug bij Utrecht over het Amsterdam-Rijnkanaal is sinds vrijdagavond dicht vanwege herstelwerkzaamheden aan twee stalen hoofdliggers, dat zijn horizontaal dragende constructiebalken. De vervroegde heropening is goed nieuws vanwege de stakingen in het streekve",
+     "titel": "Minder bussen en treinen: week begint met staking streekvervoer",
+     "context": "Gaat bus 304 van Apeldoorn, via onder meer Wenum, Emst en Heerde naar Zwolle? Of bus 26 van Akkrum via Aldeboarn, Gorredijk, Lippenhuizen naar Noordwolde? Reizigers moeten vandaag en morgen rekening houden met uitvallende ritten in het streekvervoer. Vakbonden FNV en CNV kondigden vorige week landelijke stakingen aan vanwege vastgelopen cao-onderhandelingen. Vandaag en morgen vallen daardoor stree",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640619",
+     "link": "https://nos.nl/l/2640660",
      "bron": "NOS",
-     "tijd": "17:30",
-     "sorteer": "2026-11-22T17:30:08+01:00"
+     "tijd": "04:00",
+     "sorteer": "2026-11-23T04:00:01+01:00"
     },
     {
-     "titel": "22/11 in Nieuwsuur: Klimaattop mislukt • Verslaafd aan chemseks • De muziekscene van Kyiv",
-     "context": "Geen slotakkoord na klimaattop De klimaattop in het Turkse Antalya is uitgelopen op een mislukking. Het lukt de ruim 190 aanwezige landen niet het eens te worden over het afscheid nemen van olie, steenkool en aardgas. EU-klimaatcommissaris Hoekstra noemde de top \"evident mislukt\". Waarom lukt het landen niet om hun meningsverschillen te overbruggen? In de studio schuift onze klimaatverslaggever Ma",
+     "titel": "Bewoners redden de bruggen in Pekela: 'We hebben iets unieks bereikt'",
+     "context": "Ruim de helft van de 34 bruggen in Pekela dreigde te verdwijnen, maar dankzij bewoners worden ze nu een voor een opgeknapt. Zo blijft de infrastructuur intact en het onderhoud pakt nog goedkoper uit dan de gemeente had begroot. Hoe kan dat? Het Pekelerhoofddiep snijdt de Groningse veendorpen Oude Pekela, Nieuwe Pekela en Boven Pekela dwars doormidden. Voor het oversteken zijn de bewoners afhankeli",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640600",
+     "link": "https://nos.nl/l/2640638",
      "bron": "NOS",
-     "tijd": "16:07",
-     "sorteer": "2026-11-22T16:07:06+01:00"
+     "tijd": "19:45",
+     "sorteer": "2026-11-22T19:45:36+01:00"
     },
     {
-     "titel": "Roltrap in Amsterdam slaat op hol, acht mensen gewond",
-     "context": "In Amsterdam zijn acht mensen gewond geraakt door een op hol geslagen roltrap. Het ongeluk gebeurde iets voor 12.00 uur bij station Bijlmer Arena. Een getuige zegt tegen AT5 dat de roltrap plotseling een hard geluid maakte en op hoge snelheid naar beneden ging. \"Een stuk of vijf mensen zijn gevallen, voornamelijk ouderen. Ik zag iemand met een flinke hoofdwond en een ander bleef op de grond liggen",
+     "titel": "Jaitsen Singh (81) overleden, was langst gedetineerde Nederlander in buitenland",
+     "context": "Jaitsen Singh is vanochtend overleden in zijn cel in de gevangenis in Scheveningen. Dat meldt zijn advocaat namens de familie in een overlijdensbericht. Singh leed aan acute leukemie. De 81-jarige Singh werd in 1986 veroordeeld voor het laten vermoorden van zijn vrouw en stiefdochter. Hij kreeg 56 jaar gevangenisstraf tot levenslang. Tot dit jaar zat hij gevangen in de VS en was daarmee de langst ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640599",
+     "link": "https://nos.nl/l/2640625",
      "bron": "NOS",
-     "tijd": "16:05",
-     "sorteer": "2026-11-22T16:05:53+01:00"
-    },
-    {
-     "titel": "Burgemeester Halsema omzeilt internetblokkade India met boodschap voor ontvoerde Insiya",
-     "context": "Burgemeester Halsema van Amsterdam probeert een bevel van de Indiase rechtbank te omzeilen met een videoboodschap op sociale media over het naar India ontvoerde meisje Insiya. De boodschap, in het Engels, is eerder opgenomen in Mumbai tijdens Halsema's handelsmissie in India. De afgelopen weken kwam de zaak opnieuw in het nieuws door het vonnis van een Indiase rechter. Daarin werd zoekmachine Goog",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640576",
-     "bron": "NOS",
-     "tijd": "13:00",
-     "sorteer": "2026-11-22T13:00:36+01:00"
+     "tijd": "18:17",
+     "sorteer": "2026-11-22T18:17:07+01:00"
     },
     {
      "titel": "Partij voor de Dieren viert 20 jaar in de Tweede Kamer als 'luis in de pels'",
@@ -207,31 +114,31 @@
      "sorteer": "2026-11-22T15:37:15+01:00"
     },
     {
-     "titel": "Met prijs voor homo-acceptatie roeien homoseksuele katholieken tegen de stroom in",
+     "titel": "Kamerleden: nieuwe wet moet ‘mensonterende’ uitbuiting van buitenlandse draagmoeders voorkomen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/met-prijs-voor-homo-acceptatie-roeien-homoseksuele-katholieken-tegen-de-stroom-in~b4d54bce/",
+     "link": "https://www.volkskrant.nl/binnenland/kamerleden-nieuwe-wet-moet-mensonterende-uitbuiting-van-buitenlandse-draagmoeders-voorkomen~b249d859/",
      "bron": "de Volkskrant",
-     "tijd": "17:43",
-     "sorteer": "2026-11-22T16:43:28+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-23T04:00:45+00:00"
     },
     {
-     "titel": "Jaitsen Singh (81) overleden, gezicht van in de steek gelaten Nederlandse gevangenen in het buitenland",
+     "titel": "Woningcorporaties bouwen steeds meer sociale huurwoningen, maar moeten daarvoor steeds meer lenen",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/mensen/jaitsen-singh-81-overleden-gezicht-van-in-de-steek-gelaten-nederlandse-gevangenen-in-het-buitenland~b3e2da80/",
+     "link": "https://www.volkskrant.nl/binnenland/woningcorporaties-bouwen-steeds-meer-sociale-huurwoningen-maar-moeten-daarvoor-steeds-meer-lenen~b0085522/",
      "bron": "de Volkskrant",
-     "tijd": "17:10",
-     "sorteer": "2026-11-22T16:10:00+00:00"
+     "tijd": "05:00",
+     "sorteer": "2026-11-23T04:00:44+00:00"
     },
     {
-     "titel": "De familie Babayants neemt afscheid van gemeente Kampen. ‘Ik ga alle vrijwilligers heel erg missen’",
+     "titel": "Zonder viool kon wonderkind Nello Mirando (1956-2026) niet leven",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/de-familie-babayants-neemt-afscheid-van-gemeente-kampen-ik-ga-alle-vrijwilligers-heel-erg-missen~b6f9adec8/",
+     "link": "https://www.trouw.nl/binnenland/zonder-viool-kon-wonderkind-nello-mirando-1956-2026-niet-leven~b2e38cc8/",
      "bron": "Trouw",
-     "tijd": "18:26",
-     "sorteer": "2026-11-21T17:26:00+00:00"
+     "tijd": "22:00",
+     "sorteer": "2026-11-22T21:00:38+00:00"
     }
    ]
   },
@@ -241,49 +148,49 @@
    "emoji": "📍",
    "items": [
     {
-     "titel": "Motorliefhebber Steven (59) rijdt trots naar de dealer, maar daar komt hij nooit aan",
-     "context": "Steven de Bruijn (59) rijdt naar de motordealer, voor een grote beurt aan zijn geliefde Honda. Op de N36 bij Diffelen wordt hij vermoedelijk onwel en komt op de verkeerde weghelft terecht.",
+     "titel": "Grote hinder in het streekvervoer: buschauffeurs en machinisten staken twee dagen lang",
+     "context": "Reizigers in het streekvervoer moeten vandaag en morgen rekening houden met grote vertragingen en uitvallende ritten. Chauffeurs en machinisten leggen op deze dagen het werk neer.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/hardenberg/motorliefhebber-steven-59-rijdt-trots-naar-de-dealer-maar-daar-komt-hij-nooit-aan~a3417e72/",
+     "link": "https://www.destentor.nl/binnenland/grote-hinder-in-het-streekvervoer-buschauffeurs-en-machinisten-staken-twee-dagen-lang~a5e0a5ad/",
      "bron": "de Stentor",
-     "tijd": "15:20",
-     "sorteer": "2026-11-22T14:20:00+00:00"
+     "tijd": "02:48",
+     "sorteer": "2026-11-23T01:48:00+00:00"
     },
     {
-     "titel": "Weekoverzicht: Mats’ baan is kerstversiering ophangen en speeddaten voor nieuwe vrienden",
-     "context": "Drukke week gehad en het nieuws gemist? In dit overzicht zie je welke verhalen je echt even moet lezen.",
+     "titel": "Wie de prijzen in het café van Anouk ziet, twijfelt meteen. Is dit echt wat een halve liter bier kost???",
+     "context": "Een halve liter bier voor 4,90 euro en een cola voor 2,20 euro. Een groot café in Zwolle is met de prijzen tien jaar terug in de tijd gegaan. Het zorgde voor veel drukte, maar wat voor gevoel overheerst na het zien van de rekening?",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/weekoverzicht-mats-baan-is-kerstversiering-ophangen-en-speeddaten-voor-nieuwe-vrienden~a53b9595/",
+     "link": "https://www.destentor.nl/zwolle/wie-de-prijzen-in-het-cafe-van-anouk-ziet-twijfelt-meteen-is-dit-echt-wat-een-halve-liter-bier-kost~a4dde552/",
      "bron": "de Stentor",
-     "tijd": "14:30",
-     "sorteer": "2026-11-22T13:30:50+00:00"
+     "tijd": "20:00",
+     "sorteer": "2026-11-22T19:00:23+00:00"
     },
     {
-     "titel": "In alle vreugde rond Dylan Mbayo mag dit moment bij PEC Zwolle niet onderbelicht blijven",
-     "context": "Natuurlijk gaat het na de 1-3 zege van PEC Zwolle op Telstar veel over Dylan Mbayo. De vleugelaanvaller is met twee doelpunten de grote man, maar de inbreng van Sydney van Hooijdonk mag niet onbenoemd blijven.",
+     "titel": "Inge eet bijna hele jaar uit zelfoogsttuin: ‘Goedkoper, gezonder, lekkerder en ik ben minder afhankelijk’",
+     "context": "Inge André had twintig jaar lang af en aan moestuinen op volkstuinverenigingen. Elke oogst die lukte, was mooi meegenomen. Inmiddels loopt ze een jaar rond bij Zelfoogsttuin de Spoolderberg in Zwolle. Sindsdien koopt ze praktisch geen groente meer in de supermarkt.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/pec-zwolle/in-alle-vreugde-rond-dylan-mbayo-mag-dit-moment-bij-pec-zwolle-niet-onderbelicht-blijven~a0482d07/",
+     "link": "https://www.destentor.nl/zwolle/inge-eet-bijna-hele-jaar-uit-zelfoogsttuin-goedkoper-gezonder-lekkerder-en-ik-ben-minder-afhankelijk~a337bc9f/",
      "bron": "de Stentor",
-     "tijd": "11:12",
-     "sorteer": "2026-11-22T10:12:00+00:00"
+     "tijd": "18:30",
+     "sorteer": "2026-11-22T17:30:00+00:00"
     },
     {
-     "titel": "Oliebollen in Zwolle: bij deze kramen koop je ze vers uit het vet",
-     "context": "Of je nu eentje met of zonder krenten wil, de laatste maanden van het jaar kun je in Zwolle terecht voor oliebollen. Waar je de gefrituurde lekkernij haalt, zetten we voor je op een rij.",
+     "titel": "Zijn buren merken niks, maar op zijn slaapkamer in Zwolle maakt Elikia (25) hits met 30 miljoen streams",
+     "context": "De jonge gast die hier vol zelfvertrouwen in de camera zingt, was bij Ajax ooit aanvoerder van Ryan Gravenberch en Jurriën Timber. Nu bouwt Elikia Mbinga (25) aan zijn muziekdroom. Hij haalde al meer dan 30 miljoen streams, en legt de basis op zijn slaapkamer.",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/oliebollen-in-zwolle-bij-deze-kramen-koop-je-ze-vers-uit-het-vet~acb01536/",
+     "link": "https://www.destentor.nl/zwolle/zijn-buren-merken-niks-maar-op-zijn-slaapkamer-in-zwolle-maakt-elikia-25-hits-met-30-miljoen-streams~ad0a2f71/",
      "bron": "de Stentor",
-     "tijd": "10:00",
-     "sorteer": "2026-11-22T09:00:36+00:00"
+     "tijd": "18:10",
+     "sorteer": "2026-11-22T17:10:00+00:00"
     },
     {
-     "titel": "Haar overgrootvader ontwierp de Efteling, nu eert Francine (49) hem met zijn handgeslepen potlood",
-     "context": "Hij schilderde, illustreerde, maakte kalenders en kerstkaarten. En hij is een van de grondleggers van de Efteling. Anton Pieck was wereldberoemd, maar veel kinderen kennen hem niet. Daar wil achterkleindochter Francine Oonk (49) verandering in brengen.",
+     "titel": "Bij ’s-Heerenbroek wemelt het van de broers en dat is genieten in goede tijden",
+     "context": "‘s-Heerenbroek heeft misschien wel de opvallendste selectie van de derde klasse F, met talloze familielijntjes. Die bijzondere spelersgroep draait tot dusver verrassend mee in de top van de competitie, ook na de overwinning tegen buurman Olympia’28 (2-0).",
      "rubrieken": [],
-     "link": "https://www.destentor.nl/brummen/haar-overgrootvader-ontwierp-de-efteling-nu-eert-francine-49-hem-met-zijn-handgeslepen-potlood~a1624cd2/",
+     "link": "https://www.destentor.nl/regio-zwolle/bij-s-heerenbroek-wemelt-het-van-de-broers-en-dat-is-genieten-in-goede-tijden~a9807de6/",
      "bron": "de Stentor",
-     "tijd": "10:00",
-     "sorteer": "2026-11-22T09:00:00+00:00"
+     "tijd": "18:00",
+     "sorteer": "2026-11-22T17:00:00+00:00"
     },
     {
      "titel": "Alzheimer Café Zwolle houdt kerstverrassingsavond",
@@ -300,7 +207,7 @@
      "sorteer": "2026-11-22T13:35:00+00:00"
     },
     {
-     "titel": "Auto raakt van de weg en bots tegen boom",
+     "titel": "Auto raakt van de weg en botst tegen boom",
      "context": "Op de A28 van Amersfoort richting Zwolle, net voor de IJsselbrug, is zondagmorgen een Mercedes van de weg geraakt. De auto reed een flink stuk ... Lees meer",
      "rubrieken": [
       "112",
@@ -420,7 +327,7 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "18:00",
+    "bijgewerkt": "07:00",
     "uitslagen": [
      {
       "thuis": "FC Twente",
@@ -429,7 +336,7 @@
       "tijd": "12:15",
       "bezig": "",
       "pec": false,
-      "wanneer": "vandaag 12:15"
+      "wanneer": "gisteren 12:15"
      },
      {
       "thuis": "Ajax",
@@ -438,7 +345,7 @@
       "tijd": "14:30",
       "bezig": "",
       "pec": false,
-      "wanneer": "vandaag 14:30"
+      "wanneer": "gisteren 14:30"
      },
      {
       "thuis": "Sparta",
@@ -447,16 +354,16 @@
       "tijd": "14:30",
       "bezig": "",
       "pec": false,
-      "wanneer": "vandaag 14:30"
+      "wanneer": "gisteren 14:30"
      },
      {
       "thuis": "Go Ahead Eagles",
       "uit": "Fortuna",
       "score": "0 - 1",
       "tijd": "16:45",
-      "bezig": "56'",
+      "bezig": "",
       "pec": false,
-      "wanneer": "vandaag 16:45"
+      "wanneer": "gisteren 16:45"
      },
      {
       "thuis": "NEC",
@@ -465,7 +372,7 @@
       "tijd": "16:30",
       "bezig": "",
       "pec": false,
-      "wanneer": "gisteren 16:30"
+      "wanneer": "zaterdag 16:30"
      },
      {
       "thuis": "FC Utrecht",
@@ -474,7 +381,7 @@
       "tijd": "18:45",
       "bezig": "",
       "pec": false,
-      "wanneer": "gisteren 18:45"
+      "wanneer": "zaterdag 18:45"
      },
      {
       "thuis": "Feyenoord",
@@ -483,7 +390,7 @@
       "tijd": "18:45",
       "bezig": "",
       "pec": false,
-      "wanneer": "gisteren 18:45"
+      "wanneer": "zaterdag 18:45"
      },
      {
       "thuis": "FC Groningen",
@@ -492,7 +399,7 @@
       "tijd": "21:00",
       "bezig": "",
       "pec": false,
-      "wanneer": "gisteren 21:00"
+      "wanneer": "zaterdag 21:00"
      },
      {
       "thuis": "Telstar",
@@ -501,7 +408,7 @@
       "tijd": "21:00",
       "bezig": "",
       "pec": true,
-      "wanneer": "gisteren 21:00"
+      "wanneer": "zaterdag 21:00"
      }
     ],
     "stand": [
@@ -556,9 +463,9 @@
      {
       "plek": "7",
       "team": "Fortuna",
-      "gespeeld": "12",
-      "punten": "20",
-      "saldo": "0",
+      "gespeeld": "13",
+      "punten": "23",
+      "saldo": "+1",
       "pec": false
      },
      {
@@ -572,9 +479,9 @@
      {
       "plek": "9",
       "team": "Go Ahead Eagles",
-      "gespeeld": "12",
+      "gespeeld": "13",
       "punten": "17",
-      "saldo": "-3",
+      "saldo": "-4",
       "pec": false
      },
      {
@@ -659,20 +566,12 @@
    "emoji": "🌿",
    "items": [
     {
-     "titel": "Natuurjournaal 22 november 2026",
-     "toelichting": "Notenkrakers hadden trek en zijn de merels in jouw buurt ook ineens schuwer?",
+     "titel": "Natuurjournaal 23 november 2026",
+     "toelichting": "Koekeloerende bruinvissen zien en sprot is schakel in de voedselketen in zee.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36076",
-     "sorteer": "2026-11-22T05:45:00+00:00"
-    },
-    {
-     "titel": "Levende thermometers op stadsbomen: hoe bewoners helpen stedelijke hitte in kaart te brengen",
-     "toelichting": "Wie op een hete zomerdag vanuit het groene buitengebied de stad in fietst, voelt het direct: tussen de stenen blijft de warmte hangen. Dit stedelijk hitte-eilandeffect vormt door klimaatverandering een groeiend risico vo",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36089",
-     "sorteer": "2026-11-22T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36077",
+     "sorteer": "2026-11-23T05:45:00+00:00"
     },
     {
      "titel": "Gekeerd getij voor spons als gewei",
@@ -681,6 +580,21 @@
      "tijd": "10:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36092",
      "sorteer": "2026-11-22T09:00:00+00:00"
+    },
+    {
+     "titel": "Nu in je tuin: agaatvlinderrupsen",
+     "toelichting": "Vorige week zat er in de tuin nog een agaatvlinder op de klimop te drinken, maar nu zit hij vast als rups ergens in de tuin. De rups overwintert en is in milde herfst- en winternachten actief en op allerlei plekken en op",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36090",
+     "sorteer": "2026-11-23T06:00:00+00:00"
+    },
+    {
+     "titel": "Ook vissen maken ruzie met hun broers en zussen",
+     "toelichting": "Ondanks dat velen van ons bekend zijn met gekibbel tussen broers en zussen, is een broer of zus ook een levenslange metgezel. Bij dieren is dit vaak anders. Bij sommige diersoorten gaat de rivaliteit een stuk verder: bro",
+     "bron": "Scientias",
+     "tijd": "19:00",
+     "link": "https://scientias.nl/ook-vissen-maken-ruzie-met-hun-broers-en-zussen/"
     },
     {
      "titel": "Nieuwe vondst biedt inzicht in de leefwijze van de Homo erectus",
@@ -697,41 +611,41 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 3.5,
-    "gevoel": 1.0,
-    "wind": "NO 2",
+    "nu": -4.8,
+    "gevoel": -4.8,
+    "wind": "WZW 1",
     "station": "Heino",
-    "bericht": "Het koelt flink af met kans op de eerste matige vorst van het seizoen. Komende week blijft het licht winters met in de nacht en ochtend vorst en ook dalende middagtemperaturen.Vanavond en vannacht zijn er brede opklaringen en blijft het droog. Met name in het zuiden en zuidoostenvormt zich (aanvriezende) mist.",
-    "vandaag": "Vanavond en vannacht zijn er brede opklaringen en blijft het droog.",
-    "temperatuur": "",
+    "bericht": "Afgelopen nacht kwam het voor het eerst dit seizoen in Twenthe tot matige vorst. Vandaag is het in Limburg eerst bewolkt. Verder schijnt de zon, met in het noorden ook enkele wolkenvelden.",
+    "vandaag": "Vandaag is het in Limburg eerst bewolkt. Vanmiddag is er veel zonneschijn en blijft het droog.",
+    "temperatuur": "Afgelopen nacht is het voor het eerst dit seizoen tot matige vorst gekomen, met in Twenthe een minimumtemperatuur van -6,2 graden.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: 0 tot 7 graden, droog, ruim 7 uur zon, wind uit het noorden, kracht 3.",
-     "max": 7,
-     "min": 0,
-     "regenkans": 7,
+     "zin": "Voor Zwolle zelf: -2 tot 6 graden, droog, ruim 7 uur zon, wind uit het westen, kracht 3.",
+     "max": 6,
+     "min": -2,
+     "regenkans": 0,
      "omschrijving": "bewolkt"
     },
-    "vooruit": "Perioden met zon en vrijwel overal droog. Vrij koud met in de nacht en ochtend overwegend lichte vorst. Later in de week meer bewolking.",
-    "omslag": "Nachtvorst in aantocht: morgen tot -3 graden.",
-    "min": "-1",
-    "max": "7",
+    "vooruit": "Perioden met zon en vrijwel overal droog. Vrij koud met in de nacht en ochtend overwegend lichte vorst en ook overdag steeds lagere temperaturen. In de loop van het weekeinde mogelijk wat neerslag en misschien wat zachter.",
+    "omslag": "Nachtvorst in aantocht: morgen tot -5 graden.",
+    "min": "-3",
+    "max": "5",
     "regenkans": 0,
     "zonkans": 60,
     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "-3",
-     "max": "5",
+     "min": "-5",
+     "max": "3",
      "regenkans": 0
     }
    }
   }
  ],
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
-  "blokken": 8,
-  "berichten": 38,
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "07:00",
+  "blokken": 7,
+  "berichten": 36,
   "problemen": []
  }
 }
