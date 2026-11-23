@@ -3,6 +3,53 @@
  "datum": "2026-11-23",
  "blokken": [
   {
+   "id": "duiding",
+   "titel": "Duiding",
+   "emoji": "🧵",
+   "items": [],
+   "duiding": [
+    {
+     "titel": "Staking raakt bus naar Zwolle",
+     "tekst": "De landelijke staking in het streekvervoer raakt Zwolle direct. De NOS noemt bus 304 van Apeldoorn via Heerde naar Zwolle als voorbeeld van een lijn waar ritten kunnen uitvallen. FNV en CNV staken vandaag en morgen omdat de onderhandelingen over de cao vastzitten. Volgens de Stentor leggen zowel chauffeurs als machinisten het werk neer.",
+     "verwijzingen": [
+      {
+       "titel": "Minder bussen en treinen: week begint met staking streekvervoer",
+       "link": "https://nos.nl/l/2640660",
+       "bron": "NOS",
+       "tijd": "04:00"
+      },
+      {
+       "titel": "Grote hinder in het streekvervoer: buschauffeurs en machinisten staken twee dagen lang",
+       "link": "https://www.destentor.nl/binnenland/grote-hinder-in-het-streekvervoer-buschauffeurs-en-machinisten-staken-twee-dagen-lang~a5e0a5ad/",
+       "bron": "de Stentor",
+       "tijd": "02:48"
+      }
+     ],
+     "geschreven": "07:26"
+    },
+    {
+     "titel": "Dodentallen staan nog niet vast",
+     "tekst": "In Indonesië en bij Kyiv is het aantal doden gestegen, maar op beide plekken staat het getal nog niet vast. In Indonesië komt de 24 van een adviseur van president Prabowo. Hulpdiensten konden eerder niet bevestigen dat 24 lijkzakken ook 24 doden betekenden. In Dymer bij Kyiv wordt nog onder het puin gezocht.",
+     "verwijzingen": [
+      {
+       "titel": "'Dodental brand fabriek Indonesië stijgt naar 24'",
+       "link": "https://nos.nl/l/2640661",
+       "bron": "NOS",
+       "tijd": "05:17"
+      },
+      {
+       "titel": "Dodental Russische aanval op woongebouw bij Kyiv opgelopen tot 11",
+       "link": "https://nos.nl/l/2640658",
+       "bron": "NOS",
+       "tijd": "01:20"
+      }
+     ],
+     "geschreven": "07:26"
+    }
+   ],
+   "aantal": 2
+  },
+  {
    "id": "internationaal",
    "titel": "Internationaal",
    "emoji": "🌍",
