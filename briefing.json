@@ -1,5 +1,5 @@
 {
- "naam": "Ochtendbriefing",
+ "naam": "Middagbriefing",
  "datum": "2026-11-24",
  "blokken": [
   {
@@ -55,8 +55,26 @@
    "emoji": "🌍",
    "items": [
     {
+     "titel": "Politici aangevallen in Duitsland, pepperspray in kantoor lokale Groenen",
+     "context": "Opnieuw zijn in Duitsland lokale politici aangevallen. Gisteravond werd een fractievergadering van de Groenen in Schwerte, bij Dortmund, met geweld verstoord. En dit weekend werd een politica van de liberale FDP in Berlijn aangevallen. Volgens de regionale omroep WDR brak gisteravond een gemaskerde persoon in bij een partijkantoor van de Groenen. Daar was op dat moment een fractiebijeenkomst met t",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640817",
+     "bron": "NOS",
+     "tijd": "11:45",
+     "sorteer": "2026-11-24T11:45:10+01:00"
+    },
+    {
+     "titel": "Ruimtetoestel BepiColombo had problemen bij aankomst bij Mercurius",
+     "context": "Het Europees-Japanse ruimtetoestel BepiColombo dat zaterdag aankwam bij de planeet Mercurius, blijkt problemen te hebben gehad bij de aankomst. De ruimtesonde ging onverwacht op stand-by, maar inmiddels vliegt hij veilig en in een stabiele baan rond de planeet, zegt de Europese ruimtevaartorganisatie ESA. Afgelopen weekend ging de sonde vlak na aankomst in de sluimerstand, waarbij alle niet-noodza",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640793",
+     "bron": "NOS",
+     "tijd": "08:28",
+     "sorteer": "2026-11-24T08:28:45+01:00"
+    },
+    {
      "titel": "Gisèle Pelicot onderneemt stappen tegen uitgeverij die naaktfoto's verspreidde",
-     "context": "De Franse vrouw Gisèle Pelicot gaat actie ondernemen tegen een uitgeverij die zonder haar toestemming naar meerdere media naaktfoto's en videobeelden stuurde die door haar ex-man waren gemaakt. De kleine uitgeverij Éditions Tinbad bracht in beperkte oplage een boek van psychoanalyticus Sabine Prokhoris uit waarin één deel is gewijd aan de zaak-Pelicot. In haar essay, dat deel uitmaakt van het boek",
+     "context": "Gisèle Pelicot gaat actie ondernemen tegen een uitgeverij die zonder haar toestemming naar meerdere media naaktfoto's en videobeelden stuurde die door haar ex-man waren gemaakt. De kleine uitgeverij Éditions Tinbad bracht in beperkte oplage een boek van psychoanalyticus Sabine Prokhoris uit waarin één deel is gewijd aan de zaak-Pelicot. In haar essay, dat deel uitmaakt van het boek, wordt de Franç",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640782",
      "bron": "NOS",
@@ -65,7 +83,7 @@
     },
     {
      "titel": "Onderzoeksteam zoekt via Opsporing Verzocht getuigen van massamoord Suriname in 1986",
-     "context": "In het opsporingsprogramma Opsporing Verzocht is gisteravond aandacht besteed aan de massamoord in 1986 in het Surinaamse dorpje Moiwana. Het Nederlandse Team Internationale Misdrijven (TIM) roept getuigen op om zich te melden. Militairen richtten in het dorpje een bloedbad aan: 39 onschuldige burgers werden doodgeschoten, voornamelijk vrouwen, maar ook kinderen (onder wie baby's) en ouderen. De m",
+     "context": "Bijna 40 jaar na de massamoord in het Surinaamse dorp Moiwana zijn Nederlandse politieonderzoekers op zoek naar getuigen. Gisteravond riepen ze in het programma Opsporing Verzocht mensen die meer weten over het bloedbad op om zich te melden. De moordpartij vond plaats tijdens de Binnenlandse Oorlog (1986-1992), toen er een strijd werd uitgevochten tussen het Nationaal Leger onder leiding van Desi ",
      "rubrieken": [],
      "link": "https://nos.nl/l/2640781",
      "bron": "NOS",
@@ -73,40 +91,22 @@
      "sorteer": "2026-11-24T02:26:10+01:00"
     },
     {
-     "titel": "NAVO stuurt radarvliegtuig naar Polen na vondst van resten Russische raketten",
-     "context": "De NAVO stuurt een speciaal radarvliegtuig naar Polen vanwege de Russische schendingen van het Poolse luchtruim vorige week . Volgens de Poolse openbaar aanklager zijn in het oosten van het land de resten gevonden van drie Russische kruisraketten, die daar vrijdag terecht zouden zijn gekomen. \"Dit was een gevaarlijk incident en Rusland draagt de volledige verantwoordelijkheid\", zegt een NAVO-woord",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640773",
-     "bron": "NOS",
-     "tijd": "22:19",
-     "sorteer": "2026-11-23T22:19:58+01:00"
-    },
-    {
-     "titel": "Drie gewonden onder wie een baby bij droneaanval op Colombiaanse politiebasis",
-     "context": "Drones met daarop explosieven hebben een politiebasis in de stad Cúcuta in het noorden van Colombia geraakt. Drie mensen, onder wie een baby, liepen bij de aanval verwondingen op. Zestig woningen raakten beschadigd. Het is onduidelijk wie er achter de aanval zit. In het gebied nabij de grens met Venezuela, waar de stad ligt, strijden verschillende gewapende groepen tegen elkaar. Vermoed wordt dat ",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640772",
-     "bron": "NOS",
-     "tijd": "22:13",
-     "sorteer": "2026-11-23T22:13:34+01:00"
-    },
-    {
-     "titel": "Trump dringt aan op versnelde uitvoering van de doodstraf, ondanks mislukte executies",
+     "titel": "Iran valt twee tankers in Hormuz aan, hoogste aantal maandelijkse aanvallen sinds begin oorlog",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
+     "link": "https://www.volkskrant.nl/buitenland/iran-valt-twee-tankers-in-hormuz-aan-hoogste-aantal-maandelijkse-aanvallen-sinds-begin-oorlog~b7968ae6/",
      "bron": "de Volkskrant",
-     "tijd": "05:30",
-     "sorteer": "2026-11-24T04:30:00+00:00"
+     "tijd": "12:11",
+     "sorteer": "2026-11-24T11:11:00+00:00"
     },
     {
-     "titel": "Nvidia-topman Jensen Huang heeft een beschermengel in het Witte Huis",
+     "titel": "VS vertragen levering van zestig Patriot-raketten aan Oekraïne, schrijft The Financial Times",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/nvidia-topman-jensen-huang-heeft-een-beschermengel-in-het-witte-huis~b285380a/",
+     "link": "https://www.volkskrant.nl/buitenland/vs-vertragen-levering-zestig-patriot-raketten-aan-oekraine-schrijft-the-financial-times~b34eb585/",
      "bron": "de Volkskrant",
-     "tijd": "03:50",
-     "sorteer": "2026-11-24T02:50:00+00:00"
+     "tijd": "10:49",
+     "sorteer": "2026-11-24T09:49:00+00:00"
     },
     {
      "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
@@ -125,40 +125,49 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Nederlandse delegatie praat in India ook over terugkeer andere kinderen",
-     "context": "Een Nederlandse delegatie hoopt deze week in India niet alleen vooruitgang te boeken bij de terugkeer van de ontvoerde Insiya, maar ook bij die van andere kinderen. Dat bevestigt het Nederlandse ministerie van Buitenlandse Zaken aan Nieuwsuur. Volgens het ministerie zijn er meerdere verzoeken ingediend om kinderen vanuit India naar Nederland terug te halen. Om hoeveel kinderen het gaat en of het i",
+     "titel": "Industrie komt ook met statiegeldregeling voor grote sap- en melkflessen",
+     "context": "De brancheorganisatie voor de verpakkingsindustrie begint in de loop van volgend jaar met de invoering van een statiegeldsysteem voor plastic sap- en zuivelflessen tot drie liter. Die flessen vallen nu nog buiten de statiegeldregeling die in 2021 voor kleinere plastic flessen werd ingevoerd. Brancheorganisatie Verpact komt daarmee tegemoet aan de eis van minister Van Veldhoven van Klimaat en Groen",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640780",
+     "link": "https://nos.nl/l/2640813",
      "bron": "NOS",
-     "tijd": "23:49",
-     "sorteer": "2026-11-23T23:49:49+01:00"
+     "tijd": "11:00",
+     "sorteer": "2026-11-24T11:00:08+01:00"
     },
     {
-     "titel": "Russische ambassade in Den Haag vraagt om opheldering betrokkenheid Destinus-personeel",
-     "context": "De Russische ambassade in Den Haag heeft officieel verhaal gehaald bij het ministerie van Buitenlandse Zaken over het in Nederland gevestigde defensiebedrijf Destinus. De ambassade heeft om opheldering gevraagd over \"de mogelijke betrokkenheid van personeel van het in Hengelo gevestigde bedrijf Destinus bij de aanslagen op de Russische Federatie\", laat de ambassade weten op X. Vorige week kwam de ",
+     "titel": "Geen bewijs voor psychische stoornis bij verdachte van moord op Lisa",
+     "context": "Deskundigen kunnen geen psychische stoornis vaststellen bij de verdachte van de moord op de 17-jarige Lisa uit Abcoude. Dat bleek vandaag op de vijfde inleidende rechtszitting in de rechtbank van Amsterdam. Het Openbaar Ministerie had opdracht gegeven aan het Pieter Baan Centrum om dat te onderzoeken. De verdachte, die zichzelf Chris Jude noemt, heeft gezegd dat hij stemmen in zijn hoofd had die h",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640770",
+     "link": "https://nos.nl/l/2640808",
      "bron": "NOS",
-     "tijd": "21:43",
-     "sorteer": "2026-11-23T21:43:53+01:00"
+     "tijd": "10:29",
+     "sorteer": "2026-11-24T10:29:03+01:00"
     },
     {
-     "titel": "Mislukte klimaattop maakt milieustudenten juist strijdbaar: 'Motivatie om door te gaan'",
-     "context": "Docent milieurecht Esther de Jong heeft haar les gisteravond helemaal omgegooid, vertelt ze de dag na de mislukte klimaattop . Voor de meeste mensen werkt zoiets demotiverend, maar dat geldt niet voor haar studenten, vertellen ze. \"Het vlammende betoog dat de Panamese milieuminister eerder tijdens de top hield, greep me enorm aan\", zegt de hbo-docent. De minister sprak over de negatieve gevolgen v",
+     "titel": "Natuurijsbanen geopend: marathonschaatsster verpulvert werelduurrecord",
+     "context": "Op zeker drie natuurijsbanen in het land kan vanochtend worden geschaatst. Onder meer in De Lier, Doorn en Winterswijk kan de schaatspret beginnen. In De Lier hebben de ijsmeesters van ijsvereniging Hard Gaat-ie de hele nacht gewerkt om een laagje ijs op de baan te krijgen, meldt Omroep West . Om 08.30 uur ging daar de ijsbaan open. \"Het is ons gelukt\", meldt de Doornsche IJsclub enthousiast op Fa",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640769",
+     "link": "https://nos.nl/l/2640805",
      "bron": "NOS",
-     "tijd": "21:37",
-     "sorteer": "2026-11-23T21:37:21+01:00"
+     "tijd": "09:48",
+     "sorteer": "2026-11-24T09:48:24+01:00"
     },
     {
-     "titel": "Kabinet wil wolven afschieten, maar experts kritisch: 'Onderbouwing ontbreekt'",
-     "context": "Het afschieten van de wolf in Nederland wordt mogelijk, zegt staatssecretaris Silvio Erkens (VVD) van Landbouw, Visserij, Voedselzekerheid en Natuur vandaag in een brief aan de Tweede Kamer. Tot dat principebesluit komt hij op basis van Italiaans onderzoek naar de Nederlandse wolvenpopulatie. Deskundigen verbazen zich over de plannen van Erkens en zijn kritisch op de studie, die de Italiaanse onde",
+     "titel": "Onderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen",
+     "context": "De nieuwe HPV-vaccinatie kan in de toekomst kanker voorkomen bij naar schatting bijna 13.000 mensen. Dat blijkt uit onderzoek van het Integraal Kankercentrum Nederland (IKNL) en het Erasmus MC. Onderzoekers rekenden uit dat het voordeel te halen valt bij kinderen die nu tussen de 0 en 9 jaar zijn. Zij kunnen in het jaar dat ze 10 worden twee prikken krijgen, waarmee op latere leeftijd kankerdiagno",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640767",
+     "link": "https://nos.nl/l/2640796",
      "bron": "NOS",
-     "tijd": "21:09",
-     "sorteer": "2026-11-23T21:09:36+01:00"
+     "tijd": "09:09",
+     "sorteer": "2026-11-24T09:09:01+01:00"
+    },
+    {
+     "titel": "BumaStemra gaat strijd aan met AI-muziek en dreigt met rechtszaak",
+     "context": "Muzikanten noemen het een grote bedreiging voor hun vak: de verkoop van AI-gegenereerde muziek, gebaseerd op hun werk, zonder dat zij er een cent voor krijgen. In de VS en Duitsland zijn al rechtszaken aangespannen tegen dit soort AI-platforms, met succes. Nu dreigt voor het eerst ook BumaStemra, de Nederlandse belangenbehartiger van muziekmakers, met juridische stappen. Michiel Laan, commercieel ",
+     "rubrieken": [],
+     "link": "https://nos.nl/l/2640788",
+     "bron": "NOS",
+     "tijd": "07:00",
+     "sorteer": "2026-11-24T07:00:01+01:00"
     },
     {
      "titel": "Honden lijken misschien op hun baasje, maar ze passen er niet altijd bij",
@@ -170,31 +179,13 @@
      "sorteer": "2026-11-24T06:26:44+01:00"
     },
     {
-     "titel": "Diederik Gommers stapt per direct op als afdelingshoofd na kritisch rapport over werkcultuur op ic Erasmus MC",
+     "titel": "Chef-kok wil gezonde lunch op elke basisschool: ‘Hoe fijn is het als er op school al de nodige wortels en paprika in gaan’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/diederik-gommers-stapt-per-direct-op-als-afdelingshoofd-na-kritisch-rapport-over-werkcultuur-op-ic-erasmus-mc~b0f6d1be/",
+     "link": "https://www.volkskrant.nl/binnenland/chef-kok-wil-gezonde-lunch-op-elke-basisschool-hoe-fijn-is-het-als-er-op-school-al-de-nodige-wortels-en-paprika-in-gaan~b2c45b36/",
      "bron": "de Volkskrant",
-     "tijd": "19:13",
-     "sorteer": "2026-11-23T18:13:00+00:00"
-    },
-    {
-     "titel": "Voor de stakers in het streekvervoer is het menens: ‘Na drie dagen werken lig je gewoon dood in de hoek’",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/voor-de-stakers-in-het-streekvervoer-is-het-menens-na-drie-dagen-werken-lig-je-gewoon-dood-in-de-hoek~b26c8ff9/",
-     "bron": "de Volkskrant",
-     "tijd": "19:09",
-     "sorteer": "2026-11-23T18:09:00+00:00"
-    },
-    {
-     "titel": "Inspectie grijpt in bij Erasmus MC vanwege ‘kwetsbare’ werkcultuur, Diederik Gommers vertrekt",
-     "context": "",
-     "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/inspectie-grijpt-in-bij-erasmus-mc-vanwege-kwetsbare-werkcultuur-diederik-gommers-vertrekt~b90f83b2/",
-     "bron": "Trouw",
-     "tijd": "20:07",
-     "sorteer": "2026-11-23T19:07:00+00:00"
+     "tijd": "10:45",
+     "sorteer": "2026-11-24T09:45:29+00:00"
     }
    ]
   },
@@ -203,6 +194,33 @@
    "titel": "Zwolle en omgeving",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Sallandse Heuvelrug en Lemelerberg gaan op de schop in strijd tegen natuurbranden",
+     "context": "De Sallandse Heuvelrug en de Lemelerberg gaan op de schop. Het risico op een onbeheersbare natuurbrand is er namelijk erg groot. Het is de start van een groot project voor heel Overijssel. De provincie wil ook in andere natuurgebieden de kans op een onblusbare vuurzee verkleinen.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/binnenland/sallandse-heuvelrug-en-lemelerberg-gaan-op-de-schop-in-strijd-tegen-natuurbranden~a46b9718/",
+     "bron": "de Stentor",
+     "tijd": "08:30",
+     "sorteer": "2026-11-24T07:30:00+00:00"
+    },
+    {
+     "titel": "Nieuwe pop-upstore in hartje Zwolle: ‘Bij succes blijven we’",
+     "context": "Als je voor Sinterklaas of kerst nog sieraden of accessoires nodig hebt, kun je sinds half november op een nieuw adresje terecht. Maria Eenkhoorn heeft in de Diezerstraat in Zwolle een pop-upstore geopend.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/nieuwe-pop-upstore-in-hartje-zwolle-bij-succes-blijven-we~aa399c456/",
+     "bron": "de Stentor",
+     "tijd": "07:30",
+     "sorteer": "2026-11-24T06:30:00+00:00"
+    },
+    {
+     "titel": "Raad Zwolle onderzoekt of actie tegen overlast van straatpredikers toch mogelijk is",
+     "context": "Straatpredikers zorgen in Zwolle steeds vaker voor overlast. En daartegen kan de gemeente weinig doen. Toch wil de gemeenteraad nu onderzoeken of er meer mogelijk is. De lokale politici gaan in gesprek met onder meer politie en Openbaar Ministerie.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/raad-zwolle-onderzoekt-of-actie-tegen-overlast-van-straatpredikers-toch-mogelijk-is~aa6d1a54/",
+     "bron": "de Stentor",
+     "tijd": "07:00",
+     "sorteer": "2026-11-24T06:00:00+00:00"
+    },
     {
      "titel": "Hij stak auto’s in brand tijdens Zwolse drugsoorlog, toch krijgt hij geen dag cel: dit is waarom",
      "context": "„De crimefighter in mij schreeuwt keihard nee, maar ik vraag u om 15 maanden geheel voorwaardelijk.” De officier van justitie krijgt het amper uit zijn mond. Toch is dat precies de straf die een 23-jarige man nu krijgt voor zijn rol in de Zwolse drugsoorlog.",
@@ -222,31 +240,29 @@
      "sorteer": "2026-11-23T19:00:00+00:00"
     },
     {
-     "titel": "Debbie (43) zag in Holtenbroek wat armoede met gezinnen doet, nu strijdt ze in Den Haag",
-     "context": "In de Zwolse wijk Holtenbroek ziet ze van dichtbij hoe zwaar rondkomen kan zijn. Thuis was dat vroeger niet anders. Als raadslid regelde ze een vuurwerkverbod, nu gaat Debbie Mathijsen (43) naar de Tweede Kamer. „In Zwolle loop je soms tegen grenzen aan.”",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/debbie-43-zag-in-holtenbroek-wat-armoede-met-gezinnen-doet-nu-strijdt-ze-in-den-haag~ac950c5f/",
-     "bron": "de Stentor",
-     "tijd": "19:00",
-     "sorteer": "2026-11-23T18:00:23+00:00"
+     "titel": "Carolus Clusius College in Zwolle doet mee aan actie Orange the World",
+     "context": "Het Carolus Clusius College (CCC) in Zwolle kleurt vanaf woensdag oranje voor de internationale campagne Orange the World. De school doet mee aan de actie ... Lees meer",
+     "rubrieken": [
+      "Algemeen"
+     ],
+     "link": "https://1zwolle.nl/nieuws/217155/carolus-clusius-college-in-zwolle-doet-mee-aan-actie-orange-the-world.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "11:44",
+     "sorteer": "2026-11-24T10:44:11+00:00"
     },
     {
-     "titel": "Het zou wel passen met parkeren, maar dan wijst iemand op een fout in de telling",
-     "context": "Dalfsen wacht met smart op 39 nieuwe seniorenappartementen in het oude Rosengaerde. De plannen leken zonder moeite door de gemeenteraad te gaan. Leken. De verbouwing schiet al behoorlijk op, maar één punt leidt nog steeds tot zorgen: waar moet je straks parkeren?",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/dalfsen/het-zou-wel-passen-met-parkeren-maar-dan-wijst-iemand-op-een-fout-in-de-telling~a75f59143/",
-     "bron": "de Stentor",
-     "tijd": "17:00",
-     "sorteer": "2026-11-23T16:00:06+00:00"
-    },
-    {
-     "titel": "Bagels & Beans gaat verbouwen en geeft hele dag gratis koffie (of cappuccino) weg",
-     "context": "Een gratis bakkie pleur (oké, of een cappuccino). Bagels & Beans in hartje Zwolle geeft het binnenkort gratis weg omdat ze de hele zaak gaan verbouwen.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/bagels-en-beans-gaat-verbouwen-en-geeft-hele-dag-gratis-koffie-of-cappuccino-weg~aab3d432/",
-     "bron": "de Stentor",
-     "tijd": "14:30",
-     "sorteer": "2026-11-23T13:30:19+00:00"
+     "titel": "Zwolse theaters zoekt kinderen voor jury van Wondersteboven Festival",
+     "context": "Zwolse theaters zoekt kinderen die tijdens het Wondersteboven Festival deel willen uitmaken van een kinderjury. De jonge juryleden mogen voorstellingen bekijken en beoordelen. Het festival ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "Kinderjury",
+      "Wondersteboven Festival",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/217132/zwolse-theaters-zoekt-kinderen-voor-jury-van-wondersteboven-festival.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "09:05",
+     "sorteer": "2026-11-24T08:05:00+00:00"
     },
     {
      "titel": "Jonge dame gewond na botsing met fatbike",
@@ -271,38 +287,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "22:28",
      "sorteer": "2026-11-23T21:28:33+00:00"
-    },
-    {
-     "titel": "Kerkdeuren dicht, toekomst onzeker: gezin Babayants naar Ter Apel",
-     "context": "Het gezin Babayants, dat na twee jaar het kerkasiel in Kampen heeft verlaten, gaat binnen enkele dagen naar Ter Apel. De familie verblijft momenteel op ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "gezin Babayants",
-      "Kampen",
-      "kerkasiel",
-      "Ter Apel"
-     ],
-     "link": "https://1zwolle.nl/nieuws/217102/kerkdeuren-dicht-toekomst-onzeker-gezin-babayants-naar-ter-apel.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "19:23",
-     "sorteer": "2026-11-23T18:23:00+00:00"
-    },
-    {
-     "titel": "Verdachte van webwinkeloplichting maakte 47.000 euro buit: politie zoekt gedupeerden",
-     "context": "De politie Oost-Nederland zoekt contact met slachtoffers van meerdere nep-webshops die meubels en kleding aanboden. Een 29-jarige man uit Meppel wordt ervan verdacht met de ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Hattem",
-      "Kampen",
-      "Politie",
-      "webwinkeloplichting",
-      "Zwartewaterland",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/217079/verdachte-van-webwinkeloplichting-maakte-47-000-euro-buit-politie-zoekt-gedupeerden.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "16:21",
-     "sorteer": "2026-11-23T15:21:33+00:00"
     }
    ]
   },
@@ -383,7 +367,7 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "07:00",
+    "bijgewerkt": "12:30",
     "uitslagen": [
      {
       "thuis": "FC Twente",
@@ -630,14 +614,6 @@
      "sorteer": "2026-11-24T05:45:00+00:00"
     },
     {
-     "titel": "Biodiversiteit in het Maasheggenlandschap: 'Een heg is veel meer dan een afscheiding'",
-     "toelichting": "Piet Hopman voelt zich enorm verbonden met de Maasheggen. De kleine percelen, omzoomd door eeuwenoude heggen, kent hij al sinds zijn jeugd. Tegenwoordig zet hij zich als bestuurslid van Collectief Deltaplan Landschap in ",
-     "bron": "Nature Today",
-     "tijd": "12:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36091",
-     "sorteer": "2026-11-23T11:00:00+00:00"
-    },
-    {
      "titel": "Nieuw boek 'Bescherming van biodiversiteit in de praktijk' laat zien: natuurherstel werkt!",
      "toelichting": "'Het gaat niet goed met de natuur' en 'De insecten gaan sterk achteruit': de berichten over de natuur en biodiversiteit in Nederland zijn somber. Toch is het niet alleen kommer en kwel. In het recent gepresenteerde boek ",
      "bron": "Nature Today",
@@ -646,18 +622,26 @@
      "sorteer": "2026-11-24T06:00:00+00:00"
     },
     {
+     "titel": "Wat zwammen vertellen over een boom",
+     "toelichting": "Een beuk van honderdvijftig tot tweehonderd jaar oud, aangetast door de reuzenzwam: beheerder Bram Bergman van Bosgroep Midden Nederland trof hem aan tijdens een controle op landgoed Molencaten. De boom zal uiteindelijk ",
+     "bron": "Nature Today",
+     "tijd": "12:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36098",
+     "sorteer": "2026-11-24T11:00:00+00:00"
+    },
+    {
+     "titel": "Starship thuis, lanceer je naam naar Titan en nog veel meer: ruimtevaart in vogelvlucht",
+     "toelichting": "SpaceX ving zijn Starship terug op de lanceerbasis, terwijl Voyager 1 de grens van één lichtdag passeerde. Daartussen: Chinese lanceringen, Hera’s 3D-asteroïde en een milieucontroverse in Mexico. De afgelopen week liet d",
+     "bron": "Scientias",
+     "tijd": "10:00",
+     "link": "https://scientias.nl/ruimtevaartupdate-24-11-2026/"
+    },
+    {
      "titel": "Tabaksplant maakt de werkzame stof van een veelgebruikt kankermedicijn",
      "toelichting": "Paclitaxel is een van de meest gebruikte chemotherapiemiddelen ter wereld, oorspronkelijk komt het uit de schors van de taxus. Maar hoe die boom de stof nou precies maakt was nooit helemaal duidelijk. Een internationaal ",
      "bron": "Scientias",
      "tijd": "17:02",
      "link": "https://scientias.nl/tabaksplant-maakt-de-werkzame-stof-van-een-veelgebruikt-kankermedicijn/"
-    },
-    {
-     "titel": "Bij het diepste punt van de oceaan vond een robot ook de diepste vulkaanexplosie ooit",
-     "toelichting": "De Challenger Deep in de Grote Oceaan is met bijna 11 kilometer al het diepste punt van de oceaanbodem. Daar komt nu een tweede record bij. Op de wand boven de trog vond een duikrobot gesteente van vulkaanexplosies op ru",
-     "bron": "Scientias",
-     "tijd": "09:00",
-     "link": "https://scientias.nl/bij-het-diepste-punt-van-de-oceaan-vond-een-robot-ook-de-diepste-vulkaanexplosie-ooit/"
     }
    ]
   },
@@ -667,19 +651,19 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": -3.0,
-    "gevoel": -5.4,
-    "wind": "ZZO 1",
+    "nu": -0.8,
+    "gevoel": -3.7,
+    "wind": "ZO 2",
     "station": "Heino",
-    "bericht": "Vandaag begint de dag met vorst en in het noordoosten, zuiden en zuidoosten met mist(banken). Verder schijnt de zon uitbundig en blijft het vrijwel overal droog. Morgen volop zon, maar door de oostenwind voelt het schraal aan!Vanochtend is het in het zuiden en zuidoosten plaatselijk mistig, waarbij de mist ook kan aanvriezen.",
-    "vandaag": "Vandaag begint de dag met vorst en in het noordoosten, zuiden en zuidoosten met mist(banken). Vanmiddag is het zonovergoten, met een middagtemperatuur van een graad of 4.",
-    "temperatuur": "De afgelopen nacht en vroege ochtend is het tot matige vorst gekomen, met voorlopig de laagste temperatuur in Woensdrecht, waar het kwik daalde naar -6,8 graden.",
+    "bericht": "Vandaag nog relatief weinig wind, en op steeds meer plaatsen volop zonneschijn! Morgen wordt gevoelig kouder, want er steekt een schrale oostenwind op!Vanmiddag is het zonovergoten, met temperaturen van 2 of 3 graden. De wind komt uit het zuidoosten en is matig van kracht. Op de Wadden steekt al een vrij krachtige wind op (windkracht 5), dat maakt het daar gevoelsmatig kouder.Vanavond is het helder en koud.",
+    "vandaag": "Vanavond is het helder en koud. Vannacht blijvend helder en koud.",
+    "temperatuur": "Vandaag nog relatief weinig wind, en op steeds meer plaatsen volop zonneschijn! Morgen wordt gevoelig kouder, want er steekt een schrale oostenwind op!Vanmiddag is het zonovergoten, met temperaturen van 2 of 3 graden.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: -2 tot 3 graden, droog, ruim 6 uur zon, wind uit het zuidoosten, kracht 3.",
+     "zin": "Voor Zwolle zelf: -4 tot 3 graden, droog, ruim 6 uur zon, wind uit het zuidoosten, kracht 3.",
      "max": 3,
-     "min": -2,
+     "min": -4,
      "regenkans": 5,
-     "omschrijving": "bewolkt"
+     "omschrijving": "mistig"
     },
     "vooruit": "Perioden met zon en droog. Koud met in de nacht en ochtend overwegend lichte vorst, overdag enkele graden boven nul. Vanaf zondag minder koud en mogelijk wat regen.",
     "omslag": "Nachtvorst in aantocht: morgen tot -2 graden.",
@@ -698,10 +682,10 @@
   }
  ],
  "status": {
-  "ronde": "Ochtendbriefing",
-  "opgehaald": "07:00",
-  "blokken": 7,
-  "berichten": 37,
+  "ronde": "Middagbriefing",
+  "opgehaald": "12:30",
+  "blokken": 8,
+  "berichten": 36,
   "problemen": []
  }
 }
