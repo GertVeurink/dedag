@@ -1,6 +1,6 @@
 {
- "naam": "Avondbriefing",
- "datum": "2026-11-23",
+ "naam": "Ochtendbriefing",
+ "datum": "2026-11-24",
  "blokken": [
   {
    "id": "duiding",
@@ -9,42 +9,42 @@
    "items": [],
    "duiding": [
     {
-     "titel": "Staking raakt bus naar Zwolle",
-     "tekst": "De landelijke staking in het streekvervoer raakt Zwolle direct. De NOS noemt bus 304 van Apeldoorn via Heerde naar Zwolle als voorbeeld van een lijn waar ritten kunnen uitvallen. FNV en CNV staken vandaag en morgen omdat de onderhandelingen over de cao vastzitten. Volgens de Stentor leggen zowel chauffeurs als machinisten het werk neer.",
+     "titel": "Erasmus MC onder vuur",
+     "tekst": "Trouw meldt dat de inspectie ingrijpt bij het Erasmus MC vanwege een 'kwetsbare' werkcultuur. De Volkskrant meldt dat Diederik Gommers per direct stopt als afdelingshoofd, na een kritisch rapport over de werkcultuur op de ic. Het zijn twee kanten van dezelfde zaak.",
      "verwijzingen": [
       {
-       "titel": "Minder bussen en treinen: week begint met staking streekvervoer",
-       "link": "https://nos.nl/l/2640660",
-       "bron": "NOS",
-       "tijd": "04:00"
+       "titel": "Diederik Gommers stapt per direct op als afdelingshoofd na kritisch rapport over werkcultuur op ic Erasmus MC",
+       "link": "https://www.volkskrant.nl/binnenland/diederik-gommers-stapt-per-direct-op-als-afdelingshoofd-na-kritisch-rapport-over-werkcultuur-op-ic-erasmus-mc~b0f6d1be/",
+       "bron": "de Volkskrant",
+       "tijd": "19:13"
       },
       {
-       "titel": "Grote hinder in het streekvervoer: buschauffeurs en machinisten staken twee dagen lang",
-       "link": "https://www.destentor.nl/binnenland/grote-hinder-in-het-streekvervoer-buschauffeurs-en-machinisten-staken-twee-dagen-lang~a5e0a5ad/",
-       "bron": "de Stentor",
-       "tijd": "02:48"
+       "titel": "Inspectie grijpt in bij Erasmus MC vanwege ‘kwetsbare’ werkcultuur, Diederik Gommers vertrekt",
+       "link": "https://www.trouw.nl/binnenland/inspectie-grijpt-in-bij-erasmus-mc-vanwege-kwetsbare-werkcultuur-diederik-gommers-vertrekt~b90f83b2/",
+       "bron": "Trouw",
+       "tijd": "20:07"
       }
      ],
-     "geschreven": "07:26"
+     "geschreven": "07:00"
     },
     {
-     "titel": "Dodentallen staan nog niet vast",
-     "tekst": "In Indonesië en bij Kyiv is het aantal doden gestegen, maar op beide plekken staat het getal nog niet vast. In Indonesië komt de 24 van een adviseur van president Prabowo. Hulpdiensten konden eerder niet bevestigen dat 24 lijkzakken ook 24 doden betekenden. In Dymer bij Kyiv wordt nog onder het puin gezocht.",
+     "titel": "Rusland, Polen en Hengelo",
+     "tekst": "Volgens de Poolse aanklager liggen in Oost-Polen de resten van drie Russische kruisraketten, en de NAVO stuurt een radarvliegtuig. Tegelijk vraagt de Russische ambassade in Den Haag om opheldering. Het gaat om mogelijke betrokkenheid van personeel van het Hengelose defensiebedrijf Destinus bij aanslagen in Rusland.",
      "verwijzingen": [
       {
-       "titel": "'Dodental brand fabriek Indonesië stijgt naar 24'",
-       "link": "https://nos.nl/l/2640661",
+       "titel": "NAVO stuurt radarvliegtuig naar Polen na vondst van resten Russische raketten",
+       "link": "https://nos.nl/l/2640773",
        "bron": "NOS",
-       "tijd": "05:17"
+       "tijd": "22:19"
       },
       {
-       "titel": "Dodental Russische aanval op woongebouw bij Kyiv opgelopen tot 11",
-       "link": "https://nos.nl/l/2640658",
+       "titel": "Russische ambassade in Den Haag vraagt om opheldering betrokkenheid Destinus-personeel",
+       "link": "https://nos.nl/l/2640770",
        "bron": "NOS",
-       "tijd": "01:20"
+       "tijd": "21:43"
       }
      ],
-     "geschreven": "07:26"
+     "geschreven": "07:00"
     }
    ],
    "aantal": 2
@@ -55,76 +55,67 @@
    "emoji": "🌍",
    "items": [
     {
-     "titel": "'Gettowet' over gedwongen verhuizing is niet discriminerend, oordeelt hoogste Deense rechter",
-     "context": "De Deense \"gettowet\" is niet discriminerend, zo heeft de Deense Hoge Raad bepaald. De Deense regering voerde de omstreden wet acht jaar geleden in om een einde te maken aan migrantenwijken met hoge criminaliteitscijfers en werkloosheid. De wet treft duizenden bewoners van sociale huurflats. Een deel van die bewoners werd gedwongen te verhuizen, waarna de flats werden gesloopt om plaats te maken vo",
+     "titel": "Gisèle Pelicot onderneemt stappen tegen uitgeverij die naaktfoto's verspreidde",
+     "context": "De Franse vrouw Gisèle Pelicot gaat actie ondernemen tegen een uitgeverij die zonder haar toestemming naar meerdere media naaktfoto's en videobeelden stuurde die door haar ex-man waren gemaakt. De kleine uitgeverij Éditions Tinbad bracht in beperkte oplage een boek van psychoanalyticus Sabine Prokhoris uit waarin één deel is gewijd aan de zaak-Pelicot. In haar essay, dat deel uitmaakt van het boek",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640725",
+     "link": "https://nos.nl/l/2640782",
      "bron": "NOS",
-     "tijd": "16:16",
-     "sorteer": "2026-11-23T16:16:58+01:00"
+     "tijd": "03:26",
+     "sorteer": "2026-11-24T03:26:35+01:00"
     },
     {
-     "titel": "Zoekactie naar loslopende leeuwin in Istanbul: autoriteiten zetten warmtecamera's in",
-     "context": "In Istanbul wordt met man en macht geprobeerd een loslopende leeuwin te vangen. Het roofdier zou zich bevinden in een bosgebied net ten noorden van de stad. De Turkse politie kamt dat gebied momenteel uit en wil het dier graag levend vangen. Volgens Turkse media had een inwoner van de wijk Uskumruköy, in het district Sariyer in het noorden van Istanbul, de leeuwin zien rondlopen en direct de polit",
+     "titel": "Onderzoeksteam zoekt via Opsporing Verzocht getuigen van massamoord Suriname in 1986",
+     "context": "In het opsporingsprogramma Opsporing Verzocht is gisteravond aandacht besteed aan de massamoord in 1986 in het Surinaamse dorpje Moiwana. Het Nederlandse Team Internationale Misdrijven (TIM) roept getuigen op om zich te melden. Militairen richtten in het dorpje een bloedbad aan: 39 onschuldige burgers werden doodgeschoten, voornamelijk vrouwen, maar ook kinderen (onder wie baby's) en ouderen. De m",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640722",
+     "link": "https://nos.nl/l/2640781",
      "bron": "NOS",
-     "tijd": "16:06",
-     "sorteer": "2026-11-23T16:06:53+01:00"
+     "tijd": "02:26",
+     "sorteer": "2026-11-24T02:26:10+01:00"
     },
     {
-     "titel": "Camera's met gezichtsherkenning in Hongkong: 'Ernstige bedreiging voor de vrijheid'",
-     "context": "Een bewakingscamera op iedere hoek van een straat: in de rest van China was dat al langer normaal, maar ook de speciale regio Hongkong hangt steeds meer vol met bewakingscamera's. En sinds vorige week zijn ze ook daar uitgerust met een AI-systeem dat gezichten kan herkennen. Toen het Verenigd Koninkrijk Hongkong in 1997 overdroeg aan China, beloofde China dat de stadsregio zijn eigen democratische",
+     "titel": "NAVO stuurt radarvliegtuig naar Polen na vondst van resten Russische raketten",
+     "context": "De NAVO stuurt een speciaal radarvliegtuig naar Polen vanwege de Russische schendingen van het Poolse luchtruim vorige week . Volgens de Poolse openbaar aanklager zijn in het oosten van het land de resten gevonden van drie Russische kruisraketten, die daar vrijdag terecht zouden zijn gekomen. \"Dit was een gevaarlijk incident en Rusland draagt de volledige verantwoordelijkheid\", zegt een NAVO-woord",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640721",
+     "link": "https://nos.nl/l/2640773",
      "bron": "NOS",
-     "tijd": "16:01",
-     "sorteer": "2026-11-23T16:01:40+01:00"
+     "tijd": "22:19",
+     "sorteer": "2026-11-23T22:19:58+01:00"
     },
     {
-     "titel": "Premier België stelt deadline: vóór 2027 geen begroting is einde regering",
-     "context": "De Belgische premier De Wever zegt de stekker uit zijn regering te zullen trekken als er voor het einde van het jaar geen nieuwe begroting ligt. De Wever kreeg vandaag van koning Filip opnieuw uitstel om het eens te worden met zijn coalitiepartners. Nadat de koning hem nog zeker een week de tijd had gegeven, zei De Wever dat er voor het begin van 2027 overeenstemming moet zijn, want anders \"kan de",
+     "titel": "Drie gewonden onder wie een baby bij droneaanval op Colombiaanse politiebasis",
+     "context": "Drones met daarop explosieven hebben een politiebasis in de stad Cúcuta in het noorden van Colombia geraakt. Drie mensen, onder wie een baby, liepen bij de aanval verwondingen op. Zestig woningen raakten beschadigd. Het is onduidelijk wie er achter de aanval zit. In het gebied nabij de grens met Venezuela, waar de stad ligt, strijden verschillende gewapende groepen tegen elkaar. Vermoed wordt dat ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640698",
+     "link": "https://nos.nl/l/2640772",
      "bron": "NOS",
-     "tijd": "12:57",
-     "sorteer": "2026-11-23T12:57:18+01:00"
+     "tijd": "22:13",
+     "sorteer": "2026-11-23T22:13:34+01:00"
     },
     {
-     "titel": "Bommelding bij honderden Duitse scholen, ook meldingen in Denemarken",
-     "context": "In Duitsland zijn zo'n 900 scholen opgeschrikt door bommeldingen. In Denemarken bevestigt de politie dat honderden scholen, ziekenhuizen en gevangenissen bommeldingen hebben ontvangen. De Duitse scholen, verspreid over het hele land en zowel basisscholen als scholen voor voortgezet onderwijs, ontvingen de melding per e-mail. Alle berichten zouden hetzelfde onderwerp hebben gehad: \"De dood wacht op",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640696",
-     "bron": "NOS",
-     "tijd": "12:24",
-     "sorteer": "2026-11-23T12:24:16+01:00"
-    },
-    {
-     "titel": "Onveiligheid Straat van Hormuz neemt weer toe: in november al 25 schepen aangevallen",
+     "titel": "Trump dringt aan op versnelde uitvoering van de doodstraf, ondanks mislukte executies",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/onveiligheid-straat-van-hormuz-neemt-weer-toe-in-november-al-25-schepen-aangevallen~bd79a37f/",
+     "link": "https://www.volkskrant.nl/buitenland/liveblog-politiek-vs-trump-amerika~be80fb9e/",
      "bron": "de Volkskrant",
-     "tijd": "17:04",
-     "sorteer": "2026-11-23T16:04:11+00:00"
+     "tijd": "05:30",
+     "sorteer": "2026-11-24T04:30:00+00:00"
     },
     {
-     "titel": "‘Het luchtalarm klonk als een gewond dier dat in een verlaten bos om hulp riep’",
+     "titel": "Nvidia-topman Jensen Huang heeft een beschermengel in het Witte Huis",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/buitenland/het-luchtalarm-klonk-als-een-gewond-dier-dat-in-een-verlaten-bos-om-hulp-riep~b8788814/",
+     "link": "https://www.volkskrant.nl/buitenland/nvidia-topman-jensen-huang-heeft-een-beschermengel-in-het-witte-huis~b285380a/",
      "bron": "de Volkskrant",
-     "tijd": "16:56",
-     "sorteer": "2026-11-23T15:56:00+00:00"
+     "tijd": "03:50",
+     "sorteer": "2026-11-24T02:50:00+00:00"
     },
     {
-     "titel": "Oekraïne heeft Russische schepen bij Libië aangevallen. Breidt de oorlog zich uit?",
+     "titel": "Voornaamste adviseur Trump over cyberveiligheid vertrekt na reeks incidenten",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/buitenland/oekraine-heeft-russische-schepen-bij-libie-aangevallen-breidt-de-oorlog-zich-uit~bc5ecf57/",
+     "link": "https://www.trouw.nl/buitenland/live-vs-trump-dringt-aan-op-versnelde-uitvoering-van-de-doodstraf-ondanks-mislukte-executies~bbc0cf3d/",
      "bron": "Trouw",
-     "tijd": "16:17",
-     "sorteer": "2026-11-23T15:17:00+00:00"
+     "tijd": "05:32",
+     "sorteer": "2026-11-24T04:32:00+00:00"
     }
    ]
   },
@@ -134,85 +125,76 @@
    "emoji": "🇳🇱",
    "items": [
     {
-     "titel": "Inspectie grijpt in bij ic Erasmus MC vanwege mogelijke risico's voor patiënten, Gommers stopt als afdelingshoofd",
-     "context": "Op de intensive care van het Erasmus Medisch Centrum in Rotterdam is sprake van een situatie \"die een ernstige bedreiging voor de veiligheid van patiënten of de zorg kan betekenen\". Dat concludeert de Inspectie Gezondheidszorg en Jeugd (IGJ) in een onderzoek naar de werkcultuur op de grootste ic van Nederland, die onder leiding staat van Diederik Gommers. Het rapport is in handen van NOS/Nieuwsuur",
+     "titel": "Nederlandse delegatie praat in India ook over terugkeer andere kinderen",
+     "context": "Een Nederlandse delegatie hoopt deze week in India niet alleen vooruitgang te boeken bij de terugkeer van de ontvoerde Insiya, maar ook bij die van andere kinderen. Dat bevestigt het Nederlandse ministerie van Buitenlandse Zaken aan Nieuwsuur. Volgens het ministerie zijn er meerdere verzoeken ingediend om kinderen vanuit India naar Nederland terug te halen. Om hoeveel kinderen het gaat en of het i",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640739",
+     "link": "https://nos.nl/l/2640780",
      "bron": "NOS",
-     "tijd": "17:51",
-     "sorteer": "2026-11-23T17:51:32+01:00"
+     "tijd": "23:49",
+     "sorteer": "2026-11-23T23:49:49+01:00"
     },
     {
-     "titel": "Podcast De Dag: op het Forum-partijcongres",
-     "context": "Het partijcongres van Forum voor Democratie viel dit weekend midden in een week van pijnlijke onthullingen. Het tv-programma Zembla infiltreerde in neonazistische kringen en zag daar Forum-leden rondlopen, Nieuwsuur toonde aan dat de partij het vaakst extreemrechtse taal gebruikt in de Tweede Kamer en de Volkskrant schreef over gemeenteraadsleden die nazi-gedachtengoed op social media liken. Deze ",
+     "titel": "Russische ambassade in Den Haag vraagt om opheldering betrokkenheid Destinus-personeel",
+     "context": "De Russische ambassade in Den Haag heeft officieel verhaal gehaald bij het ministerie van Buitenlandse Zaken over het in Nederland gevestigde defensiebedrijf Destinus. De ambassade heeft om opheldering gevraagd over \"de mogelijke betrokkenheid van personeel van het in Hengelo gevestigde bedrijf Destinus bij de aanslagen op de Russische Federatie\", laat de ambassade weten op X. Vorige week kwam de ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640736",
+     "link": "https://nos.nl/l/2640770",
      "bron": "NOS",
-     "tijd": "17:35",
-     "sorteer": "2026-11-23T17:35:28+01:00"
+     "tijd": "21:43",
+     "sorteer": "2026-11-23T21:43:53+01:00"
     },
     {
-     "titel": "ACM: effect algoritmes aan de benzinepomp is beperkt",
-     "context": "Het gebruik van algoritmes door pomphouders leidt niet tot onnodig hoge benzineprijzen, meldt de Autoriteit Consument & Markt (ACM) na onderzoek . Het merendeel van de tankhouders in Nederland maakt gebruik van prijssoftware om benzineprijzen te bepalen, maar de invloed hiervan op wat de automobilist uiteindelijk betaalt, is beperkt. Volgens de toezichthouder wordt in Nederland gebruik gemaakt van",
+     "titel": "Mislukte klimaattop maakt milieustudenten juist strijdbaar: 'Motivatie om door te gaan'",
+     "context": "Docent milieurecht Esther de Jong heeft haar les gisteravond helemaal omgegooid, vertelt ze de dag na de mislukte klimaattop . Voor de meeste mensen werkt zoiets demotiverend, maar dat geldt niet voor haar studenten, vertellen ze. \"Het vlammende betoog dat de Panamese milieuminister eerder tijdens de top hield, greep me enorm aan\", zegt de hbo-docent. De minister sprak over de negatieve gevolgen v",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640726",
+     "link": "https://nos.nl/l/2640769",
      "bron": "NOS",
-     "tijd": "16:21",
-     "sorteer": "2026-11-23T16:21:09+01:00"
+     "tijd": "21:37",
+     "sorteer": "2026-11-23T21:37:21+01:00"
     },
     {
-     "titel": "Grote vertraging op de weg rondom Utrecht, 'stel je reis tot na de spits uit'",
-     "context": "Weggebruikers die van plan zijn tijdens de avondspits de weg op te gaan in de regio Utrecht kunnen daar beter mee wachten, adviseert Rijkswaterstaat. Op de A27 richting Gorinchem is de vertraging inmiddels ruim 100 minuten. Die vertraging loopt naar verwachting verder op. Op de Hagesteinsebrug wordt tot 18.00 uur slib van het wegdek gehaald. Hoe het slib op het wegdek terecht is gekomen, is niet d",
+     "titel": "Kabinet wil wolven afschieten, maar experts kritisch: 'Onderbouwing ontbreekt'",
+     "context": "Het afschieten van de wolf in Nederland wordt mogelijk, zegt staatssecretaris Silvio Erkens (VVD) van Landbouw, Visserij, Voedselzekerheid en Natuur vandaag in een brief aan de Tweede Kamer. Tot dat principebesluit komt hij op basis van Italiaans onderzoek naar de Nederlandse wolvenpopulatie. Deskundigen verbazen zich over de plannen van Erkens en zijn kritisch op de studie, die de Italiaanse onde",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640724",
+     "link": "https://nos.nl/l/2640767",
      "bron": "NOS",
-     "tijd": "16:16",
-     "sorteer": "2026-11-23T16:16:31+01:00"
+     "tijd": "21:09",
+     "sorteer": "2026-11-23T21:09:36+01:00"
     },
     {
-     "titel": "23/11 in Nieuwsuur: Ontvoerde Insiya nog steeds in India • Vrees voor kernwapens in de ruimte • Superrijken verwachten einde wereld",
-     "context": "Stappen om ontvoerde Insiya terug te krijgen Nederland voert de inspanningen op om het tien jaar geleden naar India ontvoerde meisje Insiya terug te krijgen. Een delegatie van het ministerie van Buitenlandse Zaken en Justitie en Veiligheid is in India voor gesprekken. Minister Tom Berendsen (Buitenlandse Zaken) heeft er gesproken met zijn ambtgenoot. Insiya werd in september 2016 op 2-jarige leeft",
+     "titel": "Honden lijken misschien op hun baasje, maar ze passen er niet altijd bij",
+     "context": "Het wordt vaak gezegd: honden lijken op hun baasjes, maar vaak blijken die honden helemaal niet bij die baasjes te passen, met alle gevolgen van dien. Vandaag begint daarom een campagne om mensen bewuster te laten kiezen voor een bepaald hondenras. Uit onderzoek is gebleken dat veel Nederlanders een hond nemen die niet goed bij hun situatie past. Zo belanden honden die veel ruimte nodig hebben op ",
      "rubrieken": [],
-     "link": "https://nos.nl/l/2640708",
-     "bron": "NOS",
-     "tijd": "13:58",
-     "sorteer": "2026-11-23T13:58:31+01:00"
-    },
-    {
-     "titel": "Nederland stuurt delegatie naar India om ontvoerde Insiya terug te krijgen",
-     "context": "Nederland gaat de inspanningen opvoeren om het tien jaar geleden ontvoerde meisje Insiya terug te krijgen. Deze week gaat een delegatie van het ministerie van Buitenlandse Zaken en Justitie en Veiligheid naar India voor gesprekken. Dat zegt minister Berendsen (Buitenlandse Zaken) tegen de NOS. Hij is op werkbezoek in India en heeft gesproken met zijn ambtgenoot Jaishankar. \"Het is voor India duide",
-     "rubrieken": [],
-     "link": "https://nos.nl/l/2640677",
+     "link": "https://nos.nl/l/2640786",
      "bron": "NOS politiek",
-     "tijd": "09:15",
-     "sorteer": "2026-11-23T09:15:26+01:00"
+     "tijd": "06:26",
+     "sorteer": "2026-11-24T06:26:44+01:00"
     },
     {
-     "titel": "Lichtpuntje in onderwijs: rekenvaardigheden vmbo’ers verbeterd",
+     "titel": "Diederik Gommers stapt per direct op als afdelingshoofd na kritisch rapport over werkcultuur op ic Erasmus MC",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/lichtpuntje-in-onderwijs-rekenvaardigheden-vmbo-ers-verbeterd~b5f363bb/",
+     "link": "https://www.volkskrant.nl/binnenland/diederik-gommers-stapt-per-direct-op-als-afdelingshoofd-na-kritisch-rapport-over-werkcultuur-op-ic-erasmus-mc~b0f6d1be/",
      "bron": "de Volkskrant",
-     "tijd": "17:47",
-     "sorteer": "2026-11-23T16:47:27+00:00"
+     "tijd": "19:13",
+     "sorteer": "2026-11-23T18:13:00+00:00"
     },
     {
-     "titel": "Wolven afschieten? Het kabinet denkt dat het nu wél kan, maar een nieuwe juridische strijd lijkt onvermijdelijk",
+     "titel": "Voor de stakers in het streekvervoer is het menens: ‘Na drie dagen werken lig je gewoon dood in de hoek’",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.volkskrant.nl/binnenland/wolven-afschieten-het-kabinet-denkt-dat-het-nu-wel-kan-maar-een-nieuwe-juridische-strijd-lijkt-onvermijdelijk~bfe26bad/",
+     "link": "https://www.volkskrant.nl/binnenland/voor-de-stakers-in-het-streekvervoer-is-het-menens-na-drie-dagen-werken-lig-je-gewoon-dood-in-de-hoek~b26c8ff9/",
      "bron": "de Volkskrant",
-     "tijd": "17:40",
-     "sorteer": "2026-11-23T16:40:06+00:00"
+     "tijd": "19:09",
+     "sorteer": "2026-11-23T18:09:00+00:00"
     },
     {
-     "titel": "De kinderen uit frontstad Otsjakiv kunnen op de Utrechtse Heuvelrug weer even kind zijn",
+     "titel": "Inspectie grijpt in bij Erasmus MC vanwege ‘kwetsbare’ werkcultuur, Diederik Gommers vertrekt",
      "context": "",
      "rubrieken": [],
-     "link": "https://www.trouw.nl/binnenland/de-kinderen-uit-frontstad-otsjakiv-kunnen-op-de-utrechtse-heuvelrug-weer-even-kind-zijn~ba68f820/",
+     "link": "https://www.trouw.nl/binnenland/inspectie-grijpt-in-bij-erasmus-mc-vanwege-kwetsbare-werkcultuur-diederik-gommers-vertrekt~b90f83b2/",
      "bron": "Trouw",
-     "tijd": "15:01",
-     "sorteer": "2026-11-23T14:01:00+00:00"
+     "tijd": "20:07",
+     "sorteer": "2026-11-23T19:07:00+00:00"
     }
    ]
   },
@@ -221,6 +203,33 @@
    "titel": "Zwolle en omgeving",
    "emoji": "📍",
    "items": [
+    {
+     "titel": "Hij stak auto’s in brand tijdens Zwolse drugsoorlog, toch krijgt hij geen dag cel: dit is waarom",
+     "context": "„De crimefighter in mij schreeuwt keihard nee, maar ik vraag u om 15 maanden geheel voorwaardelijk.” De officier van justitie krijgt het amper uit zijn mond. Toch is dat precies de straf die een 23-jarige man nu krijgt voor zijn rol in de Zwolse drugsoorlog.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/hij-stak-autos-in-brand-tijdens-zwolse-drugsoorlog-toch-krijgt-hij-geen-dag-cel-dit-is-waarom~a85cef39/",
+     "bron": "de Stentor",
+     "tijd": "20:30",
+     "sorteer": "2026-11-23T19:30:18+00:00"
+    },
+    {
+     "titel": "Prins Pim is de nieuwe Stadsjeugdprins van Sassendonk, met Fedde als zijn adjudant",
+     "context": "Pim Nossent is zondag tijdens de zittingsmiddag van de Eipiepers in Odeon uitgeroepen tot Prins Pim. Hij is daarmee Prins van de Eipiepers, Jeugdprins van de Eileuvers en Stadsjeugdprins van Sassendonk. Fedde Molman is zijn adjudant.",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/prins-pim-is-de-nieuwe-stadsjeugdprins-van-sassendonk-met-fedde-als-zijn-adjudant~aae029ad/",
+     "bron": "de Stentor",
+     "tijd": "20:00",
+     "sorteer": "2026-11-23T19:00:00+00:00"
+    },
+    {
+     "titel": "Debbie (43) zag in Holtenbroek wat armoede met gezinnen doet, nu strijdt ze in Den Haag",
+     "context": "In de Zwolse wijk Holtenbroek ziet ze van dichtbij hoe zwaar rondkomen kan zijn. Thuis was dat vroeger niet anders. Als raadslid regelde ze een vuurwerkverbod, nu gaat Debbie Mathijsen (43) naar de Tweede Kamer. „In Zwolle loop je soms tegen grenzen aan.”",
+     "rubrieken": [],
+     "link": "https://www.destentor.nl/zwolle/debbie-43-zag-in-holtenbroek-wat-armoede-met-gezinnen-doet-nu-strijdt-ze-in-den-haag~ac950c5f/",
+     "bron": "de Stentor",
+     "tijd": "19:00",
+     "sorteer": "2026-11-23T18:00:23+00:00"
+    },
     {
      "titel": "Het zou wel passen met parkeren, maar dan wijst iemand op een fout in de telling",
      "context": "Dalfsen wacht met smart op 39 nieuwe seniorenappartementen in het oude Rosengaerde. De plannen leken zonder moeite door de gemeenteraad te gaan. Leken. De verbouwing schiet al behoorlijk op, maar één punt leidt nog steeds tot zorgen: waar moet je straks parkeren?",
@@ -240,31 +249,43 @@
      "sorteer": "2026-11-23T13:30:19+00:00"
     },
     {
-     "titel": "Heb jij Sjors of Amy gezien? Deze twee huisdieren worden in Zwolle vermist",
-     "context": "Afgelopen week raakten in Zwolle twee huisdieren vermist die we hier op een rij zetten. Wie heeft Sjors of Amy gezien?",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/heb-jij-sjors-of-amy-gezien-deze-twee-huisdieren-worden-in-zwolle-vermist~a39b1db8/",
-     "bron": "de Stentor",
-     "tijd": "13:10",
-     "sorteer": "2026-11-23T12:10:52+00:00"
+     "titel": "Jonge dame gewond na botsing met fatbike",
+     "context": "In de Kerkstraat in Zwolle zijn een jonge dame op een fiets en een bestuurder van een fatbike met elkaar in botsing gekomen. Het ongeval ... Lees meer",
+     "rubrieken": [
+      "112",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/217123/jonge-dame-gewond-na-botsing-met-fatbike.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "22:53",
+     "sorteer": "2026-11-23T21:53:08+00:00"
     },
     {
-     "titel": "Oplossingen voor ’t Kleine Veer laten op zich wachten",
-     "context": "Het pontje dat tussen Zwolle en Hattem hoort te varen, ’t Kleine Veer, vaart al sinds augustus niet meer. De gemeente Zwolle, die verantwoordelijk is voor het beheer en onderhoud van het veer, onderzoekt de mogelijkheden om het pontje weer in de vaart te krijgen.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/zwolle/oplossingen-voor-t-kleine-veer-laten-op-zich-wachten~a8f963ee/",
-     "bron": "de Stentor",
-     "tijd": "11:01",
-     "sorteer": "2026-11-23T10:01:03+00:00"
+     "titel": "Jongeman op brommer gewond bij botsing met auto",
+     "context": "Een jongeman op een schakelbrommer is vanavond gewond geraakt bij een verkeersongeval met een personenauto op de Russenweg. Door nog onbekende oorzaak kwamen beide voertuigen ... Lees meer",
+     "rubrieken": [
+      "112",
+      "Zwolle"
+     ],
+     "link": "https://1zwolle.nl/nieuws/217118/jongeman-op-brommer-gewond-bij-botsing-met-auto.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "22:28",
+     "sorteer": "2026-11-23T21:28:33+00:00"
     },
     {
-     "titel": "COA draait bij: toch 140 minderjarige vluchtelingen naar Summercamp Heino",
-     "context": "Minderjarige vluchtelingen die zonder ouders naar Nederland vluchtten, krijgen deze winter alsnog een slaapplek in Summercamp Heino. Het COA had de locatie in eerste instantie niet nodig. De eerste jongeren tussen 15 en 18 jaar komen begin december naar Heino.",
-     "rubrieken": [],
-     "link": "https://www.destentor.nl/olst-wijhe/coa-draait-bij-toch-140-minderjarige-vluchtelingen-naar-summercamp-heino~a53377ee/",
-     "bron": "de Stentor",
-     "tijd": "11:01",
-     "sorteer": "2026-11-23T10:01:01+00:00"
+     "titel": "Kerkdeuren dicht, toekomst onzeker: gezin Babayants naar Ter Apel",
+     "context": "Het gezin Babayants, dat na twee jaar het kerkasiel in Kampen heeft verlaten, gaat binnen enkele dagen naar Ter Apel. De familie verblijft momenteel op ... Lees meer",
+     "rubrieken": [
+      "Algemeen",
+      "gezin Babayants",
+      "Kampen",
+      "kerkasiel",
+      "Ter Apel"
+     ],
+     "link": "https://1zwolle.nl/nieuws/217102/kerkdeuren-dicht-toekomst-onzeker-gezin-babayants-naar-ter-apel.html",
+     "bron": "Weblog Zwolle",
+     "tijd": "19:23",
+     "sorteer": "2026-11-23T18:23:00+00:00"
     },
     {
      "titel": "Verdachte van webwinkeloplichting maakte 47.000 euro buit: politie zoekt gedupeerden",
@@ -282,51 +303,6 @@
      "bron": "Weblog Zwolle",
      "tijd": "16:21",
      "sorteer": "2026-11-23T15:21:33+00:00"
-    },
-    {
-     "titel": "Botsing tussen auto en vrachtwagen",
-     "context": "Op de Ceintuurbaan in Zwolle heeft maandagmiddag een verkeersongeval plaatsgevonden tussen een personenauto en een vrachtwagen. Daarbij zijn twee van de drie rijstroken afgesloten. Dat ... Lees meer",
-     "rubrieken": [
-      "112",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/217074/botsing-tussen-auto-en-vrachtwagen.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "14:15",
-     "sorteer": "2026-11-23T13:15:58+00:00"
-    },
-    {
-     "titel": "Zwolle doet voor het eerst mee aan Boomdeeldagen: ruim 5.000 bomen en struiken aangevraagd",
-     "context": "Zwolle krijgt er 5.279 bomen en struiken bij. Zestig inwoners hebben zich aangemeld voor de Boomdeeldagen, waaraan de gemeente dit jaar voor het eerst meedoet. ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Boomdeeldagen",
-      "Kampen",
-      "Natuur voor Elkaar",
-      "Zwartewaterland",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/216994/zwolle-doet-voor-het-eerst-mee-aan-boomdeeldagen-ruim-5-000-bomen-en-struiken-aangevraagd.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "11:01",
-     "sorteer": "2026-11-23T10:01:00+00:00"
-    },
-    {
-     "titel": "Opnieuw twee dagen staking in streekvervoer",
-     "context": "Het stads- en streekvervoer ligt maandag 23 en dinsdag 24 november opnieuw deels stil door een staking van buschauffeurs en machinisten. De vakbonden FNV en ... Lees meer",
-     "rubrieken": [
-      "Algemeen",
-      "Hattem",
-      "Kampen",
-      "OV",
-      "Staking streekvervoer",
-      "Zwartewaterland",
-      "Zwolle"
-     ],
-     "link": "https://1zwolle.nl/nieuws/217049/opnieuw-twee-dagen-staking-in-streekvervoer.html",
-     "bron": "Weblog Zwolle",
-     "tijd": "08:20",
-     "sorteer": "2026-11-23T07:20:00+00:00"
     }
    ]
   },
@@ -335,14 +311,6 @@
    "titel": "Tweede Kamer",
    "emoji": "🏛️",
    "items": [
-    {
-     "titel": "Wetgevingsoverleg OCW-begroting, onderdeel Emancipatie",
-     "bron": "Wetgevingsoverleg",
-     "kop": "Komende week",
-     "tijd": "maandag 23/11 10:00",
-     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07055",
-     "sorteer": "2026-11-23T10:00"
-    },
     {
      "titel": "Begroting Buitenlandse Handel en Ontwikkelingssamenwerking",
      "bron": "Plenair debat (wetgeving)",
@@ -398,6 +366,14 @@
      "tijd": "donderdag 26/11 13:30",
      "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2023A03420",
      "sorteer": "2026-11-26T13:30"
+    },
+    {
+     "titel": "Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband…",
+     "bron": "Wetgevingsoverleg",
+     "kop": "Komende week",
+     "tijd": "donderdag 26/11 14:30",
+     "link": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08187",
+     "sorteer": "2026-11-26T14:30"
     }
    ]
   },
@@ -407,7 +383,7 @@
    "emoji": "⚽",
    "items": [],
    "voetbal": {
-    "bijgewerkt": "18:00",
+    "bijgewerkt": "07:00",
     "uitslagen": [
      {
       "thuis": "FC Twente",
@@ -416,7 +392,7 @@
       "tijd": "12:15",
       "bezig": "",
       "pec": false,
-      "wanneer": "gisteren 12:15"
+      "wanneer": "zondag 12:15"
      },
      {
       "thuis": "Ajax",
@@ -425,7 +401,7 @@
       "tijd": "14:30",
       "bezig": "",
       "pec": false,
-      "wanneer": "gisteren 14:30"
+      "wanneer": "zondag 14:30"
      },
      {
       "thuis": "Sparta",
@@ -434,7 +410,7 @@
       "tijd": "14:30",
       "bezig": "",
       "pec": false,
-      "wanneer": "gisteren 14:30"
+      "wanneer": "zondag 14:30"
      },
      {
       "thuis": "Go Ahead Eagles",
@@ -443,7 +419,7 @@
       "tijd": "16:45",
       "bezig": "",
       "pec": false,
-      "wanneer": "gisteren 16:45"
+      "wanneer": "zondag 16:45"
      },
      {
       "thuis": "NEC",
@@ -646,20 +622,12 @@
    "emoji": "🌿",
    "items": [
     {
-     "titel": "Natuurjournaal 23 november 2026",
-     "toelichting": "Koekeloerende bruinvissen zien en sprot is schakel in de voedselketen in zee.",
+     "titel": "Natuurjournaal 24 november 2026",
+     "toelichting": "Bruine winterjuffer komt de vorst met antivries door, hazelwormen zijn ondergronds gegaan.",
      "bron": "Nature Today",
      "tijd": "06:45",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36077",
-     "sorteer": "2026-11-23T05:45:00+00:00"
-    },
-    {
-     "titel": "Nu in je tuin: agaatvlinderrupsen",
-     "toelichting": "Vorige week zat er in de tuin nog een agaatvlinder op de klimop te drinken, maar nu zit hij vast als rups ergens in de tuin. De rups overwintert en is in milde herfst- en winternachten actief en op allerlei plekken en op",
-     "bron": "Nature Today",
-     "tijd": "07:00",
-     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36090",
-     "sorteer": "2026-11-23T06:00:00+00:00"
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36093",
+     "sorteer": "2026-11-24T05:45:00+00:00"
     },
     {
      "titel": "Biodiversiteit in het Maasheggenlandschap: 'Een heg is veel meer dan een afscheiding'",
@@ -668,6 +636,14 @@
      "tijd": "12:00",
      "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36091",
      "sorteer": "2026-11-23T11:00:00+00:00"
+    },
+    {
+     "titel": "Nieuw boek 'Bescherming van biodiversiteit in de praktijk' laat zien: natuurherstel werkt!",
+     "toelichting": "'Het gaat niet goed met de natuur' en 'De insecten gaan sterk achteruit': de berichten over de natuur en biodiversiteit in Nederland zijn somber. Toch is het niet alleen kommer en kwel. In het recent gepresenteerde boek ",
+     "bron": "Nature Today",
+     "tijd": "07:00",
+     "link": "https://www.naturetoday.com/intl/nl/nature-reports/message/?msg=36099",
+     "sorteer": "2026-11-24T06:00:00+00:00"
     },
     {
      "titel": "Tabaksplant maakt de werkzame stof van een veelgebruikt kankermedicijn",
@@ -691,41 +667,41 @@
    "emoji": "🌤️",
    "items": [],
    "weer": {
-    "nu": 1.6,
-    "gevoel": -0.1,
-    "wind": "ZW 1",
+    "nu": -3.0,
+    "gevoel": -5.4,
+    "wind": "ZZO 1",
     "station": "Heino",
-    "bericht": "Het blijft deze hele week zonnig en koud winterweer. In de nachten gaat het licht tot matig vriezen, overdag is het zonnig en droog. De middagtemperaturen liggen een paar graden boven het vriespunt en dat is koud voor de laatste fase van november.",
-    "vandaag": "Vanavond is het helder, maar in het noorden zijn er wat wolkenvelden en kan er een enkele (winterse) bui voorkomen. Vannacht kan vooral in het noorden nog een enkele (winterse) bui vallen.",
-    "temperatuur": "De middagtemperaturen liggen een paar graden boven het vriespunt en dat is koud voor de laatste fase van november.",
+    "bericht": "Vandaag begint de dag met vorst en in het noordoosten, zuiden en zuidoosten met mist(banken). Verder schijnt de zon uitbundig en blijft het vrijwel overal droog. Morgen volop zon, maar door de oostenwind voelt het schraal aan!Vanochtend is het in het zuiden en zuidoosten plaatselijk mistig, waarbij de mist ook kan aanvriezen.",
+    "vandaag": "Vandaag begint de dag met vorst en in het noordoosten, zuiden en zuidoosten met mist(banken). Vanmiddag is het zonovergoten, met een middagtemperatuur van een graad of 4.",
+    "temperatuur": "De afgelopen nacht en vroege ochtend is het tot matige vorst gekomen, met voorlopig de laagste temperatuur in Woensdrecht, waar het kwik daalde naar -6,8 graden.",
     "zwolle": {
-     "zin": "Voor Zwolle zelf: -1 tot 6 graden, 14% kans op neerslag, ruim 7 uur zon, wind uit het westen, kracht 3.",
-     "max": 6,
-     "min": -1,
-     "regenkans": 14,
+     "zin": "Voor Zwolle zelf: -2 tot 3 graden, droog, ruim 6 uur zon, wind uit het zuidoosten, kracht 3.",
+     "max": 3,
+     "min": -2,
+     "regenkans": 5,
      "omschrijving": "bewolkt"
     },
-    "vooruit": "Perioden met zon en vrijwel overal droog. Vrij koud met in de nacht en ochtend overwegend lichte vorst en ook overdag steeds lagere temperaturen. In de loop van het weekeinde mogelijk wat neerslag en misschien wat zachter.",
-    "omslag": "Nachtvorst in aantocht: morgen tot -4 graden.",
-    "min": "-3",
-    "max": "5",
+    "vooruit": "Perioden met zon en droog. Koud met in de nacht en ochtend overwegend lichte vorst, overdag enkele graden boven nul. Vanaf zondag minder koud en mogelijk wat regen.",
+    "omslag": "Nachtvorst in aantocht: morgen tot -2 graden.",
+    "min": "-4",
+    "max": "3",
     "regenkans": 0,
     "zonkans": 60,
     "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
     "morgen": {
      "omschrijving": "Mix van opklaringen en middelbare of lage bewolking",
-     "min": "-4",
-     "max": "3",
+     "min": "-2",
+     "max": "2",
      "regenkans": 0
     }
    }
   }
  ],
  "status": {
-  "ronde": "Avondbriefing",
-  "opgehaald": "18:00",
-  "blokken": 8,
-  "berichten": 39,
+  "ronde": "Ochtendbriefing",
+  "opgehaald": "07:00",
+  "blokken": 7,
+  "berichten": 37,
   "problemen": []
  }
 }
